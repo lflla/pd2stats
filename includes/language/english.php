@@ -146,6 +146,9 @@ $l['knockdown'] = 'Knockdown';
 $l['chargetime'] = 'Charge Time';
 $l['range'] = 'Range';
 $l['infinite'] = '∞';
+$l['tops'] = 'Most Viewed Profiles';
+$l['totalview'] = 'Total Views';
+$l['playername'] = 'Playername';
 //DLC Names
 $l['Armored_Transport'] = 'ARMORED TRANSPORT';
 $l['Big_Bank_Heist'] = 'BIG BANK HEIST';
