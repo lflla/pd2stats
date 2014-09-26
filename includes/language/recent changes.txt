@@ -6,5 +6,3 @@ Line 44 ($l['adsblocked']) is not being used anymore. Can be removed.
 $l['tops'] = 'Most Viewed Profiles'; was added after $l['infinite'] = '∞'; line 146
 $l['totalview'] = 'Total Views'; was added after $l['infinite'] = '∞'; line 146
 $l['playername'] = 'Playername'; was added after $l['infinite'] = '∞'; line 146
-25.09.2014
-$l['bflag'] = '[Lua-Hook]'; was added after $l['sflag'] = '[Suspicious]';
