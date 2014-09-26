@@ -144,9 +144,9 @@ $l['knockdown'] = 'Нокдаун';
 $l['chargetime'] = 'Замах';
 $l['range'] = 'Дистанция';
 $l['infinite'] = '0';
-$l['tops'] = 'Most Viewed Profiles';
-$l['totalview'] = 'Total Views';
-$l['playername'] = 'Playername';
+$l['tops'] = 'Самые просматриваемые профили';
+$l['totalview'] = 'Всего просмотров';
+$l['playername'] = 'Имя игрока';
 //DLC Names
 $l['Armored_Transport'] = 'ARMORED TRANSPORT';
 $l['Big_Bank_Heist'] = 'BIG BANK HEIST';
