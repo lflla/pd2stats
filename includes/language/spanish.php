@@ -423,8 +423,8 @@ $l['welder'] = 'Carnicero';
 $l['welder-description'] = 'Legendaria máscara de Sicario.<br/><br/>La historia dice que ésta máscara era un premio para el mejor miembro de la banda de robos Pink Panther aunque nunca tuvo el valor de ponérsela. Atraería demasiado la atención.<br/><br/>Nada que te importe.';
 $l['smoker'] = 'Especialista';
 $l['smoker-description'] = 'Sólo un verdadero Técnico podría tener una máscara como ésta.<br/><br/>Con su propio sistema de filtración del aire, ésta máscara puede usarse también como máscara de químico en ese tipo de casos en los que "hay que cocinar metanfetamina".';
-$l['ghost'] = 'Espectro';
-$l['ghost-description'] = 'Ésta máscara de Fantasma parece que viene del futuro e incluso podría serlo.<br/><br/>Protección en toda la cabeza, hecha en fibra de carbono. La gente podría confundirte con un piloto profesional de Moto GP.<br/><br/>Para ellos será su último error.';
+$l['spectre'] = 'Espectro';
+$l['spectre-description'] = 'Ésta máscara de Fantasma parece que viene del futuro e incluso podría serlo.<br/><br/>Protección en toda la cabeza, hecha en fibra de carbono. La gente podría confundirte con un piloto profesional de Moto GP.<br/><br/>Para ellos será su último error.';
 //Infamous
 $l['dallas'] = 'Dallas';
 $l['dallas-description'] = 'La máscara que todo el mundo teme.';

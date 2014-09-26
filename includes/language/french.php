@@ -423,8 +423,8 @@ $l['welder'] = 'Butcher';
 $l['welder-description'] = 'A truly legendary Enforcer mask.<br/><br/>The story goes it was made for one of the premier hitters in the Pink Panther crew years back but he didn\'t have the guts to wear it. It\'d draw too much attention.<br/><br/>Not your concern.';
 $l['smoker'] = 'Specialist';
 $l['smoker-description'] = 'Only a true Technician could come up with a mask like this.<br/><br/>Featuring a state of the art air filtration system, the mask can double as a chemist\'s hood in those unlikely "must cook meth" scenarios.';
-$l['ghost'] = 'Spectre';
-$l['ghost-description'] = 'This Ghost mask look like it\'s from the future and it might as well be.<br/><br/>Full head protection, made out of carbon fibre and genetically engineered spider-silk. People might even mistake you for a high-end Moto GP rider.<br/><br/>Last mistake they\'ll make.';
+$l['spectre'] = 'Spectre';
+$l['spectre-description'] = 'This Ghost mask look like it\'s from the future and it might as well be.<br/><br/>Full head protection, made out of carbon fibre and genetically engineered spider-silk. People might even mistake you for a high-end Moto GP rider.<br/><br/>Last mistake they\'ll make.';
 //Infamous
 $l['dallas'] = 'Dallas';
 $l['dallas-description'] = 'The mask that everyone fears.';
