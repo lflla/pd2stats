@@ -41,14 +41,12 @@ $l['steamgroup'] = 'Steam Group';
 $l['feedback'] = 'Feedback';
 $l['notice'] = 'Notice';
 //Tags and Warnings
-$l['adsblocked'] = 'We\'ve detected that you\'re using an adblocking software. Please be aware that this is only contributing to the demise of the site. We need money to operate the site, and almost all of that comes from our online advertising.';
 $l['cflag'] = '[Cheater]';
 $l['cflag-warning'] = 'flags are not always correct due to some level and skill bugs that are in the game.';
 $l['pflag'] = '[Family Sharing]';
 $l['pflag-warning'] = 'tag means that the game is not owned by the player.';
 $l['hflag'] = '[Hidden]';
 $l['sflag'] = '[Suspicious]';
-$l['bflag'] = '[Lua-Hook]';
 $l['level-warning'] = 'Currently the player-level occasionally is not correct. Overkill is looking into it.';
 //Item Quality Texts
 $l['community-item'] = 'THIS IS A COMMUNITY ITEM!';

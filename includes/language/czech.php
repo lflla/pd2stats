@@ -41,7 +41,6 @@ $l['steamgroup'] = 'Skupina na Steamu';
 $l['feedback'] = 'Zpìtná vazba';
 $l['notice'] = 'Upozornìní';
 //Tags and Warnings
-$l['adsblocked'] = 'Zjistili jsme, že používáte software na blokování reklam. Tímto pomáháte k zániku této stránky. Na provoz potøebujeme peníze, a témìø všechny pochází z našich reklam.';
 $l['cflag'] = '[Cheater]';
 $l['cflag-warning'] = 'Díky nìkterých chybám hry nemusí toto oznaèení vždy být pravdivé.';
 $l['pflag'] = '[Rodinné Sdílení]';
@@ -145,6 +144,9 @@ $l['knockdown'] = 'Sražení';
 $l['chargetime'] = 'Doba natažení';
 $l['range'] = 'Dosah';
 $l['infinite'] = '0';
+$l['tops'] = 'Most Viewed Profiles';
+$l['totalview'] = 'Total Views';
+$l['playername'] = 'Playername';
 //DLC Names
 $l['Armored_Transport'] = 'ARMORED TRANSPORT';
 $l['Big_Bank_Heist'] = 'BIG BANK HEIST';

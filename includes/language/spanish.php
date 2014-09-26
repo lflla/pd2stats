@@ -41,7 +41,6 @@ $l['steamgroup'] = 'Grupo Steam';
 $l['feedback'] = 'Feedback';
 $l['notice'] = 'Importante';
 //Tags and Warnings
-$l['adsblocked'] = 'Hemos detectado el uso de un software que bloquea publicidad. Por favor, tenga en cuenta que nuestro único modo de mantener el sitio web es mediante la publicidad, necesitamos dinero para mantenerlo y todo viene de el mismo.';
 $l['cflag'] = '[Tramposo]';
 $l['cflag-warning'] = 'Esta etiqueta no siempre será fiable de acuerdo a diferentes errores, en habilidades y niveles, que están en el propio juego.';
 $l['pflag'] = '[Modo Familiar]';
@@ -145,6 +144,9 @@ $l['knockdown'] = 'Derribo';
 $l['chargetime'] = 'Tiempo de carga';
 $l['range'] = 'Rango';
 $l['infinite'] = '∞';
+$l['tops'] = 'Most Viewed Profiles';
+$l['totalview'] = 'Total Views';
+$l['playername'] = 'Playername';
 //DLC Names
 $l['Armored_Transport'] = 'TRANSPORTE ARMADO';
 $l['Big_Bank_Heist'] = 'ATRACO GRAN BANCO';

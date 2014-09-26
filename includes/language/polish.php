@@ -41,14 +41,12 @@ $l['steamgroup'] = 'Grupa Steam';
 $l['feedback'] = 'Opinie';
 $l['notice'] = 'Ogłoszenia';
 //Tags and Warnings
-$l['adsblocked'] = 'Wykryliśmy, że używasz oprogramowania blokującego reklamy. Uświadamiamy, że takie oprogramowanie może spowodować upadek strony. Potrzebujemy pieniędzy żeby utrzymać stronę, a prawie wszystkie nasze fundusze pochodzą z reklamowania Online.';
 $l['cflag'] = '[Oszust]';
 $l['cflag-warning'] = 'Oznaczenia oszusta przy nicku nie zawsze są prawidłowe, z powodu niektórych błedów Poziomów i Umiejętności, które występują w grze.';
 $l['pflag'] = '[Family Sharing]';
 $l['pflag-warning'] = 'oznacza, że gracz nie posiada gry, lecz korzysta z funkcji Family Sharing na Steamie.';
 $l['hflag'] = '[Ukryty]';
 $l['sflag'] = '[Podejrzany]';
-$l['bflag'] = '[Lua-Hook]';
 $l['level-warning'] = 'Na daną chwile poziom gracza może być okazjonalnie nie poprawny. Overkill pracuje nad tym.';
 //Item Quality Texts
 $l['community-item'] = 'TO JEST RZECZ SPOŁECZNOŚCIOWA!';

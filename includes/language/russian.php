@@ -41,7 +41,6 @@ $l['steamgroup'] = 'Группа в Steam';
 $l['feedback'] = 'Обратная связь';
 $l['notice'] = 'Информация';
 //Tags and Warnings
-$l['adsblocked'] = 'Мы обнаружили, что вы используете приложение для блокировки рекламы. Имейте ввиду что это приведет лишь к скоропостижной кончине сайта. Мы нуждаемся в деньгах чтобы поддерживать сайт на плаву, и почти все деньги на это идут с интернет-рекламы';
 $l['cflag'] = '[Читер]';
 $l['cflag-warning'] = 'индикаторы не всегда корректны ввиду наличия багов с уровнями и навыками в самой игре.';
 $l['pflag'] = '[Family Sharing]';
@@ -144,7 +143,10 @@ $l['threat'] = 'Подавление';
 $l['knockdown'] = 'Нокдаун';
 $l['chargetime'] = 'Замах';
 $l['range'] = 'Дистанция';
-$l['infinite'] = '?';
+$l['infinite'] = '0';
+$l['tops'] = 'Most Viewed Profiles';
+$l['totalview'] = 'Total Views';
+$l['playername'] = 'Playername';
 //DLC Names
 $l['Armored_Transport'] = 'ARMORED TRANSPORT';
 $l['Big_Bank_Heist'] = 'BIG BANK HEIST';

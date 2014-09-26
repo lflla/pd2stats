@@ -41,7 +41,6 @@ $l['steamgroup'] = 'Groupe Steam';
 $l['feedback'] = 'FAQ';
 $l['notice'] = 'Notifications';
 //Tags and Warnings
-$l['adsblocked'] = 'Nous avons détecté que vous utilisez un bloqueur de publicité. Soyez conscient que ceci nuit au site. Nous avons besoin d\'argent pour faire fonctionner le site, et la quasi-totalité provient justement de notre publicité en ligne.';
 $l['cflag'] = '[Cheater]';
 $l['cflag-warning'] = 'n\'est pas toujours correct en raison de quelques bugs de niveau et de compétences qui sont dans le jeu.';
 $l['pflag'] = '[Family Sharing]';
@@ -145,6 +144,9 @@ $l['knockdown'] = 'Kao';
 $l['chargetime'] = 'Temps de charge';
 $l['range'] = 'Portée';
 $l['infinite'] = '∞';
+$l['tops'] = 'Most Viewed Profiles';
+$l['totalview'] = 'Total Views';
+$l['playername'] = 'Playername';
 //DLC Names
 $l['Armored_Transport'] = 'ARMORED TRANSPORT';
 $l['Big_Bank_Heist'] = 'BIG BANK HEIST';
