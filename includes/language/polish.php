@@ -561,6 +561,7 @@ $l['transport-park'] = 'Transport Opancerzony: Park';
 $l['transport-downtown'] = 'Transport Opancerzony: Śródmieście';
 $l['transport-underpass'] = 'Transport Opancerzony: Wiadukt';
 $l['transport-crossroads'] = 'Transport Opancerzony: Skrzyżowanie';
+$l['hotline'] = 'Hotline Miami';
 //Escapes
 $l['escapeparknight'] = 'Park (Noc)';
 $l['escapeparkday'] = 'Park (Dzień)';

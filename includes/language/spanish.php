@@ -561,6 +561,7 @@ $l['transport-park'] = 'Transporte Armado: Parque';
 $l['transport-downtown'] = 'Transporte Armado: Centro';
 $l['transport-underpass'] = 'Transporte Armado: Paso Subterraneo';
 $l['transport-crossroads'] = 'Transporte Armado: Cruce';
+$l['hotline'] = 'Hotline Miami';
 //Escapes
 $l['escapeparknight'] = 'Parque (Noche)';
 $l['escapeparkday'] = 'Parque (Día)';

@@ -561,6 +561,7 @@ $l['transport-park'] = 'Armored Transport: Park';
 $l['transport-downtown'] = 'Armored Transport: Downtown';
 $l['transport-underpass'] = 'Armored Transport: Underpass';
 $l['transport-crossroads'] = 'Armored Transport: Crossroads';
+$l['hotline'] = 'Hotline Miami';
 //Escapes
 $l['escapeparknight'] = 'Park (Night)';
 $l['escapeparkday'] = 'Park (Day)';

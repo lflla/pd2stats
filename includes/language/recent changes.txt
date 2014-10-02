@@ -6,3 +6,6 @@ Line 44 ($l['adsblocked']) is not being used anymore. Can be removed.
 $l['tops'] = 'Most Viewed Profiles'; was added after $l['infinite'] = '∞'; line 146
 $l['totalview'] = 'Total Views'; was added after $l['infinite'] = '∞'; line 146
 $l['playername'] = 'Playername'; was added after $l['infinite'] = '∞'; line 146
+
+Hotline Miami DLC
+$l['hotline'] = 'Hotline Miami'; at end of heists
