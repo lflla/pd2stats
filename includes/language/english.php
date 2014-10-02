@@ -160,6 +160,7 @@ $l['Poetry_jam'] = 'POETRY JAM';
 $l['Twisted_metal'] = 'TWISTED METAL';
 $l['Halloween'] = 'HALLOWEEN';
 $l['Twitch_pack'] = 'HUMBLE MASK PACK';
+$l['hotline_miami_dlc'] = 'HOTLINE MIAMI DLC';
 ////Weapons
 ////Primary
 //Assault Rifles
