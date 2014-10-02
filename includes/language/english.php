@@ -402,6 +402,24 @@ $l['ancient'] = 'Crossbreed';
 $l['ancient-description'] = 'A powerful alien race, described by some as the most advanced beings in the universe. Different races that have come in contact with them have different names for the Crossbreed.<br/><br/>Strong, lean and intelligent, the Crossbreed takes the best from the DNA of each alien race that it meets, always making sure it evolves in the right direction.';
 $l['twitch_orc'] = 'Orc';
 $l['twitch_orc-description'] = 'Brutish, aggressive and generally repulsive, the orcs have always been a hated race. Orcs are larger stronger than their goblin cousins but smaller and less powerful than their ogre brethren.<br/><br/>This particular purple-skinned orc came from the Stonetremble clan who were known for their fierce warriors and overpowered, hybrid shamans.';
+//Hotline Miami DLC
+$l['pig'] = 'Aubrey';
+$l['pig-description'] = 'Aubrey is a real gun lover.<br/><br/>Large headed and long snouted Aubrey is a master of arms and knows nothing better than to kill using some fine weaponry.<br/><br/>Pigs have pretty small lungs though so Aubrey can\'t run that far.';
+$l['white_wolf'] = 'Dennis';
+$l['white_wolf-description'] = 'Dennis loves knives.<br/><br/>The gray wolf is one of the best known and well researched animals on the entire planet. It was the first animal and only large carnivore to be domesticated by humans.<br/><br/>Today, there\'s only one third of the population left because of human persecution.';
+$l['rabbit'] = 'Graham';
+$l['rabbit-description'] = 'Graham enjoys long walks in the sun.<br/><br/>Rabbits are small mammals that practically can be found anywhere. If confronted by a potential threat, rabbits will instantly freeze and warn others in the warren with powerful thumps on the ground.<br/><br/>When fleeing, they hop in a zig-zag pattern, much like many Counter-Strike players do.';
+$l['owl'] = 'Rasmus';
+$l['owl-description'] = 'Rasmus has an eye for secrets.<br/><br/>Owls are nocturnal birds of prey. They are known for their large eyes in comparison to their skulls. They can\'t actually move their eyes, they swivel their heads instead and are able to swivel 270 degrees. Shit you didn\'t know, amirite.<br/><br/>"I don\'t know you!" "You\'re no guest of mine!"';
+//Hotline Miami Game
+$l['panther'] = 'Brandon';
+$l['panther-description'] = 'Brandon has a thing for walking really, really fast.<br/><br/>Brandon is a panther, and panthers are large cats. One funny thing is that only the tiger, lion, leopard and jaguar has the anatomical structure which enables them to roar. Poor panther.';
+$l['horse'] = 'Don Juan';
+$l['horse-description'] = 'Don Juan loves slamming doors in.<br/><br/>Knock, knock. Who\'s there? It\'s Don Juan. Prepare yourself.<br/><br/>Pro tip: In Hotline Miami, you get 2200 points while performing ground kills against the wall when using this mask.';
+$l['rooster'] = 'Richard';
+$l['rooster-description'] = 'Richard enjoys spending time with different personas and asking questions.<br/><br/>Do you like hurting other people?<br/><br/>Who is leaving messages on your answering machine?<br/><br/>Where are you right now?<br/><br/>Why are we having this conversation?';
+$l['tiger'] = 'Tony';
+$l['tiger-description'] = 'Tony uses his fists of fury to beat the crap of anyone who messes with him.<br/><br/>Tony was born in the 1970s and was of Italian-American nationality. Many people easily recognize Tony. Probably in part because of his Tiger mask, and in part because of his physical brutality when dealing with people he don\'t like.';
 //Shadow Raid
 $l['samurai'] = 'Somen Mempo';
 $l['samurai-description'] = 'In ancient Japan, samurai warriors wore somen masks to protect themselves in war and to incite fear in their enemies. Somen masks were tied to the large kabuto helmets, making the samurai look like demons from jigoku.<br/><br/>No one knows what fierce and ruthless warrior wore this intimidating mask in the past. Now however, it is ready for battle once more.<br/><br/>"Boku no ikari wo osoreru"';
