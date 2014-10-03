@@ -144,9 +144,9 @@ $l['knockdown'] = 'Derribo';
 $l['chargetime'] = 'Tiempo de carga';
 $l['range'] = 'Rango';
 $l['infinite'] = '∞';
-$l['tops'] = 'Most Viewed Profiles';
-$l['totalview'] = 'Total Views';
-$l['playername'] = 'Playername';
+$l['tops'] = 'Perfiles Mas Visitados';
+$l['totalview'] = 'Total Visitas';
+$l['playername'] = 'Nombre del Jugador';
 //DLC Names
 $l['Armored_Transport'] = 'TRANSPORTE ARMADO';
 $l['Big_Bank_Heist'] = 'ATRACO GRAN BANCO';
@@ -160,6 +160,7 @@ $l['Poetry_jam'] = 'CONCURSO POESIA';
 $l['Twisted_metal'] = 'TWISTED METAL';
 $l['Halloween'] = 'HALLOWEEN';
 $l['Twitch_pack'] = 'HUMBLE MASCARA PACK';
+$l['hotline_miami_dlc'] = 'HOTLINE MIAMI';
 ////Weapons
 ////Primary
 //Assault Rifles
@@ -402,6 +403,24 @@ $l['ancient'] = 'Híbrido';
 $l['ancient-description'] = 'Una poderosa raza alienígena, descrita por algunos como la más avanzada del universo. Muchas razas le han dado diferentes nombres al Híbrido.<br/><br/>Fuerte, astuto e inteligente, el Híbrido coge lo mejor de cada ADN alienígena que se encuentra, evolucionando siempre en la dirección adecuada.';
 $l['twitch_orc'] = 'Orco';
 $l['twitch_orc-description'] = 'Bruto, agresivo y normalmente repulsivo, los Orcos han sido siempre la raza odiada. Los Orcos son más grandes y fuertes que sus primos los Goblins pero más débiles que sus hermanos los Ogros.<br/><br/>Éste Orco morado pertenece al clan de Stonetremble, conocido por sus poderosos guerreros y sus chamanes híbridos.';
+//Hotline Miami DLC
+$l['pig'] = 'Aubrey';
+$l['pig-description'] = 'Aubrey es un verdadero amante de las armas.<br/><br/>De cabeza alargada y hocico grande, Aubrey es un maestro de armas y sabe cómo matar con armamento de calidad.<br/><br/>Los cerdos tienen unos pulmones muy pequeños lo que les impide correr mucho.';
+$l['white_wolf'] = 'Dennis';
+$l['white_wolf-description'] = 'A Dennis le encantan los cuchillos.<br/><br/>El Lobo Gris es el animal más conocido e investigado de todo el planeta. Fue el primer animal carnívoro domesticado por el ser humano.<br/><br/>Hoy en día, su población ha sido reducida a una tercera parte debido a la persecución humana.';
+$l['rabbit'] = 'Graham';
+$l['rabbit-description'] = 'A Graham le gusten los paseos en días soleados.<br/><br/>Los conejos son pequeños mamíferos que prácticamente se pueden encontrar en cualquier lugar. Si se encuentran ante un peligro, los conejos se quedarán quietos y alertará a la madriguera con poderosos golpes sobre la tierra.<br/><br/>Cuando huyen, van saltando en zig-zag, muy parecido a como los jugadores de Counter-Strike lo hacen.';
+$l['owl'] = 'Rasmus';
+$l['owl-description'] = 'Rasmus tiene ojo para los secretos.<br/><br/>Los Búhos son aves nocturnas de caza. Son conocidos por sus grandes ojos en comparación con su cabeza. En realidad, no pueden mover sus ojos, así que giran su cabeza hasta un máximo de 270 grados. Cosas que no sabías.<br/><br/>"¡No te conozco!" "¡No eres bienvenido!"';
+//Hotline Miami Game
+$l['panther'] = 'Brandon';
+$l['panther-description'] = 'Brandon corre muy rápido.<br/><br/>Brandon es una pantera, y las panteras son gatos grandes. Lo gracioso es que, el tigre, el león, el leopardo y el jaguar son los únicos que tienen la estructura anatómica que les permite rugir. Pobre pantera.';
+$l['horse'] = 'Don Juan';
+$l['horse-description'] = 'A Don Juan le encanta dar portazos.<br/><br/>Knock, knock. ¿Quién anda ahí? Es Don Juan. Prepárate.<br/><br/>Consejo: En Hotline Miami, consigues 2200 puntos por las muertes contra la pared que hagas mientras lleves ésta máscara.';
+$l['rooster'] = 'Richard';
+$l['rooster-description'] = 'A Richard le encanta estar con gente y preguntarles cosas.<br/><br/>¿Te gusta hacer daño a la gente?<br/><br/>¿Quién es el que deja mensajes en tu contestador?<br/><br/>¿Dónde estás?<br/><br/>¿Por qué estamos teniendo ésta conversación?';
+$l['tiger'] = 'Tony';
+$l['tiger-description'] = 'Tony usa sus puños de la furia para golpear a cualquiera que intente molestarlo.<br/><br/>Tony nació en los \70 de nacionalidad Italo-americana. Mucha gente sabe quién es Tony. Probablemente por su máscara de tigre, y por otra parte, por su brutalidad cuando trata con gente que le cae mal.';
 //Shadow Raid
 $l['samurai'] = 'Somen Mempo';
 $l['samurai-description'] = 'En el Japón Feudal, los guerreros samurai llevaban máscaras Somen para protegerse en la guerra y para inspirar terror a sus enemigos. Las máscaras Somen eran atadas a los cascos Kabuto, haciendo que los samuráis parecieran Demonios de Jigoku.<br/><br/>Nadie sabe quién fue el guerrero que uso ésta táctica intimidatoria en el pasado. Hoy en día, está lista para la batalla una vez más.<br/><br/>"Boku no ikari wo osoreru"';
