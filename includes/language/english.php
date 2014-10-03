@@ -40,6 +40,7 @@ $l['search-button'] = 'Take me away!';
 $l['steamgroup'] = 'Steam Group';
 $l['feedback'] = 'Feedback';
 $l['notice'] = 'Notice';
+$l['ads'] = 'Advertisement';
 //Tags and Warnings
 $l['cflag'] = '[Cheater]';
 $l['cflag-warning'] = 'flags are not always correct due to some level and skill bugs that are in the game.';
