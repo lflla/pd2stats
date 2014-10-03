@@ -30,3 +30,7 @@ $l['rooster'] = 'Richard';
 $l['rooster-description'] = 'Richard enjoys spending time with different personas and asking questions.<br/><br/>Do you like hurting other people?<br/><br/>Who is leaving messages on your answering machine?<br/><br/>Where are you right now?<br/><br/>Why are we having this conversation?';
 $l['tiger'] = 'Tony';
 $l['tiger-description'] = 'Tony uses his fists of fury to beat the crap of anyone who messes with him.<br/><br/>Tony was born in the 1970s and was of Italian-American nationality. Many people easily recognize Tony. Probably in part because of his Tiger mask, and in part because of his physical brutality when dealing with people he don\'t like.';
+
+04.10.2014
+At end of section menu this was added (google had claimed the box header was misleading.)
+$l['ads'] = 'Advertisement';
