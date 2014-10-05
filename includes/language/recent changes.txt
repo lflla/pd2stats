@@ -1,5 +1,6 @@
 5.10.2014
 Line 732 or 712 if no changes were made yet.  has changed to $l['blastradius-ace'] = 'The radius is further increased by <div class="bluein">75%</div>.';
+Line 601 $l['joker-ace'] need to be change to life= only 55% (at the moment it is 65%)
 
 04.10.2014
 At end of section menu this was added (google had claimed the box header was misleading.)
