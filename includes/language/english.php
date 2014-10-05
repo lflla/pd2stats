@@ -729,7 +729,7 @@ $l['sentrytargetingpackage-normal'] = 'Your sentry gun accuracy is improved by <
 $l['sentrytargetingpackage-ace'] = 'Your sentry gun rotational speed is increased by <div class="bluein">150%</div>.';
 $l['blastradius'] = 'Blast Radius';
 $l['blastradius-normal'] = 'The radius of trip mine explosions are increased by <div class="bluein">25%</div>.';
-$l['blastradius-ace'] = 'The radius is further increased by <div class="bluein">50%</div>.';
+$l['blastradius-ace'] = 'The radius is further increased by <div class="bluein">75%</div>.';
 $l['silentdrilling'] = 'Silent Drilling';
 $l['silentdrilling-normal'] = 'Your drill makes <div class="bluein">65%</div> less noise. Civilians and guards are less likely to hear your drill and sound the alarm.';
 $l['silentdrilling-ace'] = 'Your drill is silent. Civilians and guards have to see the drill in order to sound the alarm.';
