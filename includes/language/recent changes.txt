@@ -1,3 +1,5 @@
+2.10.2014
+Line 712 $l['blastradius-ace'] = 'The radius is further increased by <div class="bluein">50%</div>.'; need to be increased to 75%.
 19.09.2014
 Line 424 $l['ghost'] changed to $l['spectre']
 Line 425 $l['ghost-description'] changed to $l['spectre-description']
