@@ -1,5 +1,5 @@
 5.10.2014
-Line 712 $l['blastradius-ace'] = 'The radius is further increased by <div class="bluein">50%</div>.'; need to be increased to 75%.
+Line 712  has changed to $l['blastradius-ace'] = 'The radius is further increased by <div class="bluein">75%</div>.';
 
 04.10.2014
 At end of section menu this was added (google had claimed the box header was misleading.)
