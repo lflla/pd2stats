@@ -618,7 +618,7 @@ $l['combatdoctor-normal'] = 'You can now place <div class="bluein">2</div> docto
 $l['combatdoctor-ace'] = 'Your doctor bags have <div class="bluein">2</div> additional charges each.';
 $l['joker'] = 'Joker';
 $l['joker-normal'] = 'You can convert a non-special enemy to fight on your side. This cannot be done during stealth and the enemy must have surrendered in order for you to convert it. You can only convert one non-special enemy at a time.';
-$l['joker-ace'] = 'The converted enemy gains <div class="bluein">65%</div> more health and deals <div class="bluein">45%</div> more damage.';
+$l['joker-ace'] = 'The converted enemy gains <div class="bluein">55%</div> more health and deals <div class="bluein">45%</div> more damage.';
 $l['spotter'] = 'Spotter';
 $l['spotter-normal'] = 'Special enemies marked by you take <div class="bluein">15%</div> additional damage.';
 $l['spotter-ace'] = 'Unlocks the Spotter asset in the Job Overview menu. During stealth the Spotter will highlight guards for you and your crew.';
