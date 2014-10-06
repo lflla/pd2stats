@@ -47,7 +47,7 @@ $l['pflag'] = '[Family Sharing]';
 $l['pflag-warning'] = 'oznacza, że gracz nie posiada gry, lecz korzysta z funkcji Family Sharing na Steamie.';
 $l['hflag'] = '[Ukryty]';
 $l['sflag'] = '[Podejrzany]';
-$l['level-warning'] = 'Na daną chwile poziom gracza może być okazjonalnie nie poprawny. Overkill pracuje nad tym.';
+$l['level-warning'] = 'Na daną chwile poziom gracza może czasami być niepoprawny. Overkill pracuje nad tym.';
 //Item Quality Texts
 $l['community-item'] = 'TO JEST RZECZ SPOŁECZNOŚCIOWA!';
 $l['dlc-item-start'] = 'TA RZECZ POCHODZI Z';
@@ -103,7 +103,7 @@ $l['total-day-start'] = 'Wliczając';
 $l['total-day-mid'] = 'zaliczonych i';
 $l['total-day-end'] = 'nie zaliczonych dni.';
 $l['heist'] = 'Misje';
-$l['heist-help'] = 'To są dane misji. PD2 Stats śledzi je od czasów Update #32.1.Zielone to są dni wygrane, Żółte to misje wygrane po dołączeniu w trakcie jej wykonywania a Czerwone to misje nieudane. Pierwsze procenty ukazują średnią wygranych/przegranych danej misji, a drugie, jak dana misjia wpływa na średnią wygranych/przegrany wszystkich misji.';
+$l['heist-help'] = 'To są dane misji. PD2 Stats śledzi je od czasów Update #32.1. Zielone to są dni wygrane, Żółte to misje wygrane po dołączeniu w trakcie jej wykonywania a Czerwone to misje nieudane. Pierwsze procenty ukazują średnią wygranych/przegranych danej misji, a drugie, jak dana misjia wpływa na średnią wygranych/przegrany wszystkich misji.';
 $l['sort'] = 'Sortowane przez';
 $l['win'] = 'Wygrane';
 $l['dropin'] = 'Dołączone';
@@ -117,7 +117,7 @@ $l['usage'] = 'Użycia';
 $l['name'] = 'Nazwa';
 $l['armors'] = 'Pancerze';
 $l['armor'] = 'Pancerz';
-$l['armor-help'] = 'This is the armor data. It tracks its data since update #32.1. The count displaying is in days, including escape days. This means it currently counts failed and successful days.';
+$l['armor-help'] = 'To są dane pancerzy. Dane te są śledzone od czasu aktualizacji #32.1. Ilość jest wyświetlana w dniach, wliczając ucieczki. To oznacza, że obecnie liczy dni zwycięskie i przegrane.';
 $l['times-used'] = 'Times used';
 $l['concealment'] = 'Widoczność';
 $l['speed'] = 'Szybkość';
@@ -125,9 +125,9 @@ $l['dodge'] = 'Unik';
 $l['steadiness'] = 'Stabilność';
 $l['stamina'] = 'Stamina';
 $l['gadgets'] = 'Gadżety';
-$l['gadgets-help'] = 'This is the gadget data. It tracks its data since approximately the GO Bank update. The count displaying is in gadgets deployed.';
+$l['gadgets-help'] = 'To są dane gadżetów. Są śledzone mniej więcej od czasu altua;izacji Bank GO. Liczba ta jest zdefiniowana ilością rozstawionych gadżetów.';
 $l['weapons'] = 'Broń';
-$l['weapons-help'] = 'This is the weapon data. It tracks kills since Update #32.1 and usage since approximately the GO Bank Update. Additionally melee weapon usage counts started during update #31.2. The usage count displaying is in days, including escape days. This means it currently counts failed and successful days.';
+$l['weapons-help'] = 'To są dane broni. Śledzi zabójstwa od czasu aktualizacji #32.1 i użycia od około czasu aktualizacji Bank GO. Dodatkowo użycia broni białej są liczone od czasu aktualizacji #31.2. Ilość uzyć jest wyświetlana w dniach, wliczając ucieczki. To oznacza, że obecnie liczone są dni zwycięskie i przegrane.';
 $l['primary'] = 'Główna';
 $l['secondary'] = 'Poboczna';
 $l['melee'] = 'Broń biała';
@@ -160,6 +160,7 @@ $l['Poetry_jam'] = 'POETRY JAM';
 $l['Twisted_metal'] = 'TWISTED METAL';
 $l['Halloween'] = 'HALLOWEEN';
 $l['Twitch_pack'] = 'HUMBLE MASK PACK';
+$l['hotline_miami_dlc'] = 'HOTLINE MIAMI DLC';
 ////Weapons
 ////Primary
 //Assault Rifles
