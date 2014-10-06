@@ -40,6 +40,7 @@ $l['search-button'] = 'Llévame allí!';
 $l['steamgroup'] = 'Grupo Steam';
 $l['feedback'] = 'Feedback';
 $l['notice'] = 'Importante';
+$l['ads'] = 'Publicidad';
 //Tags and Warnings
 $l['cflag'] = '[Tramposo]';
 $l['cflag-warning'] = 'Esta etiqueta no siempre será fiable de acuerdo a diferentes errores, en habilidades y niveles, que están en el propio juego.';
@@ -617,7 +618,7 @@ $l['combatdoctor-normal'] = 'Puedes desplegar <div class="bluein">2</div> bolsas
 $l['combatdoctor-ace'] = 'Tus bolsas médicas tienen <div class="bluein">2</div> usos adicionales cada bolsa.';
 $l['joker'] = 'Joker';
 $l['joker-normal'] = 'Conviertes a un enemigo no especial para que luche a tu lado. Esto no puede hacerse mientras se esté en sigilo y el enemigo ha de estar previamente rendido. Sólo puedes convertir un enemigo a la vez.';
-$l['joker-ace'] = 'El enemigo convertido gana <div class="bluein">65%</div> más de vida y un <div class="bluein">45%</div> más de daño.';
+$l['joker-ace'] = 'El enemigo convertido gana <div class="bluein">55%</div> más de vida y un <div class="bluein">45%</div> más de daño.';
 $l['spotter'] = 'Avistador';
 $l['spotter-normal'] = 'Los enemigos especiales marcados por ti sufren un <div class="bluein">15%</div> más de daño.';
 $l['spotter-ace'] = 'Desbloquea el recurso de Avistador en el menú de recursos. Durante el sigilo, el Avistador señalará los guardias para ti y tus compañeros.';
@@ -728,7 +729,7 @@ $l['sentrytargetingpackage-normal'] = 'Tu torreta incrementa su precisión un <d
 $l['sentrytargetingpackage-ace'] = 'Tu torreta incrementa su velocidad de giro un <div class="bluein">150%</div>.';
 $l['blastradius'] = 'Radio Explosión';
 $l['blastradius-normal'] = 'El radio de explosión de tus minas se incrementa un <div class="bluein">25%</div>.';
-$l['blastradius-ace'] = 'El radio de explosión de tus minas se incrementa un <div class="bluein">50%</div> extra.';
+$l['blastradius-ace'] = 'El radio de explosión de tus minas se incrementa un <div class="bluein">75%</div> extra.';
 $l['silentdrilling'] = 'Taladro Silencioso';
 $l['silentdrilling-normal'] = 'Tu taladro hace un <div class="bluein">65%</div> de menos ruido. A los civiles y guardias les cuesta más escucharlo por lo que tardarán más en hacer sonar la alarma.';
 $l['silentdrilling-ace'] = 'Tu taladro está silenciado. Los civiles y guardias tienen que ver el taladro para poder hacer sonar la alarma.';
