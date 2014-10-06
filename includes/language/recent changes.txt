@@ -1,3 +1,9 @@
+﻿6.10.2014
+$l['cobrasmg'] = 'Cobra';
+$l['blastersmg'] = 'Blaster 9mm';
+$l['uzi'] = 'Uzi';
+was added at end of Submachine Guns
+
 5.10.2014
 Line 732 or 712 if no changes were made yet.  has changed to $l['blastradius-ace'] = 'The radius is further increased by <div class="bluein">75%</div>.';
 Line 601 $l['joker-ace'] need to be change to life= only 55% (at the moment it is 65%)

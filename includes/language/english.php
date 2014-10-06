@@ -220,6 +220,9 @@ $l['akmsu'] = 'Krinkov';
 $l['p90'] = 'Kobus 90';
 $l['m45'] = 'Swedish K';
 $l['mp7'] = 'SpecOps';
+$l['cobrasmg'] = 'Cobra';
+$l['blastersmg'] = 'Blaster 9mm';
+$l['uzi'] = 'Uzi';
 //Shotguns
 $l['judge'] = 'The Judge';
 $l['serbu'] = 'Locomotive 12G';
