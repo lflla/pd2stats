@@ -196,7 +196,7 @@ $l['rpk'] = 'RPK';
 $l['m249'] = 'KSP';
 $l['hk21'] = 'Brenner-21';
 //Saws
-$l['saw'] = 'OVE9000 Saw';
+$l['saw'] = 'OVE9000 Sierra';
 //Grenade Launcher
 $l['gre_m79'] = 'GL40';
 ////Secondary
@@ -220,6 +220,9 @@ $l['akmsu'] = 'Krinkov';
 $l['p90'] = 'Kobus 90';
 $l['m45'] = 'Metralleta Sueca';
 $l['mp7'] = 'Metralleta de operaciones especiales';
+$l['cobrasmg'] = 'Cobra';
+$l['blastersmg'] = 'Blaster 9mm';
+$l['uzi'] = 'Uzi';
 //Shotguns
 $l['judge'] = 'El Juez';
 $l['serbu'] = 'Locomotive 12G';
