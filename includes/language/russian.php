@@ -7,7 +7,7 @@
 $l['language'] = 'Russian';
 $l['author'] = 'Kasiornis, Ulysses and Winged Doom';
 
-$l['charset'] = 'windows-1251';
+$l['charset'] = 'UTF-8';
 
 ////
 // Formating Instructions
