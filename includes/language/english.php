@@ -823,12 +823,3 @@ $l['catburglar-normal'] = 'You take <div class="bluein">75%</div> less damage fr
 $l['catburglar-ace'] = 'Your fall damage is reduced so that you only take armor damage from falling from non-fatal heights. Your custody time is reduced by <div class="bluein">50%</div>.';
 $l['unlockghost'] = 'Unlocking the Ghost';
 $l['unlockghost-normal'] = 'The Ghost is a stealth artist, capable of grand theft without force or violence. Spending the first point in the Ghost skill tree unlocks the ability to use the electronic countermeasure equipment, also known as the ECM jammer. When used, the ECM jammer can open ATM machines and temporarily cancel out electronic devices such as cell phones and cameras. <div class="bluein">1</div> ECM jammer is added to your inventory. An ECM jammer lasts <div class="bluein">20</div> seconds.';
-////TEMPORARY
-//Crimefest
-$l['crimefest'] = 'Crimefest';
-$l['crimefest-more'] = 'more members needed to unlock';
-$l['gage-gun'] = 'a Gun from Gage';
-$l['gensec-enemy'] = 'a Enemy from GenSec';
-$l['time-of-day'] = 'Time of Day Heist Variants';
-$l['secret-unlock'] = 'Secret Stuff';
-$l['nothing'] = 'Nothing';
