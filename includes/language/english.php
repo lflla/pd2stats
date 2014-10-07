@@ -61,6 +61,7 @@ $l['error-text2'] = 'I AM ERROR';
 $l['error-text3'] = 'Steam failed to respond in time!';
 $l['error-text4'] = 'No search input';
 $l['error-text5'] = 'No Profile Number present';
+$l['error-text6'] = 'User Violates Steam SA';
 $l['error'] = 'Error';
 $l['error-start'] = 'Something has gone wrong but you can always';
 $l['error-mid'] = 'try again';
