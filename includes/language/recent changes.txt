@@ -1,4 +1,8 @@
-﻿6.10.2014
+7.10.2014
+After error 5
+$l['error-text6'] = 'Banned User';
+
+6.10.2014
 $l['cobrasmg'] = 'Cobra';
 $l['blastersmg'] = 'Blaster 9mm';
 $l['uzi'] = 'Uzi';
