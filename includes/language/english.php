@@ -39,7 +39,7 @@ $l['search-button'] = 'Take me away!';
 //Menu
 $l['steamgroup'] = 'Steam Group';
 $l['feedback'] = 'Feedback';
-$l['notice'] = 'Notice';
+$l['notice'] = 'Menu';
 $l['ads'] = 'Advertisement';
 //Service
 $l['servicestatus'] = 'Check Service Status';
