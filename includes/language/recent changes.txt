@@ -1,4 +1,16 @@
 8.10.2014
+//Service
+$l['servicestatus'] = 'Check Service Status';
+$l['vanitystatus'] = 'Player Vanity Status';
+$l['summarystatus'] = 'Player Summary Status';
+$l['ownershipstatus'] = 'Player Ownership Status';
+$l['statisticsstatus'] = 'Player Statistics Status';
+$l['offline'] = 'OFFLINE';
+$l['online'] = 'ONLINE';
+
+was added after //Menu Section
+
+8.10.2014
 Crimefest section was removed.
 
 7.10.2014

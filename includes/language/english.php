@@ -41,6 +41,14 @@ $l['steamgroup'] = 'Steam Group';
 $l['feedback'] = 'Feedback';
 $l['notice'] = 'Notice';
 $l['ads'] = 'Advertisement';
+//Service
+$l['servicestatus'] = 'Check Service Status';
+$l['vanitystatus'] = 'Player Vanity Status';
+$l['summarystatus'] = 'Player Summary Status';
+$l['ownershipstatus'] = 'Player Ownership Status';
+$l['statisticsstatus'] = 'Player Statistics Status';
+$l['offline'] = 'OFFLINE';
+$l['online'] = 'ONLINE';
 //Tags and Warnings
 $l['cflag'] = '[Cheater]';
 $l['cflag-warning'] = 'flags are not always correct due to some level and skill bugs that are in the game.';
