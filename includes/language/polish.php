@@ -60,6 +60,7 @@ $l['error-text2'] = 'JESTEM ERROREM';
 $l['error-text3'] = 'Steam nie odpowiedział na czas!';
 $l['error-text4'] = 'Puste pole wyszukiwania';
 $l['error-text5'] = 'Nie istnieje taki numer profilu';
+$l['error-text6'] = 'Zbanowany użytkownik'
 $l['error'] = 'Error';
 $l['error-start'] = 'Coś poszło nie tak, ale zawsze możesz';
 $l['error-mid'] = 'spróbować ponownie';
