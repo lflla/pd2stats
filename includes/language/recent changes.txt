@@ -1,4 +1,6 @@
 8.10.2014
+changed $l['notice'] = 'Notice'; to $l['notice'] = 'Menu';
+
 Miami Melee Weapons Added at end of melee
 
 $l['baseballbat'] = 'Baseball Bat';
