@@ -47,7 +47,7 @@ $l['vanitystatus'] = 'Player Vanity Status';
 $l['summarystatus'] = 'Player Summary Status';
 $l['ownershipstatus'] = 'Player Ownership Status';
 $l['statisticsstatus'] = 'Player Statistics Status';
-$l['offline'] = 'OFFLINE';
+$l['offline'] = 'OFFLINE (Click eye for more information)';
 $l['online'] = 'ONLINE';
 //Tags and Warnings
 $l['cflag'] = '[Cheater]';
