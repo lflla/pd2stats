@@ -245,7 +245,7 @@ $l['brass_knuckles'] = '350K Brass Knuckles';
 $l['brass_knuckles-description'] = 'Knuckle style weapons have been used all over the world for hundreds of years. Brass knuckles concentrate the punch\'s force by directing it toward a harder and smaller area, increasing the chances of tissue disruption. Hit hard enough and you\'ll even fracture some bones.';
 $l['moneybundle'] = 'Money Bundle';
 $l['moneybundle-description'] = 'Bundling money together with a strap is as old as money itself. Beating people with money is something rick people and pimps have been doing for a very long time.';
-$l['barbedwire'] = 'Baseball Bat';
+$l['barbedwire'] = 'Lucille Baseball Bat';
 $l['barbedwire-description'] = 'A baseball bat you can hit home-runs with.';
 $l['kabar'] = 'URSA Knife';
 $l['kabar-description'] = 'The URSA Knife is a hard wearing, indestructible fighting/utility knife dating back to 1942. Bowie blade, serrated edge, no nonsense. A Classic.';
@@ -271,6 +271,16 @@ $l['x46'] = 'X-46_Knife';
 $l['x46-description'] = 'The X-46 Knife is a 6\'\' piece of coated, A2 steel, in a partially serrated bowie blade configuration with a false top edge. Integrated guard and glass breaker pommel tip. The multi-purpose field design of this knife makes it as useful on the battlefield as it is in an emergency.';
 $l['dingdong'] = 'Ding Dong Breaching Tool';
 $l['dingdong-description'] = 'The Ding Dong Breaching Tool is basically a tactical sledgehammer. Originally intended for use as a breaching tool, battering ram, and pry bar rolled into one, I am guessing you\'ll mostly be using it for cracking heads open. Great damage & knock-down, but relatively slow on the swing.';
+$l['baseballbat'] = 'Baseball Bat';
+$l['baseballbat-description'] = '';
+$l['briefcase'] = '50 Blessings Briefcase';
+$l['briefcase-description'] = '';
+$l['cleaver'] = 'Cleaver Knife';
+$l['cleaver-description'] = '';
+$l['fireaxe'] = 'Fire Axe';
+$l['fireaxe-description'] = '';
+$l['machete'] = 'Machete Knife';
+$l['machete-description'] = '';
 ////Grenades
 $l['frag-grenade'] = 'Frag Grenade';
 ////Gadgets

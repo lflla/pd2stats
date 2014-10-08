@@ -1,4 +1,18 @@
 8.10.2014
+Miami Melee Weapons Added at end of melee
+
+$l['baseballbat'] = 'Baseball Bat';
+$l['baseballbat-description'] = '';
+$l['briefcase'] = '50 Blessings Briefcase';
+$l['briefcase-description'] = '';
+$l['cleaver'] = 'Cleaver Knife';
+$l['cleaver-description'] = '';
+$l['fireaxe'] = 'Fire Axe';
+$l['fireaxe-description'] = '';
+$l['machete'] = 'Machete Knife';
+$l['machete-description'] = '';
+
+8.10.2014
 //Service
 $l['servicestatus'] = 'Check Service Status';
 $l['vanitystatus'] = 'Player Vanity Status';
