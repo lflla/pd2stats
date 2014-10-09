@@ -545,6 +545,7 @@ array( 'Name' => $l['catburglar'], 'Wiki' => 'Cat_Burglar', 'Image' => '_(32)', 
 array( 'Name' => $l['unlockghost'], 'Wiki' => 'Skills#Ghost', 'Image' => '_(33)', 'Description-Normal' => $l['unlockghost-normal'], 'Description-Ace' => '', 'Normal' => $skill_ghost_unlocked, 'Ace' => '' )
 );
 
+//Temporary
 $heists_dropin = $heists;
 $heists_fail = $heists;
 $weapons_primary_kills = $weapons_primary;
