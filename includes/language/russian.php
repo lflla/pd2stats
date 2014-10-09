@@ -402,6 +402,24 @@ $l['ancient'] = 'Скрещенный';
 $l['ancient-description'] = 'Могущественная раса, которую считают самой разумной во всей вселенной. Все, кто вступал со Скрещенными в контакт, называют их по-разному.<br/><br/>Сильные, разумные и худощавые Скрещенные берут самое лучшее из цепочек ДНК от каждого вида, который им известен.';
 $l['twitch_orc'] = 'Орк';
 $l['twitch_orc-description'] = 'Брутальные, агрессивные, да и вообще, обладающие отталкивающей натурой, орки всегда были расой ненавистников. Орки больше и сильнее своих двоюродных братьев - гоблинов, но меньше, чем их собратья - огры.<br/><br/>А вот этот орк с фиолетовой кожей из клана Стоунтрембл - клана свирепых воинов и шаманов.';
+//Hotline Miami DLC
+$l['pig'] = 'Aubrey';
+$l['pig-description'] = 'Aubrey is a real gun lover.<br/><br/>Large headed and long snouted Aubrey is a master of arms and knows nothing better than to kill using some fine weaponry.<br/><br/>Pigs have pretty small lungs though so Aubrey can\'t run that far.';
+$l['white_wolf'] = 'Dennis';
+$l['white_wolf-description'] = 'Dennis loves knives.<br/><br/>The gray wolf is one of the best known and well researched animals on the entire planet. It was the first animal and only large carnivore to be domesticated by humans.<br/><br/>Today, there\'s only one third of the population left because of human persecution.';
+$l['rabbit'] = 'Graham';
+$l['rabbit-description'] = 'Graham enjoys long walks in the sun.<br/><br/>Rabbits are small mammals that practically can be found anywhere. If confronted by a potential threat, rabbits will instantly freeze and warn others in the warren with powerful thumps on the ground.<br/><br/>When fleeing, they hop in a zig-zag pattern, much like many Counter-Strike players do.';
+$l['owl'] = 'Rasmus';
+$l['owl-description'] = 'Rasmus has an eye for secrets.<br/><br/>Owls are nocturnal birds of prey. They are known for their large eyes in comparison to their skulls. They can\'t actually move their eyes, they swivel their heads instead and are able to swivel 270 degrees. Shit you didn\'t know, amirite.<br/><br/>"I don\'t know you!" "You\'re no guest of mine!"';
+//Hotline Miami Game
+$l['panther'] = 'Brandon';
+$l['panther-description'] = 'Brandon has a thing for walking really, really fast.<br/><br/>Brandon is a panther, and panthers are large cats. One funny thing is that only the tiger, lion, leopard and jaguar has the anatomical structure which enables them to roar. Poor panther.';
+$l['horse'] = 'Don Juan';
+$l['horse-description'] = 'Don Juan loves slamming doors in.<br/><br/>Knock, knock. Who\'s there? It\'s Don Juan. Prepare yourself.<br/><br/>Pro tip: In Hotline Miami, you get 2200 points while performing ground kills against the wall when using this mask.';
+$l['rooster'] = 'Richard';
+$l['rooster-description'] = 'Richard enjoys spending time with different personas and asking questions.<br/><br/>Do you like hurting other people?<br/><br/>Who is leaving messages on your answering machine?<br/><br/>Where are you right now?<br/><br/>Why are we having this conversation?';
+$l['tiger'] = 'Tony';
+$l['tiger-description'] = 'Tony uses his fists of fury to beat the crap of anyone who messes with him.<br/><br/>Tony was born in the 1970s and was of Italian-American nationality. Many people easily recognize Tony. Probably in part because of his Tiger mask, and in part because of his physical brutality when dealing with people he don\'t like.';
 //Shadow Raid
 $l['samurai'] = 'Сомэн Мэнгу';
 $l['samurai-description'] = 'В древней Японии самураи носили маски-сомэн чтобы защитить себя во время боя и вселить страх во врагов. Сомэн сделаны из железа и кожи и прикреплялись к большим шлемам кабуто. Таким образом, самураи выглядили как демоны из преисподней.<br/><br/>Никто не знает насколько жестокий и беспощадный воин носил эту устрашающую маску в прошлом. Теперь она снова готова участвовать в битве.<br/><br/>"Boku no ikari wo osoreru"';
