@@ -39,8 +39,16 @@ $l['search-button'] = 'Llévame allí!';
 //Menu
 $l['steamgroup'] = 'Grupo Steam';
 $l['feedback'] = 'Feedback';
-$l['notice'] = 'Importante';
+$l['notice'] = 'Menu';
 $l['ads'] = 'Publicidad';
+//Service
+$l['servicestatus'] = 'Comprobar Estado del Servicio';
+$l['vanitystatus'] = 'Estado de Vanidad del Jugador';
+$l['summarystatus'] = 'Estado del Jugador';
+$l['ownershipstatus'] = 'Estado de Propiedad del Jugador';
+$l['statisticsstatus'] = 'Estado de Estadísticas del Jugador';
+$l['offline'] = 'OFFLINE (Click en el ojo para más información)';
+$l['online'] = 'ONLINE';
 //Tags and Warnings
 $l['cflag'] = '[Tramposo]';
 $l['cflag-warning'] = 'Esta etiqueta no siempre será fiable de acuerdo a diferentes errores, en habilidades y niveles, que están en el propio juego.';
@@ -61,6 +69,7 @@ $l['error-text2'] = 'SOY UN ERROR';
 $l['error-text3'] = 'Steam ha fallado en responder a tiempo!';
 $l['error-text4'] = 'No has introducido un elemento de búsqueda';
 $l['error-text5'] = 'No has introducido un numero de perfil';
+$l['error-text6'] = 'Usuario Expulsado/Bloqueado';
 $l['error'] = 'Error';
 $l['error-start'] = 'Algo ha ido mal pero siempre puedes';
 $l['error-mid'] = 'Prueba otra vez';
@@ -196,7 +205,7 @@ $l['rpk'] = 'RPK';
 $l['m249'] = 'KSP';
 $l['hk21'] = 'Brenner-21';
 //Saws
-$l['saw'] = 'OVE9000 Sierra';
+$l['saw'] = 'Sierra OVE9000';
 //Grenade Launcher
 $l['gre_m79'] = 'GL40';
 ////Secondary
@@ -236,7 +245,7 @@ $l['brass_knuckles'] = 'Puños americanos 350K';
 $l['brass_knuckles-description'] = 'Este tipo de armas se han llevado usando durante cientos de años en todo el mundo. El puño americano concentra la fuerza del puñetazo en una zona más dura y pequeña, incrementando la posibilidad de causar una brecha. Si pegas lo suficientemente fuerte conseguirás partir algún hueso.';
 $l['moneybundle'] = 'Fajo de billetes';
 $l['moneybundle-description'] = 'Hacer un fajo de billetes es tan viejo como el mismo dinero. Ricos y chulos llevan mucho tiempo atizando a la gente con dinero.';
-$l['barbedwire'] = 'Bate de baseball';
+$l['barbedwire'] = 'Bate de baseball con pinchos';
 $l['barbedwire-description'] = 'Un bate de baseball con el que poder realizar un home-run.';
 $l['kabar'] = 'Cuchillo URSA';
 $l['kabar-description'] = 'El cuchillo URSA es un cuchillo indestructible, de soporte o de pelea, que data de 1942. Hoja tipo Bowie, filo serrado. Un clásico.';
@@ -252,7 +261,7 @@ $l['baton'] = 'Porra extensible';
 $l['baton-description'] = 'Arma favorita todo policía y ladrón para controlar a las masas y aquellas personas que se oponen. Una porra extensible tiene más ventajas que una fija. De peso ligero, es más versátil e intimidatoria para cualquier peligro.';
 $l['tomahawk'] = 'Tomahawk de supervivencia';
 $l['tomahawk-description'] = 'Usada como herramienta de uso general, para lanzársela a gente o de pelea cuerpo a cuerpo. Un arma con el que cualquiera puede alcanzar un nivel de muy competente. Solamente a través del trabajo bien realizado se podrá descubrir el verdadero potencial del arma, como herramienta o como arma. Pero normalmente como arma.';
-$l['becker'] = 'Machete';
+$l['becker'] = 'Machete de Apoyo';
 $l['becker-description'] = 'Un machete es un cuchillo con una hoja muy larga y ancha usado para abrirse paso a través de bosques tropicales, en rebeliones y para agricultura. Es común ver personas usando el machete para otros trabajos, como abrir cocos, calaveras, para jardinería o para robar bancos.';
 $l['bayonet'] = 'Bayoneta';
 $l['bayonet-description'] = 'La Bayoneta es un clásico del campo de batalla. Originalmente pensado para ser montado en el rifle y usarlo como lanza, esta preciosidad estará en tu bolsillo y saldrá cuando vayas a enzarzarte en una pelea cuerpo a cuerpo.';
@@ -262,6 +271,16 @@ $l['x46'] = 'Cuchillo X-46';
 $l['x46-description'] = 'El Cuchillo X-46 mide 15,24 cm. hecho en acero A2, parte de la hoja es de tipo Bowie con punta falsa. Con mango integrado y posibilidad de romper cristales. Este cuchillo de varios propósitos puede ser tan útil tanto en el campo de batalla como para una emergencia.';
 $l['dingdong'] = 'Herramienta de apertura Ding Dong';
 $l['dingdong-description'] = 'La herramienta de apertura Ding Dong es básicamente un martillo táctico. Pensado como herramienta para forzar puertas, creo que la usaras para forzar cabezas. De gran daño y derribo, es un poco lenta cuando se usa.';
+$l['baseballbat'] = 'Bate de Baseball';
+$l['baseballbat-description'] = '';
+$l['briefcase'] = 'Maletín 50 Bendiciones';
+$l['briefcase-description'] = '';
+$l['cleaver'] = 'Cuchillo de Carnicero';
+$l['cleaver-description'] = '';
+$l['fireaxe'] = 'Hacha de Bombero';
+$l['fireaxe-description'] = '';
+$l['machete'] = 'Machete';
+$l['machete-description'] = '';
 ////Grenades
 $l['frag-grenade'] = 'Granada de fragmentación';
 ////Gadgets
@@ -822,12 +841,3 @@ $l['catburglar-normal'] = 'Reduces el daño recibido cuando saltas desde alturas
 $l['catburglar-ace'] = 'El daño recibido cuando saltas desde alturas no letales ahora sólo te quita armadura. El tiempo que pasas en custodia se reduce un <div class="bluein">50%</div>.';
 $l['unlockghost'] = 'Desbloquear el Fantasma';
 $l['unlockghost-normal'] = 'El Fantasma es un artista del sigilo, muy peligroso incluso sin el uso de la fuerza o la violencia. Gastando el primer punto en la rama de habilidades Fantasma desbloqueará el Inhibidor ECM. El ECM se usa para deshabilitar el uso de teléfonos y cámaras, además de para abrir los ATMs (Cajeros Automáticos). <div class="bluein">1</div> ECM se añade a tu equipo. El ECM dura <div class="bluein">20</div> segundos.';
-////TEMPORARY
-//Crimefest
-$l['crimefest'] = 'Crimefest';
-$l['crimefest-more'] = 'se necesita más miembros para desbloquear';
-$l['gage-gun'] = 'un Arma de Gage';
-$l['gensec-enemy'] = 'un Enemigo de GenSec';
-$l['time-of-day'] = 'Variación del Tiempo del Día';
-$l['secret-unlock'] = 'Cosas Secretas';
-$l['nothing'] = 'Nada';
