@@ -40,6 +40,14 @@ $l['search-button'] = 'Поиск!';
 $l['steamgroup'] = 'Группа в Steam';
 $l['feedback'] = 'Обратная связь';
 $l['notice'] = 'Информация';
+//Service
+$l['servicestatus'] = 'Check Service Status';
+$l['vanitystatus'] = 'Player Vanity Status';
+$l['summarystatus'] = 'Player Summary Status';
+$l['ownershipstatus'] = 'Player Ownership Status';
+$l['statisticsstatus'] = 'Player Statistics Status';
+$l['offline'] = 'OFFLINE (Click eye for more information)';
+$l['online'] = 'ONLINE';
 //Tags and Warnings
 $l['cflag'] = '[Читер]';
 $l['cflag-warning'] = 'индикаторы не всегда корректны ввиду наличия багов с уровнями и навыками в самой игре.';
@@ -827,12 +835,3 @@ $l['catburglar-normal'] = 'Вы получаете на <div class="bluein">75%<
 $l['catburglar-ace'] = 'Урон от падений снижен настолько, что урон получает только ваша броня. Также, сокращает время проведенное под стражей на <div class="bluein">50%</div>.';
 $l['unlockghost'] = 'Разблокировка Призрака';
 $l['unlockghost-normal'] = 'Призрак - мастер скрытности, способный проворачивать великие ограбления без применения силы или насилия. Первое вложенное очко открывает Генератор ECM. Его можно использовать для открытия банкоматов и временного выключения устройств, вроде мобильных телефонов и камер. 1 генератор добавляется в инвентарь. Эффект его действия длится 20 секунд.';
-////TEMPORARY
-//Crimefest
-$l['crimefest'] = 'Crimefest';
-$l['crimefest-more'] = 'участников группы необходимо для разблокировки';
-$l['gage-gun'] = 'оружия от Гейджа';
-$l['gensec-enemy'] = 'нового противника от GenSec';
-$l['time-of-day'] = 'альтернативных ограблений в иное время дня';
-$l['secret-unlock'] = 'Секретного Контента';
-$l['nothing'] = 'Ничего';
