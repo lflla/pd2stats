@@ -579,5 +579,5 @@ array_sort_by_column($weapons_secondary_kills, 'Kills');
 array_sort_by_column($weapons_melee_kills, 'Kills');
 array_sort_by_column($heists_dropin, 'Dropin');
 array_sort_by_column($heists_fail, 'Fail');
-array_sort_by_column($masks_name, 'Name', 'SORT_ASC');
+array_sort_by_column($masks_name, 'Name', SORT_ASC);
 ?>
