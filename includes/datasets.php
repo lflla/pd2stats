@@ -1,5 +1,4 @@
 <?php
-if($id == 'Tatsuto' || $profiles == '76561198015140861'){$mask_used_twister = 42;};
 //
 //PRIMARY
 //
@@ -565,15 +564,6 @@ function array_sort_by_column(&$arr, $col, $dir = SORT_DESC) {
     array_multisort($sort_col, $dir, $arr);
 }
 
-function array_sort_by_column_asc(&$arr, $col, $dir = SORT_ASC) {
-    $sort_col = array();
-    foreach ($arr as $key=> $row) {
-        $sort_col[$key] = $row[$col];
-    }
-
-    array_multisort($sort_col, $dir, $arr);
-}
-
 array_sort_by_column($escape, 'Total');
 array_sort_by_column($heists, 'Win');
 array_sort_by_column($weapons_primary, 'Used');
@@ -589,5 +579,5 @@ array_sort_by_column($weapons_secondary_kills, 'Kills');
 array_sort_by_column($weapons_melee_kills, 'Kills');
 array_sort_by_column($heists_dropin, 'Dropin');
 array_sort_by_column($heists_fail, 'Fail');
-array_sort_by_column_asc($masks_name, 'Name');
+array_sort_by_column_asc($masks_name, 'Name', 'SORT_ASC');
 ?>
