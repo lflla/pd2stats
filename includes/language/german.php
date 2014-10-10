@@ -6,7 +6,7 @@
 // Item descriptions identical with ingame text? Yes
 ////
 $l['language'] = 'German';
-$l['author'] = 'Tatsuto';
+$l['author'] = 'Putschy4win, Kaevin, timo-';
 $l['charset'] = 'UTF-8';
 ////
 // Formating Instructions
