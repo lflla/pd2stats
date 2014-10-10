@@ -27,22 +27,19 @@ $l['charset'] = 'UTF-8';
 $l['title'] = 'Payday 2 Statistiken';
 $l['title-full'] = 'Payday 2 Statistiken';
 $l['meta-description'] = 'Willkommen zu den Payday 2 Statistiken, ein einfacher weg um sich das Profil anderer Spieler anzusehen.';
-$l['meta-language'] = 'German/Deutsch';
+$l['meta-language'] = 'German';
 $l['meta-keywords'] = 'Payday 2, Profile, Statistiken, pd2stats.com';
 //Index and Search
 $l['welcome'] = 'Willkommen bei den Payday 2 Statistiken!';
 $l['search-txt'] = 'Suche';
-$l['search-msg'] = 'Bitte gib den Link eines Steam Profils, einer eigenen Steam ID oder eine Profilnummer an.';
-$l['search-button'] = 'Los geht´s!';
+$l['search-msg'] = 'Bitte gib den Link zu einem Steamprofil, eine Steam ID oder eine Profilnummer an.';
+$l['search-button'] = 'Hinfort!';
 //Menu
 $l['steamgroup'] = 'Steam Gruppe';
 $l['feedback'] = 'Feedback';
 $l['notice'] = 'Notiz/en';
 $l['ads'] = 'Advertisement';
 //Tags and Warnings
-$l['adsblocked'] = 'Wir haben bemerkt, dass du einen Ad-Block benutzt. Bitte sei dir im klaren das du damit der Seite schadest. Wir brauchen das Geld und eine der 
-
-wenigen Einnahmequellen ist Werbung.';
 $l['cflag'] = '[Cheater]';
 $l['cflag-warning'] = 'Markierungen sind nicht immer korrekt, da das Spiel einige Bugs enthält.';
 $l['pflag'] = '[Family Sharing]';
@@ -51,14 +48,14 @@ $l['hflag'] = '[Versteckt]';
 $l['sflag'] = '[Verdächtig]';
 $l['level-warning'] = 'Das derzeitige Spielerlevel ist nicht korrekt. Overkill wird sich das ansehen.';
 //Item Quality Texts
-$l['community-item'] = 'DAS IST EIN VON DER COMMUNITY ERSTELLTES ITEM!';
+$l['community-item'] = 'DIES IST EIN COMMUNITY ITEM!';
 $l['dlc-item-start'] = 'DAS IST EIN';
 $l['dlc-item-end'] = 'ITEM!';
 $l['infamous-item'] = 'DAS IST EIN BERÜCHTIGTES ITEM!';
-$l['custom-item'] = 'DAS IST EIN COMMUNITY-ITEM VON';
+$l['custom-item'] = 'DAS IST EIN MOD-ITEM VON';
 //Errors
 $l['error-text1'] = 'ID nicht benutzt!';
-$l['error-text2'] = 'ich bin der Fehler';
+$l['error-text2'] = 'Luke, ich bin dein Fehler!';
 $l['error-text3'] = 'Steam konnte nicht rechtzeitig antworten!';
 $l['error-text4'] = 'Keine Sucheingabe';
 $l['error-text5'] = 'Keine Profilnummer vergeben';
@@ -82,11 +79,7 @@ $l['tips-start'] = 'Wusstest du, dass du einen eigenen Steam Link haben könntes
 $l['tips-mid'] = 'Und den URL Part ersätzen könntest ?';
 $l['credits'] = 'Credits';
 $l['skilltrees'] = 'Fähigkeiten';
-$l['skilltrees-help'] = 'Dies ist der Fäghigkeitsbaum diese Spielers aus den Daten von Steam. Es kann passieren, dass alle Fähigkeiten bessesen werde, die 
-
-Fehelerquelle ist noch unklar. Hoxhud kann benutzt werden, um dass zu umgehen. Einfach installieren und neu Fähigkeiten setzetn. Außerdem kann es vorkommen, das man 
-
-zuviele Skillpunkte hat, weil das Kevel noch nicht übertragen ist.';
+$l['skilltrees-help'] = 'Dies ist der Fäghigkeitsbaum diese Spielers aus den Daten von Steam. Es kann passieren, dass alle Fähigkeiten bessesen werde, die Fehlerquelle ist noch unklar. Hoxhud kann benutzt werden, um dass zu umgehen. Einfach installieren und neu Fähigkeiten setzetn. Außerdem kann es vorkommen, das man zuviele Skillpunkte hat, weil das Kevel noch nicht übertragen ist.';
 $l['mastermind'] = 'Mastermind';
 $l['technician'] = 'Techniker';
 $l['ghost'] = 'Geist';
@@ -102,26 +95,20 @@ $l['basic'] = 'Basis';
 $l['ace'] = 'Ass';
 $l['unlock'] = 'freischalten für';
 $l['basics'] = 'Basics';
-$l['basics-help'] = 'Hier werden die einzelnen Tage gezählt. Es wird vermutlich seit dem GO Bank Update gezählt. Die Tage an denen du flüchtest werden auch gezählt. 
-
-Das bedeutet das derzeit geschaffte und nicht geschaffte Tage gezählt werden.';
+$l['basics-help'] = 'Hier werden die einzelnen Tage gezählt. Es wird vermutlich seit dem GO Bank Update gezählt. Die Tage an denen du flüchtest werden auch gezählt. Das bedeutet das derzeit geschaffte und nicht geschaffte Tage gezählt werden.';
 $l['risk'] = 'Risiko';
 $l['days-played'] = 'gespielte Tage';
 $l['total-day-start'] = 'gesamte Anzahl der Tage,';
 $l['total-day-mid'] = 'geschaffte und';
 $l['total-day-end'] = 'nicht geschaffte.';
 $l['heist'] = 'Aufträge';
-$l['heist-help'] = 'Hier werden die Aufträge gezählt. Es zählt wahrscheinlich seit dem Update #32.1. Grün bedeutet geschaffte Aufträge, Gelb sind die Aufträge die du 
-
-nicht vollständig gemacht und Rot sind die nicht geschafften Aufträge. Die erste Prozentzahl zeigt nur diesen Auftrag an und die zweite zeigt alle Aufträge an.';
+$l['heist-help'] = 'Hier werden die Aufträge gezählt. Es zählt wahrscheinlich seit dem Update #32.1. Grün bedeutet geschaffte Aufträge, Gelb sind die Aufträge die du nicht vollständig gemacht und Rot sind die nicht geschafften Aufträge. Die erste Prozentzahl zeigt nur diesen Auftrag an und die zweite zeigt alle Aufträge an.';
 $l['sort'] = 'Sortieren nach';
 $l['win'] = 'Gewonnen';
 $l['dropin'] = 'Beitreten';
 $l['fail'] = 'Gescheitert';
 $l['escape'] = 'Flucht';
-$l['escape-help'] = 'Hier werden die einzelnen Flucht-Missionen gezählt. Es wird vermutlich seit dem GO Bank Update gezählt. Es werden geschaffte und nicht geschaffte 
-
-Aufträge gezählt.';
+$l['escape-help'] = 'Hier werden die einzelnen Flucht-Missionen gezählt. Es wird vermutlich seit dem GO Bank Update gezählt. Es werden geschaffte und nicht geschaffte Aufträge gezählt.';
 $l['total'] = 'Insgesamt';
 $l['masks'] = 'Masken';
 $l['masks-help'] = 'hier werden die Masken aufgezählt. Die Benutzung der Masken wird in Tagen gezählt, dass beinhaltet geschaffte und nicht geschaffte Tage.';
@@ -129,9 +116,7 @@ $l['usage'] = 'Benutzung';
 $l['name'] = 'Name';
 $l['armors'] = 'Rüstungen';
 $l['armor'] = 'Rüstung';
-$l['armor-help'] = 'Hier wird die benutzte Rüstung gezählt. Es wird seit dem update #32.1 gezählt. Es wird in Tagen gezählt, zusammen mit den Flucht-Missionen. Ds 
-
-bedeutet es zählt geschaffte und nicht geschaffte Tage.';
+$l['armor-help'] = 'Hier wird die benutzte Rüstung gezählt. Es wird seit dem update #32.1 gezählt. Es wird in Tagen gezählt, zusammen mit den Flucht-Missionen. Ds bedeutet es zählt geschaffte und nicht geschaffte Tage.';
 $l['times-used'] = 'Benutzt';
 $l['concealment'] = 'Tarnwert';
 $l['speed'] = 'Geschwindigkeit';
@@ -141,11 +126,7 @@ $l['stamina'] = 'Ausdauer';
 $l['gadgets'] = 'Items';
 $l['gadgets-help'] = 'Hier werden die Items gezählt. Es wird seit ungefähr dem GO Bank Update gezählt. Es wird gezählt wie viele Items du platzierst.';
 $l['weapons'] = 'Waffen';
-$l['weapons-help'] = 'Hier werden die benutzten Waffen gezählt. Es zählt die Kills seit ungefähr Update #32.1 und benutzbar seit dem Go Bank Update. Nahkamfwaffen 
-
-werden seit update #31.2 gezählt. Es wird in Tagen gezählt, zusammen mit den Flucht-Missionen. Das bedeutet es werden derzeit geschaffte und nicht geschaffte Tage 
-
-gezählt.';
+$l['weapons-help'] = 'Hier werden die benutzten Waffen gezählt. Es zählt die Kills seit ungefähr Update #32.1 und benutzbar seit dem Go Bank Update. Nahkamfwaffen werden seit update #31.2 gezählt. Es wird in Tagen gezählt, zusammen mit den Flucht-Missionen. Das bedeutet es werden derzeit geschaffte und nicht geschaffte Tage gezählt.';
 $l['primary'] = 'Primär';
 $l['secondary'] = 'Sekundär';
 $l['melee'] = 'Nahkampf';
@@ -239,17 +220,11 @@ $l['serbu'] = 'Locomotive 12G';
 $l['striker'] = 'Street Sweeper';
 ////Melee
 $l['butt'] = 'Kolben';
-$l['butt-description'] = 'In bewaffneten Raubüberfällen ist es besser die Zivilisten mit den Waffen zu schlagen. Normalerweise schlägt man sie mit dem Kolben der Waffe 
-
-oder man schlägt mit der Pistole zu.<br/><br/>Das ist der schnellste Angriff.';
+$l['butt-description'] = 'In bewaffneten Raubüberfällen ist es besser die Zivilisten mit den Waffen zu schlagen. Normalerweise schlägt man sie mit dem Kolben der Waffe oder man schlägt mit der Pistole zu.<br/><br/>Das ist der schnellste Angriff.';
 $l['fists'] = 'Fäuste';
-$l['fists-description'] = 'Auch wenn du kein Boxer bist kannst du trotzdem hart zuschlagen. Alles was du brauchst ist ein bisschen Stärke und Geschwindigkeit um einen 
-
-guten Schlag zu treffen.';
+$l['fists-description'] = 'Auch wenn du kein Boxer bist kannst du trotzdem hart zuschlagen. Alles was du brauchst ist ein bisschen Stärke und Geschwindigkeit um einen guten Schlag zu treffen.';
 $l['brass_knuckles'] = '350K Schlagring';
-$l['brass_knuckles-description'] = 'Schlagringe werden seit hunderten von Jahren benutzt. Sie konzentrieren ihre Kraft auf kleine Stellen des Körpers um die Chance auf 
-
-Verletzungen zu Erhöhen. Wenn man hart genug schlägt kann man sogar Knochen Verletzen..';
+$l['brass_knuckles-description'] = 'Schlagringe werden seit hunderten von Jahren benutzt. Sie konzentrieren ihre Kraft auf kleine Stellen des Körpers um die Chance auf Verletzungen zu Erhöhen. Wenn man hart genug schlägt kann man sogar Knochen Verletzen..';
 $l['moneybundle'] = 'Geldbündel';
 $l['moneybundle-description'] = 'Geld zusammen binden ist so alt wie Geld selbst. Leute damit zu schlagen ist etwas das reiche Leute schon sehr lange machen..';
 $l['barbedwire'] = 'Baseballschläger';
@@ -257,49 +232,27 @@ $l['barbedwire-description'] = 'Ein Schläger zum Home-Runs machen.';
 $l['kabar'] = 'URSA Messer';
 $l['kabar-description'] = 'Das URSA Messer ist ein verlässliches Messer das man seit 1942 benutzt. Bowie Klinge, gezackte Klinge, kein Blödsinn. Ein Klassiker.';
 $l['kampfmesser'] = 'Krieger Klinge';
-$l['kampfmesser-description'] = 'Das Krieger Messer ist das Standard Messer der deutschen Armee. Großartiger Grip und die Tanto Klinge macht es zu einer exelenten 
-
-Wahl.';
+$l['kampfmesser-description'] = 'Das Krieger Messer ist das Standard Messer der deutschen Armee. Großartiger Grip und die Tanto Klinge macht es zu einer exelenten Wahl.';
 $l['gerber'] = 'Berger Kampfmesser';
-$l['gerber-description'] = 'Das berger Kampfmesser ist ein sehr populäres Messer mit einer Ausklapbaren Klinge. Kompaktes Design und gute Materialien machen es zu 
-
-einem guten Messer.';
+$l['gerber-description'] = 'Das berger Kampfmesser ist ein sehr populäres Messer mit einer Ausklapbaren Klinge. Kompaktes Design und gute Materialien machen es zu einem guten Messer.';
 $l['rambo'] = 'Trautman Messer';
 $l['rambo-description'] = 'Das Trautman Messer ist ein Messer zum überleben mit einer harten bowie-Klinge. Es funktioniert in der Wildnis genauso wie im Kampf.';
 $l['shovel'] = 'K.L.A.S. Schaufel';
-$l['shovel-description'] = 'Die K.L.A.S. Schaufel wird aus verschiedenen Gründen vom Militär benutzt. Die Schaufel kann unter Überlebenkünstlern, Gärtner und anderen 
-
-Leuten gefunden werden. Es kann auch als Waffe eingesetzt werden, schärf die Ecken und du schneidest durch Fleisch und Knochen. Wenn du sie richtig benutzt, was du 
-
-nicht tust.';
+$l['shovel-description'] = 'Die K.L.A.S. Schaufel wird aus verschiedenen Gründen vom Militär benutzt. Die Schaufel kann unter Überlebenkünstlern, Gärtner und anderen Leuten gefunden werden. Es kann auch als Waffe eingesetzt werden, schärf die Ecken und du schneidest durch Fleisch und Knochen. Wenn du sie richtig benutzt, was du nicht tust.';
 $l['baton'] = 'Teleskopischer Stab';
-$l['baton-description'] = 'Die Lieblingswaffe eines jeden Räubers und Gesetzeshüter. Perfekt um Massen an Menschen zu kontrollieren. Die Vorteile gegenüber einem 
-
-fixiertem Stab sind zahllos. Leicht und agil um jedem aggresiven Menschen Angst zu machen.';
+$l['baton-description'] = 'Die Lieblingswaffe eines jeden Räubers und Gesetzeshüter. Perfekt um Massen an Menschen zu kontrollieren. Die Vorteile gegenüber einem fixiertem Stab sind zahllos. Leicht und agil um jedem aggresiven Menschen Angst zu machen.';
 $l['tomahawk'] = 'Überlebens-Tomahawk';
-$l['tomahawk-description'] = 'Historisch als Hilfsmittel, um es zu werfen oder um Leute damit zu schlagen benutzt. Es ist außerdem ein Werkzeug, mit dem man z. B. 
-
-Türen öffen kann. Wird aber mehr als Waffe eingesetzt.';
+$l['tomahawk-description'] = 'Historisch als Hilfsmittel, um es zu werfen oder um Leute damit zu schlagen benutzt. Es ist außerdem ein Werkzeug, mit dem man z. B. Türen öffen kann. Wird aber mehr als Waffe eingesetzt.';
 $l['becker'] = 'Machete';
-$l['becker-description'] = 'Die Machete hate eine lange Klinge die üblicherweise im Dschungel oder für aggresivere Dinge benutzt wird. Es gibt auch viele Leute die sie 
-
-für etwas anderes benutzen, wie zum Beispiel um Schädel zu knacken oder eine Bank zu überfallen.';
+$l['becker-description'] = 'Die Machete hate eine lange Klinge die üblicherweise im Dschungel oder für aggresivere Dinge benutzt wird. Es gibt auch viele Leute die sie für etwas anderes benutzen, wie zum Beispiel um Schädel zu knacken oder eine Bank zu überfallen.';
 $l['bayonet'] = 'Bayonet';
-$l['bayonet-description'] = 'Der kleine Ring macht das Bayonet zu einem guten Werkzug im klassichen Krieg. Ursprünglich gedacht, um es an Gewehre zu befastiegen und 
-
-diese als Speer zu benutzen, passt diese Bayonett in die Hosentasche und kommt schnell zum vorschein.';
+$l['bayonet-description'] = 'Der kleine Ring macht das Bayonet zu einem guten Werkzug im klassichen Krieg. Ursprünglich gedacht, um es an Gewehre zu befastiegen und diese als Speer zu benutzen, passt diese Bayonett in die Hosentasche und kommt schnell zum vorschein.';
 $l['bullseye'] = 'Beil';
-$l['bullseye-description'] = 'Das Beil ist aus einem einzigen Stück Stahl gemacht mit einem Gummigriff.<br/><br/>Ich weis nicht mal ehrlich, wie ich es sagen soll, 
-
-aber das Beil würde ich nur zum Kämpfen wie ein Pyscho verwenden. Ich meine, damit schläg man Köperteile ab, raubt aber keine Bank aus. Oder?';
+$l['bullseye-description'] = 'Das Beil ist aus einem einzigen Stück Stahl gemacht mit einem Gummigriff.<br/><br/>Ich weis nicht mal ehrlich, wie ich es sagen soll, aber das Beil würde ich nur zum Kämpfen wie ein Pyscho verwenden. Ich meine, damit schläg man Köperteile ab, raubt aber keine Bank aus. Oder?';
 $l['x46'] = 'X-46-Messer';
-$l['x46-description'] = 'Das X-46 ist ein 6 Zoll langes Stück keramick mit A2 Eisenkern und einer extrahalterung am Handgriffende. Gegen Wachen und Glass ist es der 
-
-Tipp. Seine Vielseitige Verwendung macht es sowohl im Krieg als auch in Notfällen nützlich.';
+$l['x46-description'] = 'Das X-46 ist ein 6 Zoll langes Stück keramick mit A2 Eisenkern und einer extrahalterung am Handgriffende. Gegen Wachen und Glass ist es der Tipp. Seine Vielseitige Verwendung macht es sowohl im Krieg als auch in Notfällen nützlich.';
 $l['dingdong'] = 'Ding Dong Brecheisen';
-$l['dingdong-description'] = 'Das Ding Dong Brecheisen ist eigentlich ein tacktischer Vorschlaghammer. Er wurde als Brechwerkzeug, Ramwerkzeug und Öffner benutzt. 
-
-Vermutlich wirs du es am meisten benutzten, um Köpfe zu öffnen. Guter Schaden & Umwerfchance, aber langsam zu Schwingen.';
+$l['dingdong-description'] = 'Das Ding Dong Brecheisen ist eigentlich ein tacktischer Vorschlaghammer. Er wurde als Brechwerkzeug, Ramwerkzeug und Öffner benutzt. Vermutlich wirs du es am meisten benutzten, um Köpfe zu öffnen. Guter Schaden & Umwerfchance, aber langsam zu Schwingen.';
 ////Grenades
 $l['frag-grenade'] = 'Fragmentgranade';
 ////Gadgets
@@ -310,9 +263,7 @@ $l['doctor_bag-description'] = 'Die Arzttasche ist eine transportable Tasche, di
 $l['trip_mine'] = 'Stolperminen';
 $l['trip_mine-description'] = 'Stolperminen sind explosive Werkzeuge und darauf ausgelegt, Tresore und einzelne Gegner, die eine Mine auslösen, auszuschalten.';
 $l['sentry_gun'] = 'Sentry Gun';
-$l['sentry_gun-description'] = 'Die Sentry Gun ist ein Werkzeug, welches selbstständig Gegner anvisiert und beschießt. Historisch gesehen werden Sentry Guns von 
-
-Militär genutzt, um feindliche Raketen oder Flugzeuge abzuschießen.';
+$l['sentry_gun-description'] = 'Die Sentry Gun ist ein Werkzeug, welches selbstständig Gegner anvisiert und beschießt. Historisch gesehen werden Sentry Guns von Militär genutzt, um feindliche Raketen oder Flugzeuge abzuschießen.';
 $l['ecm_jammer'] = 'ECM-Störsender';
 $l['ecm_jammer-description'] = 'Elektronische Gegenmaßen (engl. electronic countermeasure (ECM)) werden durch diese Gerät ermöglicht. Das umfasst das Stör von Radar, Sonar und anderen Erkennungsgerätschaften.';
 ////Armor
@@ -639,28 +590,20 @@ $l['controlfreak'] = 'Kontrollfreak';
 $l['controlfreak-normal'] = 'Von die erzeugter Lärm schüchtert Zivilisten ein.';
 $l['controlfreak-ace'] = 'Zivilisten bleiben <div class="bluein">50%</div> länger eingeschüchtert.';
 $l['pistolmessiah'] = 'Pistolen-Messias';
-$l['pistolmessiah-normal'] = 'Während du verblutest, wirst du sofort wiederbelebt, wenn du einen Gegner mit einer Pistole tötest. Du hast nur <div 
-
-class="bluein">1</div> Ladung. Deine Ladung wird erneuert, wenn du aus der Haft entlassen wirst.';
+$l['pistolmessiah-normal'] = 'Während du verblutest, wirst du sofort wiederbelebt, wenn du einen Gegner mit einer Pistole tötest. Du hast nur <div class="bluein">1</div> Ladung. Deine Ladung wird erneuert, wenn du aus der Haft entlassen wirst.';
 $l['pistolmessiah-ace'] = 'Du erhälst <div class="bluein">2</div> weitere Ladungen. Deine Ladungen werden erneuert, wenn du aus der Haft entlassen wirst.';
 $l['inspire'] = 'Anfeuern';
-$l['inspire-normal'] = 'Du kannst deine Crewmitglieder <div class="bluein">50%</div> schenller wiederbeleben. Wenn du deine Crewmitglieder anschreist, werden sie für 
-
-<div class="bluein">10</div> Sekunden <div class="bluein">20%</div> schneller.';
+$l['inspire-normal'] = 'Du kannst deine Crewmitglieder <div class="bluein">50%</div> schenller wiederbeleben. Wenn du deine Crewmitglieder anschreist, werden sie für <div class="bluein">10</div> Sekunden <div class="bluein">20%</div> schneller.';
 $l['inspire-ace'] = 'Du kannst deine Crewmitglieder mit <div class="bluein">75%</div> Wahrscheinlichkeit durch Anschrein aus der Entfernung wiederbeleben.';
 $l['blackmarketeer'] = 'Schwarzmarkthändler';
 $l['blackmarketeer-normal'] = 'Reduziert die Kosten aller zukünftigen Einkäufe um <div class="bluein">10%</div>.';
-$l['blackmarketeer-ace'] = 'Reduziert alle weitern Einkäufe um weitereb <div class="bluein">20%</div>. Auch Verkäufe sind jetzt <div class="bluein">25%</div> 
-
-lukrativer.';
+$l['blackmarketeer-ace'] = 'Reduziert alle weitern Einkäufe um weitereb <div class="bluein">20%</div>. Auch Verkäufe sind jetzt <div class="bluein">25%</div> lukrativer.';
 $l['gunslinger'] = 'Revolverheld';
 $l['gunslinger-normal'] = 'Du lädst Pistolen <div class="bluein">50%</div> schneller nach.';
 $l['gunslinger-ace'] = 'Deine Pistoen  verursachen <div class="bluein">50%</div> mehr Schaden.';
 $l['kilmer'] = 'Kilmer';
 $l['kilmer-normal'] = 'Erhöht deine Nachlade-Geschwindigkeit mit Sturmgewehren um <div class="bluein">25%</div>.';
-$l['kilmer-ace'] = 'Dine Waffengenauigkeit mit Sturmgewehren in der Bewegung wird erhöht um <div class="bluein">50%</div>. Rennen und nachladen - du kannst jetzt 
-
-während des Renens nachladen.';
+$l['kilmer-ace'] = 'Dine Waffengenauigkeit mit Sturmgewehren in der Bewegung wird erhöht um <div class="bluein">50%</div>. Rennen und nachladen - du kannst jetzt während des Renens nachladen.';
 $l['stockholmsyndrome'] = 'Stockholm-Syndrom';
 $l['stockholmsyndrome-normal'] = 'Zivilisten in der Nähe haben die Chance, dich wiederzubeleben, wenn du mit ihnen interagierst.';
 $l['stockholmsyndrome-ace'] = 'Zivilisten, die dich wiederbeleben, haben die Chance, dir Munition zu geben.';
@@ -668,22 +611,16 @@ $l['combatdoctor'] = 'Feldarzt';
 $l['combatdoctor-normal'] = 'Du kannst jetzt <div class="bluein">2</div> Arzttaschen hinlegen statt nur einer.';
 $l['combatdoctor-ace'] = 'Deine Arzttaschen haben <div class="bluein">2</div> weitere Ladungen.';
 $l['joker'] = 'Joker';
-$l['joker-normal'] = 'Du kannst einen Gegner umdrehen, damit er auf deiner Seite kämpft. Gilt nicht für Spezial-Gegner und nicht in Stealth. Der Gegner muss sich 
-
-ergeben haben, damit du ihn umdrehen kannst. Du kannst nur einen umgedrehten Gegner gleichzeitig haben.';
+$l['joker-normal'] = 'Du kannst einen Gegner umdrehen, damit er auf deiner Seite kämpft. Gilt nicht für Spezial-Gegner und nicht in Stealth. Der Gegner muss sich ergeben haben, damit du ihn umdrehen kannst. Du kannst nur einen umgedrehten Gegner gleichzeitig haben.';
 $l['joker-ace'] = 'Der umgedrehte Gegner erhält <div class="bluein">55%</div> mehr Gesundheit und verursacht <div class="bluein">45%</div> mehr Schaden.';
 $l['spotter'] = 'Aufklärer';
 $l['spotter-normal'] = 'Von dir markierte Spezial-Gegener erleiden <div class="bluein">15%</div> mehr Schaden.';
 $l['spotter-ace'] = 'Schaltet den Aufklärer-Vorteil im Job-Übersichts-Menü frei. Im Stealth wird der Aufklärer für dich und deine Crew Wachen makieren.';
 $l['equilibrium'] = 'Equilibrium';
-$l['equilibrium-normal'] = 'Erhöht die Genauigkeit deiner Pistolen um <div class="bluein">10%</div> und du kannst Pistolen <div class="bluein">50%</div> schneller 
-
-ziehen und wegstecken.';
+$l['equilibrium-normal'] = 'Erhöht die Genauigkeit deiner Pistolen um <div class="bluein">10%</div> und du kannst Pistolen <div class="bluein">50%</div> schneller ziehen und wegstecken.';
 $l['equilibrium-ace'] = 'Erhöht die Feuerrate deiner Pistolen um <div class="bluein">100%</div>.';
 $l['dominator'] = 'Bezwinger';
-$l['dominator-normal'] = 'Du und deine Crew könnt jetzt einen Gegner einshcüchtern, um ihn als Geisle zu nehmen. Gilt nicht für Spezial-Gegner. Weniger gut 
-
-ausgebildete Gegner sind leichter einzuschüchtern.';
+$l['dominator-normal'] = 'Du und deine Crew könnt jetzt einen Gegner einshcüchtern, um ihn als Geisle zu nehmen. Gilt nicht für Spezial-Gegner. Weniger gut ausgebildete Gegner sind leichter einzuschüchtern.';
 $l['dominator-ace'] = 'Macht und Reichweite deiner Einschüchterung erhöhen sich um <div class="bluein">50%</div>.';
 $l['insideman'] = 'Inside Man';
 $l['insideman-normal'] = 'Reduziert die Kosten im Job-Übersicht-Menü um <div class="bluein">50%</div>.';
@@ -698,35 +635,23 @@ $l['cableguy'] = 'Kabelmann';
 $l['cableguy-normal'] = 'Du fesselst Geislen <div class="bluein">75%</div> schneller.';
 $l['cableguy-ace'] = 'Erhöht deinen Vorrat an Kabelbinder um <div class="bluein">4</div>.';
 $l['combatmedic'] = 'Sanitäter';
-$l['combatmedic-normal'] = 'Für das Wiederbeleben eines Crewmitgliedes verursacht du für <div class="bluein">10</div> Sekunden <div class="bluein">25%</div> mehr 
-
-Schadens.';
+$l['combatmedic-normal'] = 'Für das Wiederbeleben eines Crewmitgliedes verursacht du für <div class="bluein">10</div> Sekunden <div class="bluein">25%</div> mehr Schadens.';
 $l['combatmedic-ace'] = 'Wenn Du ein Crewmitglied wiederbelebst, gibst du <div class="bluein">30%</div> mehr Gesundheit.';
 $l['endurance'] = 'Durchhaltevermögen';
 $l['endurance-normal'] = 'Erhöht deine Ausdauer um <div class="bluein">100%</div>.';
 $l['endurance-ace'] = 'Erhöht deine Ausdauer und die deiner Crew um <div class="bluein">50%</div>.';
 $l['unlockmastermind'] = 'Mastermind freischalten';
-$l['unlockmastermind-normal'] = 'Der Mastermind ist ein manipukativer Anführer, der sich dadurch auszeichn et, jede Situation zu beherrschen. Der erst Punkt im 
-
-Mastermind-Fertigkeitsbaum schaltet die Fähigkeit frei, die Arzttasche einzusetzten. Mit Hilfe der Arzttasche regeneriert sich die Gesundheit. Die Arzttasche verfügt 
-
-im Grundzustand über <div class="bluein">2</div> Ladungen.';
+$l['unlockmastermind-normal'] = 'Der Mastermind ist ein manipukativer Anführer, der sich dadurch auszeichn et, jede Situation zu beherrschen. Der erst Punkt im Mastermind-Fertigkeitsbaum schaltet die Fähigkeit frei, die Arzttasche einzusetzten. Mit Hilfe der Arzttasche regeneriert sich die Gesundheit. Die Arzttasche verfügt im Grundzustand über <div class="bluein">2</div> Ladungen.';
 //Enforcer
 $l['overkill'] = 'Overkill';
-$l['overkill-normal'] = 'Tötest du einen Gegner mit einer Schrottflinte oder der Säge, verursachst du mit diesen Waffen <div class="bluein">5</div> Sekunden lang <div 
-
-class="bluein">75%</div> mehr Schaden.';
+$l['overkill-normal'] = 'Tötest du einen Gegner mit einer Schrottflinte oder der Säge, verursachst du mit diesen Waffen <div class="bluein">5</div> Sekunden lang <div class="bluein">75%</div> mehr Schaden.';
 $l['overkill-ace'] = 'Der Schadensbonus gilt jetzt für alle Waffen. Fertigkeit muss durch eine Schrotflinte oder Säge ausgelöst werden.';
 $l['ironman'] = 'Iron Man';
 $l['ironman-normal'] = 'Du kannst jetzt die verbesserte taktische Panzerweste tragen.';
-$l['ironman-ace'] = 'Dein Nahkampfangriff stößt durch seine schiere ucht Schild-Gegner zurück. Rennen und schießen - du kannst jetzt beim Rennen aus der Hüfte 
-
-schießen.';
+$l['ironman-ace'] = 'Dein Nahkampfangriff stößt durch seine schiere ucht Schild-Gegner zurück. Rennen und schießen - du kannst jetzt beim Rennen aus der Hüfte schießen.';
 $l['carbonblade'] = 'Karbonsägeblatt';
 $l['carbonblade-normal'] = 'Der Einsatz von Karbon-Sägeblätern erhöht die Effizienz deiner Säge um <div class="bluein">20%</div>.';
-$l['carbonblade-ace'] = 'Beim Angrifen von Gegner nutzt sich deine OVE9000 Handkreissäge <div class="bluein">50%</div> weniger ab. Die Sägewirkung erhöht sich um <div 
-
-class="bluein">20%</div>.';
+$l['carbonblade-ace'] = 'Beim Angrifen von Gegner nutzt sich deine OVE9000 Handkreissäge <div class="bluein">50%</div> weniger ab. Die Sägewirkung erhöht sich um <div class="bluein">20%</div>.';
 $l['hardboiled'] = 'Abgebrüht';
 $l['hardboiled-normal'] = 'Die Genauigkeit deiner Schrotflinten beim Schießen aus der Hüfte erhöht sich um <div class="bluein">20%</div>.';
 $l['hardboiled-ace'] = 'Die Genauigkeit aus der Hüfte all deiner Waffen erhöht sich um <div class="bluein">20%</div>.';
@@ -743,12 +668,8 @@ $l['ammospecialist'] = 'Spezialist für Munition';
 $l['ammospecialist-normal'] = 'Du kannst jetzt <div class="bluein">2</div> Munitionstaschen hinlegen statt nur einer.';
 $l['ammospecialist-ace'] = 'Deine Munitionstaschen haben <div class="bluein">200%</div> mehr Munition.';
 $l['berserker'] = 'Berserker';
-$l['berserker-normal'] = 'Wenn deine Gesundheit niedriger als <div class="bluein">25%</div> ist, verursachen deine Säge und Nahkampfangriffe max. <div 
-
-class="bluein">250%</div> mehr Schaden. Je niedriger deine Gesundheit, desto größer der Bonus';
-$l['berserker-ace'] = 'Wenn deine Gesundheit niedriger als <div class="bluein">25%</div> ist, verursachen deine Distanzwaffen max. <div class="bluein">100%</div> mehr 
-
-Schaden.';
+$l['berserker-normal'] = 'Wenn deine Gesundheit niedriger als <div class="bluein">25%</div> ist, verursachen deine Säge und Nahkampfangriffe max. <div class="bluein">250%</div> mehr Schaden. Je niedriger deine Gesundheit, desto größer der Bonus';
+$l['berserker-ace'] = 'Wenn deine Gesundheit niedriger als <div class="bluein">25%</div> ist, verursachen deine Distanzwaffen max. <div class="bluein">100%</div> mehr Schaden.';
 $l['shotgunimpact'] = 'Schrotflinten-Einschlag';
 $l['shotgunimpact-normal'] = 'Die Stabilität deiner Schrotflinten erhöht sich um <div class="bluein">25%</div>.';
 $l['shotgunimpact-ace'] = 'Deine Schrottflinten verursachen <div class="bluein">35%</div> mehr Schaden.';
@@ -771,17 +692,13 @@ $l['oppressor'] = 'Unterdrücker';
 $l['oppressor-normal'] = 'Deine Waffen bedrohen Gegner <div class="bluein">25%</div> mehr.';
 $l['oppressor-ace'] = 'Deine Waffen bedrohen Gegner <div class="bluein">50%</div> mehr.';
 $l['bulletstorm'] = 'Kugelhagel';
-$l['bulletstorm-normal'] = 'Wenn Du eine Munitionstasche hinlegst, kannst du <div class="bluein">5</div> Sekunden lang schießen, ohne Munition zu verbrauchen.;
+$l['bulletstorm-normal'] = 'Wenn Du eine Munitionstasche hinlegst, kannst du <div class="bluein">5</div> Sekunden lang schießen, ohne Munition zu verbrauchen.';
 $l['bulletstorm-ace'] = 'Du kannst weitere <div class="bluein">5</div> Sekunden schießen, ohne Munition zu verbrauchen.';
 $l['transporter'] = 'Transporter';
 $l['transporter-normal'] = 'Du bewegst dich beim Tragen von Taschen <div class="bluein">50%</div> schneller.';
 $l['transporter-ace'] = 'Du kannst Taschen <div class="bluein">50%</div> weiter werfen.';
 $l['unlockenforcer'] = 'Vollstracker freischalten';
-$l['unlockenforcer-normal'] = 'Der Vollstreker ist ein rücksichtloser Krimineller, der sich für gewöhnlich von Verbrechersyndikaten für Jobs angeheuert wird, die sonst 
-
-niemand durchführen kann. Der erste Punkt im Vollstrecker-Fähigkeitsbaum schaltet die Möglichkeit frei, Munitionstaschen zu platziren. Die Munitionstasche kann dafür 
-
-verwendet werden, sich Munition zu verschaffen.';
+$l['unlockenforcer-normal'] = 'Der Vollstreker ist ein rücksichtloser Krimineller, der sich für gewöhnlich von Verbrechersyndikaten für Jobs angeheuert wird, die sonst niemand durchführen kann. Der erste Punkt im Vollstrecker-Fähigkeitsbaum schaltet die Möglichkeit frei, Munitionstaschen zu platziren. Die Munitionstasche kann dafür verwendet werden, sich Munition zu verschaffen.';
 //Technician
 $l['sentrytowerdefence'] = 'Senty-Turmabwehr';
 $l['sentrytowerdefence-normal'] = 'Du kannst jetzt <div class="bluein">2</div> Sentry Guns aufstellen statt nur einer.';
@@ -800,9 +717,7 @@ $l['shapedcharge-normal'] = 'Fügt deinem Inventar <div class="bluein">3</div> S
 $l['shapedcharge-ace'] = 'Stolperminen können jetzt zu Hohlladungen umfunktioniert werden, um bestimte Tresore und Türen aufzusprengen..';
 $l['shockproof'] = 'Schocksicher';
 $l['shockproof-normal'] = 'Taser-Angriffe auf dich gehen nach hinten los und stoßen den Taser zurück.';
-$l['shockproof-ace'] = 'Interagieren mit einem Taser, der dich unter Strom setzt, setzt ihn selbst unter Strom und fügt seiner Gesundheit <div class="bluein">50%</div> 
-
-Schaden zu.';
+$l['shockproof-ace'] = 'Interagieren mit einem Taser, der dich unter Strom setzt, setzt ihn selbst unter Strom und fügt seiner Gesundheit <div class="bluein">50%</div> Schaden zu.';
 $l['sentrytargetingpackage'] = 'Sentry-Zielübungen';
 $l['sentrytargetingpackage-normal'] = 'Die Genauigkeit deiner Sentry Gun erhöht sich um <div class="bluein">50%</div>.';
 $l['sentrytargetingpackage-ace'] = 'Deine Sentry Gun dreht sich <div class="bluein">150%</div> schneller.';
@@ -810,9 +725,7 @@ $l['blastradius'] = 'Exlosionsradius';
 $l['blastradius-normal'] = 'Der Explosionsradius deiner Minen erhöht sich um <div class="bluein">25%</div>.';
 $l['blastradius-ace'] = 'Der Radius erhöht sich um weiter <div class="bluein">75%</div>.';
 $l['silentdrilling'] = 'Leises Bohren';
-$l['silentdrilling-normal'] = 'Dein Bohrer macht <div class="bluein">65%</div> weniger Lärm. Es ist weniger wahrscheinlich, dass Zivilisten oder Wachen deinen Bohrer 
-
-hören und Alarm schlagen.';
+$l['silentdrilling-normal'] = 'Dein Bohrer macht <div class="bluein">65%</div> weniger Lärm. Es ist weniger wahrscheinlich, dass Zivilisten oder Wachen deinen Bohrer hören und Alarm schlagen.';
 $l['silentdrilling-ace'] = 'Dein Bohrer ist geräuschlos. Zivilisten und Wachen müssen ihn sehen um Alarm auszulösen.';
 $l['sentrygun'] = 'Sentry Gun';
 $l['sentrygun-normal'] = 'Schaltet die Sentry Gun für ich frei.';
@@ -831,9 +744,7 @@ $l['combatengineer-normal'] = 'Du kannst Stolperminen ein- und ausschalten.';
 $l['combatengineer-ace'] = 'Deine Stolperminen erhalten einen Sensormodus.';
 $l['hardwareexpert'] = 'Mechatroniker';
 $l['hardwareexpert-normal'] = 'You fix the drill <div class="bluein">25%</div> faster and you also deploy trip mines <div class="bluein">20%</div> faster.';
-$l['hardwareexpert-ace'] = 'Es besteht die <div class="bluein">30%</div> Chance , dass der Bohrer ach einem Versagen automatischh neu startet. Außerdem kannst du die 
-
-Sentry Gun <div class="bluein">50%</div> schneller einsetzen.';
+$l['hardwareexpert-ace'] = 'Es besteht die <div class="bluein">30%</div> Chance , dass der Bohrer ach einem Versagen automatischh neu startet. Außerdem kannst du die Sentry Gun <div class="bluein">50%</div> schneller einsetzen.';
 $l['rifleman'] = 'Gewehrschütze';
 $l['rifleman-normal'] = 'Du wechselt <div class="bluein">100%</div> schneller zur Zielvorrichtung bei Scharfschützen- und Sturmgewehren.';
 $l['rifleman-ace'] = 'Dein Zoom-Faktor bei Scharfschützen- und Sturmgewehren erhöht sich um <div class="bluein">25%</div>.';
@@ -844,23 +755,13 @@ $l['nervesofsteel'] = 'Nerven aus Stahl';
 $l['nervesofsteel-normal'] = 'Du nimmst <div class="bluein">50%</div> weniger Schaden, wenn du mit Objekten interagierst.';
 $l['nervesofsteel-ace'] = 'Du kannst beim Verbluten jetzt die Zielvorrichtung verwenden.';
 $l['unlocktechnician'] = 'Techniker freischalten';
-$l['unlocktechnician-normal'] = 'Der Techniker ist Fachmann für die praktische Seite der Kriminalwissenschaft und freut sich über alles, was BUMM! macht. Der erste 
-
-Punkt im Techniker-Fähigkeitsbaum schaltet die Fähigkeit frei, Stolperminen zu legen. Sie können verwendet werden, um Dinge in die Luft zu jagen, seien es Menschen 
-
-oder Tresore. <div class="bluein">2</div> Stolperminen werden deinem Inventar hinzugefügt.';
+$l['unlocktechnician-normal'] = 'Der Techniker ist Fachmann für die praktische Seite der Kriminalwissenschaft und freut sich über alles, was BUMM! macht. Der erste Punkt im Techniker-Fähigkeitsbaum schaltet die Fähigkeit frei, Stolperminen zu legen. Sie können verwendet werden, um Dinge in die Luft zu jagen, seien es Menschen oder Tresore. <div class="bluein">2</div> Stolperminen werden deinem Inventar hinzugefügt.';
 //Ghost
 $l['cameraloop'] = 'Kameraschleife';
-$l['cameraloop-normal'] = 'Wenn du aus der Nähe mit einer Kamera interagierst, wird sie vorübergehend eine Aufnahme-Schleife sehen für die nächsten <div 
-
-class="bluein">10</div> Sekunden, so dass du an ihr vorbei schleichen kannst. Deine Crew kann nur <div class="bluein">1</div> Kamera gleichzeitig in Schleife haben.';
+$l['cameraloop-normal'] = 'Wenn du aus der Nähe mit einer Kamera interagierst, wird sie vorübergehend eine Aufnahme-Schleife sehen für die nächsten <div class="bluein">10</div> Sekunden, so dass du an ihr vorbei schleichen kannst. Deine Crew kann nur <div class="bluein">1</div> Kamera gleichzeitig in Schleife haben.';
 $l['cameraloop-ace'] = 'Die Dauer der Kamera-Schleife erhöht sich um <div class="bluein">10</div> Sekunden.';
 $l['ecmfeedback'] = 'ECM-Feedback';
-$l['ecmfeedback-normal'] = 'Interagiere sofort mit ECM-Störsendern, um eine Rückkopplung zu erzeugen. Es besteht die <div class="bluein">50%-100%</div> Chance, Feinde 
-
-innerhalb von <div class="bluein">25</div> alle <div class="bluein">1.5</div> Sek. außer Gefecht zu setzen. ECM-Rückkopplungen halten <div class="bluein">15-20</div> 
-
-Sek. an.';
+$l['ecmfeedback-normal'] = 'Interagiere sofort mit ECM-Störsendern, um eine Rückkopplung zu erzeugen. Es besteht die <div class="bluein">50%-100%</div> Chance, Feinde innerhalb von <div class="bluein">25</div> alle <div class="bluein">1.5</div> Sek. außer Gefecht zu setzen. ECM-Rückkopplungen halten <div class="bluein">15-20</div> Sek. an.';
 $l['ecmfeedback-ace'] = 'Interagiere sofort mit ECM-Störsendern. Dauer der ECM-Rückkopplung erhöt sich um <div class="bluein">25%</div>.';
 $l['movingtarget'] = 'Bewegtes Ziel';
 $l['movingtarget-normal'] = 'Du kannst seitwärts rennen.';
@@ -873,22 +774,16 @@ $l['ecmoverdrive-normal'] = 'Die Dauer deinens ECM-Störsender erhöht sich um <
 $l['ecmoverdrive-ace'] = 'Dein ECM-Störsender kann nun bestimmt Türen öffnen.';
 $l['professional'] = 'Der Profi';
 $l['professional-normal'] = 'Die Stabilität deiner schallgedämpften Waffen erhöht sich um <div class="bluein">50%</div>.';
-$l['professional-ace'] = 'Die Genauigkeit deiner schallgedämpften Waffen erhöht sich um <div class="bluein">50%</div> und der Wechsel zur Zielvorrichtung ist <div 
-
-class="bluein">100%</div> schneller.';
+$l['professional-ace'] = 'Die Genauigkeit deiner schallgedämpften Waffen erhöht sich um <div class="bluein">50%</div> und der Wechsel zur Zielvorrichtung ist <div class="bluein">100%</div> schneller.';
 $l['ninelives'] = 'Neun Leben';
 $l['ninelives-normal'] = 'Du kannst <div class="bluein">1</div> Mal mehr verbluten, bevor du in Haft kommst.';
 $l['ninelives-ace'] = 'Wenn du verblutest, besteht die <div class="bluein">10%</div> Chance, dass du direkt wieder aufstehst.';
 $l['ecmspecialist'] = 'ECM-Specialist';
 $l['ecmspecialist-normal'] = 'Du kannst <div class="bluein">2</div> anstatt einen ECM-Störsender setzen.';
-$l['ecmspecialist-ace'] = 'Der ECM-Störsender hält <div class="bluein">25%</div> und die ECM-Rückkopplung <div class="bluein">25%</div> länger. Der ECM-Störsender 
-
-unterdrückt die Pagerbeantwortung, solange er aktiv ist.';
+$l['ecmspecialist-ace'] = 'Der ECM-Störsender hält <div class="bluein">25%</div> und die ECM-Rückkopplung <div class="bluein">25%</div> länger. Der ECM-Störsender unterdrückt die Pagerbeantwortung, solange er aktiv ist.';
 $l['silentkiller'] = 'Lautloser Killer';
 $l['silentkiller-normal'] = 'Deine Schalldämpfer versachen <div class="bluein">15%</div> mehr Scahden.';
-$l['silentkiller-ace'] = 'Deine Schalldämpfer versachen <div class="bluein">15%</div> mehr Schaden und haben eine <div class="bluein">15%</div> Chance, Panzerung zu 
-
-durchdringen.';
+$l['silentkiller-ace'] = 'Deine Schalldämpfer versachen <div class="bluein">15%</div> mehr Schaden und haben eine <div class="bluein">15%</div> Chance, Panzerung zu durchdringen.';
 $l['shinobi'] = 'Shinobi';
 $l['shinobi-normal'] = 'Deine Geschwindigkeit erhöht sich bei Gehen um <div class="bluein">25%</div> und geduckt um <div class="bluein">10%</div>.';
 $l['shinobi-ace'] = 'Gegner machen <div class="bluein">95%</div> weniger Lärm, wenn du sie erschießt oder im Nahkampf tötst.';
@@ -905,33 +800,16 @@ $l['chameleon'] = 'Chameleon';
 $l['chameleon-normal'] = 'Im Erkundungsmodus kannst du nun Wachen und Kameras markieren und deine Tarnung ist um <div class="bluein">25%</div> erhöht.';
 $l['chameleon-ace'] = 'In der nähe deiner Crewmitglieder verringert sich die Chance, dass Gegner auf dich zielen, um <div class="bluein">15%</div>.';
 $l['cleaner'] = 'Saubermann';
-$l['cleaner-normal'] = 'Du verursachst <div class="bluein">5%</div> mehr Scahden gegen Spezialgegner. Du kannst jetzt einen Leichensackvorteil kaufen, der <div 
-
-class="bluein">3</div> Leichensäcke beinhaltet und mit deiner Crew geteilt wird.';
+$l['cleaner-normal'] = 'Du verursachst <div class="bluein">5%</div> mehr Scahden gegen Spezialgegner. Du kannst jetzt einen Leichensackvorteil kaufen, der <div class="bluein">3</div> Leichensäcke beinhaltet und mit deiner Crew geteilt wird.';
 $l['cleaner-ace'] = '<div class="bluein">1</div> zusätzlicher Body Bag wird deinem Inventar hinzugefügt.';
 $l['deadpresidents'] = 'Dead Presidents';
 $l['deadpresidents-normal'] = 'Erhöht den Wert eingesammelter Beute um <div class="bluein">10%</div>.';
 $l['deadpresidents-ace'] = 'Erhöht den Wert eingesammelter Beute um <div class="bluein">20%</div>.';
 $l['sprinter'] = 'Sprinter';
-$l['sprinter-normal'] = 'Die Zeit, bevor sich deine Ausdauer regeneriert, wird um <div class="bluein">25%</div> verrringert, die Regenerationsrate um <div 
-
-class="bluein">25%</div> erhöht.';
+$l['sprinter-normal'] = 'Die Zeit, bevor sich deine Ausdauer regeneriert, wird um <div class="bluein">25%</div> verrringert, die Regenerationsrate um <div class="bluein">25%</div> erhöht.';
 $l['sprinter-ace'] = 'Du rennst <div class="bluein">25%</div> schneller. Wenn du rennst, ist Deine Chance auszuweichen um <div class="bluein">25%</div> erhöht.';
 $l['catburglar'] = 'Fassadenkletterer';
 $l['catburglar-normal'] = 'Der Sturtzschaden verringert sich um <div class="bluein">75%</div>.Gilt nicht bei tödlicher Höhe.';
-$l['catburglar-ace'] = 'Sturtzschaden geht nur auf deine Panzerung. Gilt nicht bei tödlicher Höhe. Die Zeit in der Haft reduziert sich um <div 
-
-class="bluein">50%</div>.';
+$l['catburglar-ace'] = 'Sturtzschaden geht nur auf deine Panzerung. Gilt nicht bei tödlicher Höhe. Die Zeit in der Haft reduziert sich um <div class="bluein">50%</div>.';
 $l['unlockghost'] = 'Geist freischalten';
-$l['unlockghost-normal'] = 'Der Geist ist ein Stealth-Künstler, der selbst große Diedstähle ohne Aufsehen gewaltlos durchführt. Der erste Punkt im Geist-
-Fertigkeitsbaum schaltet die Fähigkeit frei, elektronische Gegenmaßnahmen einzusetzten - auch ECM-Störung gennat -, die vorübergehend elektronische Geräte wie Handys 
-und kammeras lahmlegen können. <div class="bluein">1</div> ECM-Störsender wird deinem Inventar hinzugefügt Ein ECM-Störsender hält <div class="bluein">20</div> Sekunden.';
-////TEMPORARY
-//Crimefest
-$l['crimefest'] = 'Crimefest';
-$l['crimefest-more'] = 'mehr Gruppenmitgleider zum Freischalten';
-$l['gage-gun'] = 'eine Waffe von Gage';
-$l['gensec-enemy'] = 'neuer Gegner von Gensec';
-$l['time-of-day'] = 'Variation von Tageszeit in Aufträgen';
-$l['secret-unlock'] = 'Geheimes Zeug';
-$l['nothing'] = 'Nichts';
+$l['unlockghost-normal'] = 'Der Geist ist ein Stealth-Künstler, der selbst große Diedstähle ohne Aufsehen gewaltlos durchführt. Der erste Punkt im Geist-Fertigkeitsbaum schaltet die Fähigkeit frei, elektronische Gegenmaßnahmen einzusetzten - auch ECM-Störung gennat -, die vorübergehend elektronische Geräte wie Handys und Kameras lahmlegen können. <div class="bluein">1</div> ECM-Störsender wird deinem Inventar hinzugefügt Ein ECM-Störsender hält <div class="bluein">20</div> Sekunden.';
