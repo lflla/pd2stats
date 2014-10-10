@@ -57,7 +57,7 @@ $l['dlc-item-end'] = 'ITEM!';
 $l['infamous-item'] = 'DAS IST EIN BERÜCHTIGTES ITEM!';
 $l['custom-item'] = 'DAS IST EIN COMMUNITY-ITEM VON';
 //Errors
-$l['error-text1'] = 'ID nicht benutzt!'
+$l['error-text1'] = 'ID nicht benutzt!';
 $l['error-text2'] = 'ich bin der Fehler';
 $l['error-text3'] = 'Steam konnte nicht rechtzeitig antworten!';
 $l['error-text4'] = 'Keine Sucheingabe';
