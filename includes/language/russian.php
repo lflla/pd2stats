@@ -41,13 +41,13 @@ $l['steamgroup'] = 'Группа в Steam';
 $l['feedback'] = 'Обратная связь';
 $l['notice'] = 'Информация';
 //Service
-$l['servicestatus'] = 'Check Service Status';
-$l['vanitystatus'] = 'Player Vanity Status';
-$l['summarystatus'] = 'Player Summary Status';
+$l['servicestatus'] = 'Статус сервиса';
+$l['vanitystatus'] = 'URL статус игрока';
+$l['summarystatus'] = 'Общая статистика игрока';
 $l['ownershipstatus'] = 'Player Ownership Status';
-$l['statisticsstatus'] = 'Player Statistics Status';
-$l['offline'] = 'OFFLINE (Click eye for more information)';
-$l['online'] = 'ONLINE';
+$l['statisticsstatus'] = 'Статус Игровой Статистики';
+$l['offline'] = 'ВНЕ СЕТИ (Нажмите символ глаза для получения подробной информации)';
+$l['online'] = 'В СЕТИ';
 //Tags and Warnings
 $l['cflag'] = '[Читер]';
 $l['cflag-warning'] = 'индикаторы не всегда корректны ввиду наличия багов с уровнями и навыками в самой игре.';
