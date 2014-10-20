@@ -42,6 +42,7 @@ $l['feedback'] = 'Feedback';
 $l['notice'] = 'Menu';
 $l['ads'] = 'Advertisement';
 $l['switch'] = 'switch';
+$l['language'] = 'Language';
 //Itemindex
 $l['maskindex'] = 'maskindex';
 $l['weaponindex'] = 'weaponindex';
