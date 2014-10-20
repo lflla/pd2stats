@@ -238,6 +238,9 @@ array( 'Name' => $l['bear'], 'Image' => 'bear', 'Quality' => 'community', 'Extra
 array( 'Name' => $l['heat'], 'Image' => 'heat', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['heat-description'], 'Used' => $mask_used_heat),
 array( 'Name' => $l['santa_happy'], 'Image' => 'santa_happy', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['santa_happy-description'], 'Used' => $mask_used_santa_happy),
 array( 'Name' => $l['unicorn'], 'Image' => 'unicorn', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['unicorn-description'], 'Used' => $mask_used_unicorn),
+////Crimefest
+array( 'Name' => $l['combusto'], 'Image' => 'combusto', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['combusto-description'], 'Used' => $mask_used_combusto),
+array( 'Name' => $l['spackle'], 'Image' => 'spackle', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['zombie-description'], 'Used' => $mask_used_spackle),
 ////Lootbag
 array( 'Name' => $l['skull'], 'Image' => 'skull', 'Quality' => 'dlc', 'Extra' => 'LOOT BAG', 'Description' => $l['skull-description'], 'Used' => $mask_used_skull),
 ////Merry Soundtrack
