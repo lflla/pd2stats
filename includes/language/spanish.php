@@ -41,6 +41,15 @@ $l['steamgroup'] = 'Grupo Steam';
 $l['feedback'] = 'Feedback';
 $l['notice'] = 'Menú';
 $l['ads'] = 'Publicidad';
+$l['switch'] = 'cambiar';
+$l['languagetex'] = 'Idioma';
+//Itemindex
+$l['maskindex'] = 'Índice de máscara';
+$l['weaponindex'] = 'Índice de arma';
+$l['itemindexmenu'] = 'Índice de objeto';
+$l['gear'] = 'Equipo';
+$l['weaponlist'] = 'Lista de Armas';
+$l['masklist'] = 'Lista de Máscaras';
 //Service
 $l['servicestatus'] = 'Comprobar el Estado del Servicio';
 $l['vanitystatus'] = 'Estado del Jugador (Vanidad)';
@@ -82,6 +91,7 @@ $l['profile-link'] = 'Enlace Perfil';
 $l['question-box'] = 'Preguntas de Soporte';
 $l['feedback-meta'] = 'Este es el lugar para dejar sugerencias o preguntas sobre Payday 2 Estadísticas';
 //Stats Page
+$l['quality'] = 'Calidad';
 $l['comments'] = 'Comentarios';
 $l['comments-no-script'] = 'Por favor activa JavaScript para ver el';
 $l['comments-powered'] = 'comentarios ofrecidos por';
@@ -319,6 +329,11 @@ $l['santa_happy'] = 'Santa Feliz';
 $l['santa_happy-description'] = 'Santa, más conocido como Santa Claus, San Nicolás, Padre de la Navidad o Kris Kringle (¿?), es un hombre de grandes proporciones. Palabras como legendario, mítico, histórico o folclórico son las que mejor describen a este pedazo de hombre.<br/><br/>Esta mascara en particular es la de Santa Feliz. Gran sonrisa, con sus grandes mejillas rosadas y todo, cuando la lleves puesta conseguirás que hasta el Bulldozer más peligroso dibuje una sonrisa en su cara.';
 $l['unicorn'] = 'Peter';
 $l['unicorn-description'] = 'Peter es una gran leyenda y lleva siéndolo desde siempre. Una bestia con un gran y largo cuerno que le sale de la cabeza, Peter es conocido por todo el mundo como el animal que necesitas para alcanzar el arcoíris. Ahora, alcánzalo. Alcanza el jodido arcoíris. Ahora saboréalo.<br/><br/>Shh. Está bien. Lo hiciste bien.';
+//Crimefest
+$l['combusto'] = 'Pirómano';
+$l['combusto-description'] = 'Éste payaso era maestro de la pirotecnia, tenía un truco de magia en el que expulsaba fuego por la boca a un nivel que nadie podía igualarlo. Sus competidores, los cuales no eran conocidos en el mundillo de los payasos-que-expulsan-fuego, no estaban contentos con su éxito. Así que sabotearon su botella de trucos. Con quemaduras de tercer y unos ojos diabólicos, empezó a combatir el fuego con fuego, quemando vivo a los culpables. Pero no tenía suficiente, el odio pirómano residente en él era muy brillante, tanto, que ahora busca la manera de quemar el mundo entero.';
+$l['spackle'] = 'Spackle';
+$l['spackle-description'] = 'Hubo una vez una renombrada payasa llamada Spackle que era la mejor artista del maquillaje del momento. Conocida por sus habilidades para transformar completamente a la gente, se obsesionó con el arte. Usa so propia cara como un lienzo, fue poniendose una capa tras otra sin descanso, cada una de ellas más enrevesada que la anterior. La internaron en un asilo una vez descubrieron que había matado a cinco personas para hacerse ese maquillaje.';
 //Lootbag
 $l['skull'] = 'Calavera';
 $l['skull-description'] = 'Una máscara exclusiva que representa la muerte y la mortalidad.<br/><br/>Creado en el cielo como un regalo de los dioses a hombres y mujeres que creyeron en ellos, quienes crearon altares y predicaron sus creencias a lo largo y ancho de la tierra.<br/><br/>Gracias a todos ustedes por creer en nosotros! Nosotros os saludamos!!';
