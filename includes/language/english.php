@@ -41,6 +41,7 @@ $l['steamgroup'] = 'Steam Group';
 $l['feedback'] = 'Feedback';
 $l['notice'] = 'Menu';
 $l['ads'] = 'Advertisement';
+$l['switch'] = 'switch';
 //Itemindex
 $l['maskindex'] = 'maskindex';
 $l['weaponindex'] = 'weaponindex';
