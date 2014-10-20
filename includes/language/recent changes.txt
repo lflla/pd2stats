@@ -1,7 +1,7 @@
 20.10.2014
 at end of menu was added:
 $l['switch'] = 'switch';
-$l['language'] = 'Language';
+$l['languagetex'] = 'Language';
 
 //Itemindex
 $l['maskindex'] = 'maskindex';
