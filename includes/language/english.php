@@ -754,7 +754,7 @@ $l['bulletproof-normal'] = 'Improves your armor so you can absorb <div class="bl
 $l['bulletproof-ace'] = 'The armor recovery rate of you and your crew is increased by <div class="bluein">25%</div>.';
 $l['sentrycombatupgrade'] = 'Sentry Combat Upgrade';
 $l['sentrycombatupgrade-normal'] = 'Your sentry gun receives <div class="bluein">50%</div> extra ammunition.';
-$l['sentrycombatupgrade-ace'] = 'Your sentry gun recieves <div class="bluein">50% extra ammunition. You can now reload your sentry gun with your own ammo.';
+$l['sentrycombatupgrade-ace'] = 'Your sentry gun recieves <div class="bluein">50%</div> extra ammunition. You can now reload your sentry gun with your own ammo.';
 $l['shapedcharge'] = 'Shaped Charge';
 $l['shapedcharge-normal'] = 'Adds <div class="bluein">3</div> more trip mines to your inventory.';
 $l['shapedcharge-ace'] = 'Trip mines can now be converted to shaped charges, used to breach certain safes and doors.';
