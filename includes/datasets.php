@@ -577,7 +577,6 @@ array_sort_by_column($weapons_grenades, 'Used');
 array_sort_by_column($armor, 'Used');
 array_sort_by_column($gadgets, 'Used');
 array_sort_by_column($masks, 'Used');
-array_sort_by_column($masks_quality, 'Quality');
 //Temporary
 array_sort_by_column($weapons_primary_kills, 'Kills');
 array_sort_by_column($weapons_secondary_kills, 'Kills');
@@ -585,4 +584,5 @@ array_sort_by_column($weapons_melee_kills, 'Kills');
 array_sort_by_column($heists_dropin, 'Dropin');
 array_sort_by_column($heists_fail, 'Fail');
 array_sort_by_column($masks_name, 'Name', SORT_ASC);
+array_sort_by_column($masks_quality, 'Quality', SORT_ASC);
 ?>
