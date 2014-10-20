@@ -459,7 +459,7 @@ array( 'Name' => $l['escapegarage'], 'Wiki' => 'Garage', 'Image' => 'escapegarag
 if ($skill_mastermind_cable_guy == 1 || $skill_mastermind_combat_medic == 1 || $skill_mastermind_triathlete_ace == 1){$skill_mastermind_unlocked = 1;};
 
 $mastermind = array(
-array( 'Name' => $l['controlfreak'], 'Wiki' => 'Control_Freak', 'Image' => '_(64)', 'Description-Normal' => $l['controlfreak-normal'], 'Description-Ace' => $l['controlfreak-ace'], 'Normal' => $skill_mastermind_black_marketeer, 'Ace' => $skill_mastermind_black_marketeer_ace ),
+array( 'Name' => $l['controlfreak'], 'Wiki' => 'Control_Freak', 'Image' => '_(82)', 'Description-Normal' => $l['controlfreak-normal'], 'Description-Ace' => $l['controlfreak-ace'], 'Normal' => $skill_mastermind_black_marketeer, 'Ace' => $skill_mastermind_black_marketeer_ace ),
 array( 'Name' => $l['pistolmessiah'], 'Wiki' => 'Pistol_Messiah', 'Image' => '_(74)', 'Description-Normal' => $l['pistolmessiah-normal'], 'Description-Ace' => $l['pistolmessiah-ace'], 'Normal' => $skill_mastermind_pistol_messiah, 'Ace' => $skill_mastermind_pistol_messiah_ace ),
 array( 'Name' => $l['inspire'], 'Wiki' => 'Inspire', 'Image' => '_(76)', 'Description-Normal' => $l['inspire-normal'], 'Description-Ace' => $l['inspire-ace'], 'Normal' => $skill_mastermind_inspire, 'Ace' => $skill_mastermind_inspire_ace ),
 array( 'Name' => $l['kilmer'], 'Wiki' => 'Kilmer', 'Image' => '_(73)', 'Description-Normal' => $l['kilmer-normal'], 'Description-Ace' => $l['kilmer-ace'], 'Normal' => $skill_mastermind_kilmer, 'Ace' => $skill_mastermind_kilmer_ace ),
