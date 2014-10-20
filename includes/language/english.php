@@ -319,6 +319,11 @@ $l['santa_happy'] = 'Happy Santa';
 $l['santa_happy-description'] = 'Santa, more known as Santa Claus, Saint Nicholas, Father Christmas and Kris Kringle (?) is a man of epic proportions. Words like legendary, mythical, historical and folkloric best describe this beast of a man.<br/><br/>This particular mask is the Happy Santa mask. Big smile and super jolly with red cheeks and all, wearing this you\'ll even bring the most negative of Bulldozers into a joyous smile.';
 $l['unicorn'] = 'Peter';
 $l['unicorn-description'] = 'Peter is a true legend and has been so for like, ever. A beast with a large, pointed, spiralling horn projected from its forehead, Peter is known by all of mankind as the go-to guy for whenever you need to touch the rainbow. No, touch it. Touch the mother-fucking rainbow. Now taste it.<br/><br/>Shh. It\'s okay. You did good.';
+//Crimefest
+$l['combusto'] = 'Firestarter';
+$l['combusto-description'] = 'This clown used to be a master of pyrotechnics, having a fire breathing number that no one could top. His competitors in the not-so-known-firebreathing-clown-scene were unhappy with his success... And spiked his cocktail. With third degree burns on his face and an evil look in his eyes he fought fire with fire and set the other clown ablaze. But he didn\'t stop there, the fiery hatred in him burned too bright. Now he seeks to set the world on fire.';
+$l['spackle'] = 'Spackle';
+$l['spackle-description'] = 'Once a well renowned circus clown Spackle was the best make-up artist in the scene. Known for her skill and ability to make people look so unlike themselves, she became obsessed with art. With her own face as canvas she tirelessly applied layer after layer, each becoming more twisted. She was sent to an asylum after killing five people during their make-up process.';
 //Lootbag
 $l['skull'] = 'Skull';
 $l['skull-description'] = 'An exclusive mask representing death and mortality.<br/><br/>Created in the heavens as a gift by the gods to men and women who believed in them early on, who built their shrines and spread their beliefs across the lands.<br/><br/>Thank you for believing in us! We salute you!';
