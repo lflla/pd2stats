@@ -1,4 +1,15 @@
 20.10.2014
+//Itemindex
+$l['maskindex'] = 'maskindex';
+$l['weaponindex'] = 'weaponindex';
+$l['itemindexmenu'] = 'Item Index Menu';
+$l['gear'] = 'Gear';
+$l['weaponlist'] = 'Weapons List';
+$l['masklist'] = 'Masks List';
+
+Was added after
+Menu section
+
 $l['quality'] = 'Quality';
 was added at start of Stats Page
 
