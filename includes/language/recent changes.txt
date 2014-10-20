@@ -1,4 +1,7 @@
 20.10.2014
+$l['quality'] = 'Quality';
+was added at start of Stats Page
+
 //Crimefest
 $l['combusto'] = 'Firestarter';
 $l['combusto-description'] = 'This clown used to be a master of pyrotechnics, having a fire breathing number that no one could top. His competitors in the not-so-known-firebreathing-clown-scene were unhappy with his success... And spiked his cocktail. With third degree burns on his face and an evil look in his eyes he fought fire with fire and set the other clown ablaze. But he didn\'t stop there, the fiery hatred in him burned too bright. Now he seeks to set the world on fire.';
