@@ -19,7 +19,7 @@ array( 'Name' => $l['akm'], 'Wiki' => 'AK.762', 'Image' => 'akm', 'Quality' => '
 array( 'Name' => $l['g36'], 'Wiki' => 'JP36', 'Image' => 'g36', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_g36 , 'Kills' => $weapon_kills_g36, 'Stats' => array(
 'Magazine' => 30, 'Ammo' => 180, 'Firerate' => 710, 'Damage' => 25, 'Accuracy' => 12, 'Stability' => 19, 'Concealment' => 19, 'Threat' => 13)),
 array( 'Name' => $l['new_m14'], 'Wiki' => 'M308_(Payday_2)', 'Image' => 'new_m14', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_new_m14 , 'Kills' => $weapon_kills_new_m14, 'Stats' => array(
-'Magazine' => 10, 'Ammo' => 40, 'Firerate' => 710, 'Damage' => 95, 'Accuracy' => 16, 'Stability' => 3, 'Concealment' => 6, 'Threat' => 31)),
+'Magazine' => 10, 'Ammo' => 40, 'Firerate' => 710, 'Damage' => 95, 'Accuracy' => 16, 'Stability' => 3, 'Concealment' => 8, 'Threat' => 31)),
 array( 'Name' => $l['ak5'], 'Wiki' => 'Ak_5', 'Image' => 'ak5', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_ak5 , 'Kills' => $weapon_kills_ak5, 'Stats' => array(
 'Magazine' => 30, 'Ammo' => 150, 'Firerate' => 710, 'Damage' => 20, 'Accuracy' => 16, 'Stability' => 22, 'Concealment' => 18, 'Threat' => 14)),
 array( 'Name' => $l['m16'], 'Wiki' => 'AMR-16', 'Image' => 'm16', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_m16 , 'Kills' => $weapon_kills_m16, 'Stats' => array(
@@ -99,19 +99,19 @@ array( 'Name' => $l['mac10'], 'Wiki' => 'Mark_10', 'Image' => 'mac10', 'Quality'
 array( 'Name' => $l['new_mp5'], 'Wiki' => 'Compact-5_(Payday_2)', 'Image' => 'new_mp5', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_new_mp5 , 'Kills' => $weapon_kills_new_mp5, 'Stats' => array(
 'Magazine' => 30, 'Ammo' => 150, 'Firerate' => 750, 'Damage' => 18, 'Accuracy' => 12, 'Stability' => 21, 'Concealment' => 23, 'Threat' => 6)),
 array( 'Name' => $l['mp9'], 'Wiki' => 'CMP', 'Image' => 'mp9', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_mp9 , 'Kills' => $weapon_kills_mp9, 'Stats' => array(
-'Magazine' => 30, 'Ammo' => 120, 'Firerate' => 950, 'Damage' => 20, 'Accuracy' => 12, 'Stability' => 17, 'Concealment' => 24, 'Threat' => 8)),
+'Magazine' => 30, 'Ammo' => 120, 'Firerate' => 950, 'Damage' => 20, 'Accuracy' => 12, 'Stability' => 17, 'Concealment' => 26, 'Threat' => 8)),
 array( 'Name' => $l['olympic'], 'Wiki' => 'Para', 'Image' => 'olympic', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_olympic , 'Kills' => $weapon_kills_olympic, 'Stats' => array(
 'Magazine' => 25, 'Ammo' => 100, 'Firerate' => 680, 'Damage' => 18, 'Accuracy' => 14, 'Stability' => 20, 'Concealment' => 24, 'Threat' => 14)),
 array( 'Name' => $l['akmsu'], 'Wiki' => 'Krinkov', 'Image' => 'akmsu', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_akmsu , 'Kills' => $weapon_kills_akmsu, 'Stats' => array(
 'Magazine' => 30, 'Ammo' => 90, 'Firerate' => 820, 'Damage' => 25, 'Accuracy' => 8, 'Stability' => 15, 'Concealment' => 21, 'Threat' => 22)),
 array( 'Name' => $l['p90'], 'Wiki' => 'Kobus_90', 'Image' => 'p90', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_p90 , 'Kills' => $weapon_kills_p90, 'Stats' => array(
-'Magazine' => 50, 'Ammo' => 100, 'Firerate' => 910, 'Damage' => 20, 'Accuracy' => 14, 'Stability' => 20, 'Concealment' => 23, 'Threat' => 12)),
+'Magazine' => 50, 'Ammo' => 100, 'Firerate' => 910, 'Damage' => 20, 'Accuracy' => 14, 'Stability' => 20, 'Concealment' => 25, 'Threat' => 12)),
 array( 'Name' => $l['m45'], 'Wiki' => 'Swedish_K', 'Image' => 'm45', 'Quality' => 'dlc', 'Extra' => $l['Armored_Transport'], 'Used' => $weapon_used_m45 , 'Kills' => $weapon_kills_m45, 'Stats' => array(
 'Magazine' => 40, 'Ammo' => 80, 'Firerate' => 600, 'Damage' => 28, 'Accuracy' => 10, 'Stability' => 17, 'Concealment' => 24, 'Threat' => 10)),
 array( 'Name' => $l['mp7'], 'Wiki' => 'SpecOps', 'Image' => 'mp7', 'Quality' => 'dlc', 'Extra' => $l['Gage_Weapon_Pack_01'], 'Used' => $weapon_used_mp7 , 'Kills' => $weapon_kills_mp7, 'Stats' => array(
 'Magazine' => 20, 'Ammo' => 80, 'Firerate' => 950, 'Damage' => 28, 'Accuracy' => 12, 'Stability' => 19, 'Concealment' => 23, 'Threat' => 8)),
 array( 'Name' => $l['cobrasmg'], 'Wiki' => 'Cobra', 'Image' => 'scorpion', 'Quality' => 'dlc', 'Extra' => $l['hotline_miami_dlc'], 'Used' => $weapon_used_scorpion , 'Kills' => $weapon_kills_scorpion, 'Stats' => array(
-'Magazine' => 20, 'Ammo' => 160, 'Firerate' => 1000, 'Damage' => 18, 'Accuracy' => 10, 'Stability' => 17, 'Concealment' => 29, 'Threat' => 6)),
+'Magazine' => 20, 'Ammo' => 160, 'Firerate' => 1000, 'Damage' => 18, 'Accuracy' => 10, 'Stability' => 17, 'Concealment' => 28, 'Threat' => 6)),
 array( 'Name' => $l['blastersmg'], 'Wiki' => 'Blaster_9mm', 'Image' => 'tec9', 'Quality' => 'dlc', 'Extra' => $l['hotline_miami_dlc'], 'Used' => $weapon_used_tec9 , 'Kills' => $weapon_kills_tec9, 'Stats' => array(
 'Magazine' => 20, 'Ammo' => 120, 'Firerate' => 900, 'Damage' => 25, 'Accuracy' => 12, 'Stability' => 17, 'Concealment' => 27, 'Threat' => 12)),
 array( 'Name' => $l['uzi'], 'Wiki' => 'Uzi', 'Image' => 'uzi', 'Quality' => 'dlc', 'Extra' => $l['hotline_miami_dlc'], 'Used' => $weapon_used_uzi , 'Kills' => $weapon_kills_uzi, 'Stats' => array(
@@ -120,7 +120,7 @@ array( 'Name' => $l['uzi'], 'Wiki' => 'Uzi', 'Image' => 'uzi', 'Quality' => 'dlc
 array( 'Name' => $l['judge'], 'Wiki' => 'The_Judge', 'Image' => 'judge', 'Quality' => 'community', 'Extra' => '', 'Used' => $weapon_used_judge , 'Kills' => $weapon_kills_judge, 'Stats' => array(
 'Magazine' => 5, 'Ammo' => 20, 'Firerate' => 500, 'Damage' => 95, 'Accuracy' => 6, 'Stability' => 3, 'Concealment' => 29, 'Threat' => 28)),
 array( 'Name' => $l['serbu'], 'Wiki' => 'Locomotive_12G_(Payday_2)', 'Image' => 'serbu', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_serbu , 'Kills' => $weapon_kills_serbu, 'Stats' => array(
-'Magazine' => 6, 'Ammo' => 30, 'Firerate' => 160, 'Damage' => 65, 'Accuracy' => 8, 'Stability' => 6, 'Concealment' => 26, 'Threat' => 28)),
+'Magazine' => 6, 'Ammo' => 30, 'Firerate' => 160, 'Damage' => 65, 'Accuracy' => 8, 'Stability' => 6, 'Concealment' => 23, 'Threat' => 28)),
 array( 'Name' => $l['striker'], 'Wiki' => 'Street_Sweeper', 'Image' => 'striker', 'Quality' => 'dlc', 'Extra' => $l['Gage_Shotgun_Pack'], 'Used' => $weapon_used_striker , 'Kills' => $weapon_kills_striker, 'Stats' => array(
 'Magazine' => 12, 'Ammo' => 48, 'Firerate' => 430, 'Damage' => 35, 'Accuracy' => 10, 'Stability' => 8, 'Concealment' => 21, 'Threat' => 28)),
 );
