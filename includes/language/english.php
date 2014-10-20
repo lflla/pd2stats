@@ -41,6 +41,13 @@ $l['steamgroup'] = 'Steam Group';
 $l['feedback'] = 'Feedback';
 $l['notice'] = 'Menu';
 $l['ads'] = 'Advertisement';
+//Itemindex
+$l['maskindex'] = 'maskindex';
+$l['weaponindex'] = 'weaponindex';
+$l['itemindexmenu'] = 'Item Index Menu';
+$l['gear'] = 'Gear';
+$l['weaponlist'] = 'Weapons List';
+$l['masklist'] = 'Masks List';
 //Service
 $l['servicestatus'] = 'Check Service Status';
 $l['vanitystatus'] = 'Player Vanity Status';
