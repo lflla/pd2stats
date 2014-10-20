@@ -557,6 +557,7 @@ $weapons_primary_name = $weapons_primary;
 $weapons_secondary_name = $weapons_secondary;
 $weapons_melee_name = $weapons_melee;
 $masks_name = $masks;
+$masks_quality = $masks;
 
 function array_sort_by_column(&$arr, $col, $dir = SORT_DESC) {
     $sort_col = array();
@@ -576,6 +577,7 @@ array_sort_by_column($weapons_grenades, 'Used');
 array_sort_by_column($armor, 'Used');
 array_sort_by_column($gadgets, 'Used');
 array_sort_by_column($masks, 'Used');
+array_sort_by_column($masks_quality, 'Quality');
 //Temporary
 array_sort_by_column($weapons_primary_kills, 'Kills');
 array_sort_by_column($weapons_secondary_kills, 'Kills');
