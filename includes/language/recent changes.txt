@@ -34,7 +34,7 @@ $l['blastradius-ace'] = 'You can now carry sentry guns and trip mines at the sam
 
 $l['sentrytargetingpackage-ace'] = 'Your sentry gun rotational speed is increased by <div class="bluein">150%</div>. Your sentry gun is loaded with <div class="bluein">50%</div> extra ammo.';
 
-$l['sentrycombatupgrade-ace'] = 'Your sentry gun recieves <div class="bluein">50% extra ammunition. You can now reload your sentry gun with your own ammo.';
+$l['sentrycombatupgrade-ace'] = 'Your sentry gun recieves <div class="bluein">50%</div> extra ammunition. You can now reload your sentry gun with your own ammo.';
 
 $l['ninelives-ace'] = 'When you get into bleed-out, you have a <div class="bluein">35%</div> chance to get right back up.';
 
