@@ -82,6 +82,7 @@ $l['profile-link'] = 'Profile Link';
 $l['question-box'] = 'Feedback Questions';
 $l['feedback-meta'] = 'This is the place to leave feedback about Payday 2 Statistics.';
 //Stats Page
+$l['quality'] = 'Quality';
 $l['comments'] = 'Comments';
 $l['comments-no-script'] = 'Please enable JavaScript to view the';
 $l['comments-powered'] = 'comments powered by';
