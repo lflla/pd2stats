@@ -1,4 +1,48 @@
 20.10.2014
+
+The following strings changed:
+$l['fastlearner'] = 'Pain Killers';
+$l['fastlearner-normal'] = 'Crew members you revive take <div class="bluein">10%</div> less damage for <div class="bluein">5</div> seconds';
+$l['fastlearner-ace'] = 'The damage reduction is increased by an additional <div class="bluein">20%</div>.';
+
+$l['insideman'] = 'Control Freak';
+$l['insideman-normal'] = 'Civilians remain intimidated <div class="bluein">50%</div> longer. Noise created by you intimidates civilians';
+
+$l['joker-ace'] = 'The converted enemy gains <div class="bluein">55%</div> more health and deals <div class="bluein">45%</div> more damage. The time to convert an enemy is reduced by <div class="bluein">65%</div>.';
+
+$l['blackmarketeer'] = 'Partner in Crime';
+$l['blackmarketeer-normal'] = 'Having a converted enemy increases your movement speed by <div class="bluein">10%</div>.';
+$l['blackmarketeer-ace'] = 'Having a converted enemy increases your health by <div class="bluein">20%</div>.';
+
+$l['controlfreak'] = 'Hostage Taker';
+$l['controlfreak-normal'] = 'Having at least one hostage makes you regenerate <div class="bluein">0.03%</div> health every <div class="bluein">5</div> seconds.';
+$l['controlfreak-ace'] = 'Having at least one hostage makes you regenerate <div class="bluein">1%</div> health every <div class="bluein">5</div> seconds.';
+
+$l['bulletstorm-ace'] = 'You can fire <div class="bluein">10</div> seconds longer without depleting your ammunition.';
+
+$l['carbonblade-ace'] = 'Attacking enemies with the OVE9000 portable saw wears it down <div class="bluein">50%</div> less than before. Saws are <div class="bluein">20%</div> more effective. You can use the saw as a secondary weapon.';
+
+$l['combatengineer-ace'] = 'Upgrades your trip mines with a sensor mode. Enemies that go past your trip mines while in sensor mode are highlighted for you and your crew.';
+
+$l['improvedcrafting'] = 'Tactical Mines';
+$l['improvedcrafting-normal'] = 'The radius of trip mine explosions is increased by <div class="bluein">30%</div>.';
+$l['improvedcrafting-ace'] = 'Special enemies marked by your trip mines take <div class="bluein">15%</div> more damage.';
+
+$l['blastradius'] = 'Jack of all Trades';
+$l['blastradius-normal'] = 'The radius of trip mine explosions is increased by <div class="bluein">70%</div>.';
+$l['blastradius-ace'] = 'You can now carry sentry guns and trip mines at the same time. When you deplete your trip mines or sentry guns you will switch to the other one.';
+
+$l['sentrytargetingpackage-ace'] = 'Your sentry gun rotational speed is increased by <div class="bluein">150%</div>. Your sentry gun is loaded with <div class="bluein">50%</div> extra ammo.';
+
+$l['sentrycombatupgrade-ace'] = 'Your sentry gun recieves <div class="bluein">50% extra ammunition. You can now reload your sentry gun with your own ammo.';
+
+$l['ninelives-ace'] = 'When you get into bleed-out, you have a <div class="bluein">35%</div> chance to get right back up.';
+
+$l['professional-normal'] = 'Weapon stability with silenced weapons is increased by <div class="bluein">50%</div>. Your snap to zoom is <div class="bluein">100%</div> faster with silenced weapons.';
+$l['professional-ace'] = 'Your accuracy with silenced weapons is increased by <div class="bluein">50%</div>. You gain a <div class="bluein">15%</div> chance to pierce enemy armor with silenced weapons.';
+
+$l['ecmfeedback-ace'] = 'You will now instantly interact with a ECM jammer and the ECM feedback duration is increased by <div class="bluein">25%</div>. Your ECM jammer has a <div class="bluein">100%</div> chance every <div class="bluein">4</div> minutes to recharge itself.';
+
 at end of menu was added:
 $l['switch'] = 'switch';
 $l['languagetex'] = 'Language';
