@@ -34,7 +34,7 @@ $l['meta-keywords'] = 'Payday 2, Perfiles, Estadísticas, pd2stats.com';
 //Index and Search
 $l['welcome'] = '¡Bienvenido a Payday 2 Estadísticas!';
 $l['search-txt'] = 'Buscar';
-$l['search-msg'] = 'Por favor introduzca un perfil de steam, un numero de perfil de steam o un perfil modificado de steam.';
+$l['search-msg'] = 'Por favor introduzca un perfil de steam, un número de perfil de steam o un perfil modificado de steam.';
 $l['search-button'] = '¡Llévame allí!';
 //Menu
 $l['steamgroup'] = 'Grupo Steam';
@@ -77,12 +77,12 @@ $l['error-text1'] = '¡No existe el ID!';
 $l['error-text2'] = 'SOY UN ERROR';
 $l['error-text3'] = 'Steam ha fallado en responder a tiempo!';
 $l['error-text4'] = 'No has introducido un elemento de búsqueda';
-$l['error-text5'] = 'No has introducido un numero de perfil';
+$l['error-text5'] = 'No has introducido un número de perfil';
 $l['error-text6'] = 'Usuario Expulsado/Bloqueado';
 $l['error'] = 'Error';
-$l['error-start'] = 'Algo ha ido mal pero siempre puedes';
-$l['error-mid'] = 'Prueba otra vez';
-$l['error-end'] = 'Por favor introduzca un perfil de steam, un numero de perfil de steam o un perfil modificado de steam.';
+$l['error-start'] = 'Algo ha ido mal, ';
+$l['error-mid'] = 'prueba otra vez.';
+$l['error-end'] = 'Por favor, introduzca un perfil de steam, un número de perfil de steam o un perfil modificado de steam.';
 //Profile
 $l['meta-private'] = 'tiene su perfil en modo privado y solo se mostrara información básica.';
 $l['steam-link'] = 'Enlace Steam';
