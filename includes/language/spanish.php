@@ -672,7 +672,7 @@ $l['fastlearner'] = 'Analgésicos';
 $l['fastlearner-normal'] = 'Los miembros de tu equipo a los que revivas reciben un <div class="bluein">10%</div> menos de daño durante <div class="bluein">5</div> segundos';
 $l['fastlearner-ace'] = 'La reducción de daño se incrementa a un <div class="bluein">20%</div>.';
 $l['leadership'] = 'Liderazgo';
-$l['leadership-normal'] = 'Incrementa tu estabilidad y la de tus compañeros con las pistolas un<div class="bluein">25%</div>.';
+$l['leadership-normal'] = 'Incrementa tu estabilidad y la de tus compañeros con las pistolas un <div class="bluein">25%</div>.';
 $l['leadership-ace'] = 'Incrementa tu estabilidad y la de tus compañeros con todas las armas un <div class="bluein">50%</div>.';
 $l['cableguy'] = 'Hombre del Cable';
 $l['cableguy-normal'] = 'Atas civiles un <div class="bluein">75%</div> más rápido.';
