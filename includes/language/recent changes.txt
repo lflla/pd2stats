@@ -1,3 +1,11 @@
+24.10.2014 
+some incorrect strings were fixed:
+$l['sentrycombatupgrade-normal'] = 'You can now reload your sentry gun with your own ammo.';
+$l['sentrycombatupgrade-ace'] = 'Your sentry gun receives a protective shield.';
+
+$l['sentrytargetingpackage-normal'] = 'Your sentry gun accuracy is improved by <div class="bluein">100%</div>.';
+$l['sentrytargetingpackage-ace'] = 'Your sentry gun rotational speed is increased by <div class="bluein">150%</div>. Your sentry gun is loaded with <div class="bluein">50%</div> extra ammo.';
+
 20.10.2014
 
 The following strings changed:
