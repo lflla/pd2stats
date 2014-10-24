@@ -630,8 +630,8 @@ $l['escapegarage'] = 'Garaje';
 ////Skilltrees
 //Mastermind
 $l['controlfreak'] = 'Secuestrador';
-$l['controlfreak-normal'] = 'Por cada rehén que tengas, regeneras un <div class="bluein">0.03%</div> de salud cada <div class="bluein">5</div> segundos.';
-$l['controlfreak-ace'] = 'Por cada rehén que tengas, regeneras un <div class="bluein">1%</div> de salud cada <div class="bluein">5</div> segundos.';
+$l['controlfreak-normal'] = 'Si tienes al menos un rehén, regeneras un <div class="bluein">0.03%</div> de salud cada <div class="bluein">5</div> segundos.';
+$l['controlfreak-ace'] = 'Si tienes al menos un rehén, regeneras un <div class="bluein">1%</div> de salud cada <div class="bluein">5</div> segundos.';
 $l['pistolmessiah'] = 'El Messiah Pistolero';
 $l['pistolmessiah-normal'] = 'Mientras estás derribado, revives si matas a un enemigo con una pistola. Tienes <div class="bluein">1</div> uso. Volverás a recuperarlo si sales de la custodia.';
 $l['pistolmessiah-ace'] = 'Ganas <div class="bluein">2</div> usos más. Volverás a recuperar tus usos si sales de la custodia.';
