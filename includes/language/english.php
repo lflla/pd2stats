@@ -219,6 +219,11 @@ $l['hk21'] = 'Brenner-21';
 $l['saw'] = 'OVE9000 Saw';
 //Grenade Launcher
 $l['gre_m79'] = 'GL40';
+//Akimbo
+$l['jowi'] = 'Akimbo Chimano Compact';
+$l['x_deagle'] = 'Akimbo Deagle';
+$l['x_1911'] = 'Akimbo Crosskill';
+$l['x_b92fs'] = 'Akimbo Bernetti 9';
 ////Secondary
 //Pistols
 $l['usp'] = 'Interceptor 45';
