@@ -1,4 +1,23 @@
 27.10.2014
+several lines were added to gadget section and most lines changed.
+////Gadgets
+$l['ammo_bag'] = 'Ammo Bag';
+$l['ammo_bag-description'] = 'The ammo bag is a portable bag, originally intended to allow soldiers to carry extra ammunition.<br/><br/>To use the ammo bag, you need to place it by holding [G]. Once placed it cannot be moved, but it can be used by you and your crew by holding [F] to gain more ammunition.<br/><br/>The ammo bag has limited uses and when it is consumed, it disappears. You can see how many uses are left by looking at the ammo bag.';
+$l['doctor_bag'] = 'Doctor Bag';
+$l['doctor_bag-description'] = 'The doctor bag is a portable bag, usually used by a physician or other medical progression to transport medical supplies and medicine.<br/><br/>To use the doctor bag, you need to place it by holding [G]. Once placed it cannot be moved, but it can be used by you and your crew by holding [F] to regain health.<br/><br/>The doctor bag has limited uses and when it is consumed, it disappears. You can see how many uses are left by looking at the doctor bag.';
+$l['trip_mine'] = 'Trip Mine';
+$l['trip_mine-description'] = 'The trip mine is an explosive device and is designed to destroy safes and disable enemy targets as they pass over or near the trip mine.<br/><br/>To use the trip mine, you need to place it by holding [G]. The trigger laser can be toggled by pressing [F] once the trip mine is placed, acting as a tripwire to detonate the mine.<br/><br/>Once placed it cannot be moved but it can be interacted with by you and your crew. If the beam is broken or the charge is fired upon, the mine will detonate. When the trip mine has exploded, it disappears.';
+$l['sentry_gun'] = 'Sentry Gun';
+$l['sentry_gun-description'] = 'A sentry gun is a gun that automatically aims and fires at targets that are detected by its sensors. Historically, military sentry guns were used for detecting and destroying short range incoming missiles and enemy aircraft.<br/><br/>To use the sentry gun, you need to place it by holding [G]. Once placed, the sentry gun cannot be moved. The sentry gun can be destroyed by being fired at. When the sentry gun has no more ammunition, it will stop firing.';
+$l['ecm_jammer'] = 'ECM Jammer';
+$l['ecm_jammer-description'] = 'An electronic countermeasure (ECM) is an electronic device designed to trick radar, sonar and other detection systems.<br/><br/>To use the ECM jammer, you need to place it by holding [G]. Once placed it cannot be moved.<br/><br/>If you have the right skill, you can toggle the ECM jammer by pressing [F]. The ECM jammer then has a chance to incapacitate your enemies within a certain radius, When consumed. it stops working.';
+$l['armor_kit'] = 'Armor Bag';
+$l['armor_kit-description'] = 'The armor bag is a portable bag used to transport an armor of your choice that can be used during a heist.<br/><br/>To use the armor bag, hold [G] to put it on your equipped armor. Until that, you will wear the Two-Piece Suit.<br/><br/>The armor bag has only one use and when it is consumed, it disappears.';
+$l['bodybags_bag'] = 'Body Bag Case';
+$l['bodybags_bag-description'] = 'The body bag case is a case containing body bags that are designed to contain a human body, used for the storage and transportation of corpses.<br/><br/>To use the body bag case, you need to place it by holding [G]. Once placed it cannot be moved, but it can be used by you and your crew by holding [F] to gain a body bag.<br/><br/>The body bag case has limited uses and when it is consumed, it disappears. You can see how many uses are left by looking at the body bag case.';
+$l['first_aid_kit'] = 'First Aid Kit';
+$l['first_aid_kit-description'] = 'The first aid kit is a collection of supplies and equipment for use in giving first aid.<br/><br/>To use the first aid kit, you need to place it by holding [G]. Once placed it cannot be moved, but it can be used by you and your crew by holding [F] to regain health.<br/><br/>The first aid kit has limited uses and when it is consumed, it disappears. You can see how many uses are left by looking at the first aid kit.';
+
 at end of melee
 $l['toothbrush'] = 'Nova\'s Shank';
 $l['toothbrush-description'] = '';
