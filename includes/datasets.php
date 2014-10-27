@@ -56,7 +56,15 @@ array( 'Name' => $l['ksg'], 'Wiki' => 'Raven', 'Image' => 'ksg', 'Quality' => 'd
 'Magazine' => 14, 'Ammo' => 42, 'Firerate' => 100, 'Damage' => 60, 'Accuracy' => 10, 'Stability' => 12, 'Concealment' => 22, 'Threat' => 28)),
 array( 'Name' => $l['spas12'], 'Wiki' => 'Predator_12', 'Image' => 'spas12', 'Quality' => 'community', 'Extra' => '', 'Used' => $weapon_used_spas12 , 'Kills' => $weapon_kills_spas12, 'Stats' => array(
 'Magazine' => 6, 'Ammo' => 36, 'Firerate' => 300, 'Damage' => 48, 'Accuracy' => 10, 'Stability' => 8, 'Concealment' => 14, 'Threat' => 28)),
-
+////Akimbo
+array( 'Name' => $l['jowi'], 'Wiki' => 'Akimbo_Chimano_Compact', 'Image' => 'jowi', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_jowi , 'Kills' => $weapon_kills_jowi, 'Stats' => array(
+'Magazine' => 20, 'Ammo' => 120, 'Firerate' => 670, 'Damage' => 18, 'Accuracy' => 12, 'Stability' => 20, 'Concealment' => 30, 'Threat' => 9)),
+array( 'Name' => $l['x_deagle'], 'Wiki' => 'Akimbo_Deagle', 'Image' => 'x_deagle', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_x_deagle , 'Kills' => $weapon_kills_x_deagle, 'Stats' => array(
+'Magazine' => 20, 'Ammo' => 60, 'Firerate' => 240, 'Damage' => 45, 'Accuracy' => 10, 'Stability' => 6, 'Concealment' => 26, 'Threat' => 24)),
+array( 'Name' => $l['x_1911'], 'Wiki' => 'Akimbo_Crosskill', 'Image' => 'x_1911', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_x_1911 , 'Kills' => $weapon_kills_x_1911, 'Stats' => array(
+'Magazine' => 20, 'Ammo' => 120, 'Firerate' => 500, 'Damage' => 23, 'Accuracy' => 12, 'Stability' => 12, 'Concealment' => 27, 'Threat' => 10)),
+array( 'Name' => $l['x_b92fs'], 'Wiki' => 'Akimbo_Bernetti_9', 'Image' => 'x_b92fs', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_x_b92fs , 'Kills' => $weapon_kills_x_b92fs 'Stats' => array(
+'Magazine' => 28, 'Ammo' => 196, 'Firerate' => 670, 'Damage' => 18, 'Accuracy' => 14, 'Stability' => 19, 'Concealment' => 28, 'Threat' => 6)),
 ////Light Machine Guns
 array( 'Name' => $l['rpk'], 'Wiki' => 'RPK', 'Image' => 'rpk', 'Quality' => 'dlc', 'Extra' => $l['Gage_Weapon_Pack_02'], 'Used' => $weapon_used_rpk , 'Kills' => $weapon_kills_rpk, 'Stats' => array(
 'Magazine' => 100, 'Ammo' => 300, 'Firerate' => 750, 'Damage' => 30, 'Accuracy' => 8, 'Stability' => 15, 'Concealment' => 5, 'Threat' => 22)),
