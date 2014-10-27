@@ -350,7 +350,7 @@ $l['stoneface'] = 'Terminator';
 $l['stoneface-description'] = 'These shades belonged to an assassin from a distant land. The assassin John who was sent to kill was built like a machine. The one would prove to be hard. He used a customized Improved Combined Tactical Vest. He was fully armoured and very though. Behind all that armor however, John knew there was only flesh and bones.<br/><br/>John managed to kill him in the end. He knew however that when he removed him from his place, another would replace him.';
 $l['wayfarer'] = 'Reservoir Dog';
 $l['wayfarer-description'] = 'These shades belonged to five strangers. John was hired to kill a group of people who were about to commit the perfect crime. They all dressed the same and had code names so they were easy to identify.<br/><br/>However, John arrived too late to the scene. The police were already there. He made sure the strangers were all dead before he left the scene.';
-$l['crazy_lion'] = 'Mod Lion';
+$l['crazy_lion'] = 'Mad Lion';
 $l['crazy_lion-description'] = 'A horrifying mask shaped like the head of a lion.<br/><br/>Little is known about this mask. It is said it was made by a crazy Balkan scientist who had a sick fascination for lions. Only he could see the beauty in this mask.<br/><br/>The mask was given to you by someone who wishes you well.';
 //Crimefest
 $l['combusto'] = 'Firestarter';
@@ -530,6 +530,8 @@ $l['dillinger_death_mask'] = 'Dillinger Death Mask';
 $l['dillinger_death_mask-description'] = 'John Herbert Dillinger was a famous American bank robber.<br/><br/>His gang robbed two dozen banks and even four police stations.<br/><br/>Dillinger himself escaped jail twice and was widely known as one of the meanest motherfuckers in the depression-era United States.';
 $l['grin'] = 'Grin';
 $l['grin-description'] = 'There once was a man and his brother.<br/><br/>Together, they owned a successful company.<br/><br/>One day, the man and his brother temporarily only had one client. The client got cold feet and wanted out. Rather than simply pulling out and having to pay a fine for breach of contract, the client starved the man and his brother\'s company to death.<br/><br/>The Man and his brother lost everything, and it is said that this mask was the very image of the man\'s facial expression the day that he went mad.';
+$l['old_hoxton'] = 'Hoxton Reborn';
+$l['old_hoxton-description'] = 'The Hoxton Reborn mask is a mask that Hoxton made while in prison. For him, it\'s  a symbol of everything he experienced in the past years while the PAYDAY gang kept on going without him. No one knows how his experiences in prison have changed him, and he won\'t talk about it when asked.<br/><br/>All we can assume is that he has been changed forever, and that he is reborn into... Something different.';
 //Normal
 $l['alienware'] = 'Alienware';
 $l['alienware-description'] = 'Based on the visions of a madman who thought he saw an extraterrestrial being.<br/><br/>It is strange though, as the powerful materials is not from anywhere on Earth.';
