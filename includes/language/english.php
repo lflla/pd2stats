@@ -46,10 +46,17 @@ $l['languagetex'] = 'Language';
 //Itemindex
 $l['maskindex'] = 'maskindex';
 $l['weaponindex'] = 'weaponindex';
+$l['gearindex'] = 'gearindex';
+$l['levelindex'] = 'levelindex';
 $l['itemindexmenu'] = 'Item Index Menu';
 $l['gear'] = 'Gear';
+$l['level'] = 'Levels';
 $l['weaponlist'] = 'Weapons List';
 $l['masklist'] = 'Masks List';
+$l['armorlist'] = 'Armor List';
+$l['gadgetlist'] = 'Gadget List';
+$l['heistlist'] = 'Heist List';
+$l['escapelist'] = 'Escape List';
 //Service
 $l['servicestatus'] = 'Check Service Status';
 $l['vanitystatus'] = 'Player Vanity Status';
@@ -661,8 +668,8 @@ $l['escapegarage'] = 'Garage';
 ////Skilltrees
 //Mastermind
 $l['controlfreak'] = 'Hostage Taker';
-$l['controlfreak-normal'] = 'Having at least one hostage makes you regenerate <div class="bluein">0.03%</div> health every <div class="bluein">5</div> seconds.';
-$l['controlfreak-ace'] = 'Having at least one hostage makes you regenerate <div class="bluein">1%</div> health every <div class="bluein">5</div> seconds.';
+$l['controlfreak-normal'] = 'Having at least one hostage makes you regenerate <div class="bluein">0.6%</div> health every <div class="bluein">5</div> seconds.';
+$l['controlfreak-ace'] = 'Having at least one hostage makes you regenerate <div class="bluein">2%</div> health every <div class="bluein">5</div> seconds.';
 $l['pistolmessiah'] = 'Pistol Messiah';
 $l['pistolmessiah-normal'] = 'When in bleedout, you are instantly revived if you kill an enemy with a pistol. You only have <div class="bluein">1</div> charge. You will replenish your charge when you get out of custody.';
 $l['pistolmessiah-ace'] = 'You gain an additional <div class="bluein">2</div> charges. You will replenish your charges when you get out of custody.';
@@ -670,8 +677,8 @@ $l['inspire'] = 'Inspire';
 $l['inspire-normal'] = 'You revive crew members <div class="bluein">50%</div> faster. Shouting at your team-mates will increase their movement speed by <div class="bluein">20%</div> for <div class="bluein">10</div> seconds.';
 $l['inspire-ace'] = 'There is a <div class="bluein">75%</div> chance that you can revive crew members at a distance by shouting at them.';
 $l['blackmarketeer'] = 'Partner in Crime';
-$l['blackmarketeer-normal'] = 'Having a converted enemy increases your movement speed by <div class="bluein">10%</div>.';
-$l['blackmarketeer-ace'] = 'Having a converted enemy increases your health by <div class="bluein">20%</div>.';
+$l['blackmarketeer-normal'] = 'Having a converted enemy increases your movement speed by <div class="bluein">10%</div>. Your converted enemy takes <div class="bluein">40%</div> less damage';
+$l['blackmarketeer-ace'] = 'Having a converted enemy increases your health by <div class="bluein">20%</div>. Your converted enemy takes an additional <div class="bluein">40%</div> less damage.';
 $l['gunslinger'] = 'Gunslinger';
 $l['gunslinger-normal'] = 'You reload pistols <div class="bluein">50%</div> faster.';
 $l['gunslinger-ace'] = 'You deal <div class="bluein">50%</div> additional damage with pistols.';

@@ -1,4 +1,28 @@
 27.10.2014
+two skills changed
+$l['controlfreak-normal'] = 'Having at least one hostage makes you regenerate <div class="bluein">0.6%</div> health every <div class="bluein">5</div> seconds.';
+$l['controlfreak-ace'] = 'Having at least one hostage makes you regenerate <div class="bluein">2%</div> health every <div class="bluein">5</div> seconds.';
+
+$l['blackmarketeer-normal'] = 'Having a converted enemy increases your movement speed by <div class="bluein">10%</div>. Your converted enemy takes <div class="bluein">40%</div> less damage';
+$l['blackmarketeer-ace'] = 'Having a converted enemy increases your health by <div class="bluein">20%</div>. Your converted enemy takes an additional <div class="bluein">40%</div> less damage.';
+
+changed and new lines
+//Itemindex
+$l['maskindex'] = 'maskindex';
+$l['weaponindex'] = 'weaponindex';
+$l['gearindex'] = 'gearindex';
+$l['levelindex'] = 'levelindex';
+$l['itemindexmenu'] = 'Item Index Menu';
+$l['gear'] = 'Gear';
+$l['level'] = 'Levels';
+$l['weaponlist'] = 'Weapons List';
+$l['masklist'] = 'Masks List';
+$l['armorlist'] = 'Armor List';
+$l['gadgetlist'] = 'Gadget List';
+$l['heistlist'] = 'Heist List';
+$l['escapelist'] = 'Escape List';
+
+
 several lines were added to gadget section and most lines changed.
 ////Gadgets
 $l['ammo_bag'] = 'Ammo Bag';
