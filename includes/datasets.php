@@ -182,7 +182,7 @@ array( 'Name' => $l['fireaxe'], 'Wiki' => 'Fire Axe', 'Image' => 'fireaxe', 'Qua
 'Damage' => 90, 'DamageMAX' => 140, 'Knockdown' => 90, 'KnockdownMAX' => 140, 'Charge' => 4.0, 'Range' => 275, 'Concealment' => 20 )),
 array( 'Name' => $l['briefcase'], 'Wiki' => '50_Blessings_Briefcase', 'Image' => 'briefcase', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['briefcase-description'], 'Used' => $melee_used_briefcase , 'Kills' => $melee_kills_briefcase , 'Stats' => array(
 'Damage' => 7, 'DamageMAX' => 17, 'Knockdown' => 68, 'KnockdownMAX' => 168, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 30 )),
-array( 'Name' => $l['kabartanto'], 'Wiki' => '50_Blessings_Briefcase', 'Image' => 'kabartanto', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['kabartanto-description'], 'Used' => $melee_used_kabartanto , 'Kills' => $melee_kills_kabartanto , 'Stats' => array(
+array( 'Name' => $l['kabartanto'], 'Wiki' => 'Ursa_Tanto_Knife', 'Image' => 'kabartanto', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['kabartanto-description'], 'Used' => $melee_used_kabartanto , 'Kills' => $melee_kills_kabartanto , 'Stats' => array(
 'Damage' => 20, 'DamageMAX' => 80, 'Knockdown' => 16, 'KnockdownMAX' => 40, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 30 ))
 );
 //
