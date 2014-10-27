@@ -210,6 +210,7 @@ $l['saiga'] = 'Izhma 12G';
 $l['huntsman'] = 'Mosconi 12G';
 $l['benelli'] = 'M1014';
 $l['ksg'] = 'Raven';
+$l['spas12'] = 'Predator 12G';
 //Light Machine Guns
 $l['rpk'] = 'RPK';
 $l['m249'] = 'KSP';
@@ -230,6 +231,7 @@ $l['glock_18c'] = 'STRYK 18c';
 $l['deagle'] = 'Deagle';
 $l['ppk'] = 'Gruber Kurz';
 $l['p226'] = 'Signature .40';
+$l['g26'] = 'Chimano Compact';
 //Submachine Guns
 $l['mac10'] = 'Mark 10';
 $l['new_mp5'] = 'Compact-5';
@@ -291,6 +293,8 @@ $l['fireaxe'] = 'Fire Axe';
 $l['fireaxe-description'] = '';
 $l['machete'] = 'Machete';
 $l['machete-description'] = '';
+$l['kabartanto'] = 'Ursa Tanto';
+$l['kabartanto-description'] = '';
 ////Grenades
 $l['frag-grenade'] = 'Frag Grenade';
 ////Gadgets
