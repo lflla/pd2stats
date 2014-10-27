@@ -3,7 +3,6 @@ at end of melee
 $l['toothbrush'] = 'Nova\'s Shank';
 $l['toothbrush-description'] = '';
 
-
 Added at end of infamous
 $l['old_hoxton'] = 'Hoxton Reborn';
 $l['old_hoxton-description'] = 'The Hoxton Reborn mask is a mask that Hoxton made while in prison. For him, it\'s  a symbol of everything he experienced in the past years while the PAYDAY gang kept on going without him. No one knows how his experiences in prison have changed him, and he won't talk about it when asked.<br/><br/>All we can assume is that he has been changed forever, and that he is reborn into... Something different.';

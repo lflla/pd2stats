@@ -262,7 +262,6 @@ array( 'Name' => $l['santa_happy'], 'Image' => 'santa_happy', 'Quality' => 'comm
 array( 'Name' => $l['unicorn'], 'Image' => 'unicorn', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['unicorn-description'], 'Used' => $mask_used_unicorn),
 array( 'Name' => $l['smiley'], 'Image' => 'smiley', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['smiley-description'], 'Used' => $mask_used_smiley),
 array( 'Name' => $l['gumbo'], 'Image' => 'gumbo', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['gumbo-description'], 'Used' => $mask_used_gumbo),
-array( 'Name' => $l['jw_shades'], 'Image' => 'jw_shades', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['jw_shades-description'], 'Used' => $mask_used_jw_shades),
 array( 'Name' => $l['stoneface'], 'Image' => 'stoneface', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['stoneface-description'], 'Used' => $mask_used_stoneface),
 array( 'Name' => $l['wayfarer'], 'Image' => 'wayfarer', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['wayfarer-description'], 'Used' => $mask_used_wayfarer),
 array( 'Name' => $l['crazy_lion'], 'Image' => 'crazy_lion', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['crazy_lion-description'], 'Used' => $mask_used_crazy_lion),
@@ -405,6 +404,7 @@ array( 'Name' => $l['dawn_of_the_dead'], 'Image' => 'dawn_of_the_dead', 'Quality
 array( 'Name' => $l['vampire'], 'Image' => 'vampire', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['vampire-description'], 'Used' => $mask_used_vampire),
 array( 'Name' => $l['zipper'], 'Image' => 'zipper', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['zipper-description'], 'Used' => $mask_used_zipper),
 array( 'Name' => $l['zombie'], 'Image' => 'zombie', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['zombie-description'], 'Used' => $mask_used_zombie),
+array( 'Name' => $l['jw_shades'], 'Image' => 'jw_shades', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['jw_shades-description'], 'Used' => $mask_used_jw_shades),
 ////Default Masks
 array( 'Name' => $l['pref'], 'Image' => 'pref', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['pref-description'], 'Used' => $mask_used_character_locked),
 ////Future Content
