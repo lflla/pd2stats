@@ -1,5 +1,5 @@
 <?php
-//// WICHTIG: Alle Änderung die nicht von mir sind aus dem Changelog sind nicht eingebaut! Desweitern werden die Masken noch nachgetragen!!!
+/////HINWEIS: Im editieren, muss aufhören, weil kein konzentration mehr. Bei zeile 313 weiter Kontrollieren. Changelogs eingefügt. Es sind ein paar Skills schon im Englische fehlerhaft.
 // Language: German
 // File written by: Tatsuto
 // Translation by: Putschy4win, Kaevin, timo-
@@ -26,9 +26,9 @@ $l['charset'] = 'UTF-8';
 //Title
 $l['title'] = 'Payday 2 Statistiken';
 $l['title-full'] = 'Payday 2 Statistiken';
-$l['meta-description'] = 'Willkommen zu den Payday 2 Statistiken, ein einfacher weg um sich das Profil anderer Spieler anzusehen.';
-$l['meta-language'] = 'German';
-$l['meta-keywords'] = 'Payday 2, Profile, Statistiken, pd2stats.com';
+$l['meta-description'] = 'Willkommen zu den Payday 2 Statistiken, ein einfacher Weg um sich das Profil anderer Spieler anzusehen.';
+$l['meta-language'] = 'Deutsch';
+$l['meta-keywords'] = 'Payday 2, Profile, Profile, Statistiken, pd2stats.com';
 //Index and Search
 $l['welcome'] = 'Willkommen bei den Payday 2 Statistiken!';
 $l['search-txt'] = 'Suche';
@@ -37,8 +37,25 @@ $l['search-button'] = 'Hinfort!';
 //Menu
 $l['steamgroup'] = 'Steam Gruppe';
 $l['feedback'] = 'Feedback';
-$l['notice'] = 'Notiz/en';
-$l['ads'] = 'Advertisement';
+$l['notice'] = 'Menü';
+$l['ads'] = 'Wrbung';
+$l['switch'] = 'Wechsel';
+$l['languagetex'] = 'Sprache';
+//Service
+$l['servicestatus'] = 'Aktueller Service Status';
+$l['vanitystatus'] = 'Eitelkeit';
+$l['summarystatus'] = 'Leher-Fähigketen';
+$l['ownershipstatus'] = 'Führungs-Fähigkeiten';
+$l['statisticsstatus'] = 'Spielerstatistikstatus';
+$l['offline'] = 'OFFLINE (Hier klicken für mehr Informationen)';
+$l['online'] = 'ONLINE';
+//Itemindex
+$l['maskindex'] = 'Maskenindex';
+$l['weaponindex'] = 'Waffenindex';
+$l['itemindexmenu'] = 'Itemindex';
+$l['gear'] = 'Ausrüstung';
+$l['weaponlist'] = 'Waffenliste';
+$l['masklist'] = 'Maskenliste';
 //Tags and Warnings
 $l['cflag'] = '[Cheater]';
 $l['cflag-warning'] = 'Markierungen sind nicht immer korrekt, da das Spiel einige Bugs enthält.';
@@ -59,20 +76,22 @@ $l['error-text2'] = 'Luke, ich bin dein Fehler!';
 $l['error-text3'] = 'Steam konnte nicht rechtzeitig antworten!';
 $l['error-text4'] = 'Keine Sucheingabe';
 $l['error-text5'] = 'Keine Profilnummer vergeben';
+$l['error-text6'] = 'Verbannter Spieler';
 $l['error'] = 'Fehler';
-$l['error-start'] = 'Es ging etwas schief, aber du kannst es wie immer';
+$l['error-start'] = 'Es ging etwas schief, aber du kannst es immer';
 $l['error-mid'] = 'nochmal versuchen';
 $l['error-end'] = 'Bitte gib den Link eines Steam Profils, einer eigenen Steam ID oder eine Profilnummer an.';
 //Profile
-$l['meta-private'] = 'hat ein privates Profil und es werden nur Basisinfos angezeigt.';
+$l['meta-private'] = 'hat ein privates Profil und es werden nur grundlgende Informationen angezeigt.';
 $l['steam-link'] = 'Steam Link';
 $l['profile-link'] = 'Profil Link';
 //Feedback
 $l['question-box'] = 'Feedbackfragen';
-$l['feedback-meta'] = 'Hier kannst du Feedback für pd2stats abgeben.';
+$l['feedback-meta'] = 'Hier kannst du ein Feedback für Payday 2 Statistic abgeben.';
 //Stats Page
+$l['quality'] = 'Qualität';
 $l['comments'] = 'Kommentare';
-$l['comments-no-script'] = 'Bitte schalte JavaSkript ein um diesen';
+$l['comments-no-script'] = 'Bitte schalte JavaSkript ein um diesen Bereich zu sehen.';
 $l['comments-powered'] = 'Kommentare powered by';
 $l['tips'] = 'Tipps';
 $l['tips-start'] = 'Wusstest du, dass du einen eigenen Steam Link haben könntest, wie zum Beispiel:';
@@ -95,38 +114,38 @@ $l['basic'] = 'Basis';
 $l['ace'] = 'Ass';
 $l['unlock'] = 'freischalten für';
 $l['basics'] = 'Basics';
-$l['basics-help'] = 'Hier werden die einzelnen Tage gezählt. Es wird vermutlich seit dem GO Bank Update gezählt. Die Tage an denen du flüchtest werden auch gezählt. Das bedeutet das derzeit geschaffte und nicht geschaffte Tage gezählt werden.';
+$l['basics-help'] = 'Hier werden die einzelnen Tage gezählt. Es wird seit dem GO Bank Update gezählt. Die Tage an denen du Flüchtest werden auch gezählt. Das bedeutet das derzeit geschaffte und nicht geschaffte Tage gezählt werden.';
 $l['risk'] = 'Risiko';
 $l['days-played'] = 'gespielte Tage';
 $l['total-day-start'] = 'gesamte Anzahl der Tage,';
 $l['total-day-mid'] = 'geschaffte und';
 $l['total-day-end'] = 'nicht geschaffte.';
 $l['heist'] = 'Aufträge';
-$l['heist-help'] = 'Hier werden die Aufträge gezählt. Es zählt wahrscheinlich seit dem Update #32.1. Grün bedeutet geschaffte Aufträge, Gelb sind die Aufträge die du nicht vollständig gemacht und Rot sind die nicht geschafften Aufträge. Die erste Prozentzahl zeigt nur diesen Auftrag an und die zweite zeigt alle Aufträge an.';
+$l['heist-help'] = 'Hier werden die gespielten Aufträge gezählt. Es zählt dem Update #32.1. Grün bedeutet geschaffte Aufträge, Gelb sind die Aufträge die du nicht vollständig gemacht und Rot sind die nicht geschafften Aufträge. Die erste Prozentzahl zeigt nur diesen Auftrag an und die zweite zeigt alle Aufträge an.';
 $l['sort'] = 'Sortieren nach';
 $l['win'] = 'Gewonnen';
 $l['dropin'] = 'Beitreten';
 $l['fail'] = 'Gescheitert';
 $l['escape'] = 'Flucht';
-$l['escape-help'] = 'Hier werden die einzelnen Flucht-Missionen gezählt. Es wird vermutlich seit dem GO Bank Update gezählt. Es werden geschaffte und nicht geschaffte Aufträge gezählt.';
+$l['escape-help'] = 'Hier werden die einzelnen gespielten Flucht-Missionen gezählt. Es wird seit dem GO Bank Update gezählt. Es werden geschaffte und nicht geschaffte Aufträge gezählt.';
 $l['total'] = 'Insgesamt';
 $l['masks'] = 'Masken';
-$l['masks-help'] = 'hier werden die Masken aufgezählt. Die Benutzung der Masken wird in Tagen gezählt, dass beinhaltet geschaffte und nicht geschaffte Tage.';
+$l['masks-help'] = 'Hier werden die Masken aufgezählt. Die Benutzung der Masken wird in Tagen gezählt, dass beinhaltet geschaffte und nicht geschaffte Tage.';
 $l['usage'] = 'Benutzung';
 $l['name'] = 'Name';
 $l['armors'] = 'Rüstungen';
 $l['armor'] = 'Rüstung';
-$l['armor-help'] = 'Hier wird die benutzte Rüstung gezählt. Es wird seit dem update #32.1 gezählt. Es wird in Tagen gezählt, zusammen mit den Flucht-Missionen. Ds bedeutet es zählt geschaffte und nicht geschaffte Tage.';
+$l['armor-help'] = 'Hier wird die benutzte Rüstung gezählt. Es wird seit dem Update #32.1 gezählt. Es wird in Tagen gezählt, zusammen mit den Flucht-Missionen. Ds bedeutet es zählt geschaffte und nicht geschaffte Tage.';
 $l['times-used'] = 'Benutzt';
-$l['concealment'] = 'Tarnwert';
+$l['concealment'] = 'Tarnung';
 $l['speed'] = 'Geschwindigkeit';
-$l['dodge'] = 'Ausweichwert';
+$l['dodge'] = 'Ausweichen';
 $l['steadiness'] = 'Genauigkeit';
 $l['stamina'] = 'Ausdauer';
 $l['gadgets'] = 'Items';
-$l['gadgets-help'] = 'Hier werden die Items gezählt. Es wird seit ungefähr dem GO Bank Update gezählt. Es wird gezählt wie viele Items du platzierst.';
+$l['gadgets-help'] = 'Hier werden die Items gezählt. Es wird seit dem GO Bank Update gezählt. Es wird gezählt wie viele Items du platzierst hast.';
 $l['weapons'] = 'Waffen';
-$l['weapons-help'] = 'Hier werden die benutzten Waffen gezählt. Es zählt die Kills seit ungefähr Update #32.1 und benutzbar seit dem Go Bank Update. Nahkamfwaffen werden seit update #31.2 gezählt. Es wird in Tagen gezählt, zusammen mit den Flucht-Missionen. Das bedeutet es werden derzeit geschaffte und nicht geschaffte Tage gezählt.';
+$l['weapons-help'] = 'Hier werden die benutzten Waffen gezählt. Es zählt die Kills seit dem Update #32.1 und die Benutzung seit dem Go Bank Update. Nahkamfwaffen werden seit Update #31.2 gezählt. Es wird in Tagen gezählt, zusammen mit den Flucht-Missionen. Das bedeutet es werden derzeit geschaffte und nicht geschaffte Tage gezählt.';
 $l['primary'] = 'Primär';
 $l['secondary'] = 'Sekundär';
 $l['melee'] = 'Nahkampf';
@@ -139,10 +158,13 @@ $l['damage'] = 'Schaden';
 $l['accuracy'] = 'Genauigkeit';
 $l['stability'] = 'Stabilität';
 $l['threat'] = 'Bedrohung';
-$l['knockdown'] = 'Chance den Gegner zu Boden zu bringen';
-$l['chargetime'] = 'Zeit zum aufladen';
+$l['knockdown'] = 'Umhauen';
+$l['chargetime'] = 'Ladezeit';
 $l['range'] = 'Reichweite';
 $l['infinite'] = '∞';
+$l['tops'] = 'Am meisten besichtigte Profile';
+$l['totalview'] = 'Am meisten Besichtigungen';
+$l['playername'] = 'Spielername';
 //DLC Names
 $l['Armored_Transport'] = 'ARMORED TRANSPORT';
 $l['Big_Bank_Heist'] = 'BIG BANK HEIST';
@@ -214,12 +236,16 @@ $l['akmsu'] = 'Krinkov';
 $l['p90'] = 'Kobus 90';
 $l['m45'] = 'Swedish K';
 $l['mp7'] = 'SpecOps';
+$l['cobrasmg'] = 'Cobra';
+$l['blastersmg'] = 'Blaster 9mm';
+$l['uzi'] = 'Uzi';
 //Shotguns
 $l['judge'] = 'The Judge';
 $l['serbu'] = 'Locomotive 12G';
 $l['striker'] = 'Street Sweeper';
 ////Melee
-$l['butt'] = 'Kolben';
+$l['butt']
+ = 'Kolben';
 $l['butt-description'] = 'In bewaffneten Raubüberfällen ist es besser die Zivilisten mit den Waffen zu schlagen. Normalerweise schlägt man sie mit dem Kolben der Waffe oder man schlägt mit der Pistole zu.<br/><br/>Das ist der schnellste Angriff.';
 $l['fists'] = 'Fäuste';
 $l['fists-description'] = 'Auch wenn du kein Boxer bist kannst du trotzdem hart zuschlagen. Alles was du brauchst ist ein bisschen Stärke und Geschwindigkeit um einen guten Schlag zu treffen.';
@@ -253,6 +279,16 @@ $l['x46'] = 'X-46-Messer';
 $l['x46-description'] = 'Das X-46 ist ein 6 Zoll langes Stück keramick mit A2 Eisenkern und einer extrahalterung am Handgriffende. Gegen Wachen und Glass ist es der Tipp. Seine Vielseitige Verwendung macht es sowohl im Krieg als auch in Notfällen nützlich.';
 $l['dingdong'] = 'Ding Dong Brecheisen';
 $l['dingdong-description'] = 'Das Ding Dong Brecheisen ist eigentlich ein tacktischer Vorschlaghammer. Er wurde als Brechwerkzeug, Ramwerkzeug und Öffner benutzt. Vermutlich wirs du es am meisten benutzten, um Köpfe zu öffnen. Guter Schaden & Umwerfchance, aber langsam zu Schwingen.';
+$l['baseballbat'] = 'Baseball Bat';
+$l['baseballbat-description'] = '';
+$l['briefcase'] = '50 Blessings Briefcase';
+$l['briefcase-description'] = '';
+$l['cleaver'] = 'Cleaver';
+$l['cleaver-description'] = '';
+$l['fireaxe'] = 'Fire Axe';
+$l['fireaxe-description'] = '';
+$l['machete'] = 'Machete';
+$l['machete-description'] = '';
 ////Grenades
 $l['frag-grenade'] = 'Fragmentgranade';
 ////Gadgets
@@ -267,14 +303,14 @@ $l['sentry_gun-description'] = 'Die Sentry Gun ist ein Werkzeug, welches selbsts
 $l['ecm_jammer'] = 'ECM-Störsender';
 $l['ecm_jammer-description'] = 'Elektronische Gegenmaßen (engl. electronic countermeasure (ECM)) werden durch diese Gerät ermöglicht. Das umfasst das Stör von Radar, Sonar und anderen Erkennungsgerätschaften.';
 ////Armor
-$l['level_1'] = 'Two-Piece Suit';
-$l['level_1-description'] = 'No movement penalty, no visibility.<br/><br/>This is the standard two-piece suit that any self-respecting criminal should wear.<br/><br/>It provides no extra protection but has the highest concealment factor, making it the best choice for a heist where you want to go undetected and blend into the crowd.<br/><br/>Suits are usually reserved for special occasions, such as weddings, funerals and bank robberies.';
-$l['level_2'] = 'Lightweight Ballistic Vest';
-$l['level_2-description'] = 'Little movement penalty, low visibility.<br/><br/>The lightweight ballistic vest is easy to wear, concealable bullet proof vest. It offers a specially developed trauma liner which provides effective blunt trauma protection, making it a good choice to protect yourself.<br/><br/>Lightweight ballistic vests are used by dignitaries and VIP\'s, sky marshals as well as executive and diplomatic security professionals.';
-$l['level_3'] = 'Ballistic Vest';
-$l['level_3-description'] = 'Little movement penalty, low visibility.<br/><br/>The ballistic vest is a standard issue bullet-resistant soft vest that is worn on the torso. It offers good protection from small-calibre handgun and shotgun projectiles, making it essential for anyone in the line of fire.<br/><br/>Ballistic vests are used by police forces, security guards and bodyguards.';
-$l['level_4'] = 'Heavy Ballistic Vest';
-$l['level_4-description'] = 'Small movement penalty, medium visibility.<br/><br/>The heavy ballistic vest is a hard-plate reinforced vest that is worn on the torso. It is a modern body armor combining a ballistic vests with shoulder and side protection armor components, making it a great protection of choice.<br/><br/>Heavy ballistic vests are worn by soldiers, police tactical units, and hostage rescue teams.';
+$l['level_1'] = 'Klassicher Anzug';
+$l['level_1-description'] = 'Keine Geschwindigkeitseinbuße, keine Auffälligkeit<br/><br/>Dies ist ein einfacher Klassischer Anzug, welcher jeder Kriminäller mit Stil tragen sollte.<br/><br/>r biete keinen Extraschutz, aber er hat die höhste Tarnung. Was ihn zur besten Wahl für Aufträg macht, wenn du unentdeckt bleiben willst.<br/><br/>Anzüge werden nur zu bestimmten Anlässen getragen, wie zum Beispiel Hochzeiten oder Jubiläen oder Bankräuben.';
+$l['level_2'] = 'Leichte Schutzweste';
+$l['level_2-description'] = 'Sehr geringe Geschwindigkeitseinbuße, geringe Auffälligkeit.<br/><br/>Die leichte Schutzweste ist einfach, versteckte kugelsichere Weste. Sie bietet Schutz vor einfach Aufprallwunden wie zum Beispiel von Kugeln, dass macht sie zu einer guten Wahl zum Schutz von jeden.<br/><br/>Die Leichte Schutzweste wird benutzt von Designern, VIPS, Sky Marshals so wie Diplomaten- und Personenschützern.';
+$l['level_3'] = 'Schutzweste';
+$l['level_3-description'] = 'Geringe Geschwindigkeitseinbuße, geringe Auffäligkeit.<br/><br/>Die Schutzweste ist DIE standart kugelsichere Weichweste, welche vorm Bauch getragen wird. Sie bietet einen guten Schutz gegen Kleinkaliberwaffen und Schrottflinten. Sie ist unerläslich in einem Feuergefähcht<br/><br/>Die Schutzweste wird von der Pozei, Sicherheitspersonal und bestimmten Bodyguards benutzt.';
+$l['level_4'] = 'Schwere Schutzweste';
+$l['level_4-description'] = 'Geringe Geschwindigkeitseinbuße, geringe Auffälligkeit.<br/><br/>Die Schwere Schutzweste ist mit Hartmetalplatten verstärkt, welche denn Burstbereich noch besser Schützen. It is a modern body armor combining a ballistic vests with shoulder and side protection armor components, making it a great protection of choice.<br/><br/>Heavy ballistic vests are worn by soldiers, police tactical units, and hostage rescue teams.';
 $l['level_5'] = 'Flak Jacket';
 $l['level_5-description'] = 'Medium movement penalty, medium visibility.<br/><br/>The flak jacket by GenSec Security Industries is a modern take on the classic version. It absorbs the impact from firearm projectiles and shrapnel from explosions.<br/><br/>It combines a heavy ballistic vest with shoulder and side protection armor components, offering spine protection as well.<br/><br/>Flak jackets are worn by Marines, combat soldiers and GenSec FTSU task forces.';
 $l['level_6'] = 'Combined Tactical Vest';
@@ -288,9 +324,15 @@ $l['bear-description'] = 'hello from Russia.<br/><br/>I think it will be the bes
 $l['heat'] = 'Hockey Heat';
 $l['heat-description'] = 'A classic hockey mask.<br/><br/>A guy told me one time...<br/><br/>"Don\'t let yourself get attached to anything you are not willing to walk out on in 30 seconds flat if you feel the heat around the corner."';
 $l['santa_happy'] = 'Happy Santa';
-$l['santa_happy-description'] = 'Santa, more known as Santa Claus, Saint Nicholas, Father Christmas and Kris Kringle (?) is a man of epic proportions. Words like legendary, mythical, historical and folkloric best describe this beast of a man.<br/><br/>This particular mask is the Happy Santa mask. Big smile and super jolly with red cheeks and all, wearing this you\'ll even bring the most negative of Bulldozers into a joyous smile.';
+$l['santa_happy-description'] = 'Santa, more known as Santa Claus, Saint Nicholas,
+ Father Christmas and Kris Kringle (?) is a man of epic proportions. Words like legendary, mythical, historical and folkloric best describe this beast of a man.<br/><br/>This particular mask is the Happy Santa mask. Big smile and super jolly with red cheeks and all, wearing this you\'ll even bring the most negative of Bulldozers into a joyous smile.';
 $l['unicorn'] = 'Peter';
 $l['unicorn-description'] = 'Peter is a true legend and has been so for like, ever. A beast with a large, pointed, spiralling horn projected from its forehead, Peter is known by all of mankind as the go-to guy for whenever you need to touch the rainbow. No, touch it. Touch the mother-fucking rainbow. Now taste it.<br/><br/>Shh. It\'s okay. You did good.';
+//Crimefest
+$l['combusto'] = 'Firestarter';
+$l['combusto-description'] = 'This clown used to be a master of pyrotechnics, having a fire breathing number that no one could top. His competitors in the not-so-known-firebreathing-clown-scene were unhappy with his success... And spiked his cocktail. With third degree burns on his face and an evil look in his eyes he fought fire with fire and set the other clown ablaze. But he didn\'t stop there, the fiery hatred in him burned too bright. Now he seeks to set the world on fire.';
+$l['spackle'] = 'Spackle';
+$l['spackle-description'] = 'Once a well renowned circus clown Spackle was the best make-up artist in the scene. Known for her skill and ability to make people look so unlike themselves, she became obsessed with art. With her own face as canvas she tirelessly applied layer after layer, each becoming more twisted. She was sent to an asylum after killing five people during their make-up process.';
 //Lootbag
 $l['skull'] = 'Skull';
 $l['skull-description'] = 'An exclusive mask representing death and mortality.<br/><br/>Created in the heavens as a gift by the gods to men and women who believed in them early on, who built their shrines and spread their beliefs across the lands.<br/><br/>Thank you for believing in us! We salute you!';
@@ -341,7 +383,8 @@ $l['wasp-description'] = 'Two pairs of wings, an ovipositor or stinger, no thick
 $l['orangutang'] = 'Rutger';
 $l['orangutang-description'] = 'Rutger the motherfucking Orangutan. If you\'re strolling down the jungle and suddenly face an orang-utan, you\'re in trouble. Statistics show that one orang-utan is more dangerous than ten hobos with shotguns<br/><br/>You remember that movie about dinosaurs with the big dinosaur in the end saving the kids? Know who killed the dinosaur after the credits? The kids did, but you know who killed the kids? Rutger the motherfucking orangutan did.';
 $l['silverback'] = 'Steven';
-$l['silverback-description'] = 'Steven the Silverback Gorilla. Not only is he fucking huge, he\'s strong as hell too. He can break your back by just looking at you. You\'ll be hospitalized for weeks. Not only that, but there\'ll be months of therapy as well. Do you know how hard it is learning to walk again?<br/><br/>Want to know what else is hard? Steven\'s muscles. 22 years ago he worked as a chef on a military ship. Killed everyone in 103 minutes.';
+$l['silverback-description'] = 'Steven the
+ Silverback Gorilla. Not only is he fucking huge, he\'s strong as hell too. He can break your back by just looking at you. You\'ll be hospitalized for weeks. Not only that, but there\'ll be months of therapy as well. Do you know how hard it is learning to walk again?<br/><br/>Want to know what else is hard? Steven\'s muscles. 22 years ago he worked as a chef on a military ship. Killed everyone in 103 minutes.';
 $l['mandril'] = 'John';
 $l['mandril-description'] = 'John the Mandrill Monkey. Mandrills are closely related to baboons and even more to the drill. Not the kind of drill you use in a bank robbery, but the monkey drill, silly you!<br/><br/>John is a monkey know for his sardonic one-liners, include the catch phrase "unidentified monkey screech".';
 $l['skullmonkey'] = 'Clint';
@@ -400,7 +443,8 @@ $l['twitch_orc'] = 'Orc';
 $l['twitch_orc-description'] = 'Brutish, aggressive and generally repulsive, the orcs have always been a hated race. Orcs are larger stronger than their goblin cousins but smaller and less powerful than their ogre brethren.<br/><br/>This particular purple-skinned orc came from the Stonetremble clan who were known for their fierce warriors and overpowered, hybrid shamans.';
 //Hotline Miami DLC
 $l['pig'] = 'Aubrey';
-$l['pig-description'] = 'Aubrey ist ein echter Waffenliebhaber.<br/><br/>Mit seinem großen Kopf und seiner langen Schnauze ist Aubrey ein Waffenkenner und kann nichts besser als mit einer guten Ausrüstung zu töten.<br/><br/>Jedoch haben Schweine sehr kleine Lungen deswegen kann Aubrey nicht sehr weit rennen.';
+$l['pig-description'] = 'Aubrey ist ein echter Waffenliebhaber.<br/><br/>Mit
+ seinem großen Kopf und seiner langen Schnauze ist Aubrey ein Waffenkenner und kann nichts besser als mit einer guten Ausrüstung zu töten.<br/><br/>Jedoch haben Schweine sehr kleine Lungen deswegen kann Aubrey nicht sehr weit rennen.';
 $l['white_wolf'] = 'Dennis';
 $l['white_wolf-description'] = 'Dennis liebt Messer.<br/><br/>Der graue Wolf ist eines der bekanntesten und am besten erforschten Tiere der Welt. Es war einer der ersten und einzigen großen Flesichfresser der von Menschen gezähmt wurde.<br/><br/>Heute lebt nur noch ein Drittel der Besiedelung, weil die Menschen sie verfolgten.';
 $l['rabbit'] = 'Graham';
@@ -468,7 +512,8 @@ $l['grin-description'] = 'There once was a man and his brother.<br/><br/>Togethe
 $l['alienware'] = 'Alienware';
 $l['alienware-description'] = 'Based on the visions of a madman who thought he saw an extraterrestrial being.<br/><br/>It is strange though, as the powerful materials is not from anywhere on Earth.';
 $l['babyrhino'] = 'Baby Rhino';
-$l['babyrhino-description'] = 'Who would not want to wear the head of a baby rhino. Is it not cute? Putting it on makes you feel a little stupid, maybe because how it looks.<br/><br/>While wearing it, you are worried that it is a bit hard seeing through the mask. You will do fine as long as you do not wander off with your pig-headed friends.';
+$l['babyrhino-description'] = 'Who would not want to wear the head of a baby rhino. Is it not cute? Putting it on makes you feel a little stupid, maybe because how it looks.<br/><br/>While wearing it, you are worried
+ that it is a bit hard seeing through the mask. You will do fine as long as you do not wander off with your pig-headed friends.';
 $l['biglips'] = 'Big Lips';
 $l['biglips-description'] = 'Throw someone a lip by wearing this mask.<br/><br/>The thing that gets people is the two fleshy folds that surround the mouth of this mask, the biggest lips you ever saw.<br/><br/>Open your mouth and say \'aaah\', directed the bank robber.';
 $l['mr_sinister'] = 'Blackhearted';
@@ -533,7 +578,8 @@ $l['clown_56'] = 'Starved';
 $l['clown_56-description'] = 'This mask has a hideous appearance, a bony facial structure and dehydrated skin.<br/><br/>It is the kind of mask gives you nightmares.';
 $l['troll'] = 'Troll';
 $l['troll-description'] = 'Now here is a troll that is tired of hiding under the bridge.<br/><br/>Why not see the world, pillage a village, take the local inhabitants gold treasures and flee from the the angry mobs instead?';
-$l['dawn_of_the_dead'] = 'Undead';
+$l['dawn_of_the_dead']
+ = 'Undead';
 $l['dawn_of_the_dead-description'] = 'An undead is a being that is dead yet somehow behaves like it is still alive.<br/><br/>Created in mysterious ways, this might as well be a zombie as it could be a Vampire.<br/><br/>If you are going to rob a bank, why not scare the living hell out of people while doing so?';
 $l['vampire'] = 'Vampire';
 $l['vampire-description'] = 'The Vampire is a mythological undead creature, said to feed on the blood of the living.<br/><br/>Vampires can appear as normal humans.<br/><br/>When attacked they will reveal their vampire visage where their face changes and they grow fangs and pointed teeth.';
@@ -586,18 +632,18 @@ $l['escapeoverpass'] = 'Brücken-Flucht';
 $l['escapegarage'] = 'Garagen-Flucht';
 ////Skilltrees
 //Mastermind
-$l['controlfreak'] = 'Kontrollfreak';
-$l['controlfreak-normal'] = 'Von die erzeugter Lärm schüchtert Zivilisten ein.';
-$l['controlfreak-ace'] = 'Zivilisten bleiben <div class="bluein">50%</div> länger eingeschüchtert.';
+$l['controlfreak'] = 'Hostage Taker';
+$l['controlfreak-normal'] = 'Having at least one hostage makes you regenerate <div class="bluein">0.03%</div> health every <div class="bluein">5</div> seconds.';
+$l['controlfreak-ace'] = 'Having at least one hostage makes you regenerate <div class="bluein">1%</div> health every <div class="bluein">5</div> seconds.';
 $l['pistolmessiah'] = 'Pistolen-Messias';
 $l['pistolmessiah-normal'] = 'Während du verblutest, wirst du sofort wiederbelebt, wenn du einen Gegner mit einer Pistole tötest. Du hast nur <div class="bluein">1</div> Ladung. Deine Ladung wird erneuert, wenn du aus der Haft entlassen wirst.';
 $l['pistolmessiah-ace'] = 'Du erhälst <div class="bluein">2</div> weitere Ladungen. Deine Ladungen werden erneuert, wenn du aus der Haft entlassen wirst.';
 $l['inspire'] = 'Anfeuern';
 $l['inspire-normal'] = 'Du kannst deine Crewmitglieder <div class="bluein">50%</div> schenller wiederbeleben. Wenn du deine Crewmitglieder anschreist, werden sie für <div class="bluein">10</div> Sekunden <div class="bluein">20%</div> schneller.';
 $l['inspire-ace'] = 'Du kannst deine Crewmitglieder mit <div class="bluein">75%</div> Wahrscheinlichkeit durch Anschrein aus der Entfernung wiederbeleben.';
-$l['blackmarketeer'] = 'Schwarzmarkthändler';
-$l['blackmarketeer-normal'] = 'Reduziert die Kosten aller zukünftigen Einkäufe um <div class="bluein">10%</div>.';
-$l['blackmarketeer-ace'] = 'Reduziert alle weitern Einkäufe um weitereb <div class="bluein">20%</div>. Auch Verkäufe sind jetzt <div class="bluein">25%</div> lukrativer.';
+$l['blackmarketeer'] = 'Partner in Crime';
+$l['blackmarketeer-normal'] = 'Having a converted enemy increases your movement speed by <div class="bluein">10%</div>.';
+$l['blackmarketeer-ace'] = 'Having a converted enemy increases your health by <div class="bluein">20%</div>.';
 $l['gunslinger'] = 'Revolverheld';
 $l['gunslinger-normal'] = 'Du lädst Pistolen <div class="bluein">50%</div> schneller nach.';
 $l['gunslinger-ace'] = 'Deine Pistoen  verursachen <div class="bluein">50%</div> mehr Schaden.';
@@ -612,7 +658,7 @@ $l['combatdoctor-normal'] = 'Du kannst jetzt <div class="bluein">2</div> Arzttas
 $l['combatdoctor-ace'] = 'Deine Arzttaschen haben <div class="bluein">2</div> weitere Ladungen.';
 $l['joker'] = 'Joker';
 $l['joker-normal'] = 'Du kannst einen Gegner umdrehen, damit er auf deiner Seite kämpft. Gilt nicht für Spezial-Gegner und nicht in Stealth. Der Gegner muss sich ergeben haben, damit du ihn umdrehen kannst. Du kannst nur einen umgedrehten Gegner gleichzeitig haben.';
-$l['joker-ace'] = 'Der umgedrehte Gegner erhält <div class="bluein">55%</div> mehr Gesundheit und verursacht <div class="bluein">45%</div> mehr Schaden.';
+$l['joker-ace'] = 'The converted enemy gains <div class="bluein">55%</div> more health and deals <div class="bluein">45%</div> more damage. The time to convert an enemy is reduced by <div class="bluein">65%</div>.';
 $l['spotter'] = 'Aufklärer';
 $l['spotter-normal'] = 'Von dir markierte Spezial-Gegener erleiden <div class="bluein">15%</div> mehr Schaden.';
 $l['spotter-ace'] = 'Schaltet den Aufklärer-Vorteil im Job-Übersichts-Menü frei. Im Stealth wird der Aufklärer für dich und deine Crew Wachen makieren.';
@@ -622,12 +668,12 @@ $l['equilibrium-ace'] = 'Erhöht die Feuerrate deiner Pistolen um <div class="bl
 $l['dominator'] = 'Bezwinger';
 $l['dominator-normal'] = 'Du und deine Crew könnt jetzt einen Gegner einshcüchtern, um ihn als Geisle zu nehmen. Gilt nicht für Spezial-Gegner. Weniger gut ausgebildete Gegner sind leichter einzuschüchtern.';
 $l['dominator-ace'] = 'Macht und Reichweite deiner Einschüchterung erhöhen sich um <div class="bluein">50%</div>.';
-$l['insideman'] = 'Inside Man';
-$l['insideman-normal'] = 'Reduziert die Kosten im Job-Übersicht-Menü um <div class="bluein">50%</div>.';
+$l['insideman'] = 'Control Freak';
+$l['insideman-normal'] = 'Civilians remain intimidated <div class="bluein">50%</div> longer. Noise created by you intimidates civilians';
 $l['insideman-ace'] = 'Schaltet spezielle Insider-Vorteile im Job-Übersicht-Menü frei.';
-$l['fastlearner'] = 'Schnellmerker';
-$l['fastlearner-normal'] = 'Du erhälst <div class="bluein">15%</div> mehr Erfahrung für das Abschließen von Tagen und Jobs.';
-$l['fastlearner-ace'] = 'Dein Team erhält <div class="bluein">30%</div> mehr Erfahrung für das Abschließen von Tagen und Jobs.';
+$l['fastlearner'] = 'Pain Killers';
+$l['fastlearner-normal'] = 'Crew members you revive take <div class="bluein">10%</div> less damage for <div class="bluein">5</div> seconds';
+$l['fastlearner-ace'] = 'The damage reduction is increased by an additional <div class="bluein">20%</div>.';
 $l['leadership'] = 'Führung';
 $l['leadership-normal'] = 'Die Stabilität von Pistolen erhöht sich für dich und deine Crew um <div class="bluein">25%</div>.';
 $l['leadership-ace'] = 'Die Stabilität aller Waffeb erhöht sich für dich und deine Crew um <div class="bluein">50%</div>.';
@@ -651,7 +697,8 @@ $l['ironman-normal'] = 'Du kannst jetzt die verbesserte taktische Panzerweste tr
 $l['ironman-ace'] = 'Dein Nahkampfangriff stößt durch seine schiere ucht Schild-Gegner zurück. Rennen und schießen - du kannst jetzt beim Rennen aus der Hüfte schießen.';
 $l['carbonblade'] = 'Karbonsägeblatt';
 $l['carbonblade-normal'] = 'Der Einsatz von Karbon-Sägeblätern erhöht die Effizienz deiner Säge um <div class="bluein">20%</div>.';
-$l['carbonblade-ace'] = 'Beim Angrifen von Gegner nutzt sich deine OVE9000 Handkreissäge <div class="bluein">50%</div> weniger ab. Die Sägewirkung erhöht sich um <div class="bluein">20%</div>.';
+$l['carbonblade-ace'] = 'Attacking enemies with the OVE9000 portable saw wears it down <div class="bluein">50%</div> less than before. Saws
+ are <div class="bluein">20%</div> more effective. You can use the saw as a secondary weapon.';
 $l['hardboiled'] = 'Abgebrüht';
 $l['hardboiled-normal'] = 'Die Genauigkeit deiner Schrotflinten beim Schießen aus der Hüfte erhöht sich um <div class="bluein">20%</div>.';
 $l['hardboiled-ace'] = 'Die Genauigkeit aus der Hüfte all deiner Waffen erhöht sich um <div class="bluein">20%</div>.';
@@ -693,7 +740,7 @@ $l['oppressor-normal'] = 'Deine Waffen bedrohen Gegner <div class="bluein">25%</
 $l['oppressor-ace'] = 'Deine Waffen bedrohen Gegner <div class="bluein">50%</div> mehr.';
 $l['bulletstorm'] = 'Kugelhagel';
 $l['bulletstorm-normal'] = 'Wenn Du eine Munitionstasche hinlegst, kannst du <div class="bluein">5</div> Sekunden lang schießen, ohne Munition zu verbrauchen.';
-$l['bulletstorm-ace'] = 'Du kannst weitere <div class="bluein">5</div> Sekunden schießen, ohne Munition zu verbrauchen.';
+$l['bulletstorm-ace'] = 'You can fire <div class="bluein">10</div> seconds longer without depleting your ammunition.';
 $l['transporter'] = 'Transporter';
 $l['transporter-normal'] = 'Du bewegst dich beim Tragen von Taschen <div class="bluein">50%</div> schneller.';
 $l['transporter-ace'] = 'Du kannst Taschen <div class="bluein">50%</div> weiter werfen.';
@@ -710,8 +757,8 @@ $l['bulletproof'] = 'Kugelsicher';
 $l['bulletproof-normal'] = 'Verstärkt deine Panzerung um <div class="bluein">50%</div>.';
 $l['bulletproof-ace'] = 'Die Panzerung erholt sich <div class="bluein">25%</div> schneller für dich und deine Crew.';
 $l['sentrycombatupgrade'] = 'Sentry-Kampf-Upgrade';
-$l['sentrycombatupgrade-normal'] = 'Deine Sentry Gun erhält <div class="bluein">50%</div> mehr Munition.';
-$l['sentrycombatupgrade-ace'] = 'Deine Senty Gun erhält einen Schutzschild.';
+$l['sentrycombatupgrade-normal'] = 'You can now reload your sentry gun with your own ammo.';
+$l['sentrycombatupgrade-ace'] = 'Your sentry gun recieves <div class="bluein">50%</div> extra ammunition. You can now reload your sentry gun with your own ammo.';
 $l['shapedcharge'] = 'Hohlladung';
 $l['shapedcharge-normal'] = 'Fügt deinem Inventar <div class="bluein">3</div> Stolperminen hinzu.';
 $l['shapedcharge-ace'] = 'Stolperminen können jetzt zu Hohlladungen umfunktioniert werden, um bestimte Tresore und Türen aufzusprengen..';
@@ -719,20 +766,20 @@ $l['shockproof'] = 'Schocksicher';
 $l['shockproof-normal'] = 'Taser-Angriffe auf dich gehen nach hinten los und stoßen den Taser zurück.';
 $l['shockproof-ace'] = 'Interagieren mit einem Taser, der dich unter Strom setzt, setzt ihn selbst unter Strom und fügt seiner Gesundheit <div class="bluein">50%</div> Schaden zu.';
 $l['sentrytargetingpackage'] = 'Sentry-Zielübungen';
-$l['sentrytargetingpackage-normal'] = 'Die Genauigkeit deiner Sentry Gun erhöht sich um <div class="bluein">50%</div>.';
-$l['sentrytargetingpackage-ace'] = 'Deine Sentry Gun dreht sich <div class="bluein">150%</div> schneller.';
-$l['blastradius'] = 'Exlosionsradius';
-$l['blastradius-normal'] = 'Der Explosionsradius deiner Minen erhöht sich um <div class="bluein">25%</div>.';
-$l['blastradius-ace'] = 'Der Radius erhöht sich um weiter <div class="bluein">75%</div>.';
+$l['sentrytargetingpackage-normal'] = 'Your sentry gun accuracy is improved by <div class="bluein">100%</div>.';
+$l['sentrytargetingpackage-ace'] = 'Your sentry gun rotational speed is increased by <div class="bluein">150%</div>. Your sentry gun is loaded with <div class="bluein">50%</div> extra ammo.';
+$l['blastradius'] = 'Jack of all Trades';
+$l['blastradius-normal'] = 'The radius of trip mine explosions is increased by <div class="bluein">70%</div>.';
+$l['blastradius-ace'] = 'You can now carry sentry guns and trip mines at the same time. When you deplete your trip mines or sentry guns you will switch to the other one.';
 $l['silentdrilling'] = 'Leises Bohren';
 $l['silentdrilling-normal'] = 'Dein Bohrer macht <div class="bluein">65%</div> weniger Lärm. Es ist weniger wahrscheinlich, dass Zivilisten oder Wachen deinen Bohrer hören und Alarm schlagen.';
 $l['silentdrilling-ace'] = 'Dein Bohrer ist geräuschlos. Zivilisten und Wachen müssen ihn sehen um Alarm auszulösen.';
 $l['sentrygun'] = 'Sentry Gun';
 $l['sentrygun-normal'] = 'Schaltet die Sentry Gun für ich frei.';
 $l['sentrygun-ace'] = 'Die Gesundheit deiner Sentry Gunerhöht sich um <div class="bluein">150%</div>.';
-$l['improvedcrafting'] = 'Verbesserte Fertigung';
-$l['improvedcrafting-normal'] = 'Reduzierte Kosten bei der Waffenfertigung um <div class="bluein">10%</div>.';
-$l['improvedcrafting-ace'] = 'Reduzierte Kosten bei der Maskenfertigung um <div class="bluein">10%</div>.';
+$l['improvedcrafting'] = 'Tactical Mines';
+$l['improvedcrafting-normal'] = 'The radius of trip mine explosions is increased by <div class="bluein">30%</div>.';
+$l['improvedcrafting-ace'] = 'Special enemies marked by your trip mines take <div class="bluein">15%</div> more damage.';
 $l['drillsergant'] = 'Und er hat doch Gebohrt';
 $l['drillsergant-normal'] = 'Erhöht die Effizenz deines Bohrers um <div class="bluein">15%</div>.';
 $l['drillsergant-ace'] = 'Erhöht die Bohrereffizienz um weitere <div class="bluein">15%</div>.';
@@ -741,7 +788,7 @@ $l['sharpshooter-normal'] = 'Die Genauigkeit Deiner Einzelschusswaffen erhöht s
 $l['sharpshooter-ace'] = 'Die Stabilität Deiner Gewehre erhöht sich um <div class="bluein">25%</div>.';
 $l['combatengineer'] = 'Pionier';
 $l['combatengineer-normal'] = 'Du kannst Stolperminen ein- und ausschalten.';
-$l['combatengineer-ace'] = 'Deine Stolperminen erhalten einen Sensormodus.';
+$l['combatengineer-ace'] = 'Upgrades your trip mines with a sensor mode. Enemies that go past your trip mines while in sensor mode are highlighted for you and your crew.';
 $l['hardwareexpert'] = 'Mechatroniker';
 $l['hardwareexpert-normal'] = 'You fix the drill <div class="bluein">25%</div> faster and you also deploy trip mines <div class="bluein">20%</div> faster.';
 $l['hardwareexpert-ace'] = 'Es besteht die <div class="bluein">30%</div> Chance , dass der Bohrer ach einem Versagen automatischh neu startet. Außerdem kannst du die Sentry Gun <div class="bluein">50%</div> schneller einsetzen.';
@@ -754,7 +801,8 @@ $l['demolitionman-ace'] = 'Du platzierst deine Stolperminen <div class="bluein">
 $l['nervesofsteel'] = 'Nerven aus Stahl';
 $l['nervesofsteel-normal'] = 'Du nimmst <div class="bluein">50%</div> weniger Schaden, wenn du mit Objekten interagierst.';
 $l['nervesofsteel-ace'] = 'Du kannst beim Verbluten jetzt die Zielvorrichtung verwenden.';
-$l['unlocktechnician'] = 'Techniker freischalten';
+$l['unlocktechnician']
+ = 'Techniker freischalten';
 $l['unlocktechnician-normal'] = 'Der Techniker ist Fachmann für die praktische Seite der Kriminalwissenschaft und freut sich über alles, was BUMM! macht. Der erste Punkt im Techniker-Fähigkeitsbaum schaltet die Fähigkeit frei, Stolperminen zu legen. Sie können verwendet werden, um Dinge in die Luft zu jagen, seien es Menschen oder Tresore. <div class="bluein">2</div> Stolperminen werden deinem Inventar hinzugefügt.';
 //Ghost
 $l['cameraloop'] = 'Kameraschleife';
@@ -762,7 +810,7 @@ $l['cameraloop-normal'] = 'Wenn du aus der Nähe mit einer Kamera interagierst, 
 $l['cameraloop-ace'] = 'Die Dauer der Kamera-Schleife erhöht sich um <div class="bluein">10</div> Sekunden.';
 $l['ecmfeedback'] = 'ECM-Feedback';
 $l['ecmfeedback-normal'] = 'Interagiere sofort mit ECM-Störsendern, um eine Rückkopplung zu erzeugen. Es besteht die <div class="bluein">50%-100%</div> Chance, Feinde innerhalb von <div class="bluein">25</div> alle <div class="bluein">1.5</div> Sek. außer Gefecht zu setzen. ECM-Rückkopplungen halten <div class="bluein">15-20</div> Sek. an.';
-$l['ecmfeedback-ace'] = 'Interagiere sofort mit ECM-Störsendern. Dauer der ECM-Rückkopplung erhöt sich um <div class="bluein">25%</div>.';
+$l['ecmfeedback-ace'] = 'You will now instantly interact with a ECM jammer and the ECM feedback duration is increased by <div class="bluein">25%</div>. Your ECM jammer has a <div class="bluein">100%</div> chance every <div class="bluein">4</div> minutes to recharge itself.';
 $l['movingtarget'] = 'Bewegtes Ziel';
 $l['movingtarget-normal'] = 'Du kannst seitwärts rennen.';
 $l['movingtarget-ace'] = 'Du kannst jetzt in jede Richtung rennen.';
@@ -773,11 +821,11 @@ $l['ecmoverdrive'] = 'ECM-Overdrive';
 $l['ecmoverdrive-normal'] = 'Die Dauer deinens ECM-Störsender erhöht sich um <div class="bluein">25%</div>.';
 $l['ecmoverdrive-ace'] = 'Dein ECM-Störsender kann nun bestimmt Türen öffnen.';
 $l['professional'] = 'Der Profi';
-$l['professional-normal'] = 'Die Stabilität deiner schallgedämpften Waffen erhöht sich um <div class="bluein">50%</div>.';
-$l['professional-ace'] = 'Die Genauigkeit deiner schallgedämpften Waffen erhöht sich um <div class="bluein">50%</div> und der Wechsel zur Zielvorrichtung ist <div class="bluein">100%</div> schneller.';
+$l['professional-normal'] = 'Weapon stability with silenced weapons is increased by <div class="bluein">50%</div>. Your snap to zoom is <div class="bluein">100%</div> faster with silenced weapons.';
+$l['professional-ace'] = 'Your accuracy with silenced weapons is increased by <div class="bluein">50%</div>. You gain a <div class="bluein">15%</div> chance to pierce enemy armor with silenced weapons.';
 $l['ninelives'] = 'Neun Leben';
 $l['ninelives-normal'] = 'Du kannst <div class="bluein">1</div> Mal mehr verbluten, bevor du in Haft kommst.';
-$l['ninelives-ace'] = 'Wenn du verblutest, besteht die <div class="bluein">10%</div> Chance, dass du direkt wieder aufstehst.';
+$l['ninelives-ace'] = 'When you get into bleed-out, you have a <div class="bluein">35%</div> chance to get right back up.';
 $l['ecmspecialist'] = 'ECM-Specialist';
 $l['ecmspecialist-normal'] = 'Du kannst <div class="bluein">2</div> anstatt einen ECM-Störsender setzen.';
 $l['ecmspecialist-ace'] = 'Der ECM-Störsender hält <div class="bluein">25%</div> und die ECM-Rückkopplung <div class="bluein">25%</div> länger. Der ECM-Störsender unterdrückt die Pagerbeantwortung, solange er aktiv ist.';
