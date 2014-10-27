@@ -14,14 +14,13 @@ $l['gearindex'] = 'gearindex';
 $l['levelindex'] = 'levelindex';
 $l['itemindexmenu'] = 'Item Index Menu';
 $l['gear'] = 'Gear';
-$l['level'] = 'Levels';
+$l['levelmenu'] = 'Levels';
 $l['weaponlist'] = 'Weapons List';
 $l['masklist'] = 'Masks List';
 $l['armorlist'] = 'Armor List';
 $l['gadgetlist'] = 'Gadget List';
 $l['heistlist'] = 'Heist List';
 $l['escapelist'] = 'Escape List';
-
 
 several lines were added to gadget section and most lines changed.
 ////Gadgets

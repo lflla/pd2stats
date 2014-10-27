@@ -582,6 +582,7 @@ array( 'Name' => $l['unlockghost'], 'Wiki' => 'Skills#Ghost', 'Image' => '_(33)'
 //Temporary
 $heists_dropin = $heists;
 $heists_fail = $heists;
+$heists_quality = $heists;
 $weapons_primary_kills = $weapons_primary;
 $weapons_secondary_kills = $weapons_secondary;
 $weapons_melee_kills = $weapons_melee;
@@ -617,4 +618,5 @@ array_sort_by_column($heists_dropin, 'Dropin');
 array_sort_by_column($heists_fail, 'Fail');
 array_sort_by_column($masks_name, 'Name', SORT_ASC);
 array_sort_by_column($masks_quality, 'Quality', SORT_ASC);
+array_sort_by_column($heists_quality, 'Quality', SORT_ASC);
 ?>
