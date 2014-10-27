@@ -300,6 +300,8 @@ $l['machete'] = 'Machete';
 $l['machete-description'] = '';
 $l['kabartanto'] = 'Ursa Tanto';
 $l['kabartanto-description'] = '';
+$l['toothbrush'] = 'Nova\'s Shank';
+$l['toothbrush-description'] = '';
 ////Grenades
 $l['frag-grenade'] = 'Frag Grenade';
 ////Gadgets
@@ -338,6 +340,18 @@ $l['santa_happy'] = 'Happy Santa';
 $l['santa_happy-description'] = 'Santa, more known as Santa Claus, Saint Nicholas, Father Christmas and Kris Kringle (?) is a man of epic proportions. Words like legendary, mythical, historical and folkloric best describe this beast of a man.<br/><br/>This particular mask is the Happy Santa mask. Big smile and super jolly with red cheeks and all, wearing this you\'ll even bring the most negative of Bulldozers into a joyous smile.';
 $l['unicorn'] = 'Peter';
 $l['unicorn-description'] = 'Peter is a true legend and has been so for like, ever. A beast with a large, pointed, spiralling horn projected from its forehead, Peter is known by all of mankind as the go-to guy for whenever you need to touch the rainbow. No, touch it. Touch the mother-fucking rainbow. Now taste it.<br/><br/>Shh. It\'s okay. You did good.';
+$l['smiley'] = 'Smiley';
+$l['smiley-description'] = 'There was once a clown who couldn\'t smile. He watched as the other clowns brought joy and happiness to both young and old. He grew envious and angry, so to the that he stapled his lips to his cheeks, giving him a wide grin. But instead of making everyone happy, they were all afraid, why, he did not understand.<br/><br/>He came to the conclusion perhaps this was his calling, to make people afraid... Very afraid.';
+$l['gumbo'] = 'Gumbo';
+$l['gumbo-description'] = 'Little is known about the man known as the devouring clown, but for a long time people believed that his read eyes were part of his outfit. Needless to say, they were wrong. Now people fear the red eyed clown with a laugh so evil it makes even the most seasoned badasses quiver in fear.<br/><br/>Word on the street is that he haunts alleyways in a demonic shape looking for something... Or someone. All that is known is that people end up dead, more dead than you thought possible...';
+$l['jw_shades'] = 'Collateral';
+$l['jw_shades-description'] = 'These shades belonged to a colleague of John\'s that he was hired to kill.<br/><br/>It started like any other night. Only this night, he got a contract to kill another contract killer who was making rounds that day. John knew he had five stops to make and was using the same taxi cab between all of them.<br/><br/>In the end, he didn\'t even need to do the deed himself - he was already dead when he found him.';
+$l['stoneface'] = 'Terminator';
+$l['stoneface-description'] = 'These shades belonged to an assassin from a distant land. The assassin John who was sent to kill was built like a machine. The one would prove to be hard. He used a customized Improved Combined Tactical Vest. He was fully armoured and very though. Behind all that armor however, John knew there was only flesh and bones.<br/><br/>John managed to kill him in the end. He knew however that when he removed him from his place, another would replace him.';
+$l['wayfarer'] = 'Reservoir Dog';
+$l['wayfarer-description'] = 'These shades belonged to five strangers. John was hired to kill a group of people who were about to commit the perfect crime. They all dressed the same and had code names so they were easy to identify.<br/><br/>However, John arrived too late to the scene. The police were already there. He made sure the strangers were all dead before he left the scene.';
+$l['crazy_lion'] = 'Mod Lion';
+$l['crazy_lion-description'] = 'A horrifying mask shaped like the head of a lion.<br/><br/>Little is known about this mask. It is said it was made by a crazy Balkan scientist who had a sick fascination for lions. Only he could see the beauty in this mask.<br/><br/>The mask was given to you by someone who wishes you well.';
 //Crimefest
 $l['combusto'] = 'Firestarter';
 $l['combusto-description'] = 'This clown used to be a master of pyrotechnics, having a fire breathing number that no one could top. His competitors in the not-so-known-firebreathing-clown-scene were unhappy with his success... And spiked his cocktail. With third degree burns on his face and an evil look in his eyes he fought fire with fire and set the other clown ablaze. But he didn\'t stop there, the fiery hatred in him burned too bright. Now he seeks to set the world on fire.';

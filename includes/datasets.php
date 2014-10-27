@@ -191,6 +191,8 @@ array( 'Name' => $l['fireaxe'], 'Wiki' => 'Fire Axe', 'Image' => 'fireaxe', 'Qua
 array( 'Name' => $l['briefcase'], 'Wiki' => '50_Blessings_Briefcase', 'Image' => 'briefcase', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['briefcase-description'], 'Used' => $melee_used_briefcase , 'Kills' => $melee_kills_briefcase , 'Stats' => array(
 'Damage' => 7, 'DamageMAX' => 17, 'Knockdown' => 68, 'KnockdownMAX' => 168, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 30 )),
 array( 'Name' => $l['kabartanto'], 'Wiki' => 'Ursa_Tanto_Knife', 'Image' => 'kabartanto', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['kabartanto-description'], 'Used' => $melee_used_kabartanto , 'Kills' => $melee_kills_kabartanto , 'Stats' => array(
+'Damage' => 20, 'DamageMAX' => 80, 'Knockdown' => 16, 'KnockdownMAX' => 40, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 30 )),
+array( 'Name' => $l['toothbrush'], 'Wiki' => 'Nova&apos;s_Shank', 'Image' => 'toothbrush', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['toothbrush-description'], 'Used' => $melee_used_toothbrush , 'Kills' => $melee_kills_toothbrush , 'Stats' => array(
 'Damage' => 20, 'DamageMAX' => 80, 'Knockdown' => 16, 'KnockdownMAX' => 40, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 30 ))
 );
 //
@@ -258,6 +260,12 @@ array( 'Name' => $l['bear'], 'Image' => 'bear', 'Quality' => 'community', 'Extra
 array( 'Name' => $l['heat'], 'Image' => 'heat', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['heat-description'], 'Used' => $mask_used_heat),
 array( 'Name' => $l['santa_happy'], 'Image' => 'santa_happy', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['santa_happy-description'], 'Used' => $mask_used_santa_happy),
 array( 'Name' => $l['unicorn'], 'Image' => 'unicorn', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['unicorn-description'], 'Used' => $mask_used_unicorn),
+array( 'Name' => $l['smiley'], 'Image' => 'smiley', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['smiley-description'], 'Used' => $mask_used_smiley),
+array( 'Name' => $l['gumbo'], 'Image' => 'gumbo', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['gumbo-description'], 'Used' => $mask_used_gumbo),
+array( 'Name' => $l['jw_shades'], 'Image' => 'jw_shades', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['jw_shades-description'], 'Used' => $mask_used_jw_shades),
+array( 'Name' => $l['stoneface'], 'Image' => 'stoneface', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['stoneface-description'], 'Used' => $mask_used_stoneface),
+array( 'Name' => $l['wayfarer'], 'Image' => 'wayfarer', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['wayfarer-description'], 'Used' => $mask_used_wayfarer),
+array( 'Name' => $l['crazy_lion'], 'Image' => 'crazy_lion', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['crazy_lion-description'], 'Used' => $mask_used_crazy_lion),
 ////Crimefest
 array( 'Name' => $l['combusto'], 'Image' => 'combusto', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['combusto-description'], 'Used' => $mask_used_combusto),
 array( 'Name' => $l['spackle'], 'Image' => 'spackle', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['zombie-description'], 'Used' => $mask_used_spackle),
@@ -357,6 +365,7 @@ array( 'Name' => $l['anonymous'], 'Image' => 'anonymous', 'Quality' => 'infamous
 array( 'Name' => $l['cthulhu'], 'Image' => 'cthulhu', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['cthulhu-description'], 'Used' => $mask_used_cthulhu),
 array( 'Name' => $l['dillinger_death_mask'], 'Image' => 'dillinger_death_mask', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['dillinger_death_mask-description'], 'Used' => $mask_used_dillinger_death_mask),
 array( 'Name' => $l['grin'], 'Image' => 'grin', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['grin-description'], 'Used' => $mask_used_grin),
+array( 'Name' => $l['old_hoxton'], 'Image' => 'old_hoxton', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['old_hoxton-description'], 'Used' => $mask_used_old_hoxton),
 ////Normal
 array( 'Name' => $l['alienware'], 'Image' => 'alienware', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['alienware-description'], 'Used' => $mask_used_alienware),
 array( 'Name' => $l['babyrhino'], 'Image' => 'babyrhino', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['babyrhino-description'], 'Used' => $mask_used_babyrhino),
