@@ -450,7 +450,10 @@ array( 'Name' => $l['ukrainian'].' '.$l['pro'], 'Wiki' => 'Ukrainian_Job', 'Imag
 array( 'Name' => $l['bank'].' '.$l['pro'], 'Wiki' => 'Bank_Heist', 'Image' => 'bank', 'Win' => $contract_branchbank_prof_win, 'Dropin' => $contract_branchbank_prof_win_dropin, 'Fail' => $contract_branchbank_prof_fail, 'Quality' => 'normal'),
 array( 'Name' => $l['bank-gold'].' '.$l['pro'], 'Wiki' => 'Bank_Heist', 'Image' => 'bank', 'Win' => $contract_branchbank_gold_prof_win, 'Dropin' => $contract_branchbank_gold_prof_win_dropin, 'Fail' => $contract_branchbank_gold_prof_fail, 'Quality' => 'normal'),
 array( 'Name' => $l['hotline'], 'Wiki' => 'Hotline_Miami', 'Image' => 'mia', 'Win' => $contract_mia_win, 'Dropin' => $contract_mia_win_dropin, 'Fail' => $contract_mia_fail, 'Quality' => 'dlc'),
-array( 'Name' => $l['hotline'].' '.$l['pro'], 'Wiki' => 'Hotline_Miami', 'Image' => 'mia', 'Win' => $contract_mia_prof_win, 'Dropin' => $contract_mia_prof_win_dropin, 'Fail' => $contract_mia_prof_fail, 'Quality' => 'dlc')
+array( 'Name' => $l['hotline'].' '.$l['pro'], 'Wiki' => 'Hotline_Miami', 'Image' => 'mia', 'Win' => $contract_mia_prof_win, 'Dropin' => $contract_mia_prof_win_dropin, 'Fail' => $contract_mia_prof_fail, 'Quality' => 'dlc'),
+array( 'Name' => $l['artgallery'], 'Wiki' => 'Hotline_Miami', 'Image' => 'placeholder', 'Win' => $contract_placeholder_win, 'Dropin' => $contract_placeholder_win_dropin, 'Fail' => $contract_placeholder_fail, 'Quality' => 'community'),
+array( 'Name' => $l['hoxtonbreakout'], 'Wiki' => 'Hotline_Miami', 'Image' => 'placeholder', 'Win' => $contract_placeholder_win, 'Dropin' => $contract_placeholder_win_dropin, 'Fail' => $contract_placeholder_fail, 'Quality' => 'community'),
+array( 'Name' => $l['hoxtonbreakout'].' '.$l['pro'], 'Wiki' => 'Hotline_Miami', 'Image' => 'placeholder', 'Win' => $contract_placeholder_prof_win, 'Dropin' => $contract_placeholder_prof_win_dropin, 'Fail' => $contract_placeholder_prof_fail, 'Quality' => 'community')
 );
 
 //Calculate Totals

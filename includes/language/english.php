@@ -57,6 +57,8 @@ $l['armorlist'] = 'Armor List';
 $l['gadgetlist'] = 'Gadget List';
 $l['heistlist'] = 'Heist List';
 $l['escapelist'] = 'Escape List';
+$l['levellist'] = 'Level List';
+$l['gearlist'] = 'Gear List';
 //Service
 $l['servicestatus'] = 'Check Service Status';
 $l['vanitystatus'] = 'Player Vanity Status';
@@ -657,6 +659,8 @@ $l['transport-downtown'] = 'Armored Transport: Downtown';
 $l['transport-underpass'] = 'Armored Transport: Underpass';
 $l['transport-crossroads'] = 'Armored Transport: Crossroads';
 $l['hotline'] = 'Hotline Miami';
+$l['artgallery'] = 'Art Gallery';
+$l['hoxtonbreakout'] = 'Hoxton Breakout';
 //Escapes
 $l['escapeparknight'] = 'Park (Night)';
 $l['escapeparkday'] = 'Park (Day)';
