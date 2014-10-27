@@ -18,7 +18,7 @@ $l['stoneface'] = 'Terminator';
 $l['stoneface-description'] = 'These shades belonged to an assassin from a distant land. The assassin John who was sent to kill was built like a machine. The one would prove to be hard. He used a customized Improved Combined Tactical Vest. He was fully armoured and very though. Behind all that armor however, John knew there was only flesh and bones.<br/><br/>John managed to kill him in the end. He knew however that when he removed him from his place, another would replace him.';
 $l['wayfarer'] = 'Reservoir Dog';
 $l['wayfarer-description'] = 'These shades belonged to five strangers. John was hired to kill a group of people who were about to commit the perfect crime. They all dressed the same and had code names so they were easy to identify.<br/><br/>However, John arrived too late to the scene. The police were already there. He made sure the strangers were all dead before he left the scene.';
-$l['crazy_lion'] = 'Mod Lion';
+$l['crazy_lion'] = 'Mad Lion';
 $l['crazy_lion-description'] = 'A horrifying mask shaped like the head of a lion.<br/><br/>Little is known about this mask. It is said it was made by a crazy Balkan scientist who had a sick fascination for lions. Only he could see the beauty in this mask.<br/><br/>The mask was given to you by someone who wishes you well.';
 
 Added at primary shotgun.
