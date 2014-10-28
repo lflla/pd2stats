@@ -44,12 +44,21 @@ $l['ads'] = 'Publicidad';
 $l['switch'] = 'Cambiar';
 $l['languagetex'] = 'Idioma';
 //Itemindex
-$l['maskindex'] = 'Índice de máscaras';
-$l['weaponindex'] = 'Índice de armas';
-$l['itemindexmenu'] = 'Índice de objetos';
+$l['maskindex'] = 'Índice de Máscaras';
+$l['weaponindex'] = 'Índice de Armas';
+$l['gearindex'] = 'Índice de Equipo';
+$l['levelindex'] = 'Índice de Misiones';
+$l['itemindexmenu'] = 'Índice de Objetos';
 $l['gear'] = 'Equipo';
+$l['levelmenu'] = 'Misiones';
 $l['weaponlist'] = 'Lista de Armas';
 $l['masklist'] = 'Lista de Máscaras';
+$l['armorlist'] = 'Lista de Armaduras';
+$l['gadgetlist'] = 'Lista de Equipo';
+$l['heistlist'] = 'Lista de Misiones';
+$l['escapelist'] = 'Lista de los Escapes';
+$l['levellist'] = 'Lista de Misiones';
+$l['gearlist'] = 'Lista de Equipo';
 //Service
 $l['servicestatus'] = 'Comprobar el Estado del Servicio';
 $l['vanitystatus'] = 'Estado del Jugador (Principal)';
@@ -183,6 +192,11 @@ $l['Twitch_pack'] = 'HUMBLE PACK MÁSCARAS';
 $l['hotline_miami_dlc'] = 'HOTLINE MIAMI';
 ////Weapons
 ////Primary
+//Akimbo
+$l['jowi'] = 'Akimbo Chimano Compact';
+$l['x_deagle'] = 'Akimbo Deagle';
+$l['x_1911'] = 'Akimbo Crosskill';
+$l['x_b92fs'] = 'Akimbo Bernetti 9';
 //Assault Rifles
 $l['akm_gold'] = 'AK Dorada';
 $l['amcar'] = 'AMCAR';
@@ -210,6 +224,7 @@ $l['saiga'] = 'Izhma 12G';
 $l['huntsman'] = 'Mosconi 12G';
 $l['benelli'] = 'M1014';
 $l['ksg'] = 'Raven';
+$l['spas12'] = 'Predator 12G';
 //Light Machine Guns
 $l['rpk'] = 'RPK';
 $l['m249'] = 'KSP';
@@ -230,6 +245,7 @@ $l['glock_18c'] = 'STRYK 18c';
 $l['deagle'] = 'Deagle';
 $l['ppk'] = 'Gruber Kurz';
 $l['p226'] = 'Signature .40';
+$l['g26'] = 'Chimano Compact';
 //Submachine Guns
 $l['mac10'] = 'Mark 10';
 $l['new_mp5'] = 'Compact-5';
@@ -283,7 +299,7 @@ $l['dingdong'] = 'Herramienta de apertura Ding Dong';
 $l['dingdong-description'] = 'La herramienta de apertura Ding Dong es básicamente un martillo táctico. Pensado como herramienta para forzar puertas, creo que la usaras para forzar cabezas. De gran daño y derribo, es un poco lenta cuando se usa.';
 $l['baseballbat'] = 'Bate de Baseball';
 $l['baseballbat-description'] = '';
-$l['briefcase'] = 'Maletín \50 Bendiciones\ ';
+$l['briefcase'] = 'Maletín "50 Bendiciones"';
 $l['briefcase-description'] = '';
 $l['cleaver'] = 'Cuchillo de Carnicero';
 $l['cleaver-description'] = '';
@@ -291,19 +307,29 @@ $l['fireaxe'] = 'Hacha de Bombero';
 $l['fireaxe-description'] = '';
 $l['machete'] = 'Machete';
 $l['machete-description'] = '';
+$l['kabartanto'] = 'Ursa Tanto';
+$l['kabartanto-description'] = '';
+$l['toothbrush'] = 'Mango de Nova';
+$l['toothbrush-description'] = '';
 ////Grenades
 $l['frag-grenade'] = 'Granada de fragmentación';
 ////Gadgets
 $l['ammo_bag'] = 'Bolsa de munición';
-$l['ammo_bag-description'] = 'La bolsa de munición es una bolsa portátil cuyo objetivo es permitir que los soldados lleven munición extra.';
+$l['ammo_bag-description'] = 'La bolsa de munición es una bolsa portátil cuyo objetivo es permitir que los soldados lleven munición extra. Para desplegar la bolsa de munición debes pulsar y mantener la tecla [G]. Una vez desplegada, no se puede cambiar de lugar. Puede ser usada por ti o tus compañeros pulsando y manteniendo la tecla [F]. Tiene un uso limitado y cuando se termina desaparece. Puedes saber cuánto le queda a la bolsa mirando su contenido.';
 $l['doctor_bag'] = 'Bolsa de medicamentos';
-$l['doctor_bag-description'] = 'La bolsa de medicamentos es una bolsa portátil usada por médicos que lleva medicamentos y otras herramientas medicinales.';
+$l['doctor_bag-description'] = 'La bolsa de medicamentos es una bolsa portátil usada por médicos que lleva medicamentos y otras herramientas medicinales. Para desplegar la bolsa de medicamentos debes pulsar y mantener la tecla [G]. Una vez desplegada, no se puede cambiar de lugar. Puede ser usada por ti o tus compañeros pulsando y manteniendo la tecla [F]. Tiene un limitado y cuando se termina desaparece. Puedes saber cuánto le queda a la bolsa mirando su contenido.';
 $l['trip_mine'] = 'Mina';
-$l['trip_mine-description'] = 'La mina es un dispositivo explosivo diseñado para destruir cajas fuertes e inhabilitar enemigos que pasen cerca de la mina.';
+$l['trip_mine-description'] = 'La mina es un dispositivo explosivo diseñado para destruir cajas fuertes e inhabilitar enemigos que pasen cerca de la mina. Para desplegar la mina debes pulsar y mantener la tecla [G]. El láser detonador puede ser activado pulsando [F] una vez la mina ha sido desplegada. Una vez desplegada no se puede cambiar de lugar pero puede ser usada por ti o tus compañeros. Si se dispara, la mina se detonará. Una vez detone, desaparecerá.';
 $l['sentry_gun'] = 'Torreta';
-$l['sentry_gun-description'] = 'La torreta es un arma que apunta y dispara automáticamente a objetivos previamente detectados por sus sensores. Históricamente, las torretas fueron usadas para detectar y destruir misiles y aviación enemiga a corta distancia.';
+$l['sentry_gun-description'] = 'La torreta es un arma que apunta y dispara automáticamente a objetivos previamente detectados por sus sensores. Históricamente, las torretas fueron usadas para detectar y destruir misiles y aviación enemiga a corta distancia. Para desplegar la torreta debes pulsar y mantener la tecla [G]. Una vez desplegada, no se puede cambiar de lugar. La torreta puede ser destruida por el enemigo y parará de disparar cuando se quede sin munición.';
 $l['ecm_jammer'] = 'Inhibidor ECM';
-$l['ecm_jammer-description'] = 'Una contramedida electrónica (ECM de sus siglas en inglés) es un dispositivo diseñado para inhabilitar un radar, un sonar u otro sistema de detección por ondas.';
+$l['ecm_jammer-description'] = 'Una contramedida electrónica (ECM de sus siglas en inglés) es un dispositivo diseñado para inhabilitar un radar, un sonar u otro sistema de detección por ondas. Para desplegar el ECM debes pulsar y mantener la tecla [G]. Una vez desplegado, no se puede cambiar de lugar. Con una determinada habilidad, podrás activar el ECM, una vez desplegado, con la tecla presionando [F]. Tendrá una probabilidad para inhabilitar a los enemigos en un radio de acción. Dejará de funcionar una vez se consuma toda su batería.';
+$l['armor_kit'] = 'Bolsa de armadura';
+$l['armor_kit-description'] = 'La bolsa de armadura es una bolsa portátil que permite portar una armadura de tu elección para usarla durante un atraco.<br/><br/>Para desplegar la bolsa, debes pulsar y mantener la tecla [G]. Mientras no la uses, irás con el traje de chaqueta.<br/><br/>La bolsa de armadura tiene un sólo uso, desapareciendo una vez lo hayas usado.';
+$l['bodybags_bag'] = 'Maleta de bolsa de cadáveres';
+$l['bodybags_bag-description'] = 'La maleta de bolsa de cadáveres contiene bolsas diseñadas específicamente para transportar cuerpos humanos en su interior.<br/><br/>Para desplegar la maleta debes pulsar y mantener la tecla [G]. Una vez desplegado, no se puede cambiar de lugar pero puede ser usada por ti o tus compañeros pulsando y manteniendo la tecla [F], con ello, se añadirá una bolsa de cadáveres a tu inventario.<br/><br/>La maleta de bolsa de cadáveres tiene un uso limitado y desaparecerá cuando se acaben las bolsas de su interior. Puedes ver cuántas bolsas quedan mirando en su interior.';
+$l['first_aid_kit'] = 'Kit de primeros auxilios';
+$l['first_aid_kit-description'] = 'El kit primeros auxilios es una colección de de suministros y equipamiento médico para la curación de heridas.<br/><br/>Para desplegar el kit de primeros auxilios, debes pulsar y mantener la tecla [G]. Una vez desplegado, no se puede cambiar de lugar pero puede ser usado por ti o tus compañeros pulsando y manteniendo la tecla [F] para recuperar la salud.<br/><br/>El kit de primeros auxilios tiene un uso limitado y desaparecerá cuando se acabe. Puedes ver el suministro médico restante mirando en su interior.';
 ////Armor
 $l['level_1'] = 'Traje de chaqueta';
 $l['level_1-description'] = 'Sin penalización de movimiento, sin visibilidad.<br/><br/>Este es el típico traje de dos piezas que cualquier criminal que se respete debería llevar.<br/><br/>No proporciona protección extra pero tiene la mayor ocultación posible, haciéndolo la mejor opción para trabajar sin ser detectado, ocultándote en la muchedumbre.<br/><br/>Los trajes se usan en ocasiones especiales, como bodas, funerales y atracos a bancos.';
@@ -329,6 +355,18 @@ $l['santa_happy'] = 'Santa Feliz';
 $l['santa_happy-description'] = 'Santa, más conocido como Santa Claus, San Nicolás, Padre de la Navidad o Kris Kringle (¿?), es un hombre de grandes proporciones. Palabras como legendario, mítico, histórico o folclórico son las que mejor describen a este pedazo de hombre.<br/><br/>Esta mascara en particular es la de Santa Feliz. Gran sonrisa, con sus grandes mejillas rosadas y todo, cuando la lleves puesta conseguirás que hasta el Bulldozer más peligroso dibuje una sonrisa en su cara.';
 $l['unicorn'] = 'Peter';
 $l['unicorn-description'] = 'Peter es una gran leyenda y lleva siéndolo desde siempre. Una bestia con un gran y largo cuerno que le sale de la cabeza, Peter es conocido por todo el mundo como el animal que necesitas para alcanzar el arcoíris. Ahora, alcánzalo. Alcanza el jodido arcoíris. Ahora saboréalo.<br/><br/>Shh. Está bien. Lo hiciste bien.';
+$l['smiley'] = 'Sonrisillas';
+$l['smiley-description'] = 'Hubo una vez un payaso que no podía sonreir. Veía cómo el resto de payasos llevaban felicidad y alegría a jóvenes y ancianos. Creció enfadado y con envidia, así que se grapó su labio a sus mejillas, proporcionándole una sonrisa muy ancha. Pero en vez de hacer a la gente feliz, se asustaban, ¿Por qué? No lo entendía.<br/><br/>Al final llegó a la conclusión de que tenía que asustar a la gente...asustarlos de muerte.';
+$l['gumbo'] = 'Gumbo';
+$l['gumbo-description'] = 'Poco se conoce acerca del payaso devorador, la gente pensaba que sus ojos rojos eran parte de su disfraz. Ni que decir tiene que estaban equivocados. Ahora la gente teme a éstos payasos de ojos rojos y risa maligna, tanto, que hacen mearse en sus calzoncillos a los hombres más cabronazos.<br/><br/>En la calle corre la leyenda de que él se aparece en callejones en forma demoníaca buscando algo...o alguien. Sólo se sabe que la gente acaba muerta, más muerta que de costumbre.';
+$l['jw_shades'] = 'Colateral';
+$l['jw_shades-description'] = 'Éstas gafas pertenecián a un colega de John que fue contratado para asesinar.<br/><br/>Todo empezó como cualquier otra noche. Sólo que ésta noche, el contrato que se le adjudicó fue el de matar a otro asesino el cuál llevaba todo el día dando vueltas. John sabía que tenía cinco paradas en todo el camino mientras usaba el mismo taxi que le seguía.<br/><br/>Al final, no tuvo que hacerlo personalmente, lo encontró muerto.';
+$l['stoneface'] = 'Terminator';
+$l['stoneface-description'] = 'Éstas gafas pertenecían a un asesino de una isla lejana. John el asesino, fue construido y enviado para matar como una máquina. Demostró ser un tipo muy duro. Usó un Chaleco antibalas táctico mejorado. Estaba armado hasta los dientes. Detrás de todo ese equipamiento sin embargo, John sabía que sólo había carne y hueso.<br/><br/>John se las arregló para matarlo. Aunque John sabía que cuando quitara del medio a esa persona, otra aparecería.';
+$l['wayfarer'] = 'Reservoir Dog';
+$l['wayfarer-description'] = 'Éstas gafas pertenecían a cinco desconocidos. John fue contratado para matar a dicho grupo, el cuál pretendía dar el golpe perfecto. Se vestían iguales y tenían nombres en clave para identificarse fácilmente entre ellos.<br/><br/>Sin embargo, John llegó tarde al lugar. La policía ya se encontraba allí. Se aseguró de que los desconocidos estuvieran muertos antes de irse del lugar.';
+$l['crazy_lion'] = 'León Demente';
+$l['crazy_lion-description'] = 'Una máscara terrorífica con la forma de una cabeza de león.<br/><br/>Poco se conoce acerca de ésta máscara. Se dice que se creó por un cientifico loco Balcanes que estaba completamente obsesionado con los leones. Sólo el podía ver la belleza de tal máscara.<br/><br/>La máscara te la ha regalado alguien que te desea lo mejor.';
 //Crimefest
 $l['combusto'] = 'Pirómano';
 $l['combusto-description'] = 'Éste payaso era maestro de la pirotecnia, tenía un truco de magia en el que expulsaba fuego por la boca a un nivel que nadie podía igualarlo. Sus competidores, los cuales no eran conocidos en el mundillo de los payasos-que-expulsan-fuego, no estaban contentos con su éxito. Así que sabotearon su botella de trucos. Con quemaduras de tercer y unos ojos diabólicos, empezó a combatir el fuego con fuego, quemando vivo a los culpables. Pero no tenía suficiente, el odio pirómano residente en él era muy brillante, tanto, que ahora busca la manera de quemar el mundo entero.';
@@ -507,6 +545,8 @@ $l['dillinger_death_mask'] = 'Máscara de Dillinger Muerto';
 $l['dillinger_death_mask-description'] = 'John Herbert Dillinger fue un famoso atracador de bancos Americano.<br/><br/>Junto con su banda, robó más de dos docenas de bancos e incluso cuatro comisarías.<br/><br/>El propio Dillinger escapó de la prisión en dos ocasiones y fue ampliamente conocido como el mayor cabronazo de la Gran Depresión de los EEUU.';
 $l['grin'] = 'Grin';
 $l['grin-description'] = 'Hubo una vez un hombre y su hermano.<br/><br/>Juntos, tenían una compañía de éxito.<br/><br/>Un día, un empleado se resfrió y quiso irse del trabajo. En vez de romper el contrato e irse, pagando una penalización por ello. Comenzó a llevar a la compañía a la ruina.<br/><br/>El hombre y su hermano lo perdieron todo, se dice que ésta máscara es la representación de la cara del hombre el día que se volvió loco.';
+$l['old_hoxton'] = 'Renacimiento de Hoxton';
+$l['old_hoxton-description'] = 'La máscara del renacimiento de Hoxton es una máscara que se hizo el propio Hoxton mientras estaba en prisión. Para él, es un símbolo de todo lo que ha experimentado en los últimos años mientras la banda PAYDAY continuaba en activo sin él. Nadie sabe cuánto ha podido cambiar a Hoxton su paso por la cárcel, y tampoco dice nada cuando le preguntan.<br/><br/>Lo único que podemos asumir es que ha cambiado para siempre, así que ha renacido en...algo diferente.';
 //Normal
 $l['alienware'] = 'Alienware';
 $l['alienware-description'] = 'Basada en las visiones de un hombre loco que creyó haber visto un extraterrestre.<br/><br/>Es raro, ya que los materiales usados no se encuentran en el planeta tierra.';
@@ -619,6 +659,8 @@ $l['transport-downtown'] = 'Transporte Armado: Centro';
 $l['transport-underpass'] = 'Transporte Armado: Paso Subterraneo';
 $l['transport-crossroads'] = 'Transporte Armado: Cruce';
 $l['hotline'] = 'Hotline Miami';
+$l['artgallery'] = 'Galería de Arte';
+$l['hoxtonbreakout'] = 'Fuga de Hoxton';
 //Escapes
 $l['escapeparknight'] = 'Parque (Noche)';
 $l['escapeparkday'] = 'Parque (Día)';
@@ -630,8 +672,8 @@ $l['escapegarage'] = 'Garaje';
 ////Skilltrees
 //Mastermind
 $l['controlfreak'] = 'Secuestrador';
-$l['controlfreak-normal'] = 'Si tienes al menos un rehén, regeneras un <div class="bluein">0.03%</div> de salud cada <div class="bluein">5</div> segundos.';
-$l['controlfreak-ace'] = 'Si tienes al menos un rehén, regeneras un <div class="bluein">1%</div> de salud cada <div class="bluein">5</div> segundos.';
+$l['controlfreak-normal'] = 'Si tienes al menos un rehén, regeneras un <div class="bluein">0.6%</div> de salud cada <div class="bluein">5</div> segundos.';
+$l['controlfreak-ace'] = 'Si tienes al menos un rehén, regeneras un <div class="bluein">2%</div> de salud cada <div class="bluein">5</div> segundos.';
 $l['pistolmessiah'] = 'El Mesías Pistolero';
 $l['pistolmessiah-normal'] = 'Mientras estás derribado, revives si matas a un enemigo con una pistola. Tienes <div class="bluein">1</div> uso. Volverás a recuperarlo si sales de la custodia.';
 $l['pistolmessiah-ace'] = 'Ganas <div class="bluein">2</div> usos más. Volverás a recuperar tus usos si sales de la custodia.';
@@ -639,8 +681,8 @@ $l['inspire'] = 'Inspirar';
 $l['inspire-normal'] = 'Revives a tus compañeros un <div class="bluein">50%</div> más rápido. Gritar a tus compañeros hará que incrementen su velocidad de movimiento un <div class="bluein">20%</div> durante <div class="bluein">10</div> segundos.';
 $l['inspire-ace'] = 'Tienes un <div class="bluein">75%</div> de probabilidad de revivir a tus compañeros a distancia mediante gritos.';
 $l['blackmarketeer'] = 'Compañero de Crímen';
-$l['blackmarketeer-normal'] = 'Mientras tengas un enemigo convertido, tu velocidad de movimiento se incrementa un <div class="bluein">10%</div>.';
-$l['blackmarketeer-ace'] = 'Mientras tengas un enemigo convertido, tu salud se incrementa un <div class="bluein">20%</div>.';
+$l['blackmarketeer-normal'] = 'Mientras tengas un enemigo convertido, tu velocidad de movimiento se incrementa un <div class="bluein">10%</div>. Se reduce el daño que recibe tu enemigo convertido un <div class="bluein">40%</div> menos.';
+$l['blackmarketeer-ace'] = 'Mientras tengas un enemigo convertido, tu salud se incrementa un <div class="bluein">20%</div>. Se reduce aún más el daño que recibe tu enemigo convertido un <div class="bluein">40%</div> menos.';
 $l['gunslinger'] = 'Pistolero';
 $l['gunslinger-normal'] = 'Recargas tus pistolas un <div class="bluein">50%</div> más rápido.';
 $l['gunslinger-ace'] = 'Haces un <div class="bluein">50%</div> de daño adicional con las pistolas.';
