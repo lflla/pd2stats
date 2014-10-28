@@ -84,7 +84,7 @@ $l['unlockghost-normal'] = 'The Ghost is a stealth artist, capable of grand thef
 
 new line after enforcer
 $l['enforcer'] = 'Enforcer';
-$l['fugative'] = 'Fugative';
+$l['fugitive'] = 'Fugitive';
 
 27.10.2014
 at end of heists
