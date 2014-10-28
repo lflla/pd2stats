@@ -1,3 +1,91 @@
+28.10.2014
+added at end of file
+//Fugitive
+$l['bullseye'] = 'Bullseye';
+$l['bullseye-normal'] = 'You regenerate <div class="bluein">16</div> armor for each successful headshot. This can not occur more than once every <div class="bluein">3</div> seconds.';
+$l['bullseye-ace'] = 'You regenerate an additional <div class="bluein">16</div> armor for each successful headshot.';
+$l['sneakybastard'] = 'Sneaky Bastard';
+$l['sneakybastard-normal'] = 'You gain a <div class="bluein">1%</div> dodge chance for every <div class="bluein">3</div> points of concealment under <div class="bluein">35</div> up to <div class="bluein">10%</div>.';
+$l['sneakybastard-ace'] = 'You gain a <div class="bluein">1%</div> dodge chance for every <div class="bluein">1</div> point of concealment under <div class="bluein">35</div> up to <div class="bluein">10%</div>.';
+$l['akimbo'] = 'Akimbo';
+$l['akimbo-normal'] = 'You can dual wield two weapons. These can be found under the Akimbo tab in the inventory menu.<br/><br/>Dual wielded weapons have <div class="bluein">50%</div> stability penalty. ';
+$l['akimbo-ace'] = 'Your stability penalty with Akimbo weapons is set to <div class="bluein">25%</div> and increases the ammo capacity of your Akimbo weapons to <div class="bluein">150%</div>.';
+$l['triggerhappy'] = 'Trigger Happy';
+$l['triggerhappy-normal'] = 'Each successful pistol hit grants a <div class="bluein">10%</div> damage boost for <div class="bluein">2</div> seconds and can stack <div class="bluein">4</div> times.';
+$l['triggerhappy-ace'] = 'Increases the damage boost duration to <div class="bluein">8</div>.';
+$l['lowblow'] = 'Low Blow';
+$l['lowblow-normal'] = 'You gain a <div class="bluein">3%</div> critical hit chance for every <div class="bluein">3</div> points of concealment under <div class="bluein">35</div> up to <div class="bluein">30%</div>.';
+$l['lowblow-ace'] = 'You gain a <div class="bluein">3%</div> critical hit chance for every <div class="bluein">1</div> point of concealment under <div class="bluein">35</div> up to <div class="bluein">30%</div>.<br/><br/>Note: Does not apply to grenade launchers.';
+$l['counterstrike'] = 'Counter-Strike';
+$l['counterstrike-normal'] = 'When charging your melee weapon you will counterattack enemies that try to strike you, knocking them down. The knock-down does not deal any damage.';
+$l['counterstrike-ace'] = 'You can now counterattack Cloakers.';
+$l['swansong'] = 'Swan Song';
+$l['swansong-normal'] = 'When your health reaches <div class="bluein">0</div>, instead of instantly going down, you can fight for <div class="bluein">3</div> seconds with a <div class="bluein">60%</div> movement speed penalty.';
+$l['swansong-ace'] = 'You no longer need to reload and can fight for an additional <div class="bluein">6</div> seconds.';
+$l['undertaker'] = 'Undertaker';
+$l['undertaker-normal'] = 'You unlock the ability to place the body bag case deployable.';
+$l['undertaker-ace'] = 'You can now place <div class="bluein">2</div> body bag cases instead of just one.';
+$l['uppers'] = 'Uppers';
+$l['uppers-normal'] = 'Adds <div class="bluein">3</div> more first aid kits to your inventory.';
+$l['uppers-ace'] = 'Adds <div class="bluein">7</div> more first aid kits to your inventory.';
+$l['brotherskeeper'] = 'Brother\'s Keeper';
+$l['brotherskeeper-normal'] = 'The damage thugs deal to you is reduced by <div class="bluein">10%</div>.';
+$l['brotherskeeper-ace'] = 'The damage thugs deal to you is reduced by an additional <div class="bluein">25%</div>.';
+$l['winstonwolfe'] = 'Winston Wolfe';
+$l['winstonwolfe-normal'] = 'You can now carry <div class="bluein">1</div> additional body bag.';
+$l['winstonwolfe-ace'] = 'During stealth, you know how to kill without leaving a trace, reducing your cleaning cost by <div class="bluein">75%</div>.';
+$l['quickfix'] = 'Quick Fix';
+$l['quickfix-normal'] = 'Decreases your first aid kit deploy time by <div class="bluein">50%</div>.';
+$l['quickfix-ace'] = 'Crew members that use your first aid kits take <div class="bluein">20%</div> less damage for <div class="bluein">10</div> seconds.';
+$l['runandgun'] = 'Run and Gun';
+$l['runandgun-normal'] = 'You gain <div class="bluein">10%</div> additional move speed.';
+$l['runandgun-ace'] = 'Your movement speed is unhindered while using steel sight.';
+$l['sixthsense'] = 'Sixth Sense';
+$l['sixthsense-normal'] = 'When you stand still for <div class="bluein">3.5</div> seconds in stealth, you start highlighting people around you within a <div class="bluein">10</div> meter radius.';
+$l['sixthsense-ace'] = 'You can pick-up items while in casing mode. ';
+$l['duckandcover'] = 'Duck and Cover';
+$l['duckandcover-normal'] = 'You have a <div class="bluein">5%</div> better chance dodging enemy fire while crouching.';
+$l['duckandcover-ace'] = 'You have an additional <div class="bluein">10%</div> chance dodging enemy fire while crouching.';
+$l['daredevil'] = 'Daredevil';
+$l['daredevil-normal'] = 'Increase your climbing speed by <div class="bluein">20%</div>.';
+$l['daredevil-ace'] = 'You gain a <div class="bluein">15%</div> dodge chance while zip-lining.';
+$l['hiddenblade'] = 'Hidden Blade';
+$l['hiddenblade-normal'] = 'Increases your melee weapon concealment by <div class="bluein">2</div>. ';
+$l['hiddenblade-ace'] = 'Enemies make <div class="bluein">95%</div> less noise when shot or meleed to death.';
+$l['thickskin'] = 'Thick Skin';
+$l['thickskin-normal'] = 'Your steadiness is increased by <div class="bluein">10</div>.';
+$l['thickskin-ace'] = 'Increases the armor of all ballistic vests by <div class="bluein">20</div>.';
+$l['unlockfugitive'] = 'Unlocking the Fugitive';
+$l['unlockfugitive-normal'] = 'The Fugitive is a survivor, always on the run and an expert at hiding from the law.<br/><br/>Spending the first point in the Fugitive skill tree unlocks the ability to place the first aid kit deployable. The first aid kit is quick to deploy, quick to use and restores health on pick-up.<br/><br/><div class="bluein">4</div> first aid kits are added to your inventory.';
+
+changed lines (mostly breaks and notes)
+$l['magplus-ace'] = 'Further increases your weapon magazine capacity by <div class="bluein">10</div> rounds.<br/><br/>Note: Does not apply to sniper rifles.';
+$l['blastradius-ace'] = 'You can now carry sentry guns and trip mines at the same time. When you deplete your trip mines or sentry guns you will switch to the other one.<br/><br/>Note: You need a sentry gun for this skill to work.';
+$l['overkill-ace'] = 'The damage bonus now applies to all weapons, but the effect must still be triggered with the shotgun or saw.<br/><br/>Note: Does not apply to grenade launchers.';
+$l['bulletstorm-ace'] = 'You can fire <div class="bluein">10</div> seconds longer without depleting your ammunition.<br/><br/>Note: Does not apply to grenade launchers.';
+$l['berserker-ace'] = 'When your health is below <div class="bluein">25%</div>, you will do up to <div class="bluein">100%</div> more damage with ranged weapons.<br/><br/>Note: Does not apply to grenade launchers.';
+$l['fullyloaded-ace'] = 'Enemies drop <div class="bluein">75%</div> more ammunition.<br/><br/>Note: ACE version does not work with custom shotgun ammo types.';
+$l['joker-normal'] = 'You can convert a non-special enemy to fight on your side. This cannot be done during stealth and the enemy must have surrendered in order for you to convert it.<br/><br/>You can only convert one non-special enemy at a time.';
+$l['joker-ace'] = 'The converted enemy gains <div class="bluein">55%</div> more health and deals <div class="bluein">45%</div> more damage.<br/><br/>The time to convert an enemy is reduced by <div class="bluein">65%</div>.';
+$l['kilmer-ace'] = 'Your weapon accuracy while moving with assault rifles and sniper rifles is increased by <div class="bluein">50%</div>.<br/><br/>Run and Reload - you can reload your weapons while sprinting.';
+$l['spotter-ace'] = 'Unlocks the Spotter asset in the Job Overview menu.<br/><br/>During stealth the Spotter will highlight guards for you and your crew.<br/><br/>If stealth is not an option, the Spotter will highlight special enemies for you and your crew.';
+$l['insideman-normal'] = 'Civilians remain intimidated <div class="bluein">50%</div> longer.<br/><br/>Noise created by you intimidates civilians';
+$l['ironman-ace'] = 'When you melee Shield enemies, they get knocked back by the sheer force.<br/><br/>Run and shoot – you can now shoot from the hip while sprinting.';
+$l['carbonblade-ace'] = 'Attacking enemies with the OVE9000 portable saw wears it down <div class="bluein">50%</div> less than before. Saws are <div class="bluein">20%</div> more effective.<br/><br/>You can use the saw as a secondary weapon.';
+$l['combatengineer-ace'] = 'Upgrades your trip mines with a sensor mode. Enemies that go past your trip mines while in sensor mode are highlighted for you and your crew.<br/><br/>If stealth is not an option, the trip mines will highlight special enemies for you and your crew.';
+$l['unlocktechnician-normal'] = 'The Technician is an expert in the practical application of criminal science, enjoying anything that goes BOOM!<br/><br/>Spending the first point in the Technician skill tree unlocks the ability to place the trip mine deployable. The trip mine can be used to blow things up, like people and safes.<br/><br/><div class="bluein">2</div> deployable trip mines are added to your inventory.';
+$l['unlockenforcer-normal'] = 'The Enforcer is a violent criminal, usually employed by crime syndicates to execute jobs that no one else can.<br/><br/>Spending the first point in the Enforcer skill tree unlocks the ability to place the ammo bag deployable. The ammo bag can be used to gain ammunition.';
+$l['unlockmastermind-normal'] = 'The Mastermind is a manipulative leader who excels in situational control.<br/><br/>Spending the first point in the Mastermind skill tree unlocks the ability to place the doctor bag deployable. The doctor bag can be used to regain health.<br/><br/>The doctor bag has <div class="bluein">2</div> charges in its basic state.';
+$l['lockpicking-ace'] = 'You can now silently crack safes by hand.<br/><br/>Further increases your lockpicking interaction speed by <div class="bluein">25%</div>.';
+$l['ecmfeedback-normal'] = 'You can now interact with ECM jammers to cause a feedback loop. When interacted, the ECM jammer has a <div class="bluein">50%-100%</div> chance to incapacitate enemies within <div class="bluein">25</div> meters radius every <div class="bluein">1.5</div> seconds.<br/><br/>ECM feedback lasts <div class="bluein">15-20</div> seconds.';
+$l['ecmfeedback-ace'] = 'You will now instantly interact with a ECM jammer and the ECM feedback duration is increased by <div class="bluein">25%</div>.<br/><br/>Your ECM jammer has a <div class="bluein">100%</div> chance every <div class="bluein">4</div> minutes to recharge itself.';
+$l['cleaner-normal'] = 'You deal <div class="bluein">5%</div> more damage against special enemies.<br/><br/>You can now buy a body bag asset which contains <div class="bluein">3</div> body bags that can be shared with your crew.';
+$l['unlockghost-normal'] = 'The Ghost is a stealth artist, capable of grand theft without force or violence.<br/><br/>Spending the first point in the Ghost skill tree unlocks the ability to use the electronic countermeasure equipment, also known as the ECM jammer. When used, the ECM jammer can open ATM machines and temporarily cancel out electronic devices such as cell phones and cameras.<br/><br/><div class="bluein">1</div> ECM jammer is added to your inventory. An ECM jammer lasts <div class="bluein">20</div> seconds.';
+
+new line after enforcer
+$l['enforcer'] = 'Enforcer';
+$l['fugative'] = 'Fugative';
+
 27.10.2014
 at end of heists
 $l['artgallery'] = 'Art Gallery';
