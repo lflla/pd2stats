@@ -39,7 +39,7 @@ $l['search-button'] = '¡Llévame allí!';
 //Menu
 $l['steamgroup'] = 'Grupo Steam';
 $l['feedback'] = 'Feedback';
-$l['notice'] = 'Menú';
+$l['notice'] = '¡Menú'; //Incluye al final un !
 $l['ads'] = 'Publicidad';
 $l['switch'] = 'Cambiar';
 $l['languagetex'] = 'Idioma';
@@ -448,13 +448,13 @@ $l['surprise'] = 'Cara de Guerra';
 $l['surprise-description'] = 'Tienes Cara de Guerra! AAAAAAAAHH! Eso es una cara de guerra, déjame ver tu Cara de Guerra!<br/><br/>...<br/><br/>Tonterías. No me has convencido, déjame ver tu VERDADERA Cara de Guerra!<br/><br/>...Vale, esa me gusta...';
 //Big Bank
 $l['lincoln'] = '16th';
-$l['lincoln-description'] = 'Abogado, Jefe Supremo, Padre. Tuvo la ambición de servir esta gran nación durante 8 años.<br/><br/> Considerado como uno de los mejores presidentes que ha tenido EEUU.<br/><br/> El 16th es uno de los presidentes más queridos. Entre los criminales, está muy bien considerado.';
+$l['lincoln-description'] = 'Abogado, Jefe Supremo, Padre. Tuvo la ambición de servir esta gran nación durante 8 años.<br/><br/>Considerado como uno de los mejores presidentes que ha tenido EEUU.<br/><br/>El 16th es uno de los presidentes más queridos. Entre los criminales, está muy bien considerado.';
 $l['grant'] = '18th';
 $l['grant-description'] = 'Soldado, Jefe Supremo, Padre. Sirvió a esta gran nación durante 8 años.<br/><br/>Un gran guerrero y un gran protector.<br/><br/>El 18th es uno de los presidentes menos populares. Sin embargo, sigue siendo muy querido entre los criminales.';
 $l['washington'] = '1st';
 $l['washington-description'] = 'General de la Armada, Jefe Supremo,  Padre Fundador. Sirvió a esta gran nación durante 8 años.<br/><br/>El primer presidente.<br/><br/>El 1st es uno de los presidentes más populares y es la cara de los billetes de $1. Sin embargo, sigue siendo muy querido entre los criminales.';
 $l['franklin'] = 'Primer Americano';
-$l['franklin-description'] = 'Renombrado erudito, autor, impresor, teórico político, jefe de correos, científico, inventor, activista civil, estadista, diplomático, Padre Fundador.<br/><br/> Conocido como "El Primer Americano" y es la cara de los billetes de $100.<br/><br/>Sin embargo, sigue siendo muy querido entre los criminales.';
+$l['franklin-description'] = 'Renombrado erudito, autor, impresor, teórico político, jefe de correos, científico, inventor, activista civil, estadista, diplomático, Padre Fundador.<br/><br/>Conocido como "El Primer Americano" y es la cara de los billetes de $100.<br/><br/>Sin embargo, sigue siendo muy querido entre los criminales.';
 //Twisted Metal
 $l['sweettooth'] = 'Sweettooth';
 $l['sweettooth-description'] = 'Sweet Tooth, nombre real: Marcus "Needles" Kane, es un personaje de la saga de videojuegos Twisted Metal. A Sweet Tooth se le conoce por ser el payaso asesino que conduce un camión de helados de combate.<br/><br/>Se dice que se escapó de un hospital psiquiátrico. Ahora se dedica a la vida criminal.';
@@ -698,7 +698,7 @@ $l['combatdoctor-normal'] = 'Puedes desplegar <div class="bluein">2</div> bolsas
 $l['combatdoctor-ace'] = 'Tus bolsas de medicamentos tienen <div class="bluein">2</div> usos adicionales cada bolsa.';
 $l['joker'] = 'Joker';
 $l['joker-normal'] = 'Conviertes a un enemigo no especial para que luche a tu lado. Esto no puede hacerse mientras se esté en sigilo y el enemigo ha de estar previamente rendido.<br/><br/>Sólo puedes convertir un enemigo a la vez.';
-$l['joker-ace'] = 'El enemigo convertido gana <div class="bluein">55%</div> más de vida y un <div class="bluein">45%</div> más de daño.<br/><br/> El tiempo que tardas en convertir a un enemigo se reduce en un <div class="bluein">65%</div>.';
+$l['joker-ace'] = 'El enemigo convertido gana <div class="bluein">55%</div> más de vida y un <div class="bluein">45%</div> más de daño.<br/><br/>El tiempo que tardas en convertir a un enemigo se reduce en un <div class="bluein">65%</div>.';
 $l['spotter'] = 'Avistador';
 $l['spotter-normal'] = 'Los enemigos especiales marcados por ti sufren un <div class="bluein">15%</div> más de daño.';
 $l['spotter-ace'] = 'Desbloquea el recurso de Avistador en el menú de recursos. Durante el sigilo, el Avistador señalará los guardias para ti y tus compañeros.<br/><br/>Si el sigilo no es una opción, el Avistador señalará a los enemigos especiales para ti y tus compañeros.';
@@ -727,7 +727,7 @@ $l['endurance'] = 'Aguante';
 $l['endurance-normal'] = 'Incrementa tu resistencia un <div class="bluein">100%</div>.';
 $l['endurance-ace'] = 'Incrementa tu resistencia y la de tus compañeros un <div class="bluein">50%</div>.';
 $l['unlockmastermind'] = 'Desbloquear el Mente Maestra';
-$l['unlockmastermind-normal'] = 'El Mente Maestra es un líder manipulador que sabe controlar toda clase de situaciones.<br/><br/> Gastando el primer punto en la rama de habilidades Mente Maestra te permite desplegar una bolsa de medicamentos. Ésta bolsa de medicamentos sirve para regenerar salud.<br/><br/> La bolsa de medicamentos tiene <div class="bluein">2</div> usos en su forma básica.';
+$l['unlockmastermind-normal'] = 'El Mente Maestra es un líder manipulador que sabe controlar toda clase de situaciones.<br/><br/>Gastando el primer punto en la rama de habilidades Mente Maestra te permite desplegar una bolsa de medicamentos. Ésta bolsa de medicamentos sirve para regenerar salud.<br/><br/>La bolsa de medicamentos tiene <div class="bluein">2</div> usos en su forma básica.';
 //Enforcer
 $l['overkill'] = 'Overkill';
 $l['overkill-normal'] = 'Cuando mates a un enemigo usando una escopeta o la sierra, recibirás un <div class="bluein">75%</div> de daño extra durante <div class="bluein">5</div> segundos.';
@@ -784,7 +784,7 @@ $l['transporter'] = 'Transportador';
 $l['transporter-normal'] = 'Te mueves con bolsas un <div class="bluein">50%</div> más rápido.';
 $l['transporter-ace'] = 'Puedes lanzar las bolsas un <div class="bluein">50%</div> más lejos.';
 $l['unlockenforcer'] = 'Desbloquear el Sicario';
-$l['unlockenforcer-normal'] = 'El Sicario es un criminal violento, contratado para ejecutar los trabajos sucios que nadie quiere.<br/><br/> Gastando el primer punto en la rama de habilidades Sicario te permite desplegar una bolsa de munición. La bolsa de munición se usa para conseguir munición extra.';
+$l['unlockenforcer-normal'] = 'El Sicario es un criminal violento, contratado para ejecutar los trabajos sucios que nadie quiere.<br/><br/>Gastando el primer punto en la rama de habilidades Sicario te permite desplegar una bolsa de munición. La bolsa de munición se usa para conseguir munición extra.';
 //Technician
 $l['sentrytowerdefence'] = 'Torreta de Tower Defense';
 $l['sentrytowerdefence-normal'] = 'Ahora puedes desplegar <div class="bluein">2</div> torretas en total.';
@@ -841,20 +841,20 @@ $l['nervesofsteel'] = 'Nervios de Acero';
 $l['nervesofsteel-normal'] = 'Recibes un <div class="bluein">50%</div> menos de daño mientras interaccionas con cosas.';
 $l['nervesofsteel-ace'] = 'Puedes apuntar mientras estás derribado.';
 $l['unlocktechnician'] = 'Desbloquear el Técnico';
-$l['unlocktechnician-normal'] = 'El Técnico es un experto en la ciencia criminal, disfrutando de cualquier cosa que haga ¡BOOM!<br/><br/> Gastando el primer punto en la rama de habilidades Técnico te permite desplegar minas. Las minas se usan para explotar cosas, como gente o cajas fuertes.<br/><br/>Se añaden <div class="bluein">2</div> minas desplegables a tu equipo.';
+$l['unlocktechnician-normal'] = 'El Técnico es un experto en la ciencia criminal, disfrutando de cualquier cosa que haga ¡BOOM!<br/><br/>Gastando el primer punto en la rama de habilidades Técnico te permite desplegar minas. Las minas se usan para explotar cosas, como gente o cajas fuertes.<br/><br/>Se añaden <div class="bluein">2</div> minas desplegables a tu equipo.';
 //Ghost
 $l['cameraloop'] = 'Cámara en Bucle';
 $l['cameraloop-normal'] = 'Deshabilitas una cámara, haciendo que ésta reproduzca una imagen ya grabada, durante <div class="bluein">10</div> segundos. Tú y tus compañeros sólo pueden inhabilitar <div class="bluein">1</div> cámara al mismo tiempo.';
 $l['cameraloop-ace'] = 'El bucle en el que entra la cámara aumenta <div class="bluein">10</div> segundos extra.';
 $l['ecmfeedback'] = 'ECM Retroalimentado';
-$l['ecmfeedback-normal'] = 'Puedes interaccionar con tus ECMs una vez desplegados. Cuando interaccionas, tu ECM tiene un <div class="bluein">50%-100%</div> de probabilidad de aturdir enemigos que estén en un radio de <div class="bluein">25</div> metros, cada <div class="bluein">1.5</div> segundos.<br/><br/> ECM Retroalimentación dura <div class="bluein">15-20</div> segundos.';
+$l['ecmfeedback-normal'] = 'Puedes interaccionar con tus ECMs una vez desplegados. Cuando interaccionas, tu ECM tiene un <div class="bluein">50%-100%</div> de probabilidad de aturdir enemigos que estén en un radio de <div class="bluein">25</div> metros, cada <div class="bluein">1.5</div> segundos.<br/><br/>ECM Retroalimentación dura <div class="bluein">15-20</div> segundos.';
 $l['ecmfeedback-ace'] = 'Interaccionas instantáneamente con el ECM y la duración del ECM Retroalimentado se incrementa un <div class="bluein">25%</div>. Tu ECM tiene un <div class="bluein">100%</div> de probabilidades de recargarse cada <div class="bluein">4</div> minutos.';
 $l['movingtarget'] = 'Objetivo en Movimiento';
 $l['movingtarget-normal'] = 'Puedes correr de lado.';
 $l['movingtarget-ace'] = 'Puedes correr hacia atrás.';
 $l['lockpicking'] = 'Cerrajero Experto';
 $l['lockpicking-normal'] = 'Incrementa tu velocidad para abrir cerraduras un <div class="bluein">25%</div>.';
-$l['lockpicking-ace'] = 'Puedes abrir cajas fuertes con tus manos.<br/><br/> Se incrementa tu velocidad para abrir cerraduras un <div class="bluein">25%</div>.';
+$l['lockpicking-ace'] = 'Puedes abrir cajas fuertes con tus manos.<br/><br/>Se incrementa tu velocidad para abrir cerraduras un <div class="bluein">25%</div>.';
 $l['ecmoverdrive'] = 'ECM Sobrecargado';
 $l['ecmoverdrive-normal'] = 'La duración de tu ECM se incrementa un <div class="bluein">25%</div>.';
 $l['ecmoverdrive-ace'] = 'Puedes abrir ciertas puertas con tu ECM.';
@@ -886,7 +886,7 @@ $l['chameleon'] = 'Camaleón';
 $l['chameleon-normal'] = 'Mientras estás sin máscara, puedes marcar guardias, cámaras y tu ocultación se incrementa un <div class="bluein">25%</div>.';
 $l['chameleon-ace'] = 'Tienes un <div class="bluein">15%</div> de probabilidad de no ser objetivo de disparos mientras estés cerca de tus compañeros.';
 $l['cleaner'] = 'Limpiador';
-$l['cleaner-normal'] = 'Haces un <div class="bluein">5%</div> de daño extra contra enemigos especiales.<br/><br/> Puedes comprar en el menú de recursos el recurso Bolsa de Cadáveres, que contiene <div class="bluein">3</div> bolsas de cadáveres para usar por todo tu equipo.';
+$l['cleaner-normal'] = 'Haces un <div class="bluein">5%</div> de daño extra contra enemigos especiales.<br/><br/>Puedes comprar en el menú de recursos el recurso Bolsa de Cadáveres, que contiene <div class="bluein">3</div> bolsas de cadáveres para usar por todo tu equipo.';
 $l['cleaner-ace'] = 'Se añade <div class="bluein">1</div> bolsa de cadáver extra a tu equipo.';
 $l['deadpresidents'] = 'Presidentes Muertos';
 $l['deadpresidents-normal'] = 'Añade un <div class="bluein">10%</div> de valor extra al botín que se puede coger.';
@@ -898,7 +898,7 @@ $l['catburglar'] = 'Ladrón Felino';
 $l['catburglar-normal'] = 'Reduces el daño recibido cuando saltas desde alturas no letales un <div class="bluein">75%</div>.';
 $l['catburglar-ace'] = 'El daño recibido cuando saltas desde alturas no letales ahora sólo te quita armadura. El tiempo que pasas en custodia se reduce un <div class="bluein">50%</div>.';
 $l['unlockghost'] = 'Desbloquear el Fantasma';
-$l['unlockghost-normal'] = 'El Fantasma es un artista del sigilo, muy peligroso incluso sin el uso de la fuerza o la violencia.<br/><br/> Gastando el primer punto en la rama de habilidades Fantasma desbloqueará el Inhibidor ECM. El ECM se usa para deshabilitar el uso de teléfonos y cámaras, además de para abrir los ATMs (Cajeros Automáticos).<br/><br/><div class="bluein">1</div> ECM se añade a tu equipo. El ECM dura <div class="bluein">20</div> segundos.';
+$l['unlockghost-normal'] = 'El Fantasma es un artista del sigilo, muy peligroso incluso sin el uso de la fuerza o la violencia.<br/><br/>Gastando el primer punto en la rama de habilidades Fantasma desbloqueará el Inhibidor ECM. El ECM se usa para deshabilitar el uso de teléfonos y cámaras, además de para abrir los ATMs (Cajeros Automáticos).<br/><br/><div class="bluein">1</div> ECM se añade a tu equipo. El ECM dura <div class="bluein">20</div> segundos.';
 //Fugitive
 $l['bullseye'] = 'Diana';
 $l['bullseye-normal'] = 'Regeneras <div class="bluein">16</div> puntos de armadura por cada disparo en la cabeza. Éste efecto no se acumula, teniendo un tiempo de enfriamiento de <div class="bluein">3</div> segundos.';
