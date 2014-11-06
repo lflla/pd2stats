@@ -9,7 +9,7 @@ $l['humblehalloween_pack'] = 'HUMBLE MASK PACK 2';
 added after twitch pack mask section
 //Humble Halloween
 $l['the_one_below'] = 'The One Below';
-$l['the_one_below-description'] = 'The One Below Fullcolor.jpg|The head is what remains of this aquatic horror from the old days, when dark lords ruled the lands and good men grew up only to die; when the summer was short and the winter felt like an eternity; when the One Below stepped out of the ocean and walked the earth.';
+$l['the_one_below-description'] = 'The head is what remains of this aquatic horror from the old days, when dark lords ruled the lands and good men grew up only to die; when the summer was short and the winter felt like an eternity; when the One Below stepped out of the ocean and walked the earth.';
 $l['werewolf'] = 'Lycanwulf';
 $l['werewolf-description'] = '"Lycanwulf, Lycanwulf!" they yelled, the frightened villagers, as they laid eyes upon this abomination known as the Lycanwulf. The petty humans were now prisoners of the beast, in a prison without walls, ceilings or a key, where the only escape was death.';
 

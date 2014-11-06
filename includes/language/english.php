@@ -485,7 +485,7 @@ $l['twitch_orc'] = 'Orc';
 $l['twitch_orc-description'] = 'Brutish, aggressive and generally repulsive, the orcs have always been a hated race. Orcs are larger stronger than their goblin cousins but smaller and less powerful than their ogre brethren.<br/><br/>This particular purple-skinned orc came from the Stonetremble clan who were known for their fierce warriors and overpowered, hybrid shamans.';
 //Humble Halloween
 $l['the_one_below'] = 'The One Below';
-$l['the_one_below-description'] = 'The One Below Fullcolor.jpg|The head is what remains of this aquatic horror from the old days, when dark lords ruled the lands and good men grew up only to die; when the summer was short and the winter felt like an eternity; when the One Below stepped out of the ocean and walked the earth.';
+$l['the_one_below-description'] = 'The head is what remains of this aquatic horror from the old days, when dark lords ruled the lands and good men grew up only to die; when the summer was short and the winter felt like an eternity; when the One Below stepped out of the ocean and walked the earth.';
 $l['werewolf'] = 'Lycanwulf';
 $l['werewolf-description'] = '"Lycanwulf, Lycanwulf!" they yelled, the frightened villagers, as they laid eyes upon this abomination known as the Lycanwulf. The petty humans were now prisoners of the beast, in a prison without walls, ceilings or a key, where the only escape was death.';
 //Hotline Miami DLC
