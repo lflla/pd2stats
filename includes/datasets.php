@@ -486,7 +486,7 @@ array( 'Name' => $l['escapegarage'], 'Wiki' => 'Garage', 'Image' => 'escapegarag
 //Skilltrees
 //
 
-if ($skill_mastermind_cable_guy == 1 || $skill_mastermind_combat_medic == 1 || $skill_mastermind_triathlete_ace == 1){$skill_mastermind_unlocked = 1;};
+if ($skill_mastermind_cable_guy == 1 || $skill_mastermind_combat_medic == 1 || $skill_mastermind_triathlete == 1){$skill_mastermind_unlocked = 1;};
 
 $mastermind = array(
 array( 'Name' => $l['controlfreak'], 'Wiki' => 'Hostage_Taker', 'Image' => '_(82)', 'Description-Normal' => $l['controlfreak-normal'], 'Description-Ace' => $l['controlfreak-ace'], 'Normal' => $skill_mastermind_black_marketeer, 'Ace' => $skill_mastermind_black_marketeer_ace ),
