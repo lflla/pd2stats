@@ -4,25 +4,25 @@
 //
 $weapons_primary = array(
 ////Assault Rifles
-array( 'Name' => $l['akm_gold'], 'Wiki' => 'Golden_AK.762', 'Image' => 'akm_gold', 'Quality' => 'community', 'Extra' => '', 'Used' => $weapon_used_akm_gold , 'Kills' => $weapon_kills_akm_gold, 'Stats' => array(
+array( 'Name' => $l['akm_gold'], 'Wiki' => 'Golden_AK.762', 'Image' => 'akm_gold', 'Quality' => 'community', 'Extra' => 'Community', 'Used' => $weapon_used_akm_gold , 'Kills' => $weapon_kills_akm_gold, 'Stats' => array(
 'Magazine' => 30, 'Ammo' => 90, 'Firerate' => 560, 'Damage' => 40, 'Accuracy' => 10, 'Stability' => 12, 'Concealment' => 11, 'Threat' => 22)),
-array( 'Name' => $l['amcar'], 'Wiki' => 'AMCAR_(Payday_2)', 'Image' => 'amcar', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_amcar , 'Kills' => $weapon_kills_amcar, 'Stats' => array(
+array( 'Name' => $l['amcar'], 'Wiki' => 'AMCAR_(Payday_2)', 'Image' => 'amcar', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_amcar , 'Kills' => $weapon_kills_amcar, 'Stats' => array(
 'Magazine' => 20, 'Ammo' => 180, 'Firerate' => 550, 'Damage' => 16, 'Accuracy' => 10, 'Stability' => 19, 'Concealment' => 21, 'Threat' => 14)),
-array( 'Name' => $l['ak74'], 'Wiki' => 'AK_(Payday_2)', 'Image' => 'ak74', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_ak74 , 'Kills' => $weapon_kills_ak74, 'Stats' => array(
+array( 'Name' => $l['ak74'], 'Wiki' => 'AK_(Payday_2)', 'Image' => 'ak74', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_ak74 , 'Kills' => $weapon_kills_ak74, 'Stats' => array(
 'Magazine' => 30, 'Ammo' => 120, 'Firerate' => 650, 'Damage' => 28, 'Accuracy' => 10, 'Stability' => 15, 'Concealment' => 16, 'Threat' => 14)),
-array( 'Name' => $l['new_m4'], 'Wiki' => 'CAR-4', 'Image' => 'new_m4', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_new_m4 , 'Kills' => $weapon_kills_new_m4, 'Stats' => array(
+array( 'Name' => $l['new_m4'], 'Wiki' => 'CAR-4', 'Image' => 'new_m4', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_new_m4 , 'Kills' => $weapon_kills_new_m4, 'Stats' => array(
 'Magazine' => 30, 'Ammo' => 150, 'Firerate' => 600, 'Damage' => 23, 'Accuracy' => 12, 'Stability' => 17, 'Concealment' => 20, 'Threat' => 14)),
-array( 'Name' => $l['aug'], 'Wiki' => 'UAR', 'Image' => 'aug', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_aug , 'Kills' => $weapon_kills_aug, 'Stats' => array(
+array( 'Name' => $l['aug'], 'Wiki' => 'UAR', 'Image' => 'aug', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_aug , 'Kills' => $weapon_kills_aug, 'Stats' => array(
 'Magazine' => 30, 'Ammo' => 120, 'Firerate' => 750, 'Damage' => 28, 'Accuracy' => 14, 'Stability' => 12, 'Concealment' => 20, 'Threat' => 14)),
-array( 'Name' => $l['akm'], 'Wiki' => 'AK.762', 'Image' => 'akm', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_akm , 'Kills' => $weapon_kills_akm, 'Stats' => array(
+array( 'Name' => $l['akm'], 'Wiki' => 'AK.762', 'Image' => 'akm', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_akm , 'Kills' => $weapon_kills_akm, 'Stats' => array(
 'Magazine' => 30, 'Ammo' => 90, 'Firerate' => 560, 'Damage' => 40, 'Accuracy' => 10, 'Stability' => 12, 'Concealment' => 13, 'Threat' => 22)),
-array( 'Name' => $l['g36'], 'Wiki' => 'JP36', 'Image' => 'g36', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_g36 , 'Kills' => $weapon_kills_g36, 'Stats' => array(
+array( 'Name' => $l['g36'], 'Wiki' => 'JP36', 'Image' => 'g36', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_g36 , 'Kills' => $weapon_kills_g36, 'Stats' => array(
 'Magazine' => 30, 'Ammo' => 180, 'Firerate' => 710, 'Damage' => 25, 'Accuracy' => 12, 'Stability' => 19, 'Concealment' => 19, 'Threat' => 13)),
-array( 'Name' => $l['new_m14'], 'Wiki' => 'M308_(Payday_2)', 'Image' => 'new_m14', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_new_m14 , 'Kills' => $weapon_kills_new_m14, 'Stats' => array(
+array( 'Name' => $l['new_m14'], 'Wiki' => 'M308_(Payday_2)', 'Image' => 'new_m14', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_new_m14 , 'Kills' => $weapon_kills_new_m14, 'Stats' => array(
 'Magazine' => 10, 'Ammo' => 40, 'Firerate' => 710, 'Damage' => 95, 'Accuracy' => 16, 'Stability' => 3, 'Concealment' => 8, 'Threat' => 31)),
-array( 'Name' => $l['ak5'], 'Wiki' => 'Ak_5', 'Image' => 'ak5', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_ak5 , 'Kills' => $weapon_kills_ak5, 'Stats' => array(
+array( 'Name' => $l['ak5'], 'Wiki' => 'Ak_5', 'Image' => 'ak5', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_ak5 , 'Kills' => $weapon_kills_ak5, 'Stats' => array(
 'Magazine' => 30, 'Ammo' => 150, 'Firerate' => 710, 'Damage' => 20, 'Accuracy' => 16, 'Stability' => 22, 'Concealment' => 18, 'Threat' => 14)),
-array( 'Name' => $l['m16'], 'Wiki' => 'AMR-16', 'Image' => 'm16', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_m16 , 'Kills' => $weapon_kills_m16, 'Stats' => array(
+array( 'Name' => $l['m16'], 'Wiki' => 'AMR-16', 'Image' => 'm16', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_m16 , 'Kills' => $weapon_kills_m16, 'Stats' => array(
 'Magazine' => 30, 'Ammo' => 90, 'Firerate' => 860, 'Damage' => 30, 'Accuracy' => 12, 'Stability' => 20, 'Concealment' => 17, 'Threat' => 14)),
 array( 'Name' => $l['s552'], 'Wiki' => 'Commando_553', 'Image' => 's552', 'Quality' => 'dlc', 'Extra' => $l['Armored_Transport'], 'Used' => $weapon_used_s552 , 'Kills' => $weapon_kills_s552, 'Stats' => array(
 'Magazine' => 30, 'Ammo' => 150, 'Firerate' => 710, 'Damage' => 28, 'Accuracy' => 10, 'Stability' => 20, 'Concealment' => 22, 'Threat' => 12)),
@@ -44,26 +44,26 @@ array( 'Name' => $l['r93'], 'Wiki' => 'R93', 'Image' => 'r93', 'Quality' => 'dlc
 array( 'Name' => $l['m95'], 'Wiki' => 'Thanatos_.50_cal', 'Image' => 'm95', 'Quality' => 'dlc', 'Extra' => $l['Gage_Sniper_Pack'], 'Used' => $weapon_used_m95 , 'Kills' => $weapon_kills_m95, 'Stats' => array(
 'Magazine' => 5, 'Ammo' => 15, 'Firerate' => 40, 'Damage' => 2880, 'Accuracy' => 18, 'Stability' => 0, 'Concealment' => 2, 'Threat' => 185)),
 ////Shotguns
-array( 'Name' => $l['r870'], 'Wiki' => 'Reinfeld_880', 'Image' => 'r870', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_r870 , 'Kills' => $weapon_kills_r870, 'Stats' => array(
+array( 'Name' => $l['r870'], 'Wiki' => 'Reinfeld_880', 'Image' => 'r870', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_r870 , 'Kills' => $weapon_kills_r870, 'Stats' => array(
 'Magazine' => 6, 'Ammo' => 48, 'Firerate' => 100, 'Damage' => 60, 'Accuracy' => 14, 'Stability' => 6, 'Concealment' => 11, 'Threat' => 28)),
-array( 'Name' => $l['saiga'], 'Wiki' => 'IZHMA_12G', 'Image' => 'saiga', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_saiga , 'Kills' => $weapon_kills_saiga, 'Stats' => array(
+array( 'Name' => $l['saiga'], 'Wiki' => 'IZHMA_12G', 'Image' => 'saiga', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_saiga , 'Kills' => $weapon_kills_saiga, 'Stats' => array(
 'Magazine' => 7, 'Ammo' => 88, 'Firerate' => 330, 'Damage' => 35, 'Accuracy' => 10, 'Stability' => 8, 'Concealment' => 13, 'Threat' => 28)),
-array( 'Name' => $l['huntsman'], 'Wiki' => 'Mosconi_12G', 'Image' => 'huntsman', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_huntsman , 'Kills' => $weapon_kills_huntsman, 'Stats' => array(
+array( 'Name' => $l['huntsman'], 'Wiki' => 'Mosconi_12G', 'Image' => 'huntsman', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_huntsman , 'Kills' => $weapon_kills_huntsman, 'Stats' => array(
 'Magazine' => 2, 'Ammo' => 26, 'Firerate' => 500, 'Damage' => 85, 'Accuracy' => 12, 'Stability' => 3, 'Concealment' => 7, 'Threat' => 37)),
 array( 'Name' => $l['benelli'], 'Wiki' => 'M1014', 'Image' => 'benelli', 'Quality' => 'dlc', 'Extra' => $l['Gage_Shotgun_Pack'], 'Used' => $weapon_used_benelli , 'Kills' => $weapon_kills_benelli, 'Stats' => array(
 'Magazine' => 8, 'Ammo' => 72, 'Firerate' => 430, 'Damage' => 35, 'Accuracy' => 14, 'Stability' => 12, 'Concealment' => 12, 'Threat' => 26)),
 array( 'Name' => $l['ksg'], 'Wiki' => 'Raven', 'Image' => 'ksg', 'Quality' => 'dlc', 'Extra' => $l['Gage_Shotgun_Pack'], 'Used' => $weapon_used_ksg , 'Kills' => $weapon_kills_ksg, 'Stats' => array(
 'Magazine' => 14, 'Ammo' => 42, 'Firerate' => 100, 'Damage' => 60, 'Accuracy' => 10, 'Stability' => 12, 'Concealment' => 22, 'Threat' => 28)),
-array( 'Name' => $l['spas12'], 'Wiki' => 'Predator_12', 'Image' => 'spas12', 'Quality' => 'community', 'Extra' => '', 'Used' => $weapon_used_spas12 , 'Kills' => $weapon_kills_spas12, 'Stats' => array(
+array( 'Name' => $l['spas12'], 'Wiki' => 'Predator_12', 'Image' => 'spas12', 'Quality' => 'community', 'Extra' => 'Community', 'Used' => $weapon_used_spas12 , 'Kills' => $weapon_kills_spas12, 'Stats' => array(
 'Magazine' => 6, 'Ammo' => 36, 'Firerate' => 300, 'Damage' => 48, 'Accuracy' => 10, 'Stability' => 8, 'Concealment' => 14, 'Threat' => 28)),
 ////Akimbo
-array( 'Name' => $l['jowi'], 'Wiki' => 'Akimbo_Chimano_Compact', 'Image' => 'jowi', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_jowi , 'Kills' => $weapon_kills_jowi, 'Stats' => array(
+array( 'Name' => $l['jowi'], 'Wiki' => 'Akimbo_Chimano_Compact', 'Image' => 'jowi', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_jowi , 'Kills' => $weapon_kills_jowi, 'Stats' => array(
 'Magazine' => 20, 'Ammo' => 120, 'Firerate' => 670, 'Damage' => 18, 'Accuracy' => 12, 'Stability' => 20, 'Concealment' => 30, 'Threat' => 9)),
-array( 'Name' => $l['x_deagle'], 'Wiki' => 'Akimbo_Deagle', 'Image' => 'x_deagle', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_x_deagle , 'Kills' => $weapon_kills_x_deagle, 'Stats' => array(
+array( 'Name' => $l['x_deagle'], 'Wiki' => 'Akimbo_Deagle', 'Image' => 'x_deagle', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_x_deagle , 'Kills' => $weapon_kills_x_deagle, 'Stats' => array(
 'Magazine' => 20, 'Ammo' => 60, 'Firerate' => 240, 'Damage' => 45, 'Accuracy' => 10, 'Stability' => 6, 'Concealment' => 26, 'Threat' => 24)),
-array( 'Name' => $l['x_1911'], 'Wiki' => 'Akimbo_Crosskill', 'Image' => 'x_1911', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_x_1911 , 'Kills' => $weapon_kills_x_1911, 'Stats' => array(
+array( 'Name' => $l['x_1911'], 'Wiki' => 'Akimbo_Crosskill', 'Image' => 'x_1911', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_x_1911 , 'Kills' => $weapon_kills_x_1911, 'Stats' => array(
 'Magazine' => 20, 'Ammo' => 120, 'Firerate' => 500, 'Damage' => 23, 'Accuracy' => 12, 'Stability' => 12, 'Concealment' => 27, 'Threat' => 10)),
-array( 'Name' => $l['x_b92fs'], 'Wiki' => 'Akimbo_Bernetti_9', 'Image' => 'x_b92fs', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_x_b92fs, 'Kills' => $weapon_kills_x_b92fs, 'Stats' => array(
+array( 'Name' => $l['x_b92fs'], 'Wiki' => 'Akimbo_Bernetti_9', 'Image' => 'x_b92fs', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_x_b92fs, 'Kills' => $weapon_kills_x_b92fs, 'Stats' => array(
 'Magazine' => 28, 'Ammo' => 196, 'Firerate' => 670, 'Damage' => 18, 'Accuracy' => 14, 'Stability' => 19, 'Concealment' => 28, 'Threat' => 6)),
 ////Light Machine Guns
 array( 'Name' => $l['rpk'], 'Wiki' => 'RPK', 'Image' => 'rpk', 'Quality' => 'dlc', 'Extra' => $l['Gage_Weapon_Pack_02'], 'Used' => $weapon_used_rpk , 'Kills' => $weapon_kills_rpk, 'Stats' => array(
@@ -73,7 +73,7 @@ array( 'Name' => $l['m249'], 'Wiki' => 'KSP', 'Image' => 'm249', 'Quality' => 'd
 array( 'Name' => $l['hk21'], 'Wiki' => 'Brenner_21_(Payday_2)', 'Image' => 'hk21', 'Quality' => 'dlc', 'Extra' => $l['Gage_Weapon_Pack_02'], 'Used' => $weapon_used_hk21 , 'Kills' => $weapon_kills_hk21, 'Stats' => array(
 'Magazine' => 150, 'Ammo' => 300, 'Firerate' => 720, 'Damage' => 33, 'Accuracy' => 10, 'Stability' => 12, 'Concealment' => 2, 'Threat' => 37)),
 ////Saws
-array( 'Name' => $l['saw'], 'Wiki' => 'OVE9000', 'Image' => 'saw', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_saw , 'Kills' => $weapon_kills_saw, 'Stats' => array(
+array( 'Name' => $l['saw'], 'Wiki' => 'OVE9000', 'Image' => 'saw', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_saw , 'Kills' => $weapon_kills_saw, 'Stats' => array(
 'Magazine' => 150, 'Ammo' => 300, 'Firerate' => 400, 'Damage' => 23, 'Accuracy' => 4, 'Stability' => 17, 'Concealment' => 16, 'Threat' => 24)),
 ////Grenade Launcher
 array( 'Name' => $l['gre_m79'], 'Wiki' => 'GL40_(Payday_2)', 'Image' => 'gre_m79', 'Quality' => 'dlc', 'Extra' => $l['Gage_Assault_Pack'], 'Used' => $weapon_used_gre_m79 , 'Kills' => $weapon_kills_gre_m79, 'Stats' => array(
@@ -84,40 +84,40 @@ array( 'Name' => $l['gre_m79'], 'Wiki' => 'GL40_(Payday_2)', 'Image' => 'gre_m79
 //
 $weapons_secondary = array(
 ////Pistols
-array( 'Name' => $l['usp'], 'Wiki' => 'Interceptor_45', 'Image' => 'usp', 'Quality' => 'community', 'Extra' => '', 'Used' => $weapon_used_usp , 'Kills' => $weapon_kills_usp, 'Stats' => array(
+array( 'Name' => $l['usp'], 'Wiki' => 'Interceptor_45', 'Image' => 'usp', 'Quality' => 'community', 'Extra' => 'Community', 'Used' => $weapon_used_usp , 'Kills' => $weapon_kills_usp, 'Stats' => array(
 'Magazine' => 13, 'Ammo' => 130, 'Firerate' => 750, 'Damage' => 20, 'Accuracy' => 12, 'Stability' => 20, 'Concealment' => 29, 'Threat' => 8)),
-array( 'Name' => $l['g22c'], 'Wiki' => 'Chimano_Custom', 'Image' => 'g22c', 'Quality' => 'community', 'Extra' => '', 'Used' => $weapon_used_g22c , 'Kills' => $weapon_kills_g22c, 'Stats' => array(
+array( 'Name' => $l['g22c'], 'Wiki' => 'Chimano_Custom', 'Image' => 'g22c', 'Quality' => 'community', 'Extra' => 'Community', 'Used' => $weapon_used_g22c , 'Kills' => $weapon_kills_g22c, 'Stats' => array(
 'Magazine' => 16, 'Ammo' => 128, 'Firerate' => 750, 'Damage' => 23, 'Accuracy' => 10, 'Stability' => 23, 'Concealment' => 29, 'Threat' => 9)),
-array( 'Name' => $l['glock_17'], 'Wiki' => 'Chimano_88', 'Image' => 'glock_17', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_glock_17 , 'Kills' => $weapon_kills_glock_17, 'Stats' => array(
+array( 'Name' => $l['glock_17'], 'Wiki' => 'Chimano_88', 'Image' => 'glock_17', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_glock_17 , 'Kills' => $weapon_kills_glock_17, 'Stats' => array(
 'Magazine' => 17, 'Ammo' => 136, 'Firerate' => 500, 'Damage' => 15, 'Accuracy' => 12, 'Stability' => 17, 'Concealment' => 30, 'Threat' => 8)),
-array( 'Name' => $l['colt_1911'], 'Wiki' => 'Crosskill', 'Image' => 'colt_1911', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_colt_1911 , 'Kills' => $weapon_kills_colt_1911, 'Stats' => array(
+array( 'Name' => $l['colt_1911'], 'Wiki' => 'Crosskill', 'Image' => 'colt_1911', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_colt_1911 , 'Kills' => $weapon_kills_colt_1911, 'Stats' => array(
 'Magazine' => 10, 'Ammo' => 60, 'Firerate' => 500, 'Damage' => 23, 'Accuracy' => 12, 'Stability' => 12, 'Concealment' => 29, 'Threat' => 10)),
-array( 'Name' => $l['b92fs'], 'Wiki' => 'Bernetti_9', 'Image' => 'b92fs', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_b92fs , 'Kills' => $weapon_kills_b92fs, 'Stats' => array(
+array( 'Name' => $l['b92fs'], 'Wiki' => 'Bernetti_9', 'Image' => 'b92fs', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_b92fs , 'Kills' => $weapon_kills_b92fs, 'Stats' => array(
 'Magazine' => 14, 'Ammo' => 154, 'Firerate' => 670, 'Damage' => 18, 'Accuracy' => 14, 'Stability' => 19, 'Concealment' => 30, 'Threat' => 6)),
-array( 'Name' => $l['new_raging_bull'], 'Wiki' => 'Bronco_.44_(Payday_2)', 'Image' => 'new_raging_bull', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_new_raging_bull , 'Kills' => $weapon_kills_new_raging_bull, 'Stats' => array(
+array( 'Name' => $l['new_raging_bull'], 'Wiki' => 'Bronco_.44_(Payday_2)', 'Image' => 'new_raging_bull', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_new_raging_bull , 'Kills' => $weapon_kills_new_raging_bull, 'Stats' => array(
 'Magazine' => 6, 'Ammo' => 30, 'Firerate' => 290, 'Damage' => 55, 'Accuracy' => 12, 'Stability' => 3, 'Concealment' => 26, 'Threat' => 24)),
-array( 'Name' => $l['glock_18c'], 'Wiki' => 'STRYK_18c', 'Image' => 'glock_18c', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_glock_18c , 'Kills' => $weapon_kills_glock_18c, 'Stats' => array(
+array( 'Name' => $l['glock_18c'], 'Wiki' => 'STRYK_18c', 'Image' => 'glock_18c', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_glock_18c , 'Kills' => $weapon_kills_glock_18c, 'Stats' => array(
 'Magazine' => 20, 'Ammo' => 140, 'Firerate' => 910, 'Damage' => 20, 'Accuracy' => 8, 'Stability' => 15, 'Concealment' => 29, 'Threat' => 8)),
-array( 'Name' => $l['deagle'], 'Wiki' => 'Deagle', 'Image' => 'deagle', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_deagle , 'Kills' => $weapon_kills_deagle, 'Stats' => array(
+array( 'Name' => $l['deagle'], 'Wiki' => 'Deagle', 'Image' => 'deagle', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_deagle , 'Kills' => $weapon_kills_deagle, 'Stats' => array(
 'Magazine' => 10, 'Ammo' => 30, 'Firerate' => 400, 'Damage' => 45, 'Accuracy' => 10, 'Stability' => 6, 'Concealment' => 28, 'Threat' => 24)),
 array( 'Name' => $l['ppk'], 'Wiki' => 'Gruber_Kurz', 'Image' => 'ppk', 'Quality' => 'dlc', 'Extra' => $l['Armored_Transport'], 'Used' => $weapon_used_ppk , 'Kills' => $weapon_kills_ppk, 'Stats' => array(
 'Magazine' => 14, 'Ammo' => 154, 'Firerate' => 670, 'Damage' => 18, 'Accuracy' => 16, 'Stability' => 20, 'Concealment' => 30, 'Threat' => 4)),
 array( 'Name' => $l['p226'], 'Wiki' => 'Signature_.40', 'Image' => 'p226', 'Quality' => 'dlc', 'Extra' => $l['Gage_Weapon_Pack_01'], 'Used' => $weapon_used_p226 , 'Kills' => $weapon_kills_p226, 'Stats' => array(
 'Magazine' => 12, 'Ammo' => 84, 'Firerate' => 670, 'Damage' => 23, 'Accuracy' => 12, 'Stability' => 17, 'Concealment' => 29, 'Threat' => 9)),
-array( 'Name' => $l['g26'], 'Wiki' => 'Chimano_Compact', 'Image' => 'g26', 'Quality' => 'community', 'Extra' => '', 'Used' => $weapon_used_g26 , 'Kills' => $weapon_kills_g26, 'Stats' => array(
+array( 'Name' => $l['g26'], 'Wiki' => 'Chimano_Compact', 'Image' => 'g26', 'Quality' => 'community', 'Extra' => 'Community', 'Used' => $weapon_used_g26 , 'Kills' => $weapon_kills_g26, 'Stats' => array(
 'Magazine' => 10, 'Ammo' => 150, 'Firerate' => 670, 'Damage' => 18, 'Accuracy' => 12, 'Stability' => 20, 'Concealment' => 30, 'Threat' => 4)),
 ////Submachine Guns
-array( 'Name' => $l['mac10'], 'Wiki' => 'Mark_10', 'Image' => 'mac10', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_mac10 , 'Kills' => $weapon_kills_mac10, 'Stats' => array(
+array( 'Name' => $l['mac10'], 'Wiki' => 'Mark_10', 'Image' => 'mac10', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_mac10 , 'Kills' => $weapon_kills_mac10, 'Stats' => array(
 'Magazine' => 40, 'Ammo' => 80, 'Firerate' => 1000, 'Damage' => 25, 'Accuracy' => 8, 'Stability' => 15, 'Concealment' => 27, 'Threat' => 10)),
-array( 'Name' => $l['new_mp5'], 'Wiki' => 'Compact-5_(Payday_2)', 'Image' => 'new_mp5', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_new_mp5 , 'Kills' => $weapon_kills_new_mp5, 'Stats' => array(
+array( 'Name' => $l['new_mp5'], 'Wiki' => 'Compact-5_(Payday_2)', 'Image' => 'new_mp5', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_new_mp5 , 'Kills' => $weapon_kills_new_mp5, 'Stats' => array(
 'Magazine' => 30, 'Ammo' => 150, 'Firerate' => 750, 'Damage' => 18, 'Accuracy' => 12, 'Stability' => 21, 'Concealment' => 23, 'Threat' => 6)),
-array( 'Name' => $l['mp9'], 'Wiki' => 'CMP', 'Image' => 'mp9', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_mp9 , 'Kills' => $weapon_kills_mp9, 'Stats' => array(
+array( 'Name' => $l['mp9'], 'Wiki' => 'CMP', 'Image' => 'mp9', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_mp9 , 'Kills' => $weapon_kills_mp9, 'Stats' => array(
 'Magazine' => 30, 'Ammo' => 120, 'Firerate' => 950, 'Damage' => 20, 'Accuracy' => 12, 'Stability' => 17, 'Concealment' => 26, 'Threat' => 8)),
-array( 'Name' => $l['olympic'], 'Wiki' => 'Para', 'Image' => 'olympic', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_olympic , 'Kills' => $weapon_kills_olympic, 'Stats' => array(
+array( 'Name' => $l['olympic'], 'Wiki' => 'Para', 'Image' => 'olympic', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_olympic , 'Kills' => $weapon_kills_olympic, 'Stats' => array(
 'Magazine' => 25, 'Ammo' => 100, 'Firerate' => 680, 'Damage' => 18, 'Accuracy' => 14, 'Stability' => 20, 'Concealment' => 24, 'Threat' => 14)),
-array( 'Name' => $l['akmsu'], 'Wiki' => 'Krinkov', 'Image' => 'akmsu', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_akmsu , 'Kills' => $weapon_kills_akmsu, 'Stats' => array(
+array( 'Name' => $l['akmsu'], 'Wiki' => 'Krinkov', 'Image' => 'akmsu', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_akmsu , 'Kills' => $weapon_kills_akmsu, 'Stats' => array(
 'Magazine' => 30, 'Ammo' => 90, 'Firerate' => 820, 'Damage' => 25, 'Accuracy' => 8, 'Stability' => 15, 'Concealment' => 21, 'Threat' => 22)),
-array( 'Name' => $l['p90'], 'Wiki' => 'Kobus_90', 'Image' => 'p90', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_p90 , 'Kills' => $weapon_kills_p90, 'Stats' => array(
+array( 'Name' => $l['p90'], 'Wiki' => 'Kobus_90', 'Image' => 'p90', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_p90 , 'Kills' => $weapon_kills_p90, 'Stats' => array(
 'Magazine' => 50, 'Ammo' => 100, 'Firerate' => 910, 'Damage' => 20, 'Accuracy' => 14, 'Stability' => 20, 'Concealment' => 25, 'Threat' => 12)),
 array( 'Name' => $l['m45'], 'Wiki' => 'Swedish_K', 'Image' => 'm45', 'Quality' => 'dlc', 'Extra' => $l['Armored_Transport'], 'Used' => $weapon_used_m45 , 'Kills' => $weapon_kills_m45, 'Stats' => array(
 'Magazine' => 40, 'Ammo' => 80, 'Firerate' => 600, 'Damage' => 28, 'Accuracy' => 10, 'Stability' => 17, 'Concealment' => 24, 'Threat' => 10)),
@@ -130,31 +130,31 @@ array( 'Name' => $l['blastersmg'], 'Wiki' => 'Blaster_9mm', 'Image' => 'tec9', '
 array( 'Name' => $l['uzi'], 'Wiki' => 'Uzi', 'Image' => 'uzi', 'Quality' => 'dlc', 'Extra' => $l['hotline_miami_dlc'], 'Used' => $weapon_used_uzi , 'Kills' => $weapon_kills_uzi, 'Stats' => array(
 'Magazine' => 30, 'Ammo' => 90, 'Firerate' => 700, 'Damage' => 28, 'Accuracy' => 14, 'Stability' => 20, 'Concealment' => 24, 'Threat' => 12)),
 ////Shotguns
-array( 'Name' => $l['judge'], 'Wiki' => 'The_Judge', 'Image' => 'judge', 'Quality' => 'community', 'Extra' => '', 'Used' => $weapon_used_judge , 'Kills' => $weapon_kills_judge, 'Stats' => array(
+array( 'Name' => $l['judge'], 'Wiki' => 'The_Judge', 'Image' => 'judge', 'Quality' => 'community', 'Extra' => 'Community', 'Used' => $weapon_used_judge , 'Kills' => $weapon_kills_judge, 'Stats' => array(
 'Magazine' => 5, 'Ammo' => 20, 'Firerate' => 500, 'Damage' => 95, 'Accuracy' => 6, 'Stability' => 3, 'Concealment' => 29, 'Threat' => 28)),
-array( 'Name' => $l['serbu'], 'Wiki' => 'Locomotive_12G_(Payday_2)', 'Image' => 'serbu', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_serbu , 'Kills' => $weapon_kills_serbu, 'Stats' => array(
+array( 'Name' => $l['serbu'], 'Wiki' => 'Locomotive_12G_(Payday_2)', 'Image' => 'serbu', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_serbu , 'Kills' => $weapon_kills_serbu, 'Stats' => array(
 'Magazine' => 6, 'Ammo' => 30, 'Firerate' => 160, 'Damage' => 65, 'Accuracy' => 8, 'Stability' => 6, 'Concealment' => 23, 'Threat' => 28)),
 array( 'Name' => $l['striker'], 'Wiki' => 'Street_Sweeper', 'Image' => 'striker', 'Quality' => 'dlc', 'Extra' => $l['Gage_Shotgun_Pack'], 'Used' => $weapon_used_striker , 'Kills' => $weapon_kills_striker, 'Stats' => array(
 'Magazine' => 12, 'Ammo' => 48, 'Firerate' => 430, 'Damage' => 35, 'Accuracy' => 10, 'Stability' => 8, 'Concealment' => 21, 'Threat' => 28)),
 );
 
 if($skill_enforcer_carbon_blade_ace == 1){
-array_push($weapons_secondary, array( 'Name' => $l['saw'], 'Wiki' => 'OVE9000', 'Image' => 'saw', 'Quality' => 'normal', 'Extra' => '', 'Used' => $weapon_used_saw , 'Kills' => $weapon_kills_saw, 'Stats' => array(
+array_push($weapons_secondary, array( 'Name' => $l['saw'], 'Wiki' => 'OVE9000', 'Image' => 'saw', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_saw , 'Kills' => $weapon_kills_saw, 'Stats' => array(
 'Magazine' => 150, 'Ammo' => 300, 'Firerate' => 400, 'Damage' => 23, 'Accuracy' => 4, 'Stability' => 17, 'Concealment' => 16, 'Threat' => 24)));
 }
 //
 //Melee
 //
 $weapons_melee = array(
-array( 'Name' => $l['butt'], 'Wiki' => 'Weapon_Butt', 'Image' => 'butt', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['butt-description'], 'Used' => $melee_used_weapon , 'Kills' => $melee_kills_weapon , 'Stats' => array(
+array( 'Name' => $l['butt'], 'Wiki' => 'Weapon_Butt', 'Image' => 'butt', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['butt-description'], 'Used' => $melee_used_weapon , 'Kills' => $melee_kills_weapon , 'Stats' => array(
 'Damage' => 15, 'DamageMAX' => 15, 'Knockdown' => 26, 'KnockdownMAX' => 26, 'Charge' => 0.0, 'Range' => 150, 'Concealment' => 30 )),
-array( 'Name' => $l['fists'], 'Wiki' => 'Fists', 'Image' => 'fists', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['fists-description'], 'Used' => $melee_used_fists , 'Kills' => $melee_kills_fists , 'Stats' => array(
+array( 'Name' => $l['fists'], 'Wiki' => 'Fists', 'Image' => 'fists', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['fists-description'], 'Used' => $melee_used_fists , 'Kills' => $melee_kills_fists , 'Stats' => array(
 'Damage' => 10, 'DamageMAX' => 30, 'Knockdown' => 54, 'KnockdownMAX' => 87, 'Charge' => 1.0, 'Range' => 150, 'Concealment' => 30 )),
-array( 'Name' => $l['brass_knuckles'], 'Wiki' => '350K_Brass_Knuckles', 'Image' => 'brass_knuckles', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['brass_knuckles-description'], 'Used' => $melee_used_brass_knuckles , 'Kills' => $melee_kills_brass_knuckles , 'Stats' => array(
+array( 'Name' => $l['brass_knuckles'], 'Wiki' => '350K_Brass_Knuckles', 'Image' => 'brass_knuckles', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['brass_knuckles-description'], 'Used' => $melee_used_brass_knuckles , 'Kills' => $melee_kills_brass_knuckles , 'Stats' => array(
 'Damage' => 15, 'DamageMAX' => 35, 'Knockdown' => 56, 'KnockdownMAX' => 94, 'Charge' => 1.3, 'Range' => 150, 'Concealment' => 30 )),
-array( 'Name' => $l['moneybundle'], 'Wiki' => 'Money_Bundle', 'Image' => 'moneybundle', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['moneybundle-description'], 'Used' => $melee_used_moneybundle , 'Kills' => $melee_kills_moneybundle , 'Stats' => array(
+array( 'Name' => $l['moneybundle'], 'Wiki' => 'Money_Bundle', 'Image' => 'moneybundle', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['moneybundle-description'], 'Used' => $melee_used_moneybundle , 'Kills' => $melee_kills_moneybundle , 'Stats' => array(
 'Damage' => 2, 'DamageMAX' => 10, 'Knockdown' => 30, 'KnockdownMAX' => 100, 'Charge' => 2.0, 'Range' => 150, 'Concealment' => 30 )),
-array( 'Name' => $l['barbedwire'], 'Wiki' => 'Lucille Baseball_Bat', 'Image' => 'barbedwire', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['barbedwire-description'], 'Used' => $melee_used_barbedwire , 'Kills' => $melee_kills_barbedwire , 'Stats' => array(
+array( 'Name' => $l['barbedwire'], 'Wiki' => 'Lucille Baseball_Bat', 'Image' => 'barbedwire', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['barbedwire-description'], 'Used' => $melee_used_barbedwire , 'Kills' => $melee_kills_barbedwire , 'Stats' => array(
 'Damage' => 40, 'DamageMAX' => 66, 'Knockdown' => 160, 'KnockdownMAX' => 212, 'Charge' => 3.0, 'Range' => 275, 'Concealment' => 21 )),
 array( 'Name' => $l['kabar'], 'Wiki' => 'URSA_Knife', 'Image' => 'kabar', 'Quality' => 'dlc', 'Extra' => $l['Gage_Weapon_Pack_02'], 'Description' => $l['kabar-description'], 'Used' => $melee_used_kabar , 'Kills' => $melee_kills_kabar , 'Stats' => array(
 'Damage' => 15, 'DamageMAX' => 70, 'Knockdown' => 11, 'KnockdownMAX' => 37, 'Charge' => 1.8, 'Range' => 185, 'Concealment' => 29 )),
@@ -188,13 +188,13 @@ array( 'Name' => $l['machete'], 'Wiki' => 'Machete_Knife', 'Image' => 'machete',
 'Damage' => 40, 'DamageMAX' => 85, 'Knockdown' => 20, 'KnockdownMAX' => 51, 'Charge' => 3.0, 'Range' => 225, 'Concealment' => 24 )),
 array( 'Name' => $l['fireaxe'], 'Wiki' => 'Fire Axe', 'Image' => 'fireaxe', 'Quality' => 'dlc', 'Extra' => $l['hotline_miami_dlc'], 'Description' => $l['fireaxe-description'], 'Used' => $melee_used_fireaxe , 'Kills' => $melee_kills_fireaxe , 'Stats' => array(
 'Damage' => 90, 'DamageMAX' => 140, 'Knockdown' => 90, 'KnockdownMAX' => 140, 'Charge' => 4.0, 'Range' => 275, 'Concealment' => 20 )),
-array( 'Name' => $l['briefcase'], 'Wiki' => '50_Blessings_Briefcase', 'Image' => 'briefcase', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['briefcase-description'], 'Used' => $melee_used_briefcase , 'Kills' => $melee_kills_briefcase , 'Stats' => array(
+array( 'Name' => $l['briefcase'], 'Wiki' => '50_Blessings_Briefcase', 'Image' => 'briefcase', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['briefcase-description'], 'Used' => $melee_used_briefcase , 'Kills' => $melee_kills_briefcase , 'Stats' => array(
 'Damage' => 7, 'DamageMAX' => 17, 'Knockdown' => 68, 'KnockdownMAX' => 168, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 30 )),
-array( 'Name' => $l['kabartanto'], 'Wiki' => 'Ursa_Tanto_Knife', 'Image' => 'kabartanto', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['kabartanto-description'], 'Used' => $melee_used_kabartanto , 'Kills' => $melee_kills_kabartanto , 'Stats' => array(
+array( 'Name' => $l['kabartanto'], 'Wiki' => 'Ursa_Tanto_Knife', 'Image' => 'kabartanto', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['kabartanto-description'], 'Used' => $melee_used_kabartanto , 'Kills' => $melee_kills_kabartanto , 'Stats' => array(
 'Damage' => 20, 'DamageMAX' => 80, 'Knockdown' => 16, 'KnockdownMAX' => 40, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 30 )),
-array( 'Name' => $l['toothbrush'], 'Wiki' => 'Nova&apos;s_Shank', 'Image' => 'toothbrush', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['toothbrush-description'], 'Used' => $melee_used_toothbrush , 'Kills' => $melee_kills_toothbrush , 'Stats' => array(
+array( 'Name' => $l['toothbrush'], 'Wiki' => 'Nova&apos;s_Shank', 'Image' => 'toothbrush', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['toothbrush-description'], 'Used' => $melee_used_toothbrush , 'Kills' => $melee_kills_toothbrush , 'Stats' => array(
 'Damage' => 20, 'DamageMAX' => 80, 'Knockdown' => 16, 'KnockdownMAX' => 40, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 30 )),
-array( 'Name' => $l['chef'], 'Wiki' => 'Psycho_Knife', 'Image' => 'chef', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['chef-description'], 'Used' => $melee_used_chef , 'Kills' => $melee_kills_chef , 'Stats' => array(
+array( 'Name' => $l['chef'], 'Wiki' => 'Psycho_Knife', 'Image' => 'chef', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['chef-description'], 'Used' => $melee_used_chef , 'Kills' => $melee_kills_chef , 'Stats' => array(
 'Damage' => 28, 'DamageMAX' => 140, 'Knockdown' => 28, 'KnockdownMAX' => 140, 'Charge' => 4.0, 'Range' => 150, 'Concealment' => 28 ))
 );
 //
@@ -207,14 +207,14 @@ array( 'Name' => $l['frag-grenade'], 'Wiki' => 'Frag_Grenade', 'Image' => 'butt'
 //Gadgets
 //
 $gadgets = array(
-array( 'Name' => $l['ammo_bag'], 'Wiki' => 'Ammo_bag_(Payday_2)', 'Image' => 'ammobag', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['ammo_bag-description'], 'Used' => $gadget_used_ammo_bag),
-array( 'Name' => $l['doctor_bag'], 'Wiki' => 'Doctor_bag_(Payday_2)', 'Image' => 'doctorbag', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['doctor_bag-description'], 'Used' => $gadget_used_doctor_bag),
-array( 'Name' => $l['trip_mine'], 'Wiki' => 'Trip_mine_(Payday_2)', 'Image' => 'tripmine', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['trip_mine-description'], 'Used' => $gadget_used_trip_mine),
-array( 'Name' => $l['sentry_gun'], 'Wiki' => 'Sentry_gun_(Payday_2)', 'Image' => 'sentrygun', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['sentry_gun-description'], 'Used' => $gadget_used_sentry_gun),
-array( 'Name' => $l['ecm_jammer'], 'Wiki' => 'ECM_jammer', 'Image' => 'ecmjammer', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['ecm_jammer-description'], 'Used' => $gadget_used_ecm_jammer),
-array( 'Name' => $l['armor_kit'], 'Wiki' => 'Armor_Bag', 'Image' => 'armor_kit', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['armor_kit-description'], 'Used' => $gadget_used_armor_kit),
-array( 'Name' => $l['bodybags_bag'], 'Wiki' => 'Body_Bag_Case', 'Image' => 'bodybags_bag', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['bodybags_bag-description'], 'Used' => $gadget_used_bodybags_bag),
-array( 'Name' => $l['first_aid_kit'], 'Wiki' => 'First_Aid_Kit', 'Image' => 'first_aid_kit', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['first_aid_kit-description'], 'Used' => $gadget_used_first_aid_kit)
+array( 'Name' => $l['ammo_bag'], 'Wiki' => 'Ammo_bag_(Payday_2)', 'Image' => 'ammobag', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['ammo_bag-description'], 'Used' => $gadget_used_ammo_bag),
+array( 'Name' => $l['doctor_bag'], 'Wiki' => 'Doctor_bag_(Payday_2)', 'Image' => 'doctorbag', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['doctor_bag-description'], 'Used' => $gadget_used_doctor_bag),
+array( 'Name' => $l['trip_mine'], 'Wiki' => 'Trip_mine_(Payday_2)', 'Image' => 'tripmine', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['trip_mine-description'], 'Used' => $gadget_used_trip_mine),
+array( 'Name' => $l['sentry_gun'], 'Wiki' => 'Sentry_gun_(Payday_2)', 'Image' => 'sentrygun', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['sentry_gun-description'], 'Used' => $gadget_used_sentry_gun),
+array( 'Name' => $l['ecm_jammer'], 'Wiki' => 'ECM_jammer', 'Image' => 'ecmjammer', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['ecm_jammer-description'], 'Used' => $gadget_used_ecm_jammer),
+array( 'Name' => $l['armor_kit'], 'Wiki' => 'Armor_Bag', 'Image' => 'armor_kit', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['armor_kit-description'], 'Used' => $gadget_used_armor_kit),
+array( 'Name' => $l['bodybags_bag'], 'Wiki' => 'Body_Bag_Case', 'Image' => 'bodybags_bag', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['bodybags_bag-description'], 'Used' => $gadget_used_bodybags_bag),
+array( 'Name' => $l['first_aid_kit'], 'Wiki' => 'First_Aid_Kit', 'Image' => 'first_aid_kit', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['first_aid_kit-description'], 'Used' => $gadget_used_first_aid_kit)
 );
 
 //Kill Total
@@ -241,19 +241,19 @@ $i=0;
 //Armor
 //
 $armor = array(
-array( 'Name' => $l['level_1'], 'Wiki' => 'Armor#Two-Piece_Suit', 'Image' => 'level_1', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['level_1-description'],'Used' => $armor_used_level_1, 'Stats' => array(
+array( 'Name' => $l['level_1'], 'Wiki' => 'Armor#Two-Piece_Suit', 'Image' => 'level_1', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['level_1-description'],'Used' => $armor_used_level_1, 'Stats' => array(
 'Armor' => 20, 'Concealment' => 30, 'Speed' => 37, 'Dodge' => 9, 'Steadiness' => 11, 'Stamina' => 21)),
-array( 'Name' => $l['level_2'], 'Wiki' => 'Armor#Lightweight_Ballistic_Vest', 'Image' => 'level_2', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['level_2-description'], 'Used' => $armor_used_level_2, 'Stats' => array(
+array( 'Name' => $l['level_2'], 'Wiki' => 'Armor#Lightweight_Ballistic_Vest', 'Image' => 'level_2', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['level_2-description'], 'Used' => $armor_used_level_2, 'Stats' => array(
 'Armor' => 30, 'Concealment' => 26, 'Speed' => 36, 'Dodge' => 5, 'Steadiness' => 11, 'Stamina' => 20)),
-array( 'Name' => $l['level_3'], 'Wiki' => 'Armor#Ballistic_Vest', 'Image' => 'level_3', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['level_3-description'], 'Used' => $armor_used_level_3, 'Stats' => array(
+array( 'Name' => $l['level_3'], 'Wiki' => 'Armor#Ballistic_Vest', 'Image' => 'level_3', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['level_3-description'], 'Used' => $armor_used_level_3, 'Stats' => array(
 'Armor' => 40, 'Concealment' => 23, 'Speed' => 35, 'Dodge' => 3, 'Steadiness' => 12, 'Stamina' => 19)),
-array( 'Name' => $l['level_4'], 'Wiki' => 'Armor#Heavy_Ballistic_Vest', 'Image' => 'level_4', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['level_4-description'], 'Used' => $armor_used_level_4, 'Stats' => array(
+array( 'Name' => $l['level_4'], 'Wiki' => 'Armor#Heavy_Ballistic_Vest', 'Image' => 'level_4', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['level_4-description'], 'Used' => $armor_used_level_4, 'Stats' => array(
 'Armor' => 50, 'Concealment' => 21, 'Speed' => 33, 'Dodge' => -3, 'Steadiness' => 13, 'Stamina' => 18)),
-array( 'Name' => $l['level_5'], 'Wiki' => 'Armor#Flak_Jacket', 'Image' => 'level_5', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['level_5-description'], 'Used' => $armor_used_level_5, 'Stats' => array(
+array( 'Name' => $l['level_5'], 'Wiki' => 'Armor#Flak_Jacket', 'Image' => 'level_5', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['level_5-description'], 'Used' => $armor_used_level_5, 'Stats' => array(
 'Armor' => 70, 'Concealment' => 18, 'Speed' => 26, 'Dodge' => -10, 'Steadiness' => 14, 'Stamina' => 17)),
-array( 'Name' => $l['level_6'], 'Wiki' => 'Armor#Combined_Tactical_Vest', 'Image' => 'level_6', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['level_6-description'], 'Used' => $armor_used_level_6, 'Stats' => array(
+array( 'Name' => $l['level_6'], 'Wiki' => 'Armor#Combined_Tactical_Vest', 'Image' => 'level_6', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['level_6-description'], 'Used' => $armor_used_level_6, 'Stats' => array(
 'Armor' => 90, 'Concealment' => 12, 'Speed' => 23, 'Dodge' => -30, 'Steadiness' => 16, 'Stamina' => 16)),
-array( 'Name' => $l['level_7'], 'Wiki' => 'Armor#Improved_Combined_Tactical_Vest', 'Image' => 'level_7', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['level_7-description'], 'Used' => $armor_used_level_7, 'Stats' => array(
+array( 'Name' => $l['level_7'], 'Wiki' => 'Armor#Improved_Combined_Tactical_Vest', 'Image' => 'level_7', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['level_7-description'], 'Used' => $armor_used_level_7, 'Stats' => array(
 'Armor' => 170, 'Concealment' => 1, 'Speed' => 20, 'Dodge' => -50, 'Steadiness' => 22, 'Stamina' => 14))
 );
 //
@@ -261,18 +261,18 @@ array( 'Name' => $l['level_7'], 'Wiki' => 'Armor#Improved_Combined_Tactical_Vest
 //
 $masks = array(
 ////Community Group
-array( 'Name' => $l['bear'], 'Image' => 'bear', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['bear-description'], 'Used' => $mask_used_bear),
-array( 'Name' => $l['heat'], 'Image' => 'heat', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['heat-description'], 'Used' => $mask_used_heat),
-array( 'Name' => $l['santa_happy'], 'Image' => 'santa_happy', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['santa_happy-description'], 'Used' => $mask_used_santa_happy),
-array( 'Name' => $l['unicorn'], 'Image' => 'unicorn', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['unicorn-description'], 'Used' => $mask_used_unicorn),
-array( 'Name' => $l['smiley'], 'Image' => 'smiley', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['smiley-description'], 'Used' => $mask_used_smiley),
-array( 'Name' => $l['gumbo'], 'Image' => 'gumbo', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['gumbo-description'], 'Used' => $mask_used_gumbo),
-array( 'Name' => $l['stoneface'], 'Image' => 'stoneface', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['stoneface-description'], 'Used' => $mask_used_stoneface),
-array( 'Name' => $l['wayfarer'], 'Image' => 'wayfarer', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['wayfarer-description'], 'Used' => $mask_used_wayfarer),
-array( 'Name' => $l['crazy_lion'], 'Image' => 'crazy_lion', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['crazy_lion-description'], 'Used' => $mask_used_crazy_lion),
+array( 'Name' => $l['bear'], 'Image' => 'bear', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['bear-description'], 'Used' => $mask_used_bear),
+array( 'Name' => $l['heat'], 'Image' => 'heat', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['heat-description'], 'Used' => $mask_used_heat),
+array( 'Name' => $l['santa_happy'], 'Image' => 'santa_happy', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['santa_happy-description'], 'Used' => $mask_used_santa_happy),
+array( 'Name' => $l['unicorn'], 'Image' => 'unicorn', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['unicorn-description'], 'Used' => $mask_used_unicorn),
+array( 'Name' => $l['smiley'], 'Image' => 'smiley', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['smiley-description'], 'Used' => $mask_used_smiley),
+array( 'Name' => $l['gumbo'], 'Image' => 'gumbo', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['gumbo-description'], 'Used' => $mask_used_gumbo),
+array( 'Name' => $l['stoneface'], 'Image' => 'stoneface', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['stoneface-description'], 'Used' => $mask_used_stoneface),
+array( 'Name' => $l['wayfarer'], 'Image' => 'wayfarer', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['wayfarer-description'], 'Used' => $mask_used_wayfarer),
+array( 'Name' => $l['crazy_lion'], 'Image' => 'crazy_lion', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['crazy_lion-description'], 'Used' => $mask_used_crazy_lion),
 ////Crimefest
-array( 'Name' => $l['combusto'], 'Image' => 'combusto', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['combusto-description'], 'Used' => $mask_used_combusto),
-array( 'Name' => $l['spackle'], 'Image' => 'spackle', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['zombie-description'], 'Used' => $mask_used_spackle),
+array( 'Name' => $l['combusto'], 'Image' => 'combusto', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['combusto-description'], 'Used' => $mask_used_combusto),
+array( 'Name' => $l['spackle'], 'Image' => 'spackle', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['zombie-description'], 'Used' => $mask_used_spackle),
 ////Lootbag
 array( 'Name' => $l['skull'], 'Image' => 'skull', 'Quality' => 'dlc', 'Extra' => 'LOOT BAG', 'Description' => $l['skull-description'], 'Used' => $mask_used_skull),
 ////Merry Soundtrack
@@ -337,86 +337,86 @@ array( 'Name' => $l['werewolf'], 'Image' => 'lycan', 'Quality' => 'event', 'Extr
 array( 'Name' => $l['ancient'], 'Image' => 'ancient', 'Quality' => 'event', 'Extra' => $l['Twitch_pack'], 'Description' => $l['ancient-description'], 'Used' => $mask_used_ancient),
 array( 'Name' => $l['twitch_orc'], 'Image' => 'twitch_orc', 'Quality' => 'event', 'Extra' => $l['Twitch_pack'], 'Description' => $l['twitch_orc-description'], 'Used' => $mask_used_twitch_orc),
 ////Shadow Raid
-array( 'Name' => $l['samurai'], 'Image' => 'samurai', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['samurai-description'], 'Used' => $mask_used_samurai),
+array( 'Name' => $l['samurai'], 'Image' => 'samurai', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['samurai-description'], 'Used' => $mask_used_samurai),
 ////Hotline Miami DLC
 array( 'Name' => $l['pig'], 'Image' => 'pig', 'Quality' => 'dlc', 'Extra' => $l['hotline_miami_dlc'], 'Description' => $l['pig-description'], 'Used' => $mask_used_pig),
 array( 'Name' => $l['white_wolf'], 'Image' => 'white_wolf', 'Quality' => 'dlc', 'Extra' => $l['hotline_miami_dlc'], 'Description' => $l['white_wolf-description'], 'Used' => $mask_used_white_wolf),
 array( 'Name' => $l['rabbit'], 'Image' => 'rabbit', 'Quality' => 'dlc', 'Extra' => $l['hotline_miami_dlc'], 'Description' => $l['rabbit-description'], 'Used' => $mask_used_rabbit),
 array( 'Name' => $l['owl'], 'Image' => 'owl', 'Quality' => 'dlc', 'Extra' => $l['hotline_miami_dlc'], 'Description' => $l['owl-description'], 'Used' => $mask_used_owl),
 ////Hotline Miami Game
-array( 'Name' => $l['panther'], 'Image' => 'panther', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['panther-description'], 'Used' => $mask_used_panther),
-array( 'Name' => $l['horse'], 'Image' => 'horse', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['horse-description'], 'Used' => $mask_used_horse),
-array( 'Name' => $l['rooster'], 'Image' => 'rooster', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['rooster-description'], 'Used' => $mask_used_rooster),
-array( 'Name' => $l['tiger'], 'Image' => 'tiger', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['tiger-description'], 'Used' => $mask_used_tiger),
+array( 'Name' => $l['panther'], 'Image' => 'panther', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['panther-description'], 'Used' => $mask_used_panther),
+array( 'Name' => $l['horse'], 'Image' => 'horse', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['horse-description'], 'Used' => $mask_used_horse),
+array( 'Name' => $l['rooster'], 'Image' => 'rooster', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['rooster-description'], 'Used' => $mask_used_rooster),
+array( 'Name' => $l['tiger'], 'Image' => 'tiger', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['tiger-description'], 'Used' => $mask_used_tiger),
 ////Deathwish
-array( 'Name' => $l['skullhard'], 'Image' => 'skullhard', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['skullhard-description'], 'Used' => $mask_used_skullhard),
-array( 'Name' => $l['skullveryhard'], 'Image' => 'skullveryhard', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['skullveryhard-description'], 'Used' => $mask_used_skullveryhard),
-array( 'Name' => $l['skulloverkill'], 'Image' => 'skulloverkill', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['skulloverkill-description'], 'Used' => $mask_used_skulloverkill),
-array( 'Name' => $l['skulloverkillplus'], 'Image' => 'skulloverkillplus', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['skulloverkillplus-description'], 'Used' => $mask_used_skulloverkillplus),
+array( 'Name' => $l['skullhard'], 'Image' => 'skullhard', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['skullhard-description'], 'Used' => $mask_used_skullhard),
+array( 'Name' => $l['skullveryhard'], 'Image' => 'skullveryhard', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['skullveryhard-description'], 'Used' => $mask_used_skullveryhard),
+array( 'Name' => $l['skulloverkill'], 'Image' => 'skulloverkill', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['skulloverkill-description'], 'Used' => $mask_used_skulloverkill),
+array( 'Name' => $l['skulloverkillplus'], 'Image' => 'skulloverkillplus', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['skulloverkillplus-description'], 'Used' => $mask_used_skulloverkillplus),
 ////Infamy
-array( 'Name' => $l['aviator'], 'Image' => 'aviator', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['aviator-description'], 'Used' => $mask_used_aviator),
-array( 'Name' => $l['plague'], 'Image' => 'plague', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['plague-description'], 'Used' => $mask_used_plague),
-array( 'Name' => $l['welder'], 'Image' => 'welder', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['welder-description'], 'Used' => $mask_used_welder),
-array( 'Name' => $l['smoker'], 'Image' => 'smoker', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['smoker-description'], 'Used' => $mask_used_smoker),
-array( 'Name' => $l['spectre'], 'Image' => 'ghost', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['spectre-description'], 'Used' => $mask_used_ghost),
+array( 'Name' => $l['aviator'], 'Image' => 'aviator', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['aviator-description'], 'Used' => $mask_used_aviator),
+array( 'Name' => $l['plague'], 'Image' => 'plague', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['plague-description'], 'Used' => $mask_used_plague),
+array( 'Name' => $l['welder'], 'Image' => 'welder', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['welder-description'], 'Used' => $mask_used_welder),
+array( 'Name' => $l['smoker'], 'Image' => 'smoker', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['smoker-description'], 'Used' => $mask_used_smoker),
+array( 'Name' => $l['spectre'], 'Image' => 'ghost', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['spectre-description'], 'Used' => $mask_used_ghost),
 ////Infamous
-array( 'Name' => $l['dallas'], 'Image' => 'dallas', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['dallas-description'], 'Used' => $mask_used_dallas),
-array( 'Name' => $l['chains'], 'Image' => 'chains', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['chains-description'], 'Used' => $mask_used_chains),
-array( 'Name' => $l['hoxton'], 'Image' => 'hoxton', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['hoxton-description'], 'Used' => $mask_used_hoxton),
-array( 'Name' => $l['wolf'], 'Image' => 'wolf', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['wolf-description'], 'Used' => $mask_used_wolf),
-array( 'Name' => $l['dallas_clean'], 'Image' => 'dallas_clean', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['dallas_clean-description'], 'Used' => $mask_used_dallas_clean),
-array( 'Name' => $l['chains_clean'], 'Image' => 'chains_clean', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['chains_clean-description'], 'Used' => $mask_used_chains_clean),
-array( 'Name' => $l['hoxton_clean'], 'Image' => 'hoxton_clean', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['hoxton_clean-description'], 'Used' => $mask_used_hoxton_clean),
-array( 'Name' => $l['wolf_clean'], 'Image' => 'wolf_clean', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['wolf_clean-description'], 'Used' => $mask_used_wolf_clean),
-array( 'Name' => $l['anonymous'], 'Image' => 'anonymous', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['anonymous-description'] , 'Used' => $mask_used_anonymous),
-array( 'Name' => $l['cthulhu'], 'Image' => 'cthulhu', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['cthulhu-description'], 'Used' => $mask_used_cthulhu),
-array( 'Name' => $l['dillinger_death_mask'], 'Image' => 'dillinger_death_mask', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['dillinger_death_mask-description'], 'Used' => $mask_used_dillinger_death_mask),
-array( 'Name' => $l['grin'], 'Image' => 'grin', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['grin-description'], 'Used' => $mask_used_grin),
-array( 'Name' => $l['old_hoxton'], 'Image' => 'old_hoxton', 'Quality' => 'infamous', 'Extra' => '', 'Description' => $l['old_hoxton-description'], 'Used' => $mask_used_old_hoxton),
+array( 'Name' => $l['dallas'], 'Image' => 'dallas', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['dallas-description'], 'Used' => $mask_used_dallas),
+array( 'Name' => $l['chains'], 'Image' => 'chains', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['chains-description'], 'Used' => $mask_used_chains),
+array( 'Name' => $l['hoxton'], 'Image' => 'hoxton', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['hoxton-description'], 'Used' => $mask_used_hoxton),
+array( 'Name' => $l['wolf'], 'Image' => 'wolf', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['wolf-description'], 'Used' => $mask_used_wolf),
+array( 'Name' => $l['dallas_clean'], 'Image' => 'dallas_clean', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['dallas_clean-description'], 'Used' => $mask_used_dallas_clean),
+array( 'Name' => $l['chains_clean'], 'Image' => 'chains_clean', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['chains_clean-description'], 'Used' => $mask_used_chains_clean),
+array( 'Name' => $l['hoxton_clean'], 'Image' => 'hoxton_clean', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['hoxton_clean-description'], 'Used' => $mask_used_hoxton_clean),
+array( 'Name' => $l['wolf_clean'], 'Image' => 'wolf_clean', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['wolf_clean-description'], 'Used' => $mask_used_wolf_clean),
+array( 'Name' => $l['anonymous'], 'Image' => 'anonymous', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['anonymous-description'] , 'Used' => $mask_used_anonymous),
+array( 'Name' => $l['cthulhu'], 'Image' => 'cthulhu', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['cthulhu-description'], 'Used' => $mask_used_cthulhu),
+array( 'Name' => $l['dillinger_death_mask'], 'Image' => 'dillinger_death_mask', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['dillinger_death_mask-description'], 'Used' => $mask_used_dillinger_death_mask),
+array( 'Name' => $l['grin'], 'Image' => 'grin', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['grin-description'], 'Used' => $mask_used_grin),
+array( 'Name' => $l['old_hoxton'], 'Image' => 'old_hoxton', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['old_hoxton-description'], 'Used' => $mask_used_old_hoxton),
 ////Normal
-array( 'Name' => $l['alienware'], 'Image' => 'alienware', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['alienware-description'], 'Used' => $mask_used_alienware),
-array( 'Name' => $l['babyrhino'], 'Image' => 'babyrhino', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['babyrhino-description'], 'Used' => $mask_used_babyrhino),
-array( 'Name' => $l['biglips'], 'Image' => 'biglips', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['biglips-description'], 'Used' => $mask_used_biglips),
-array( 'Name' => $l['mr_sinister'], 'Image' => 'mr_sinister', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['mr_sinister-description'], 'Used' => $mask_used_mr_sinister),
-array( 'Name' => $l['brainiack'], 'Image' => 'brainiack', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['brainiack-description'], 'Used' => $mask_used_brainiack),
-array( 'Name' => $l['bullet'], 'Image' => 'bullet', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['bullet-description'], 'Used' => $mask_used_bullet),
-array( 'Name' => $l['day_of_the_dead'], 'Image' => 'day_of_the_dead', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['day_of_the_dead-description'], 'Used' => $mask_used_day_of_the_dead),
-array( 'Name' => $l['outlandish_a'], 'Image' => 'outlandish_a', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['outlandish_a-description'], 'Used' => $mask_used_outlandish_a),
-array( 'Name' => $l['clowncry'], 'Image' => 'clowncry', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['clowncry-description'], 'Used' => $mask_used_clowncry),
-array( 'Name' => $l['dripper'], 'Image' => 'dripper', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['dripper-description'], 'Used' => $mask_used_dripper),
-array( 'Name' => $l['irondoom'], 'Image' => 'irondoom', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['irondoom-description'], 'Used' => $mask_used_irondoom),
-array( 'Name' => $l['gagball'], 'Image' => 'gagball', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['gagball-description'], 'Used' => $mask_used_gagball),
-array( 'Name' => $l['greek_tragedy'], 'Image' => 'greek_tragedy', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['greek_tragedy-description'], 'Used' => $mask_used_greek_tragedy),
-array( 'Name' => $l['hockey'], 'Image' => 'hockey', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['hockey-description'], 'Used' => $mask_used_hockey),
-array( 'Name' => $l['hog'], 'Image' => 'hog', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['hog-description'], 'Used' => $mask_used_hog),
-array( 'Name' => $l['demon'], 'Image' => 'demon', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['demon-description'], 'Used' => $mask_used_demon),
-array( 'Name' => $l['jaw'], 'Image' => 'jaw', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['jaw-description'], 'Used' => $mask_used_jaw),
-array( 'Name' => $l['kawaii'], 'Image' => 'kawaii', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['kawaii-description'], 'Used' => $mask_used_kawaii),
-array( 'Name' => $l['demonictender'], 'Image' => 'demonictender', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['demonictender-description'], 'Used' => $mask_used_demonictender),
-array( 'Name' => $l['rubber_male'], 'Image' => 'rubber_male', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['rubber_male-description'], 'Used' => $mask_used_rubber_male),
-array( 'Name' => $l['rubber_female'], 'Image' => 'rubber_female', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['rubber_female-description'], 'Used' => $mask_used_rubber_female),
-array( 'Name' => $l['scarecrow'], 'Image' => 'scarecrow', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['scarecrow-description'], 'Used' => $mask_used_scarecrow),
-array( 'Name' => $l['tounge'], 'Image' => 'tounge', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['tounge-description'], 'Used' => $mask_used_tounge),
-array( 'Name' => $l['monkeybiss'], 'Image' => 'monkeybiss', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['monkeybiss-description'], 'Used' => $mask_used_monkeybiss),
-array( 'Name' => $l['mummy'], 'Image' => 'mummy', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['mummy-description'], 'Used' => $mask_used_mummy),
-array( 'Name' => $l['oni'], 'Image' => 'oni', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['oni-description'], 'Used' => $mask_used_oni),
-array( 'Name' => $l['outlandish_b'], 'Image' => 'outlandish_b', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['outlandish_b-description'], 'Used' => $mask_used_outlandish_b),
-array( 'Name' => $l['outlandish_c'], 'Image' => 'outlandish_c', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['outlandish_c-description'], 'Used' => $mask_used_outlandish_c),
-array( 'Name' => $l['stonekisses'], 'Image' => 'stonekisses', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['stonekisses-description'], 'Used' => $mask_used_stonekisses),
-array( 'Name' => $l['buha'], 'Image' => 'buha', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['buha-description'], 'Used' => $mask_used_buha),
-array( 'Name' => $l['shogun'], 'Image' => 'shogun', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['shogun-description'], 'Used' => $mask_used_shogun),
-array( 'Name' => $l['shrunken'], 'Image' => 'shrunken', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['shrunken-description'], 'Used' => $mask_used_shrunken),
-array( 'Name' => $l['clown_56'], 'Image' => 'clown_56', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['clown_56-description'], 'Used' => $mask_used_clown_56),
-array( 'Name' => $l['troll'], 'Image' => 'troll', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['troll-description'], 'Used' => $mask_used_troll),
-array( 'Name' => $l['dawn_of_the_dead'], 'Image' => 'dawn_of_the_dead', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['dawn_of_the_dead-description'], 'Used' => $mask_used_dawn_of_the_dead),
-array( 'Name' => $l['vampire'], 'Image' => 'vampire', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['vampire-description'], 'Used' => $mask_used_vampire),
-array( 'Name' => $l['zipper'], 'Image' => 'zipper', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['zipper-description'], 'Used' => $mask_used_zipper),
-array( 'Name' => $l['zombie'], 'Image' => 'zombie', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['zombie-description'], 'Used' => $mask_used_zombie),
-array( 'Name' => $l['jw_shades'], 'Image' => 'jw_shades', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['jw_shades-description'], 'Used' => $mask_used_jw_shades),
+array( 'Name' => $l['alienware'], 'Image' => 'alienware', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['alienware-description'], 'Used' => $mask_used_alienware),
+array( 'Name' => $l['babyrhino'], 'Image' => 'babyrhino', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['babyrhino-description'], 'Used' => $mask_used_babyrhino),
+array( 'Name' => $l['biglips'], 'Image' => 'biglips', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['biglips-description'], 'Used' => $mask_used_biglips),
+array( 'Name' => $l['mr_sinister'], 'Image' => 'mr_sinister', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['mr_sinister-description'], 'Used' => $mask_used_mr_sinister),
+array( 'Name' => $l['brainiack'], 'Image' => 'brainiack', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['brainiack-description'], 'Used' => $mask_used_brainiack),
+array( 'Name' => $l['bullet'], 'Image' => 'bullet', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['bullet-description'], 'Used' => $mask_used_bullet),
+array( 'Name' => $l['day_of_the_dead'], 'Image' => 'day_of_the_dead', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['day_of_the_dead-description'], 'Used' => $mask_used_day_of_the_dead),
+array( 'Name' => $l['outlandish_a'], 'Image' => 'outlandish_a', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['outlandish_a-description'], 'Used' => $mask_used_outlandish_a),
+array( 'Name' => $l['clowncry'], 'Image' => 'clowncry', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['clowncry-description'], 'Used' => $mask_used_clowncry),
+array( 'Name' => $l['dripper'], 'Image' => 'dripper', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['dripper-description'], 'Used' => $mask_used_dripper),
+array( 'Name' => $l['irondoom'], 'Image' => 'irondoom', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['irondoom-description'], 'Used' => $mask_used_irondoom),
+array( 'Name' => $l['gagball'], 'Image' => 'gagball', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['gagball-description'], 'Used' => $mask_used_gagball),
+array( 'Name' => $l['greek_tragedy'], 'Image' => 'greek_tragedy', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['greek_tragedy-description'], 'Used' => $mask_used_greek_tragedy),
+array( 'Name' => $l['hockey'], 'Image' => 'hockey', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['hockey-description'], 'Used' => $mask_used_hockey),
+array( 'Name' => $l['hog'], 'Image' => 'hog', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['hog-description'], 'Used' => $mask_used_hog),
+array( 'Name' => $l['demon'], 'Image' => 'demon', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['demon-description'], 'Used' => $mask_used_demon),
+array( 'Name' => $l['jaw'], 'Image' => 'jaw', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['jaw-description'], 'Used' => $mask_used_jaw),
+array( 'Name' => $l['kawaii'], 'Image' => 'kawaii', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['kawaii-description'], 'Used' => $mask_used_kawaii),
+array( 'Name' => $l['demonictender'], 'Image' => 'demonictender', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['demonictender-description'], 'Used' => $mask_used_demonictender),
+array( 'Name' => $l['rubber_male'], 'Image' => 'rubber_male', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['rubber_male-description'], 'Used' => $mask_used_rubber_male),
+array( 'Name' => $l['rubber_female'], 'Image' => 'rubber_female', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['rubber_female-description'], 'Used' => $mask_used_rubber_female),
+array( 'Name' => $l['scarecrow'], 'Image' => 'scarecrow', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['scarecrow-description'], 'Used' => $mask_used_scarecrow),
+array( 'Name' => $l['tounge'], 'Image' => 'tounge', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['tounge-description'], 'Used' => $mask_used_tounge),
+array( 'Name' => $l['monkeybiss'], 'Image' => 'monkeybiss', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['monkeybiss-description'], 'Used' => $mask_used_monkeybiss),
+array( 'Name' => $l['mummy'], 'Image' => 'mummy', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['mummy-description'], 'Used' => $mask_used_mummy),
+array( 'Name' => $l['oni'], 'Image' => 'oni', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['oni-description'], 'Used' => $mask_used_oni),
+array( 'Name' => $l['outlandish_b'], 'Image' => 'outlandish_b', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['outlandish_b-description'], 'Used' => $mask_used_outlandish_b),
+array( 'Name' => $l['outlandish_c'], 'Image' => 'outlandish_c', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['outlandish_c-description'], 'Used' => $mask_used_outlandish_c),
+array( 'Name' => $l['stonekisses'], 'Image' => 'stonekisses', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['stonekisses-description'], 'Used' => $mask_used_stonekisses),
+array( 'Name' => $l['buha'], 'Image' => 'buha', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['buha-description'], 'Used' => $mask_used_buha),
+array( 'Name' => $l['shogun'], 'Image' => 'shogun', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['shogun-description'], 'Used' => $mask_used_shogun),
+array( 'Name' => $l['shrunken'], 'Image' => 'shrunken', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['shrunken-description'], 'Used' => $mask_used_shrunken),
+array( 'Name' => $l['clown_56'], 'Image' => 'clown_56', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['clown_56-description'], 'Used' => $mask_used_clown_56),
+array( 'Name' => $l['troll'], 'Image' => 'troll', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['troll-description'], 'Used' => $mask_used_troll),
+array( 'Name' => $l['dawn_of_the_dead'], 'Image' => 'dawn_of_the_dead', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['dawn_of_the_dead-description'], 'Used' => $mask_used_dawn_of_the_dead),
+array( 'Name' => $l['vampire'], 'Image' => 'vampire', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['vampire-description'], 'Used' => $mask_used_vampire),
+array( 'Name' => $l['zipper'], 'Image' => 'zipper', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['zipper-description'], 'Used' => $mask_used_zipper),
+array( 'Name' => $l['zombie'], 'Image' => 'zombie', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['zombie-description'], 'Used' => $mask_used_zombie),
+array( 'Name' => $l['jw_shades'], 'Image' => 'jw_shades', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['jw_shades-description'], 'Used' => $mask_used_jw_shades),
 ////Default Masks
-array( 'Name' => $l['pref'], 'Image' => 'pref', 'Quality' => 'normal', 'Extra' => '', 'Description' => $l['pref-description'], 'Used' => $mask_used_character_locked),
+array( 'Name' => $l['pref'], 'Image' => 'pref', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['pref-description'], 'Used' => $mask_used_character_locked),
 ////Future Content
-array( 'Name' => $l['twister'], 'Image' => 'twister', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['twister-description'], 'Used' => $mask_used_twister)
+array( 'Name' => $l['twister'], 'Image' => 'twister', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['twister-description'], 'Used' => $mask_used_twister)
 );
 
 //
