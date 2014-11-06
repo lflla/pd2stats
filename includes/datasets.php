@@ -332,7 +332,7 @@ array( 'Name' => $l['baby_happy'], 'Image' => 'baby_happy', 'Quality' => 'event'
 array( 'Name' => $l['brazil_baby'], 'Image' => 'brazil_baby', 'Quality' => 'event', 'Extra' => $l['Halloween'], 'Description' => $l['brazil_baby-description'], 'Used' => $mask_used_brazil_baby),
 ////Twitch Pack
 array( 'Name' => $l['the_one_below'], 'Image' => 'the_one_below', 'Quality' => 'event', 'Extra' => $l['humblehalloween_pack'], 'Description' => $l['the_one_below-description'], 'Used' => $mask_used_the_one_below),
-array( 'Name' => $l['werewolf'], 'Image' => 'werewolf', 'Quality' => 'event', 'Extra' => $l['humblehalloween_pack'], 'Description' => $l['werewolf-description'], 'Used' => $mask_used_lycan),
+array( 'Name' => $l['werewolf'], 'Image' => 'lycan', 'Quality' => 'event', 'Extra' => $l['humblehalloween_pack'], 'Description' => $l['werewolf-description'], 'Used' => $mask_used_lycan),
 ////Humble Halloween Pack
 array( 'Name' => $l['ancient'], 'Image' => 'ancient', 'Quality' => 'event', 'Extra' => $l['Twitch_pack'], 'Description' => $l['ancient-description'], 'Used' => $mask_used_ancient),
 array( 'Name' => $l['twitch_orc'], 'Image' => 'twitch_orc', 'Quality' => 'event', 'Extra' => $l['Twitch_pack'], 'Description' => $l['twitch_orc-description'], 'Used' => $mask_used_twitch_orc),
