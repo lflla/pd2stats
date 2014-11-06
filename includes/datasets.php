@@ -603,7 +603,7 @@ array( 'Name' => $l['duckandcover'], 'Wiki' => 'Duck_And_Cover', 'Image' => 'Duc
 array( 'Name' => $l['daredevil'], 'Wiki' => 'Daredevil', 'Image' => 'Daredevil', 'Description-Normal' => $l['daredevil-normal'], 'Description-Ace' => $l['daredevil-ace'], 'Normal' => $skill_hoxton_freedom_call, 'Ace' => $skill_hoxton_freedom_call_ace ),
 array( 'Name' => $l['hiddenblade'], 'Wiki' => 'Hidden_Blade', 'Image' => 'Hidden_Blade', 'Description-Normal' => $l['hiddenblade-normal'], 'Description-Ace' => $l['hiddenblade-ace'], 'Normal' => $skill_hoxton_hidden_blade, 'Ace' => $skill_hoxton_hidden_blade_ace ),
 array( 'Name' => $l['thickskin'], 'Wiki' => 'Thick_Skin', 'Image' => 'Thick_Skin', 'Description-Normal' => $l['thickskin-normal'], 'Description-Ace' => $l['thickskin-ace'], 'Normal' => $skill_hoxton_thick_skin, 'Ace' => $skill_hoxton_thick_skin_ace ),
-array( 'Name' => $l['unlockfugitive'], 'Wiki' => 'Skills#Fugitive', 'Image' => 'Unlocking_the_fugitive', 'Description-Normal' => $l['unlockfugitive-normal'], 'Description-Ace' => '', 'Normal' => $skill_hoxton_unlocked, 'Ace' => '' )
+array( 'Name' => $l['unlockfugitive'], 'Wiki' => 'Skills#Fugitive', 'Image' => 'Unlocking_the_Fugitive', 'Description-Normal' => $l['unlockfugitive-normal'], 'Description-Ace' => '', 'Normal' => $skill_hoxton_unlocked, 'Ace' => '' )
 );
 
 //Temporary
