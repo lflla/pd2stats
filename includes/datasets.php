@@ -193,7 +193,9 @@ array( 'Name' => $l['briefcase'], 'Wiki' => '50_Blessings_Briefcase', 'Image' =>
 array( 'Name' => $l['kabartanto'], 'Wiki' => 'Ursa_Tanto_Knife', 'Image' => 'kabartanto', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['kabartanto-description'], 'Used' => $melee_used_kabartanto , 'Kills' => $melee_kills_kabartanto , 'Stats' => array(
 'Damage' => 20, 'DamageMAX' => 80, 'Knockdown' => 16, 'KnockdownMAX' => 40, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 30 )),
 array( 'Name' => $l['toothbrush'], 'Wiki' => 'Nova&apos;s_Shank', 'Image' => 'toothbrush', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['toothbrush-description'], 'Used' => $melee_used_toothbrush , 'Kills' => $melee_kills_toothbrush , 'Stats' => array(
-'Damage' => 20, 'DamageMAX' => 80, 'Knockdown' => 16, 'KnockdownMAX' => 40, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 30 ))
+'Damage' => 20, 'DamageMAX' => 80, 'Knockdown' => 16, 'KnockdownMAX' => 40, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 30 )),
+array( 'Name' => $l['chef'], 'Wiki' => 'Psycho_Knife', 'Image' => 'chef', 'Quality' => 'community', 'Extra' => '', 'Description' => $l['chef-description'], 'Used' => $melee_used_chef , 'Kills' => $melee_kills_chef , 'Stats' => array(
+'Damage' => 28, 'DamageMAX' => 140, 'Knockdown' => 28, 'KnockdownMAX' => 140, 'Charge' => 4.0, 'Range' => 150, 'Concealment' => 28 ))
 );
 //
 //Grenades
@@ -329,6 +331,9 @@ array( 'Name' => $l['baby_cry'], 'Image' => 'baby_cry', 'Quality' => 'event', 'E
 array( 'Name' => $l['baby_happy'], 'Image' => 'baby_happy', 'Quality' => 'event', 'Extra' => $l['Halloween'], 'Description' => $l['baby_happy-description'], 'Used' => $mask_used_baby_happy),
 array( 'Name' => $l['brazil_baby'], 'Image' => 'brazil_baby', 'Quality' => 'event', 'Extra' => $l['Halloween'], 'Description' => $l['brazil_baby-description'], 'Used' => $mask_used_brazil_baby),
 ////Twitch Pack
+array( 'Name' => $l['the_one_below'], 'Image' => 'the_one_below', 'Quality' => 'event', 'Extra' => $l['humblehalloween_pack'], 'Description' => $l['the_one_below-description'], 'Used' => $mask_used_the_one_below),
+array( 'Name' => $l['werewolf'], 'Image' => 'werewolf', 'Quality' => 'event', 'Extra' => $l['humblehalloween_pack'], 'Description' => $l['werewolf-description'], 'Used' => $mask_used_lycan),
+////Humble Halloween Pack
 array( 'Name' => $l['ancient'], 'Image' => 'ancient', 'Quality' => 'event', 'Extra' => $l['Twitch_pack'], 'Description' => $l['ancient-description'], 'Used' => $mask_used_ancient),
 array( 'Name' => $l['twitch_orc'], 'Image' => 'twitch_orc', 'Quality' => 'event', 'Extra' => $l['Twitch_pack'], 'Description' => $l['twitch_orc-description'], 'Used' => $mask_used_twitch_orc),
 ////Shadow Raid
@@ -452,8 +457,8 @@ array( 'Name' => $l['bank-gold'].' '.$l['pro'], 'Wiki' => 'Bank_Heist', 'Image' 
 array( 'Name' => $l['hotline'], 'Wiki' => 'Hotline_Miami', 'Image' => 'mia', 'Win' => $contract_mia_win, 'Dropin' => $contract_mia_win_dropin, 'Fail' => $contract_mia_fail, 'Quality' => 'dlc'),
 array( 'Name' => $l['hotline'].' '.$l['pro'], 'Wiki' => 'Hotline_Miami', 'Image' => 'mia', 'Win' => $contract_mia_prof_win, 'Dropin' => $contract_mia_prof_win_dropin, 'Fail' => $contract_mia_prof_fail, 'Quality' => 'dlc'),
 array( 'Name' => $l['artgallery'], 'Wiki' => 'Art_Gallery', 'Image' => 'artgallery', 'Win' => $contract_gallery_win, 'Dropin' => $contract_gallery_win_dropin, 'Fail' => $contract_gallery_fail, 'Quality' => 'community'),
-array( 'Name' => $l['hoxtonbreakout'], 'Wiki' => 'Hoxton_Breakout', 'Image' => 'hoxtonbreakout', 'Win' => $contract_placeholder_win, 'Dropin' => $contract_placeholder_win_dropin, 'Fail' => $contract_placeholder_fail, 'Quality' => 'community'),
-array( 'Name' => $l['hoxtonbreakout'].' '.$l['pro'], 'Wiki' => 'Hoxton_Breakout', 'Image' => 'hoxtonbreakout', 'Win' => $contract_placeholder_prof_win, 'Dropin' => $contract_placeholder_prof_win_dropin, 'Fail' => $contract_placeholder_prof_fail, 'Quality' => 'community')
+array( 'Name' => $l['hoxtonbreakout'], 'Wiki' => 'Hoxton_Breakout', 'Image' => 'hoxtonbreakout', 'Win' => $contract_hox_win, 'Dropin' => $contract_hox_win_dropin, 'Fail' => $contract_hox_fail, 'Quality' => 'community'),
+array( 'Name' => $l['hoxtonbreakout'].' '.$l['pro'], 'Wiki' => 'Hoxton_Breakout', 'Image' => 'hoxtonbreakout', 'Win' => $contract_hox_prof_win, 'Dropin' => $contract_hox_prof_win_dropin, 'Fail' => $contract_hox_prof_fail, 'Quality' => 'community')
 );
 
 //Calculate Totals

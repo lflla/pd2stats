@@ -191,6 +191,7 @@ $l['Twisted_metal'] = 'TWISTED METAL';
 $l['Halloween'] = 'HALLOWEEN';
 $l['Twitch_pack'] = 'HUMBLE MASK PACK';
 $l['hotline_miami_dlc'] = 'HOTLINE MIAMI DLC';
+$l['humblehalloween_pack'] = 'HUMBLE MASK PACK 2';
 ////Weapons
 ////Primary
 //Assault Rifles
@@ -312,6 +313,8 @@ $l['kabartanto'] = 'Ursa Tanto';
 $l['kabartanto-description'] = '';
 $l['toothbrush'] = 'Nova\'s Shank';
 $l['toothbrush-description'] = '';
+$l['chef'] = 'Psycho Knife';
+$l['chef-description'] = '';
 ////Grenades
 $l['frag-grenade'] = 'Frag Grenade';
 ////Gadgets
@@ -480,6 +483,11 @@ $l['ancient'] = 'Crossbreed';
 $l['ancient-description'] = 'A powerful alien race, described by some as the most advanced beings in the universe. Different races that have come in contact with them have different names for the Crossbreed.<br/><br/>Strong, lean and intelligent, the Crossbreed takes the best from the DNA of each alien race that it meets, always making sure it evolves in the right direction.';
 $l['twitch_orc'] = 'Orc';
 $l['twitch_orc-description'] = 'Brutish, aggressive and generally repulsive, the orcs have always been a hated race. Orcs are larger stronger than their goblin cousins but smaller and less powerful than their ogre brethren.<br/><br/>This particular purple-skinned orc came from the Stonetremble clan who were known for their fierce warriors and overpowered, hybrid shamans.';
+//Humble Halloween
+$l['the_one_below'] = 'The One Below';
+$l['the_one_below-description'] = 'The One Below Fullcolor.jpg|The head is what remains of this aquatic horror from the old days, when dark lords ruled the lands and good men grew up only to die; when the summer was short and the winter felt like an eternity; when the One Below stepped out of the ocean and walked the earth.';
+$l['werewolf'] = 'Lycanwulf';
+$l['werewolf-description'] = '"Lycanwulf, Lycanwulf!" they yelled, the frightened villagers, as they laid eyes upon this abomination known as the Lycanwulf. The petty humans were now prisoners of the beast, in a prison without walls, ceilings or a key, where the only escape was death.';
 //Hotline Miami DLC
 $l['pig'] = 'Aubrey';
 $l['pig-description'] = 'Aubrey is a real gun lover.<br/><br/>Large headed and long snouted Aubrey is a master of arms and knows nothing better than to kill using some fine weaponry.<br/><br/>Pigs have pretty small lungs though so Aubrey can\'t run that far.';
