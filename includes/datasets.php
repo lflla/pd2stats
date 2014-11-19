@@ -95,11 +95,11 @@ array( 'Name' => $l['colt_1911'], 'Wiki' => 'Crosskill', 'Image' => 'colt_1911',
 array( 'Name' => $l['b92fs'], 'Wiki' => 'Bernetti_9', 'Image' => 'b92fs', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_b92fs , 'Kills' => $weapon_kills_b92fs, 'Stats' => array(
 'Magazine' => 14, 'Ammo' => 154, 'Firerate' => 670, 'Damage' => 18, 'Accuracy' => 14, 'Stability' => 19, 'Concealment' => 30, 'Threat' => 6)),
 array( 'Name' => $l['new_raging_bull'], 'Wiki' => 'Bronco_.44_(Payday_2)', 'Image' => 'new_raging_bull', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_new_raging_bull , 'Kills' => $weapon_kills_new_raging_bull, 'Stats' => array(
-'Magazine' => 6, 'Ammo' => 30, 'Firerate' => 290, 'Damage' => 55, 'Accuracy' => 12, 'Stability' => 3, 'Concealment' => 26, 'Threat' => 24)),
+'Magazine' => 6, 'Ammo' => 30, 'Firerate' => 290, 'Damage' => 75, 'Accuracy' => 12, 'Stability' => 3, 'Concealment' => 26, 'Threat' => 24)),
 array( 'Name' => $l['glock_18c'], 'Wiki' => 'STRYK_18c', 'Image' => 'glock_18c', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_glock_18c , 'Kills' => $weapon_kills_glock_18c, 'Stats' => array(
 'Magazine' => 20, 'Ammo' => 140, 'Firerate' => 910, 'Damage' => 20, 'Accuracy' => 8, 'Stability' => 15, 'Concealment' => 29, 'Threat' => 8)),
 array( 'Name' => $l['deagle'], 'Wiki' => 'Deagle', 'Image' => 'deagle', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_deagle , 'Kills' => $weapon_kills_deagle, 'Stats' => array(
-'Magazine' => 10, 'Ammo' => 30, 'Firerate' => 400, 'Damage' => 45, 'Accuracy' => 10, 'Stability' => 6, 'Concealment' => 28, 'Threat' => 24)),
+'Magazine' => 10, 'Ammo' => 30, 'Firerate' => 400, 'Damage' => 60, 'Accuracy' => 10, 'Stability' => 6, 'Concealment' => 28, 'Threat' => 24)),
 array( 'Name' => $l['ppk'], 'Wiki' => 'Gruber_Kurz', 'Image' => 'ppk', 'Quality' => 'dlc', 'Extra' => $l['Armored_Transport'], 'Used' => $weapon_used_ppk , 'Kills' => $weapon_kills_ppk, 'Stats' => array(
 'Magazine' => 14, 'Ammo' => 154, 'Firerate' => 670, 'Damage' => 18, 'Accuracy' => 16, 'Stability' => 20, 'Concealment' => 30, 'Threat' => 4)),
 array( 'Name' => $l['p226'], 'Wiki' => 'Signature_.40', 'Image' => 'p226', 'Quality' => 'dlc', 'Extra' => $l['Gage_Weapon_Pack_01'], 'Used' => $weapon_used_p226 , 'Kills' => $weapon_kills_p226, 'Stats' => array(
