@@ -43,6 +43,8 @@ array( 'Name' => $l['r93'], 'Wiki' => 'R93', 'Image' => 'r93', 'Quality' => 'dlc
 'Magazine' => 6, 'Ammo' => 30, 'Firerate' => 50, 'Damage' => 250, 'Accuracy' => 18, 'Stability' => 3, 'Concealment' => 5, 'Threat' => 93)),
 array( 'Name' => $l['m95'], 'Wiki' => 'Thanatos_.50_cal', 'Image' => 'm95', 'Quality' => 'dlc', 'Extra' => $l['Gage_Sniper_Pack'], 'Used' => $weapon_used_m95 , 'Kills' => $weapon_kills_m95, 'Stats' => array(
 'Magazine' => 5, 'Ammo' => 15, 'Firerate' => 40, 'Damage' => 2880, 'Accuracy' => 18, 'Stability' => 0, 'Concealment' => 2, 'Threat' => 185)),
+array( 'Name' => $l['mosin'], 'Wiki' => 'Nagant', 'Image' => 'mosin', 'Quality' => 'dlc', 'Extra' => $l['Gage_Historical'], 'Used' => $weapon_used_mosin , 'Kills' => $weapon_kills_mosin, 'Stats' => array(
+'Magazine' => 5, 'Ammo' => 25, 'Firerate' => 60, 'Damage' => 280, 'Accuracy' => 18, 'Stability' => 6, 'Concealment' => 6, 'Threat' => 84)),
 ////Shotguns
 array( 'Name' => $l['r870'], 'Wiki' => 'Reinfeld_880', 'Image' => 'r870', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_r870 , 'Kills' => $weapon_kills_r870, 'Stats' => array(
 'Magazine' => 6, 'Ammo' => 48, 'Firerate' => 100, 'Damage' => 60, 'Accuracy' => 14, 'Stability' => 6, 'Concealment' => 11, 'Threat' => 28)),
@@ -72,6 +74,8 @@ array( 'Name' => $l['m249'], 'Wiki' => 'KSP', 'Image' => 'm249', 'Quality' => 'd
 'Magazine' => 200, 'Ammo' => 400, 'Firerate' => 910, 'Damage' => 28, 'Accuracy' => 6, 'Stability' => 17, 'Concealment' => 2, 'Threat' => 31)),
 array( 'Name' => $l['hk21'], 'Wiki' => 'Brenner_21_(Payday_2)', 'Image' => 'hk21', 'Quality' => 'dlc', 'Extra' => $l['Gage_Weapon_Pack_02'], 'Used' => $weapon_used_hk21 , 'Kills' => $weapon_kills_hk21, 'Stats' => array(
 'Magazine' => 150, 'Ammo' => 300, 'Firerate' => 720, 'Damage' => 33, 'Accuracy' => 10, 'Stability' => 12, 'Concealment' => 2, 'Threat' => 37)),
+array( 'Name' => $l['mg42'], 'Wiki' => 'Buzzsaw_42', 'Image' => 'mg42', 'Quality' => 'dlc', 'Extra' => $l['Gage_Historical'], 'Used' => $weapon_used_mg42 , 'Kills' => $weapon_kills_mg42, 'Stats' => array(
+'Magazine' => 150, 'Ammo' => 450, 'Firerate' => 1200, 'Damage' => 30, 'Accuracy' => 6, 'Stability' => 15, 'Concealment' => 2, 'Threat' => 31)),
 ////Saws
 array( 'Name' => $l['saw'], 'Wiki' => 'OVE9000', 'Image' => 'saw', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_saw , 'Kills' => $weapon_kills_saw, 'Stats' => array(
 'Magazine' => 150, 'Ammo' => 300, 'Firerate' => 400, 'Damage' => 23, 'Accuracy' => 4, 'Stability' => 17, 'Concealment' => 16, 'Threat' => 24)),
@@ -106,6 +110,8 @@ array( 'Name' => $l['p226'], 'Wiki' => 'Signature_.40', 'Image' => 'p226', 'Qual
 'Magazine' => 12, 'Ammo' => 84, 'Firerate' => 670, 'Damage' => 23, 'Accuracy' => 12, 'Stability' => 17, 'Concealment' => 29, 'Threat' => 9)),
 array( 'Name' => $l['g26'], 'Wiki' => 'Chimano_Compact', 'Image' => 'g26', 'Quality' => 'community', 'Extra' => 'Community', 'Used' => $weapon_used_g26 , 'Kills' => $weapon_kills_g26, 'Stats' => array(
 'Magazine' => 10, 'Ammo' => 150, 'Firerate' => 670, 'Damage' => 18, 'Accuracy' => 12, 'Stability' => 20, 'Concealment' => 30, 'Threat' => 4)),
+array( 'Name' => $l['c96'], 'Wiki' => 'Broomstick', 'Image' => 'c96', 'Quality' => 'dlc', 'Extra' => $l['Gage_Historical'], 'Used' => $weapon_used_c96 , 'Kills' => $weapon_kills_c96, 'Stats' => array(
+'Magazine' => 10, 'Ammo' => 80, 'Firerate' => 670, 'Damage' => 33, 'Accuracy' => 10, 'Stability' => 17, 'Concealment' => 28, 'Threat' => 10)),
 ////Submachine Guns
 array( 'Name' => $l['mac10'], 'Wiki' => 'Mark_10', 'Image' => 'mac10', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_mac10 , 'Kills' => $weapon_kills_mac10, 'Stats' => array(
 'Magazine' => 40, 'Ammo' => 80, 'Firerate' => 1000, 'Damage' => 25, 'Accuracy' => 8, 'Stability' => 15, 'Concealment' => 27, 'Threat' => 10)),
@@ -129,6 +135,8 @@ array( 'Name' => $l['blastersmg'], 'Wiki' => 'Blaster_9mm', 'Image' => 'tec9', '
 'Magazine' => 20, 'Ammo' => 120, 'Firerate' => 900, 'Damage' => 25, 'Accuracy' => 12, 'Stability' => 17, 'Concealment' => 27, 'Threat' => 12)),
 array( 'Name' => $l['uzi'], 'Wiki' => 'Uzi', 'Image' => 'uzi', 'Quality' => 'dlc', 'Extra' => $l['hotline_miami_dlc'], 'Used' => $weapon_used_uzi , 'Kills' => $weapon_kills_uzi, 'Stats' => array(
 'Magazine' => 30, 'Ammo' => 90, 'Firerate' => 700, 'Damage' => 28, 'Accuracy' => 14, 'Stability' => 20, 'Concealment' => 24, 'Threat' => 12)),
+array( 'Name' => $l['sterling'], 'Wiki' => 'Patchett_L2A1', 'Image' => 'sterling', 'Quality' => 'dlc', 'Extra' => $l['Gage_Historical'], 'Used' => $weapon_used_sterling , 'Kills' => $weapon_kills_sterling, 'Stats' => array(
+'Magazine' => 20, 'Ammo' => 80, 'Firerate' => 550, 'Damage' => 35, 'Accuracy' => 12, 'Stability' => 17, 'Concealment' => 20, 'Threat' => 12)),
 ////Shotguns
 array( 'Name' => $l['judge'], 'Wiki' => 'The_Judge', 'Image' => 'judge', 'Quality' => 'community', 'Extra' => 'Community', 'Used' => $weapon_used_judge , 'Kills' => $weapon_kills_judge, 'Stats' => array(
 'Magazine' => 5, 'Ammo' => 20, 'Firerate' => 500, 'Damage' => 95, 'Accuracy' => 6, 'Stability' => 3, 'Concealment' => 29, 'Threat' => 28)),
@@ -195,7 +203,15 @@ array( 'Name' => $l['kabartanto'], 'Wiki' => 'Ursa_Tanto_Knife', 'Image' => 'kab
 array( 'Name' => $l['toothbrush'], 'Wiki' => 'Nova&apos;s_Shank', 'Image' => 'toothbrush', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['toothbrush-description'], 'Used' => $melee_used_toothbrush , 'Kills' => $melee_kills_toothbrush , 'Stats' => array(
 'Damage' => 20, 'DamageMAX' => 80, 'Knockdown' => 16, 'KnockdownMAX' => 40, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 30 )),
 array( 'Name' => $l['chef'], 'Wiki' => 'Psycho_Knife', 'Image' => 'chef', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['chef-description'], 'Used' => $melee_used_chef , 'Kills' => $melee_kills_chef , 'Stats' => array(
-'Damage' => 28, 'DamageMAX' => 140, 'Knockdown' => 28, 'KnockdownMAX' => 140, 'Charge' => 4.0, 'Range' => 150, 'Concealment' => 28 ))
+'Damage' => 28, 'DamageMAX' => 140, 'Knockdown' => 28, 'KnockdownMAX' => 140, 'Charge' => 4.0, 'Range' => 150, 'Concealment' => 28 )),
+array( 'Name' => $l['fairbair'], 'Wiki' => 'Trench_Knife', 'Image' => 'fairbair', 'Quality' => 'dlc', 'Extra' => $l['Gage_Historical'], 'Description' => $l['fairbair-description'], 'Used' => $melee_used_fairbair , 'Kills' => $melee_kills_fairbair , 'Stats' => array(
+'Damage' => 30, 'DamageMAX' => 50, 'Knockdown' => 6, 'KnockdownMAX' => 50, 'Charge' => 2.0, 'Range' => 175, 'Concealment' => 30 )),
+array( 'Name' => $l['freedom'], 'Wiki' => 'The_Spear_of_Freedom', 'Image' => 'freedom', 'Quality' => 'dlc', 'Extra' => $l['Gage_Historical'], 'Description' => $l['freedom-description'], 'Used' => $melee_used_freedom , 'Kills' => $melee_kills_freedom , 'Stats' => array(
+'Damage' => 70, 'DamageMAX' => 160, 'Knockdown' => 70, 'KnockdownMAX' => 160, 'Charge' => 4.0, 'Range' => 275, 'Concealment' => 18 )),
+array( 'Name' => $l['model24'], 'Wiki' => 'Potato_Masher', 'Image' => 'model24', 'Quality' => 'dlc', 'Extra' => $l['Gage_Historical'], 'Description' => $l['model24-description'], 'Used' => $melee_used_model24 , 'Kills' => $melee_kills_model24 , 'Stats' => array(
+'Damage' => 30, 'DamageMAX' => 61, 'Knockdown' => 96, 'KnockdownMAX' => 92, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 27 )),
+array( 'Name' => $l['swagger'], 'Wiki' => 'Swagger_Stick', 'Image' => 'swagger', 'Quality' => 'dlc', 'Extra' => $l['Gage_Historical'], 'Description' => $l['swagger-description'], 'Used' => $melee_used_swagger , 'Kills' => $melee_kills_swagger , 'Stats' => array(
+'Damage' => 20, 'DamageMAX' => 35, 'Knockdown' => 76, 'KnockdownMAX' => 140, 'Charge' => 2.0, 'Range' => 225, 'Concealment' => 27 ))
 );
 //
 //Grenades
@@ -309,6 +325,11 @@ array( 'Name' => $l['crowgoblin'], 'Image' => 'crowgoblin', 'Quality' => 'dlc', 
 array( 'Name' => $l['evil'], 'Image' => 'evil', 'Quality' => 'dlc', 'Extra' => $l['Gage_Assault_Pack'], 'Description' => $l['evil-description'], 'Used' => $mask_used_evil),
 array( 'Name' => $l['galax'], 'Image' => 'galax', 'Quality' => 'dlc', 'Extra' => $l['Gage_Assault_Pack'], 'Description' => $l['galax-description'], 'Used' => $mask_used_galax),
 array( 'Name' => $l['volt'], 'Image' => 'volt', 'Quality' => 'dlc', 'Extra' => $l['Gage_Assault_Pack'], 'Description' => $l['volt-description'], 'Used' => $mask_used_volt),
+////Gage Historical Pack
+array( 'Name' => $l['churchill'], 'Image' => 'churchill', 'Quality' => 'dlc', 'Extra' => $l['Gage_Historical'], 'Description' => $l['churchill-description'], 'Used' => $mask_used_churchill),
+array( 'Name' => $l['de_gaulle'], 'Image' => 'de_gaulle', 'Quality' => 'dlc', 'Extra' => $l['Gage_Historical'], 'Description' => $l['de_gaulle-description'], 'Used' => $mask_used_de_gaulle),
+array( 'Name' => $l['patton'], 'Image' => 'patton', 'Quality' => 'dlc', 'Extra' => $l['Gage_Historical'], 'Description' => $l['patton-description'], 'Used' => $mask_used_patton),
+array( 'Name' => $l['red_hurricane'], 'Image' => 'red_hurricane', 'Quality' => 'dlc', 'Extra' => $l['Gage_Historical'], 'Description' => $l['red_hurricane-description'], 'Used' => $mask_used_red_hurricane),
 ////Official Soundtrack
 array( 'Name' => $l['tcn'], 'Image' => 'tcn', 'Quality' => 'dlc', 'Extra' => $l['Poetry_jam'], 'Description' => $l['tcn-description'], 'Used' => $mask_used_tcn),
 array( 'Name' => $l['metalhead'], 'Image' => 'metalhead', 'Quality' => 'dlc', 'Extra' => $l['Poetry_jam'], 'Description' => $l['metalhead-description'], 'Used' => $mask_used_metalhead),

@@ -192,6 +192,7 @@ $l['Halloween'] = 'HALLOWEEN';
 $l['Twitch_pack'] = 'HUMBLE MASK PACK';
 $l['hotline_miami_dlc'] = 'HOTLINE MIAMI DLC';
 $l['humblehalloween_pack'] = 'HUMBLE MASK PACK 2';
+$l['Gage_Historical'] = 'GAGE HISTORICAL PACK';
 ////Weapons
 ////Primary
 //Assault Rifles
@@ -215,6 +216,7 @@ $l['g3'] = 'Gewehr 3';
 $l['msr'] = 'Rattlesnake';
 $l['r93'] = 'R93';
 $l['m95'] = 'Thanatos .50 cal';
+$l['mosin'] = 'Nagant';
 //Shotguns
 $l['r870'] = 'Reinfeld 880';
 $l['saiga'] = 'Izhma 12G';
@@ -226,6 +228,7 @@ $l['spas12'] = 'Predator 12G';
 $l['rpk'] = 'RPK';
 $l['m249'] = 'KSP';
 $l['hk21'] = 'Brenner-21';
+$l['mg42'] = 'Buzzsaw 42';
 //Saws
 $l['saw'] = 'OVE9000 Saw';
 //Grenade Launcher
@@ -248,6 +251,7 @@ $l['deagle'] = 'Deagle';
 $l['ppk'] = 'Gruber Kurz';
 $l['p226'] = 'Signature .40';
 $l['g26'] = 'Chimano Compact';
+$l['c96'] = 'Broomstick';
 //Submachine Guns
 $l['mac10'] = 'Mark 10';
 $l['new_mp5'] = 'Compact-5';
@@ -260,6 +264,7 @@ $l['mp7'] = 'SpecOps';
 $l['cobrasmg'] = 'Cobra';
 $l['blastersmg'] = 'Blaster 9mm';
 $l['uzi'] = 'Uzi';
+$l['sterling'] = 'Patchett L2A1';
 //Shotguns
 $l['judge'] = 'The Judge';
 $l['serbu'] = 'Locomotive 12G';
@@ -315,6 +320,14 @@ $l['toothbrush'] = 'Nova\'s Shank';
 $l['toothbrush-description'] = '';
 $l['chef'] = 'Psycho Knife';
 $l['chef-description'] = '';
+$l['fairbair'] = 'Trench Knife';
+$l['fairbair-description'] = '';
+$l['freedom'] = 'The Spear of Freedom';
+$l['freedom-description'] = '';
+$l['model24'] = 'Potato Masher';
+$l['model24-description'] = '';
+$l['swagger'] = 'Swagger Stick';
+$l['swagger-description'] = '';
 ////Grenades
 $l['frag-grenade'] = 'Frag Grenade';
 ////Gadgets
@@ -440,6 +453,15 @@ $l['galax'] = 'Professor Wrath';
 $l['galax-description'] = 'Milhouse Anderson worked at a chemical plant handling dangerous chemical waste. As a prank, his friends thought it would be a good idea to lock him up in the room where they kept the dangerous chemical waste. What they didn\'t know was that the dangerous chemical waste was dangerous, and while being locked in for several hours, Milhouse was exposed to high levels of radiation and other bad stuff.<br/><br/>When they finally let him out, he had become a super villain. He\'s been super angry ever since.';
 $l['volt'] = 'Volt';
 $l['volt-description'] = 'Being a snoopy lowlife, janitor David Davidson snuck around the military research facility he worked at, looking for something easy to steal. He found a door that he didn\'t have a key for. Curious, he kicked the door open and was instantly attacked by some kind of bright light. Somehow he survived the attack and got superhuman powers.<br/><br/>With his new powers, he called himself Volt.';
+//Gage Historical Pack
+$l['churchill'] = 'British Bulldog';
+$l['churchill-description'] = 'Politician, prize winner, owner of many medals and the first honorary citizen of the United States of America. By some it was said that he had a flawed character, saying; "never had people admired and despised a man simultaneously to the same extent; never had such opposite extremes been combined in the same human being."';
+$l['de_gaulle'] = 'The Constable';
+$l['de_gaulle-description'] = 'For much between 1940-1969, the Constable was the dominant military and political leader of France. Refusing to accept his government\'s armistice with the German invaders in 1940, he set up his base in London, proclaimed himself the incarnation of France, and created the Free French movement. During the war he rallied the overseas colonies, especially those in Africa, organized the Resistance from abroad, and struggled to gain full recognition from the British and Americans.';
+$l['patton'] = 'Old Blood and Guts';
+$l['patton-description'] = 'One of the bravest men I saw in the African campaign was on a telegraph pole in the midst of furious fire while we were moving toward Tunis. I stopped and asked him what the hell he was doing up there. He answered, \'Fixing the wire, sir.\' \'Isn\'t it a little unhealthy up there right now?\' I asked. \'Yes sir, but this goddamn wire has got to be fixed.\' I asked, \'Don\'t those planes strafing the road bother you?\' And he answered, \'No sir, but you sure as hell do.\'<br/><br/>Now, there was a real soldier. A real man. A man who devoted all he had to his duty, no matter how great the odds, no matter how seemingly insignificant his duty appeared at the time.';
+$l['red_hurricane'] = 'The Read Bear';
+$l['red_hurricane-description'] = '"In Soviet Russia, Red Bear kills you." No one knows exactly who the Red Bear was; some say he was just a myth, a symbol of the motherland and everything that was strong, combined into one being. Only the stories are known and told again and again. Like that one time, when he killed a bunch of bears and came back home all in red, drenched in blood.';
 //Official Soundtrack
 $l['tcn'] = 'Criminal Ambitions';
 $l['tcn-description'] = 'A mask only for the most ambitious heister.<br/><br/>Take all the loot, leave nothing behind.<br/>This is the sign of a true criminal mind.<br/>Grab all the diamonds and small additions.<br/>Now you\'re a person with criminal ambitions.';
