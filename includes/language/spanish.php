@@ -191,6 +191,7 @@ $l['Twisted_metal'] = 'TWISTED METAL';
 $l['Halloween'] = 'HALLOWEEN';
 $l['Twitch_pack'] = 'HUMBLE PACK MÁSCARAS';
 $l['hotline_miami_dlc'] = 'HOTLINE MIAMI';
+$l['humblehalloween_pack'] = 'HUMBLE PACK MÁSCARAS 2';
 ////Weapons
 ////Primary
 //Akimbo
@@ -312,6 +313,8 @@ $l['kabartanto'] = 'Ursa Tanto';
 $l['kabartanto-description'] = '';
 $l['toothbrush'] = 'Mango de Nova';
 $l['toothbrush-description'] = '';
+$l['chef'] = 'Cuchillo de Psicópata';
+$l['chef-description'] = '';
 ////Grenades
 $l['frag-grenade'] = 'Granada de fragmentación';
 ////Gadgets
@@ -480,6 +483,11 @@ $l['ancient'] = 'Híbrido';
 $l['ancient-description'] = 'Una poderosa raza alienígena, descrita por algunos como la más avanzada del universo. Muchas razas le han dado diferentes nombres al Híbrido.<br/><br/>Fuerte, astuto e inteligente, el Híbrido coge lo mejor de cada ADN alienígena que se encuentra, evolucionando siempre en la dirección adecuada.';
 $l['twitch_orc'] = 'Orco';
 $l['twitch_orc-description'] = 'Bruto, agresivo y normalmente repulsivo, los Orcos han sido siempre la raza odiada. Los Orcos son más grandes y fuertes que sus primos los Goblins pero más débiles que sus hermanos los Ogros.<br/><br/>Éste Orco morado pertenece al clan de Stonetremble, conocido por sus poderosos guerreros y sus chamanes híbridos.';
+//Humble Halloween
+$l['the_one_below'] = 'El que está abajo';
+$l['the_one_below-description'] = 'Lo único que queda de éste horror acuático de la antigüedad es la cabeza, cuando los señores oscuros dominaban la tierra y los hombres buenos crecían para morir; cuando el verano era corto y el invierno parecía una eternidad; cuando El que está abajo emergió del oceano y camino sobre la tierra.';
+$l['werewolf'] = 'Licántropo';
+$l['werewolf-description'] = '"¡Licántropo, Licántropo!" gritaban los asustados aldeanos mientras contemplaban a la abominación Licántropa. Los humanos fueron prisioneros de la bestia, en una prisión sin muros, techos o llaves, donde la única salida era la muerte.';
 //Hotline Miami DLC
 $l['pig'] = 'Aubrey';
 $l['pig-description'] = 'Aubrey es un verdadero amante de las armas.<br/><br/>De cabeza alargada y hocico grande, Aubrey es un maestro de armas y sabe cómo matar con armamento de calidad.<br/><br/>Los cerdos tienen unos pulmones muy pequeños lo que les impide correr mucho.';
