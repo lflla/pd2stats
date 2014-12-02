@@ -632,6 +632,15 @@ array( 'Name' => $l['thickskin'], 'Wiki' => 'Thick_Skin', 'Image' => 'Thick_Skin
 array( 'Name' => $l['unlockfugitive'], 'Wiki' => 'Skills#Fugitive', 'Image' => 'Unlocking_the_Fugitive', 'Description-Normal' => $l['unlockfugitive-normal'], 'Description-Ace' => '', 'Normal' => $skill_hoxton_unlocked, 'Ace' => '' )
 );
 
+$characters = array(
+array( 'Name' => $l['dallas'], 'Wiki' => 'Dallas', 'Image' => 'dallas', 'Description' => $l['dallas-char'], 'Used' => $character_used_russian ),
+array( 'Name' => $l['chains'], 'Wiki' => 'Chains', 'Image' => 'chains', 'Description' => $l['chains-char'], 'Used' => $character_used_spanish ),
+array( 'Name' => $l['houston'], 'Wiki' => 'Houston', 'Image' => 'hoxton', 'Description' => $l['houston-char'], 'Used' => $character_used_american ),
+array( 'Name' => $l['wolf'], 'Wiki' => 'Wolf', 'Image' => 'wolf', 'Description' => $l['wolf-char'], 'Used' => $character_used_german ),
+array( 'Name' => $l['wick'], 'Wiki' => 'John_Wick', 'Image' => '', 'Description' => $l['wick-char'], 'Used' => $character_used_jowi ),
+array( 'Name' => $l['hoxton'], 'Wiki' => 'Hoxton', 'Image' => 'old_hoxton', 'Description' => $l['hoxton-char'], 'Used' => $character_used_old_hoxton )
+);
+
 //Temporary
 $heists_dropin = $heists;
 $heists_fail = $heists;
@@ -663,6 +672,7 @@ array_sort_by_column($weapons_grenades, 'Used');
 array_sort_by_column($armor, 'Used');
 array_sort_by_column($gadgets, 'Used');
 array_sort_by_column($masks, 'Used');
+array_sort_by_column($characters, 'Used');
 //Temporary
 array_sort_by_column($weapons_primary_kills, 'Kills');
 array_sort_by_column($weapons_secondary_kills, 'Kills');
