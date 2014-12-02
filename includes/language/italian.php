@@ -4,8 +4,8 @@
 // File written by: Tatsuto
 // Item descriptions identical with ingame text? Yes
 ////
-$l['language'] = 'English';
-$l['author'] = 'Tatsuto';
+$l['language'] = 'Italian';
+$l['author'] = 'F0rEv3rN00bZ';
 
 $l['charset'] = 'UTF-8';
 
@@ -28,11 +28,11 @@ $l['charset'] = 'UTF-8';
 //Title
 $l['title'] = 'Payday 2 Stats';
 $l['title-full'] = 'Payday 2 Statistics';
-$l['meta-description'] = 'Welcome to Payday 2 Statistics, an easy way to view any player\'s Payday 2 Stats.';
-$l['meta-language'] = 'English';
-$l['meta-keywords'] = 'Payday 2, Profiles, Statistics, pd2stats.com';
+$l['meta-description'] = 'Benvenuti sulle statistiche di Payday 2, un modo facile per visualizzare ogni giocatore di Payday 2.';
+$l['meta-language'] = 'Italian';
+$l['meta-keywords'] = 'Payday 2, Profili, Statistiche, pd2stats.com';
 //Index and Search
-$l['welcome'] = 'Welcome to the Payday 2 Statistics!';
+$l['welcome'] = 'Benvenuti sulle statistiche di Payday 2!';
 $l['search-txt'] = 'Search';
 $l['search-msg'] = 'Please enter a link to a steam profile, a custom profile id or a profile number.';
 $l['search-button'] = 'Take me away!';
