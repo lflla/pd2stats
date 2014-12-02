@@ -637,7 +637,7 @@ array( 'Name' => $l['dallas'], 'Wiki' => 'Dallas', 'Image' => 'dallas', 'Descrip
 array( 'Name' => $l['chains'], 'Wiki' => 'Chains', 'Image' => 'chains', 'Description' => $l['chains-char'], 'Used' => $character_used_spanish ),
 array( 'Name' => $l['houston'], 'Wiki' => 'Houston', 'Image' => 'hoxton', 'Description' => $l['houston-char'], 'Used' => $character_used_american ),
 array( 'Name' => $l['wolf'], 'Wiki' => 'Wolf', 'Image' => 'wolf', 'Description' => $l['wolf-char'], 'Used' => $character_used_german ),
-array( 'Name' => $l['wick'], 'Wiki' => 'John_Wick', 'Image' => '', 'Description' => $l['wick-char'], 'Used' => $character_used_jowi ),
+array( 'Name' => $l['wick'], 'Wiki' => 'John_Wick', 'Image' => 'jowi', 'Description' => $l['wick-char'], 'Used' => $character_used_jowi ),
 array( 'Name' => $l['hoxton'], 'Wiki' => 'Hoxton', 'Image' => 'old_hoxton', 'Description' => $l['hoxton-char'], 'Used' => $character_used_old_hoxton )
 );
 
