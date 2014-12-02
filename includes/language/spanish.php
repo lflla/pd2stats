@@ -191,6 +191,8 @@ $l['Twisted_metal'] = 'TWISTED METAL';
 $l['Halloween'] = 'HALLOWEEN';
 $l['Twitch_pack'] = 'HUMBLE PACK MÁSCARAS';
 $l['hotline_miami_dlc'] = 'HOTLINE MIAMI';
+$l['humblehalloween_pack'] = 'HUMBLE PACK MÁSCARAS 2';
+$l['Gage_Historical'] = 'GAGE PACK HISTÓRICO';
 ////Weapons
 ////Primary
 //Akimbo
@@ -219,6 +221,7 @@ $l['g3'] = 'Gewehr 3';
 $l['msr'] = 'Rattlesnake';
 $l['r93'] = 'R93';
 $l['m95'] = 'Thanatos .50 cal';
+$l['mosin'] = 'Nagant';
 //Shotguns
 $l['r870'] = 'Reinfeld 880';
 $l['saiga'] = 'Izhma 12G';
@@ -230,6 +233,7 @@ $l['spas12'] = 'Predator 12G';
 $l['rpk'] = 'RPK';
 $l['m249'] = 'KSP';
 $l['hk21'] = 'Brenner-21';
+$l['mg42'] = 'Buzzsaw 42';
 //Saws
 $l['saw'] = 'Sierra OVE9000';
 //Grenade Launcher
@@ -247,6 +251,7 @@ $l['deagle'] = 'Deagle';
 $l['ppk'] = 'Gruber Kurz';
 $l['p226'] = 'Signature .40';
 $l['g26'] = 'Chimano Compact';
+$l['c96'] = 'Broomstick';
 //Submachine Guns
 $l['mac10'] = 'Mark 10';
 $l['new_mp5'] = 'Compact-5';
@@ -259,6 +264,7 @@ $l['mp7'] = 'Metralleta de operaciones especiales';
 $l['cobrasmg'] = 'Cobra';
 $l['blastersmg'] = 'Blaster 9mm';
 $l['uzi'] = 'Uzi';
+$l['sterling'] = 'Patchett L2A1';
 //Shotguns
 $l['judge'] = 'El Juez';
 $l['serbu'] = 'Locomotive 12G';
@@ -312,6 +318,16 @@ $l['kabartanto'] = 'Ursa Tanto';
 $l['kabartanto-description'] = '';
 $l['toothbrush'] = 'Mango de Nova';
 $l['toothbrush-description'] = '';
+$l['chef'] = 'Cuchillo de Psicópata';
+$l['chef-description'] = '';
+$l['fairbair'] = 'Cuchillo de Trinchera';
+$l['fairbair-description'] = '';
+$l['freedom'] = 'La Lanza de la Libertad';
+$l['freedom-description'] = '';
+$l['model24'] = 'AplastaPatatas';
+$l['model24-description'] = '';
+$l['swagger'] = 'Palo de la Soberbia';
+$l['swagger-description'] = '';
 ////Grenades
 $l['frag-grenade'] = 'Granada de fragmentación';
 ////Gadgets
@@ -437,6 +453,15 @@ $l['galax'] = 'Profesor Ira';
 $l['galax-description'] = 'Milhouse Anderson trabajaba en una planta química controlando desperdicios químicos. Sus amigos le gastaron una broma, pensaron que sería una buena idea de encerrarlo en la sala donde están los desperdicios químicos. Lo que no sabían era que era bastante peligroso, y mientras estuvo encerrado durante varias horas, Milhouse fue expuesto a altos niveles de radiación.<br/><br/>Cuando le dejaron salir, se había convertido en un super-villano. Ha estado cabreado desde entonces.';
 $l['volt'] = 'Voltio';
 $l['volt-description'] = 'Siendo un canalla metomentodo, el encargado de mantenimiento David Davidson estaba husmeando en una investigación militar en la que estaba trabajando, buscando algo que robar. Encontró una puerta de la cual no tenía llave. Pateó la puerta hasta abrirla, siendo atacado instantáneamente por una luz extraña. De alguna manera sobrevivió al ataque y ganando superpoderes.<br/><br/>Con sus nuevos poderes, se llamó a si mismo Voltio.';
+//Gage Historical Pack
+$l['churchill'] = 'Bulldog Inglés';
+$l['churchill-description'] = 'Político, ganador de premios, dueño de muchas medallas, y el primer ciudadano honorífico de los Estados Unidos de América. Dicen algunos que tenía un carácter complicado, una vez dijo; "la gente nunca había admirado y despreciado simultáneamente a la misma personal al mismo nivel; nunca se habían combinado semejantes extremos opuestos en la misma persona."';
+$l['de_gaulle'] = 'El Condestable';
+$l['de_gaulle-description'] = 'En algún lugar entre 1940-1969, el Condestable fue el político líder y militar de Francia. Oponiéndose a la amnistía que tenía con los alemanes invasores en 1940, estableció su base en Londres, se proclamó la encarnación de Francia y creó la Resistencia Francesa. Durante la guerra, unificó las colonias, especialmente las Africanas, organizó la Resistencia desde fuera y consiguió el reconocimiento de Británicos y Americanos.';
+$l['patton'] = 'Sangre Vieja y Vísceras';
+$l['patton-description'] = 'Uno de los hombres más valientes que he visto en la campaña Africana, él estaba en un asta de telegrafo en el medio del fuego feroz mientras nos moviamos hacia Túnez. Paré y le pregunté qué demonios estaba haciendo ahí arriba. Me respondió, \'Arreglando el cable, señor.\' \'¿No es un poco peligroso?\' Le pregunté. \'Si señor, pero hay que arreglar el maldito cable.\' Le pregunté, \'¿No te preocupan esos aviones que nos sobrevuelan?\' Y me respondió, \'No señor, pero a ti si.\'<br/><br/>Ahora, era un verdadero soldado. Un hombre de verdad. Un hombre dedicado a su deber, sin importar las adversidades, sin importar lo insignificante que parecía su tarea.';
+$l['red_hurricane'] = 'El Oso Rojo';
+$l['red_hurricane-description'] = '"En la Rusia Soviética, el Oso Rojo te mata a ti." Nadie sabe quién era exáctamente el Oso Rojo; algunos dicen que sólo fue un mito, un símbolo de la madre patria sobre todo lo que era fuerte. Sólo los cuentos se repiten una y otra vez. Como aquella vez, cuando mató varios osos y volvió a casa de rojo, empapado de sangre.';
 //Official Soundtrack
 $l['tcn'] = 'Ambiciones Criminales';
 $l['tcn-description'] = 'Una máscara solo para los atracadores más ambiciosos.<br/><br/>Róbalo todo y no dejes nada.<br/>Ese es el espíritu de un verdadero criminal.<br/>Coge todos los diamantes.<br/>Ahora eres una persona con ambiciones criminales.';
@@ -480,6 +505,11 @@ $l['ancient'] = 'Híbrido';
 $l['ancient-description'] = 'Una poderosa raza alienígena, descrita por algunos como la más avanzada del universo. Muchas razas le han dado diferentes nombres al Híbrido.<br/><br/>Fuerte, astuto e inteligente, el Híbrido coge lo mejor de cada ADN alienígena que se encuentra, evolucionando siempre en la dirección adecuada.';
 $l['twitch_orc'] = 'Orco';
 $l['twitch_orc-description'] = 'Bruto, agresivo y normalmente repulsivo, los Orcos han sido siempre la raza odiada. Los Orcos son más grandes y fuertes que sus primos los Goblins pero más débiles que sus hermanos los Ogros.<br/><br/>Éste Orco morado pertenece al clan de Stonetremble, conocido por sus poderosos guerreros y sus chamanes híbridos.';
+//Humble Halloween
+$l['the_one_below'] = 'El que está abajo';
+$l['the_one_below-description'] = 'Lo único que queda de éste horror acuático de la antigüedad es la cabeza, cuando los señores oscuros dominaban la tierra y los hombres buenos crecían para morir; cuando el verano era corto y el invierno parecía una eternidad; cuando El que está abajo emergió del oceano y camino sobre la tierra.';
+$l['werewolf'] = 'Licántropo';
+$l['werewolf-description'] = '"¡Licántropo, Licántropo!" gritaban los asustados aldeanos mientras contemplaban a la abominación Licántropa. Los humanos fueron prisioneros de la bestia, en una prisión sin muros, techos o llaves, donde la única salida era la muerte.';
 //Hotline Miami DLC
 $l['pig'] = 'Aubrey';
 $l['pig-description'] = 'Aubrey es un verdadero amante de las armas.<br/><br/>De cabeza alargada y hocico grande, Aubrey es un maestro de armas y sabe cómo matar con armamento de calidad.<br/><br/>Los cerdos tienen unos pulmones muy pequeños lo que les impide correr mucho.';
