@@ -40,7 +40,7 @@ $l['search-button'] = 'Cerca!';
 $l['steamgroup'] = 'Gruppo di steam';
 $l['feedback'] = 'FAQ';
 $l['notice'] = 'Menu';
-$l['ads'] = 'Advertisement';
+$l['ads'] = 'Pubblicità';
 $l['switch'] = 'Cambia';
 $l['languagetex'] = 'Lingua';
 //Itemindex
@@ -106,7 +106,7 @@ $l['comments-no-script'] = 'Per favore abilita JavaScript per vedere il';
 $l['comments-powered'] = 'commenti autorizzati da';
 $l['tips'] = 'Suggerimenti';
 $l['tips-start'] = 'Lo sapevi che puoi prendere un link al profilo steam come:';
-$l['tips-mid'] = 'e sostituire la parte dell\' url?';
+$l['tips-mid'] = 'e sostituire la parte dell\'url?';
 $l['credits'] = 'Ringraziamenti';
 $l['skilltrees'] = 'Alberi delle abilità';
 $l['skilltrees-help'] = 'Questa è la configurazione che il giocatore stava usando quando i dati sono stati inviati dal gioco a Steam. Occasionalmente l&#39;albero delle abilità mostra come se avesse tutto. Non si sa correntemente perché questo capiti. Comunque HoxHud può essere usato per rivalidare i dati delle abilità. Installalo e riconfigura le abilità. Nota anche che il totale dei punti abilità disponibli possono essere sbagliati a causa del bug sul contrasto dei livelli.';
@@ -130,14 +130,14 @@ $l['basics-help'] = 'Questa è la statistica dei giorni giocati. Tiene traccia d
 $l['risk'] = 'Difficoltà';
 $l['days-played'] = 'Giornate giocate';
 $l['total-day-start'] = 'Per un totale di';
-$l['total-day-mid'] = 'di successi e';
+$l['total-day-mid'] = 'giornate riuscite e';
 $l['total-day-end'] = 'giornate fallite.';
 $l['heist'] = 'Colpi';
 $l['heist-help'] = 'Questi sono i dati dei livelli. Tiene traccia dei dati dall\'aggiornamento #32.1. Verde significa missioni vinte, gialla conta le missioni vinte in cui ci si è uniti durante la missione e rossa sono le missioni fallite. La prima percentuale è calcolata usando solo questa misione e la seconda usando la percentuale di tutte le missioni.';
 $l['sort'] = 'Ordina per';
 $l['win'] = 'Vinte';
 $l['dropin'] = 'Disconnesse';
-$l['fail'] = 'Fallte';
+$l['fail'] = 'Fallite';
 $l['escape'] = 'Fughe';
 $l['escape-help'] = 'Questi sono i dati delle fughe. Tiene traccia dei dati approssimativamente dall\'aggiornamento GO Bank. Questo significa che conta correntemente giorni falliti e riusciti.';
 $l['total'] = 'Totale';
@@ -656,7 +656,7 @@ $l['zipper-description'] = 'The zipper mask consists of two parallel tracks of t
 $l['zombie'] = 'Zombie';
 $l['zombie-description'] = 'A zombie is an animated corpse that somehow has been brought to life again.<br/><br/>Brains?';
 //Default
-$l['pref'] = 'Preferred Characters';
+$l['pref'] = 'Personaggio Preferito';
 $l['pref-description'] = 'Equipping this mask slot will make you wear your preferred character\'s mask.';
 //Twister
 $l['twister'] = 'Mystery Man';
@@ -987,7 +987,7 @@ $l['thickskin-ace'] = 'Increases the armor of all ballistic vests by <div class=
 $l['unlockfugitive'] = 'Unlocking the Fugitive';
 $l['unlockfugitive-normal'] = 'The Fugitive is a survivor, always on the run and an expert at hiding from the law.<br/><br/>Spending the first point in the Fugitive skill tree unlocks the ability to place the first aid kit deployable. The first aid kit is quick to deploy, quick to use and restores health on pick-up.<br/><br/><div class="bluein">4</div> first aid kits are added to your inventory.';
 //Characters
-$l['chars'] = 'Characters';
+$l['chars'] = 'Personaggi';
 $l['houston'] = 'Houston';
 $l['wick'] = 'John Wick';
 $l['dallas-char'] = 'Nationality: American<br/>Age: 44<br/><br/>Experienced, cunning, methodical. At the age of 30 he tried to play two of Chicago\'s mob families against each other. It went south and several mob bosses ordered Dallas\' head on a plate, but somehow he managed to go underground and survive. After things calmed down he worked his way back up the criminal ladder.<br/><br/>Now he\'s the face that everyone fears.';
