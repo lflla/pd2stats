@@ -1,7 +1,7 @@
 <?php
 ////
-// Language: English
-// File written by: Tatsuto
+// Language: Italian
+// File written by: F0rEv3rN00bZ
 // Item descriptions identical with ingame text? Yes
 ////
 $l['language'] = 'Italian';
