@@ -692,6 +692,7 @@ $l['transport-crossroads'] = 'Armored Transport: Crossroads';
 $l['hotline'] = 'Hotline Miami';
 $l['artgallery'] = 'Art Gallery';
 $l['hoxtonbreakout'] = 'Hoxton Breakout';
+$l['pines'] = 'White Xmas';
 //Escapes
 $l['escapeparknight'] = 'Park (Night)';
 $l['escapeparkday'] = 'Park (Day)';
