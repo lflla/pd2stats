@@ -1,6 +1,7 @@
 05.12.2014
 added at end of heists
 $l['pines'] = 'White Xmas';
+$l['dwsucess'] = 'Completed on Deathwish!';
 
 02.13.2014
 added at end

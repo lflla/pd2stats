@@ -693,6 +693,7 @@ $l['hotline'] = 'Hotline Miami';
 $l['artgallery'] = 'Art Gallery';
 $l['hoxtonbreakout'] = 'Hoxton Breakout';
 $l['pines'] = 'White Xmas';
+$l['dwsucess'] = 'Completed on Deathwish!';
 //Escapes
 $l['escapeparknight'] = 'Park (Night)';
 $l['escapeparkday'] = 'Park (Day)';
