@@ -79,7 +79,7 @@ $l['level-warning'] = 'Currently the player-level occasionally is not correct. O
 $l['community-item'] = 'THIS IS A COMMUNITY ITEM!';
 $l['dlc-item-start'] = 'THIS IS A';
 $l['dlc-item-end'] = 'ITEM!';
-$l['infamous-item'] = 'THIS IS A INFAMOUS ITEM!';
+$l['infamous-item'] = 'THIS IS AN INFAMOUS ITEM!';
 $l['custom-item'] = 'THIS IS A CUSTOM ITEM MADE BY';
 //Errors
 $l['error-text1'] = 'ID not in use!';
