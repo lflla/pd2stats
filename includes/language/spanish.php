@@ -316,7 +316,7 @@ $l['machete'] = 'Machete';
 $l['machete-description'] = '';
 $l['kabartanto'] = 'Ursa Tanto';
 $l['kabartanto-description'] = '';
-$l['toothbrush'] = 'Mango de Nova';
+$l['toothbrush'] = 'El Pincho de Nova';
 $l['toothbrush-description'] = '';
 $l['chef'] = 'Cuchillo de Psicópata';
 $l['chef-description'] = '';
@@ -692,6 +692,8 @@ $l['transport-crossroads'] = 'Transporte Armado: Cruce';
 $l['hotline'] = 'Hotline Miami';
 $l['artgallery'] = 'Galería de Arte';
 $l['hoxtonbreakout'] = 'Fuga de Hoxton';
+$l['pines'] = 'Blanca Navidad';
+$l['dwsucess'] = '¡Completada en Deseo de Muerte!';
 //Escapes
 $l['escapeparknight'] = 'Parque (Noche)';
 $l['escapeparkday'] = 'Parque (Día)';
