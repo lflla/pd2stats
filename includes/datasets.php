@@ -662,6 +662,7 @@ array( 'Name' => $l['e-gangster'], 'Wiki' => '', 'Description' => '', 'Value' =>
 array( 'Name' => $l['e-biker'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_biker ),
 array( 'Name' => $l['e-mobster'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_mobster ),
 array( 'Name' => $l['e-mobster_boss'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_mobster_boss ),
+array( 'Name' => $l['e-prison_guard'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_prison_guard ),
 array( 'Name' => $l['e-sniper'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_sniper ),
 array( 'Name' => $l['e-sniper_gensec'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_sniper_gensec ),
 array( 'Name' => $l['e-shield'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_shield ),
@@ -675,7 +676,6 @@ array( 'Name' => $l['e-tank_skull'], 'Wiki' => '', 'Description' => '', 'Value' 
 array( 'Name' => $l['e-tank_hw'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_tank_hw ),
 array( 'Name' => $l['e-taser'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_taser ),
 array( 'Name' => $l['e-taser_gensec'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_taser_gensec ),
-array( 'Name' => $l['e-prison_guard'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_prison_guard ),
 array( 'Name' => $l['e-civilian'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_civilian ),
 array( 'Name' => $l['e-civilian_female'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_civilian_female )
 );
