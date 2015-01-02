@@ -211,7 +211,9 @@ array( 'Name' => $l['freedom'], 'Wiki' => 'The_Spear_of_Freedom', 'Image' => 'fr
 array( 'Name' => $l['model24'], 'Wiki' => 'Potato_Masher', 'Image' => 'model24', 'Quality' => 'dlc', 'Extra' => $l['Gage_Historical'], 'Description' => $l['model24-description'], 'Used' => $melee_used_model24 , 'Kills' => $melee_kills_model24 , 'Stats' => array(
 'Damage' => 30, 'DamageMAX' => 61, 'Knockdown' => 96, 'KnockdownMAX' => 92, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 27 )),
 array( 'Name' => $l['swagger'], 'Wiki' => 'Swagger_Stick', 'Image' => 'swagger', 'Quality' => 'dlc', 'Extra' => $l['Gage_Historical'], 'Description' => $l['swagger-description'], 'Used' => $melee_used_swagger , 'Kills' => $melee_kills_swagger , 'Stats' => array(
-'Damage' => 20, 'DamageMAX' => 35, 'Knockdown' => 76, 'KnockdownMAX' => 140, 'Charge' => 2.0, 'Range' => 225, 'Concealment' => 27 ))
+'Damage' => 20, 'DamageMAX' => 35, 'Knockdown' => 76, 'KnockdownMAX' => 140, 'Charge' => 2.0, 'Range' => 225, 'Concealment' => 27 )),
+array( 'Name' => $l['alien_maul'], 'Wiki' => 'Alpha_Mauler', 'Image' => 'alien_maul', 'Quality' => 'event', 'Extra' => $l['Humble2Pack'], 'Description' => $l['alien_maul-description'], 'Used' => $melee_used_alien_maul , 'Kills' => $melee_kills_alien_maul , 'Stats' => array(
+'Damage' => 29, 'DamageMAX' => 60, 'Knockdown' => 113, 'KnockdownMAX' => 186, 'Charge' => 2.0, 'Range' => 275, 'Concealment' => 20 ))
 );
 //
 //Grenades
@@ -286,9 +288,12 @@ array( 'Name' => $l['gumbo'], 'Image' => 'gumbo', 'Quality' => 'community', 'Ext
 array( 'Name' => $l['stoneface'], 'Image' => 'stoneface', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['stoneface-description'], 'Used' => $mask_used_stoneface),
 array( 'Name' => $l['wayfarer'], 'Image' => 'wayfarer', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['wayfarer-description'], 'Used' => $mask_used_wayfarer),
 array( 'Name' => $l['crazy_lion'], 'Image' => 'crazy_lion', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['crazy_lion-description'], 'Used' => $mask_used_crazy_lion),
+////Alienware Alpha
+array( 'Name' => $l['area51'], 'Image' => 'area51', 'Quality' => 'event', 'Extra' => $l['Humble2Pack'], 'Description' => $l['area51-description'], 'Used' => $mask_used_area51),
+array( 'Name' => $l['alien_helmet'], 'Image' => 'alien_helmet', 'Quality' => 'event', 'Extra' => $l['Humble2Pack'], 'Description' => $l['alien_helmet-description'], 'Used' => $mask_used_alien_helmet),
 ////Crimefest
 array( 'Name' => $l['combusto'], 'Image' => 'combusto', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['combusto-description'], 'Used' => $mask_used_combusto),
-array( 'Name' => $l['spackle'], 'Image' => 'spackle', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['zombie-description'], 'Used' => $mask_used_spackle),
+array( 'Name' => $l['spackle'], 'Image' => 'spackle', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['spackle-description'], 'Used' => $mask_used_spackle),
 ////Lootbag
 array( 'Name' => $l['skull'], 'Image' => 'skull', 'Quality' => 'dlc', 'Extra' => 'LOOT BAG', 'Description' => $l['skull-description'], 'Used' => $mask_used_skull),
 ////Merry Soundtrack

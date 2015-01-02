@@ -1,3 +1,16 @@
+02.01.2015
+Added at end of dlc
+$l['Humble2Pack'] = 'ALIENWARE ALPHA';
+at end of melee
+$l['alien_maul'] = 'Alpha Mauler';
+$l['alien_maul-description'] = '';
+Added between deathwish and infamy mask sections
+//Alienware Alpha
+$l['area51'] = 'The Anomaly';
+$l['area51-description'] = 'Forged from Penrose patterned rapidly quenched metallic alloys, this helmet was constructed from debris recovered from a top secret crash site. The government continues to deny any knowledge of its existence.';
+$l['alien_helmet'] = 'Alpha Grey';
+$l['alien_helmet-description'] = 'Grey Aliens are alleged extraterrestrial beings whose existence is promoted in ufological, paranormal, and New Age communities, and who are named for their skin color.<br/><br/>Or are they?';
+
 25.12.2014
 Added this section at end. May not be final names yet.
 //Enemies

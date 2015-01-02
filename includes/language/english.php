@@ -193,6 +193,7 @@ $l['Twitch_pack'] = 'HUMBLE MASK PACK';
 $l['hotline_miami_dlc'] = 'HOTLINE MIAMI DLC';
 $l['humblehalloween_pack'] = 'HUMBLE MASK PACK 2';
 $l['Gage_Historical'] = 'GAGE HISTORICAL PACK';
+$l['Humble2Pack'] = 'ALIENWARE ALPHA';
 ////Weapons
 ////Primary
 //Assault Rifles
@@ -328,6 +329,8 @@ $l['model24'] = 'Potato Masher';
 $l['model24-description'] = '';
 $l['swagger'] = 'Swagger Stick';
 $l['swagger-description'] = '';
+$l['alien_maul'] = 'Alpha Mauler';
+$l['alien_maul-description'] = '';
 ////Grenades
 $l['frag-grenade'] = 'Frag Grenade';
 ////Gadgets
@@ -540,6 +543,11 @@ $l['skulloverkill'] = 'Overkill Skull';
 $l['skulloverkill-description'] = 'Holy Shit - what is this new devilry? Humans can often recognize a human skull, even if it\'s only partially shown. The human brain even has a specific region for it. This doesn\'t look like a human skull however.<br/><br/>You finished all heists on the OVERKILL difficulty? What are you, some kind of pit fiend? Maybe this mask will suit you after all.';
 $l['skulloverkillplus'] = 'Death Wish Skull';
 $l['skulloverkillplus-description'] = 'OVERKILL salutes you, bringer of death, slayer of law enforcers and finisher of difficulties. Humans can often recognize a human skull, even if only partially shown. The human brain even has a specific region for it. This isn\'t a human skull however, this is something completely different.<br/><br/>You finished all heists on the Death Wish difficulty? What are you, some kind of demon? Maybe this mask will suit you after all.';
+//Alienware Alpha
+$l['area51'] = 'The Anomaly';
+$l['area51-description'] = 'Forged from Penrose patterned rapidly quenched metallic alloys, this helmet was constructed from debris recovered from a top secret crash site. The government continues to deny any knowledge of its existence.';
+$l['alien_helmet'] = 'Alpha Grey';
+$l['alien_helmet-description'] = 'Grey Aliens are alleged extraterrestrial beings whose existence is promoted in ufological, paranormal, and New Age communities, and who are named for their skin color.<br/><br/>Or are they?';
 //Infamy
 $l['aviator'] = 'Heat';
 $l['aviator-description'] = 'Everyone loves a good pair of sunglasses.<br/><br/>But only the cockiest, most wanted, cops be damned sons of bitches are crazy enough to rob a god-damn bank wearing\'em.<br/><br/>That\'s you.';
