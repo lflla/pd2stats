@@ -266,6 +266,7 @@ $l['cobrasmg'] = 'Cobra';
 $l['blastersmg'] = 'Blaster 9mm';
 $l['uzi'] = 'Uzi';
 $l['sterling'] = 'Patchett L2A1';
+$l['m1928'] = 'Chicago Typewriter';
 //Shotguns
 $l['judge'] = 'The Judge';
 $l['serbu'] = 'Locomotive 12G';
