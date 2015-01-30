@@ -43,6 +43,7 @@ $l['notice'] = 'Menu';
 $l['ads'] = 'Advertisement';
 $l['switch'] = 'switch';
 $l['languagetex'] = 'Language';
+$l['detection'] = 'Warning';
 //Itemindex
 $l['maskindex'] = 'maskindex';
 $l['weaponindex'] = 'weaponindex';

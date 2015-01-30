@@ -1,3 +1,7 @@
+30.01.2015
+Added at end of menu
+$l['detection'] = 'Warning';
+
 02.01.2015
 Added at end of dlc
 $l['Humble2Pack'] = 'ALIENWARE ALPHA';
