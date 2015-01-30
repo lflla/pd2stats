@@ -193,6 +193,7 @@ $l['Twitch_pack'] = 'HUMBLE PACK MÁSCARAS';
 $l['hotline_miami_dlc'] = 'HOTLINE MIAMI';
 $l['humblehalloween_pack'] = 'HUMBLE PACK MÁSCARAS 2';
 $l['Gage_Historical'] = 'GAGE PACK HISTÓRICO';
+$l['Humble2Pack'] = 'ALIENWARE ALPHA';
 ////Weapons
 ////Primary
 //Akimbo
@@ -265,6 +266,7 @@ $l['cobrasmg'] = 'Cobra';
 $l['blastersmg'] = 'Blaster 9mm';
 $l['uzi'] = 'Uzi';
 $l['sterling'] = 'Patchett L2A1';
+$l['m1928'] = 'Chicago Typewriter';
 //Shotguns
 $l['judge'] = 'El Juez';
 $l['serbu'] = 'Locomotive 12G';
@@ -328,6 +330,8 @@ $l['model24'] = 'AplastaPatatas';
 $l['model24-description'] = '';
 $l['swagger'] = 'Palo de la Soberbia';
 $l['swagger-description'] = '';
+$l['alien_maul'] = 'Martillo Alpha';
+$l['alien_maul-description'] = '';
 ////Grenades
 $l['frag-grenade'] = 'Granada de fragmentación';
 ////Gadgets
@@ -540,6 +544,11 @@ $l['skulloverkill'] = 'Calavera Overkill';
 $l['skulloverkill-description'] = 'Ostia puta, ¿Qué tipo de brujería es esto?  El ser humano puede reconocer una calavera humana, incluso si solo ve una parte. El cerebro humano tiene una región específica para ello. Aunque ésta ya no se parece a la calavera humana.<br/><br/>¿Has completado todas las misiones en la dificultad Overkill? ¿Qué es lo que eres? ¿Un Demonio? Al fin y al cabo, puede que ésta máscara quede bien.';
 $l['skulloverkillplus'] = 'Calavera Deseo de Muerte';
 $l['skulloverkillplus-description'] = 'OVERKILL te saluda, portador de la muerte, asesino policial y terminador de dificultades. El ser humano puede reconocer una calavera humana, incluso si solo ve una parte. El cerebro humano tiene una región específica para ello. Aun así esto no es una calavera humana, es algo completamente diferente.<br/><br/>¿Has completado todas las misiones en la dificultad Deseo de Muerte? ¿Qué es lo que eres? ¿El mismísimo Diablo en persona? Al fin y al cabo, puede que ésta máscara quede bien.';
+//Alienware Alpha
+$l['area51'] = 'La Anomalía';
+$l['area51-description'] = 'Forgada en los altos hornos de Penrose, este casco fue construido a partir del lugar de un accidente de alto secreto. El gobierno continúa denegando la existencia de dicho hecho.';
+$l['alien_helmet'] = 'Gris Alpha';
+$l['alien_helmet-description'] = 'Los Alienígenas Grises son una raza de extraterrestres creado por comunidades de lo paranormal, ufológico, paranormal y otras comunidades ¿Llamadas por el color de la piel del extraterrestre?';
 //Infamy
 $l['aviator'] = 'Heat';
 $l['aviator-description'] = 'A todo el mundo le gusta un buen par de gafas de sol.<br/><br/>Pero sólo los más atrevidos, más buscados y más peligrosos hijos de perra están lo suficientemente loco para robar algo con ellas puestas.<br/><br/>Y ese eres tú.';
@@ -999,3 +1008,40 @@ $l['wolf-char'] = 'Nacionalidad: Sueca<br/>Age: 34<br/><br/>Wolf siempre fue un 
 $l['wick-char'] = 'Nacionalidad: Americano<br/>Age: 40s<br/><br/>John Wick es un asesino a sueldo muy calmado y silencioso. A juzgar por su físico, parece que el tiempo no pasa para él, probablemente de su etapa como boxeador. John y Chains se conocieron durante el periodo militar que ambos compartieron.<br/><br/>Antes de que la cosa se pusiera mal para Chains, John consiguió ayudarlo en una situación muy peliaguda. A cambio, John le dijo a Chains que necesitaba una banda. ¿Cómo Chains podía decir que no a tal viejo amigo?';
 $l['hoxton-char'] = 'Nacionalidad: Inglés<br/>Age: 32<br/><br/>A Hoxton le llaman así porque fue donde le pillaron con su antigua banda en East End en Londres. Después de que pasara un tiempo en el famoso reformatorio Institución de Su Majestad para Jóvenes Delincuentes, trabajó para varios sindicatos del crímen en su adolescencia hasta que se unió a la banda Payday. Después de una colección de exitosos trabajos hasta 2011, Hoxton fue capturado por el FBI y fue enviado a prisión.<br/><br/>En 2014, la banda Payday le ayudó a escapar. Desde entonces, está decidido a averiguar quién fue el que le envió a prisión.';
 $l['characters-help'] = 'Se muestra el tiempo que has usado cada personaje desde la actualización de Crimefest';
+//Enemies
+$l['e-cop'] = 'Policía Metropolitano';
+$l['e-cop_heavy'] = 'Policía Pesado';
+$l['e-cop_swat'] = 'Policía SWAT';
+$l['e-city_swat'] = 'Operaciones Especiales';
+$l['e-fbi'] = 'Unidad de rescate FBI';
+$l['e-fbi_office'] = 'Agente FBI';
+$l['e-fbi_swat'] = 'Respuesta FBI';
+$l['e-fbi_heavy_swat'] = 'Respuesta Pesada FBI';
+$l['e-swat'] = 'SWAT';
+$l['e-heavy_swat'] = 'SWAT Pesado';
+$l['e-murky_swat'] = 'Mercenario Murkywater';
+$l['e-security'] = 'Guardia de Seguridad';
+$l['e-gensec'] = 'Guardia GenSec';
+$l['e-gensec_swat'] = 'SWAT GenSec';
+$l['e-gensec_heavy_swat'] = 'SWAT Pesado GenSec';
+$l['e-gangster'] = 'Pandillero';
+$l['e-biker'] = 'Motero';
+$l['e-mobster'] = 'Mafioso';
+$l['e-mobster_boss'] = 'VIP';
+$l['e-prison_guard'] = 'Guardia de Prisión';
+$l['e-sniper'] = 'Francotirador';
+$l['e-sniper_gensec'] = 'Francotirador GenSec';
+$l['e-shield'] = 'Escudo';
+$l['e-shield_gensec'] = 'Escudo GenSec';
+$l['e-spooc'] = 'Cloaker';
+$l['e-spooc_gensec'] = 'Cloaker GenSec';
+$l['e-tank'] = 'Bulldozer';
+$l['e-tank_black'] = 'Bulldozer Pesado';
+$l['e-tank_skull'] = 'Bulldozer GenSec';
+$l['e-tank_hw'] = 'Bulldozer Titan';
+$l['e-taser'] = 'Taser';
+$l['e-taser_gensec'] = 'Taser GenSec';
+$l['e-civilian'] = 'Civil Varón';
+$l['e-civilian_female'] = 'Civil Hembra';
+$l['casualties'] = 'Accidentes';
+$l['unit'] = 'Unidad';
