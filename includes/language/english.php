@@ -546,10 +546,21 @@ $l['skulloverkill-description'] = 'Holy Shit - what is this new devilry? Humans 
 $l['skulloverkillplus'] = 'Death Wish Skull';
 $l['skulloverkillplus-description'] = 'OVERKILL salutes you, bringer of death, slayer of law enforcers and finisher of difficulties. Humans can often recognize a human skull, even if only partially shown. The human brain even has a specific region for it. This isn\'t a human skull however, this is something completely different.<br/><br/>You finished all heists on the Death Wish difficulty? What are you, some kind of demon? Maybe this mask will suit you after all.';
 //Alienware Alpha
-$l['area51'] = 'The Anomaly';
+$l['area51'] = 'Anomaly';
 $l['area51-description'] = 'Forged from Penrose patterned rapidly quenched metallic alloys, this helmet was constructed from debris recovered from a top secret crash site. The government continues to deny any knowledge of its existence.';
 $l['alien_helmet'] = 'Alpha Grey';
 $l['alien_helmet-description'] = 'Grey Aliens are alleged extraterrestrial beings whose existence is promoted in ufological, paranormal, and New Age communities, and who are named for their skin color.<br/><br/>Or are they?';
+//White Xmas
+$l['krampus'] = 'Krampus';
+$l['krampus-description'] = 'Been a bad boy or girl this year? Then you can expect a visit from Krampus. Or a phone-call from Bain.';
+$l['mrs_claus'] = 'Mrs. Claus';
+$l['mrs_claus-description'] = 'When Santa is flying through December skies, someone has to stay home and keep the elves in line. No-one does that better than the whip-cracking, cigar-smoking kommandant of the Claus household.';
+$l['strinch'] = 'Strinch';
+$l['strinch-description'] = 'A seasoned heister over the festival period, the Strinch has been stealing Christmases since 1957. Also linked with the Halloween Heist of 1972.';
+$l['robo_santa'] = 'Mechanical Santa';
+$l['robo_santa-description'] = 'This jolly, festive automaton has the heart of Santa. He keeps it in a box, under a pile of elf corpses, and surrounded by severed reindeer heads.';
+$l['almirs_beard'] = 'Almir\'s Beard';
+$l['almirs_beard-description'] = 'Some say that real men don\'t shave, but the truth is that real men can\'t shave. Ordinary razors simply bounce off the dense, magnificent foliage that is a truly full Almir beard.';
 //Infamy
 $l['aviator'] = 'Heat';
 $l['aviator-description'] = 'Everyone loves a good pair of sunglasses.<br/><br/>But only the cockiest, most wanted, cops be damned sons of bitches are crazy enough to rob a god-damn bank wearing\'em.<br/><br/>That\'s you.';

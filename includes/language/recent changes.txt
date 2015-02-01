@@ -4,6 +4,18 @@ $l['dragan'] = 'Dragan';
 $l['dragan-char'] = 'Nationality: Croatian<br/>Age: 45<br/><br/>Dragan may be a former cop, but he\'s a former Croatian cop, which means his methods make the MPDC look like timid babysitters. He was brought to America and accepted into the PAYDAY gang as a favour to The Butcher. While there were some early suspicions regarding his true loyalties, his ability and commitment are indisputable.';
 $l['clover'] = 'Clover';
 $l['clover-char'] = 'Nationality: Irish<br/>Age: 27<br/><br/>Clover grew up in a rough house in a rough part of town. Her ancestors were fighters in every generation, and she is fiercly dedicated to her Irish heritage. She wears the clovers for luck, as well as a way to say "I\'m Irish, and I\'m proud".';
+Added at end of alienware alpha.
+//White Xmas
+$l['krampus'] = 'Krampus';
+$l['krampus-description'] = 'Been a bad boy or girl this year? Then you can expect a visit from Krampus. Or a phone-call from Bain.';
+$l['mrs_claus'] = 'Mrs. Claus';
+$l['mrs_claus-description'] = 'When Santa is flying through December skies, someone has to stay home and keep the elves in line. No-one does that better than the whip-cracking, cigar-smoking kommandant of the Claus household.';
+$l['strinch'] = 'Strinch';
+$l['strinch-description'] = 'A seasoned heister over the festival period, the Strinch has been stealing Christmases since 1957. Also linked with the Halloween Heist of 1972.';
+$l['robo_santa'] = 'Mechanical Santa';
+$l['robo_santa-description'] = 'This jolly, festive automaton has the heart of Santa. He keeps it in a box, under a pile of elf corpses, and surrounded by severed reindeer heads.';
+$l['almirs_beard'] = 'Almir\'s Beard';
+$l['almirs_beard-description'] = 'Some say that real men don\'t shave, but the truth is that real men can\'t shave. Ordinary razors simply bounce off the dense, magnificent foliage that is a truly full Almir beard.';
 
 30.01.2015
 Added at end of menu

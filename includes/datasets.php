@@ -376,6 +376,12 @@ array( 'Name' => $l['panther'], 'Image' => 'panther', 'Quality' => 'normal', 'Ex
 array( 'Name' => $l['horse'], 'Image' => 'horse', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['horse-description'], 'Used' => $mask_used_horse),
 array( 'Name' => $l['rooster'], 'Image' => 'rooster', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['rooster-description'], 'Used' => $mask_used_rooster),
 array( 'Name' => $l['tiger'], 'Image' => 'tiger', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['tiger-description'], 'Used' => $mask_used_tiger),
+////White Xmas
+array( 'Name' => $l['krampus'], 'Image' => 'krampus', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['krampus-description'], 'Used' => $mask_used_krampus),
+array( 'Name' => $l['mrs_claus'], 'Image' => 'mrs_claus', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['mrs_claus-description'], 'Used' => $mask_used_mrs_claus),
+array( 'Name' => $l['strinch'], 'Image' => 'strinch', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['strinch-description'], 'Used' => $mask_used_strinch),
+array( 'Name' => $l['robo_santa'], 'Image' => 'robo_santa', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['robo_santa-description'], 'Used' => $mask_used_robo_santa),
+array( 'Name' => $l['almirs_beard'], 'Image' => 'almirs_beard', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['almirs_beard-description'], 'Used' => $mask_used_almirs_beard),
 ////Deathwish
 array( 'Name' => $l['skullhard'], 'Image' => 'skullhard', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['skullhard-description'], 'Used' => $mask_used_skullhard),
 array( 'Name' => $l['skullveryhard'], 'Image' => 'skullveryhard', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['skullveryhard-description'], 'Used' => $mask_used_skullveryhard),
