@@ -394,6 +394,11 @@ array( 'Name' => $l['mrs_claus'], 'Image' => 'mrs_claus', 'Quality' => 'normal',
 array( 'Name' => $l['strinch'], 'Image' => 'strinch', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['strinch-description'], 'Used' => $mask_used_strinch),
 array( 'Name' => $l['robo_santa'], 'Image' => 'robo_santa', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['robo_santa-description'], 'Used' => $mask_used_robo_santa),
 array( 'Name' => $l['almirs_beard'], 'Image' => 'almirs_beard', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['almirs_beard-description'], 'Used' => $mask_used_almirs_beard),
+////The Diamond
+array( 'Name' => $l['msk_grizel'], 'Image' => 'msk_grizel', 'Quality' => 'dlc', 'Extra' => $l['diamondheistdlc'], 'Description' => $l['msk_grizel-description'], 'Used' => $mask_used_msk_grizel),
+array( 'Name' => $l['medusa'], 'Image' => 'medusa', 'Quality' => 'dlc', 'Extra' => $l['diamondheistdlc'], 'Description' => $l['medusa-description'], 'Used' => $mask_used_medusa),
+array( 'Name' => $l['anubis'], 'Image' => 'anubis', 'Quality' => 'dlc', 'Extra' => $l['diamondheistdlc'], 'Description' => $l['anubis-description'], 'Used' => $mask_used_anubis),
+array( 'Name' => $l['pazuzu'], 'Image' => 'pazuzu', 'Quality' => 'dlc', 'Extra' => $l['diamondheistdlc'], 'Description' => $l['pazuzu-description'], 'Used' => $mask_used_pazuzu),
 ////Deathwish
 array( 'Name' => $l['skullhard'], 'Image' => 'skullhard', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['skullhard-description'], 'Used' => $mask_used_skullhard),
 array( 'Name' => $l['skullveryhard'], 'Image' => 'skullveryhard', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['skullveryhard-description'], 'Used' => $mask_used_skullveryhard),

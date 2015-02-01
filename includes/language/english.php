@@ -199,6 +199,7 @@ $l['cloverpack'] = 'CLOVER CHARACTER PACK';
 $l['draganpack'] = 'DRAGAN CHARACTER PACK';
 $l['thebombpack'] = 'THE BOMB HEISTS';
 $l['thespiandlc'] = 'THESPIAN MASK PACK';
+$l['diamondheistdlc'] = 'DIAMOND HEIST';
 ////Weapons
 ////Primary
 //Assault Rifles
@@ -574,6 +575,15 @@ $l['robo_santa'] = 'Mechanical Santa';
 $l['robo_santa-description'] = 'This jolly, festive automaton has the heart of Santa. He keeps it in a box, under a pile of elf corpses, and surrounded by severed reindeer heads.';
 $l['almirs_beard'] = 'Almir\'s Beard';
 $l['almirs_beard-description'] = 'Some say that real men don\'t shave, but the truth is that real men can\'t shave. Ordinary razors simply bounce off the dense, magnificent foliage that is a truly full Almir beard.';
+//The Diamond
+$l['msk_grizel'] = 'Cursed One';
+$l['msk_grizel-description'] = 'His name is lost to legend. He might have been a King, or a mighty Sorcerer. But even the great are undone by the Diamond.';
+$l['medusa'] = 'Medusa';
+$l['medusa-description'] = 'A hideous visage, snakes for hair, a petrifying gaze and a hate for men. Her gazing eyes still send chills down spines... But this is just a mask, right?';
+$l['anubis'] = 'Anubis';
+$l['anubis-description'] = 'The Egyptian jackal-headed god of the afterlife, Anubis sought to protect graves rather than fill them.';
+$l['pazuzu'] = 'Pazuzu';
+$l['pazuzu-description'] = 'Pazuzu was the king of the wind demons according to ancient Babylonian mythology. Legends also tell of him as a beastial behemoth fighting groups of adventurers in far away lands, and some even say he walked the earth as an immortal warrior in human form.';
 //Infamy
 $l['aviator'] = 'Heat';
 $l['aviator-description'] = 'Everyone loves a good pair of sunglasses.<br/><br/>But only the cockiest, most wanted, cops be damned sons of bitches are crazy enough to rob a god-damn bank wearing\'em.<br/><br/>That\'s you.';
