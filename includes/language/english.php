@@ -1009,6 +1009,10 @@ $l['wolf-char'] = 'Nationality: Swedish<br/>Age: 34<br/><br/>Wolf was a law abid
 $l['wick-char'] = 'Nationality: American<br/>Age: 40s<br/><br/>John Wick is a quiet and calm former hitman. He has a seemingly ageless physique, probably from his background as a boxer. John and Chains know each other from before as they used to be in military together.<br/><br/>After having gone dark, John recently resurfaced and helped Chains out of a delicate situation. In return, John told Chains he was in need of a crew. How could Chains say no to an old friend?';
 $l['hoxton-char'] = 'Nationality: English<br/>Age: 32<br/><br/>Hoxton got his name from being caught with his old gang in the East End of London. After doing time in the HMYOI he worked with several crime syndicates in his 20s until he finally joined the Payday gang. After a successful stint of major heists up until 2011, Hoxton was captured by the FBI and sent to prison.<br/><br/>In 2014, the Payday gang helped him escape. Ever since he got out, he has been convinced someone set him up.';
 $l['characters-help'] = 'Shows character usage since the Crimefest Update';
+$l['dragan'] = 'Dragan';
+$l['dragan-char'] = 'Nationality: Croatian<br/>Age: 45<br/><br/>Dragan may be a former cop, but he\'s a former Croatian cop, which means his methods make the MPDC look like timid babysitters. He was brought to America and accepted into the PAYDAY gang as a favour to The Butcher. While there were some early suspicions regarding his true loyalties, his ability and commitment are indisputable.';
+$l['clover'] = 'Clover';
+$l['clover-char'] = 'Nationality: Irish<br/>Age: 27<br/><br/>Clover grew up in a rough house in a rough part of town. Her ancestors were fighters in every generation, and she is fiercly dedicated to her Irish heritage. She wears the clovers for luck, as well as a way to say "I\'m Irish, and I\'m proud".';
 //Enemies
 $l['e-cop'] = 'Metropolitan Police';
 $l['e-cop_heavy'] = 'Heavy Police Officer';
