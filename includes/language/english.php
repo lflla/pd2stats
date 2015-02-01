@@ -598,7 +598,7 @@ $l['robo_arnold-description'] = 'Iconic, time-travelling cyborg star of the \'Ex
 $l['nun_town'] = 'Nun';
 $l['nun_town-description'] = 'A Catholic nun may not seem like the obvious choice for a terrifying mask, unless you know an actual Catholic nun. In which case, you\'ll know any notions of gentle, grandmotherly penguins are without merit. These bitter crones are the personification of evil, dishing out thrashing to any young buttocks within reach.';
 $l['arch_nemesis'] = 'Arch Nemesis';
-$l['arch_nemesis-description'] = 'Nemesus, as defined by the dictionary<br/><br/>Noun [ahrch nem-uh-seez]<br/><br/>1. Something that a person cannot conquer, achieve, etc.: "That Chinese buffet at lunch proved to be my arch-nemesis."<br/>2. An opponent whom a person cannot defeat.<br/>3. In classical mythology. The goddess of divine retribution.<br/>4. An agent or act of retribution or punishment.<br/><br/>As defined by Hoxton: "That fuckin\' dozer. He\'s my arch-fucking-nemesis. \'Orrible cunt!"';
+$l['arch_nemesis-description'] = 'Nemesis, as defined by the dictionary<br/><br/>Noun [ahrch nem-uh-seez]<br/><br/>1. Something that a person cannot conquer, achieve, etc.: "That Chinese buffet at lunch proved to be my arch-nemesis."<br/>2. An opponent whom a person cannot defeat.<br/>3. In classical mythology. The goddess of divine retribution.<br/>4. An agent or act of retribution or punishment.<br/><br/>As defined by Hoxton: "That fuckin\' dozer. He\'s my arch-fucking-nemesis. \'Orrible cunt!"';
 //Infamy
 $l['aviator'] = 'Heat';
 $l['aviator-description'] = 'Everyone loves a good pair of sunglasses.<br/><br/>But only the cockiest, most wanted, cops be damned sons of bitches are crazy enough to rob a god-damn bank wearing\'em.<br/><br/>That\'s you.';
