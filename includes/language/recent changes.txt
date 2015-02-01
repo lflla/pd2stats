@@ -1,4 +1,12 @@
 01.02.2015
+added at end of dlc
+$l['cloverpack'] = 'CLOVER CHARACTER PACK';
+$l['draganpack'] = 'DRAGAN CHARACTER PACK';
+
+added at end of Assault Rifles
+$l['l85a2'] = 'Queen\'s Wrath';
+$l['vhs'] = 'Lion\'s Roar';
+
 Added at end of characters
 $l['dragan'] = 'Dragan';
 $l['dragan-char'] = 'Nationality: Croatian<br/>Age: 45<br/><br/>Dragan may be a former cop, but he\'s a former Croatian cop, which means his methods make the MPDC look like timid babysitters. He was brought to America and accepted into the PAYDAY gang as a favour to The Butcher. While there were some early suspicions regarding his true loyalties, his ability and commitment are indisputable.';

@@ -195,6 +195,8 @@ $l['hotline_miami_dlc'] = 'HOTLINE MIAMI DLC';
 $l['humblehalloween_pack'] = 'HUMBLE MASK PACK 2';
 $l['Gage_Historical'] = 'GAGE HISTORICAL PACK';
 $l['Humble2Pack'] = 'ALIENWARE ALPHA';
+$l['cloverpack'] = 'CLOVER CHARACTER PACK';
+$l['draganpack'] = 'DRAGAN CHARACTER PACK';
 ////Weapons
 ////Primary
 //Assault Rifles
@@ -214,6 +216,8 @@ $l['fal'] = 'Falcon';
 $l['famas'] = 'Clarion';
 $l['galil'] = 'Gecko 7.62';
 $l['g3'] = 'Gewehr 3';
+$l['l85a2'] = 'Queen\'s Wrath';
+$l['vhs'] = 'Lion\'s Roar';
 //Sniper Rifles
 $l['msr'] = 'Rattlesnake';
 $l['r93'] = 'R93';
