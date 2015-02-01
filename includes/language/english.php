@@ -198,6 +198,7 @@ $l['Humble2Pack'] = 'ALIENWARE ALPHA';
 $l['cloverpack'] = 'CLOVER CHARACTER PACK';
 $l['draganpack'] = 'DRAGAN CHARACTER PACK';
 $l['thebombpack'] = 'THE BOMB HEISTS';
+$l['thespiandlc'] = 'THESPIAN MASK PACK';
 ////Weapons
 ////Primary
 //Assault Rifles
@@ -694,6 +695,9 @@ $l['pref-description'] = 'Equipping this mask slot will make you wear your prefe
 //Twister
 $l['twister'] = 'Mystery Man';
 $l['twister-description'] = 'Who is behind this mask is a mystery.<br/><br/>It could be someone unknown or somebody you\'ve known all along.';
+//Thespian
+$l['thespian'] = 'Thespian';
+$l['thespian-description'] = 'Thespian is a superhuman soldier of fortune. In the future, space marines like Thespian protect the world of mankind and its space colonies from the forces of evil.<br/><br/>His helmet is popular gift in the criminal underworld and is given to thieves, thugs and career criminals who show loyalty and patience to their syndicate.<br/><br/>We at OVERKILL salute you for your loyalty and patience!';
 //Leave the div there. It colors the word red.
 $l['pro'] = '<div style="display:inline; color:#ff3336;">Pro</div>';
 ////Heists

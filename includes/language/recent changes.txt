@@ -1,4 +1,9 @@
 01.02.2015
+added at end of twister
+//Thespian
+$l['thespian'] = 'Thespian';
+$l['thespian-description'] = 'Thespian is a superhuman soldier of fortune. In the future, space marines like Thespian protect the world of mankind and its space colonies from the forces of evil.<br/><br/>His helmet is popular gift in the criminal underworld and is given to thieves, thugs and career criminals who show loyalty and patience to their syndicate.<br/><br/>We at OVERKILL salute you for your loyalty and patience!';
+
 added at end of pistols
 $l['hs2000'] = 'LEO';
 
@@ -14,6 +19,7 @@ added at end of dlc
 $l['cloverpack'] = 'CLOVER CHARACTER PACK';
 $l['thebombpack'] = 'THE BOMB HEISTS';
 $l['draganpack'] = 'DRAGAN CHARACTER PACK';
+$l['thespiandlc'] = 'THESPIAN MASK PACK';
 
 added at end of Assault Rifles
 $l['l85a2'] = 'Queen\'s Wrath';

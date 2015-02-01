@@ -462,7 +462,9 @@ array( 'Name' => $l['jw_shades'], 'Image' => 'jw_shades', 'Quality' => 'normal',
 ////Default Masks
 array( 'Name' => $l['pref'], 'Image' => 'pref', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['pref-description'], 'Used' => $mask_used_character_locked),
 ////Future Content
-array( 'Name' => $l['twister'], 'Image' => 'twister', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['twister-description'], 'Used' => $mask_used_twister)
+array( 'Name' => $l['twister'], 'Image' => 'twister', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['twister-description'], 'Used' => $mask_used_twister),
+////Thespian Mask Pack
+array( 'Name' => $l['thespian'], 'Image' => 'thespian', 'Quality' => 'dlc', 'Extra' => $l['thespiandlc'], 'Description' => $l['thespian-description'], 'Used' => $mask_used_thespian)
 );
 
 //
