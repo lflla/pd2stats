@@ -337,6 +337,12 @@ $l['swagger'] = 'Swagger Stick';
 $l['swagger-description'] = '';
 $l['alien_maul'] = 'Alpha Mauler';
 $l['alien_maul-description'] = '';
+$l['shillelagh'] = 'Clover\'s Shillelagh';
+$l['shillelagh-description'] = '';
+$l['meat_cleaver'] = 'Dragan\'s Cleaver';
+$l['meat_cleaver-description'] = '';
+$l['boxing_gloves'] = 'OVERKILL Boxing Gloves';
+$l['boxing_gloves-description'] = '';
 ////Grenades
 $l['frag-grenade'] = 'Frag Grenade';
 ////Gadgets

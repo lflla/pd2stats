@@ -219,7 +219,13 @@ array( 'Name' => $l['model24'], 'Wiki' => 'Potato_Masher', 'Image' => 'model24',
 array( 'Name' => $l['swagger'], 'Wiki' => 'Swagger_Stick', 'Image' => 'swagger', 'Quality' => 'dlc', 'Extra' => $l['Gage_Historical'], 'Description' => $l['swagger-description'], 'Used' => $melee_used_swagger , 'Kills' => $melee_kills_swagger , 'Stats' => array(
 'Damage' => 20, 'DamageMAX' => 35, 'Knockdown' => 76, 'KnockdownMAX' => 140, 'Charge' => 2.0, 'Range' => 225, 'Concealment' => 27 )),
 array( 'Name' => $l['alien_maul'], 'Wiki' => 'Alpha_Mauler', 'Image' => 'alien_maul', 'Quality' => 'event', 'Extra' => $l['Humble2Pack'], 'Description' => $l['alien_maul-description'], 'Used' => $melee_used_alien_maul , 'Kills' => $melee_kills_alien_maul , 'Stats' => array(
-'Damage' => 29, 'DamageMAX' => 60, 'Knockdown' => 113, 'KnockdownMAX' => 186, 'Charge' => 2.0, 'Range' => 275, 'Concealment' => 20 ))
+'Damage' => 29, 'DamageMAX' => 60, 'Knockdown' => 113, 'KnockdownMAX' => 186, 'Charge' => 2.0, 'Range' => 275, 'Concealment' => 20 )),
+array( 'Name' => $l['shillelagh'], 'Wiki' => 'Clover\'s_Shillelagh', 'Image' => 'shillelagh', 'Quality' => 'dlc', 'Extra' => $l['cloverpack'], 'Description' => $l['shillelagh-description'], 'Used' => $melee_used_shillelagh , 'Kills' => $melee_kills_shillelagh , 'Stats' => array(
+'Damage' => 35, 'DamageMAX' => 65, 'Knockdown' => 140, 'KnockdownMAX' => 195, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 26 )),
+array( 'Name' => $l['meat_cleaver'], 'Wiki' => 'Dragan\'s_Cleaver_Knife', 'Image' => 'meat_cleaver', 'Quality' => 'dlc', 'Extra' => $l['draganpack'], 'Description' => $l['meat_cleaver-description'], 'Used' => $melee_used_meat_cleaver , 'Kills' => $melee_kills_meat_cleaver , 'Stats' => array(
+'Damage' => 30, 'DamageMAX' => 75, 'Knockdown' => 15, 'KnockdownMAX' => 45, 'Charge' => 2.0, 'Range' => 195, 'Concealment' => 26 )),
+array( 'Name' => $l['boxing_gloves'], 'Wiki' => 'Alpha_Mauler', 'Image' => 'boxing_gloves', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['boxing_gloves-description'], 'Used' => $melee_used_boxing_gloves , 'Kills' => $melee_kills_boxing_gloves , 'Stats' => array(
+'Damage' => 15, 'DamageMAX' => 35, 'Knockdown' => 60, 'KnockdownMAX' => 105, 'Charge' => 1.0, 'Range' => 150, 'Concealment' => 30 ))
 );
 //
 //Grenades
