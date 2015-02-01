@@ -588,7 +588,7 @@ $l['pazuzu-description'] = 'Pazuzu was the king of the wind demons according to 
 $l['msk_grizel'] = 'Clover';
 $l['msk_grizel-description'] = 'Clover\'s Mask represents what Clover both fears and hates most of all - wearing a mask as your normal face. The surgically-shrunken nose, the botox\'d lips and the expression of all-consuming vanity and self-obsession - all are symbols of fear and weakness, twisted into a horrifying parody.';
 $l['grizel_clean'] = 'Clover Begins';
-$l['grizel_clean'] = 'This is a clean version of Clover\'s iconic mask, before it was painted.<br/><br/> Never linked how the original one turned out? This is your chance to change history.';
+$l['grizel_clean-description'] = 'This is a clean version of Clover\'s iconic mask, before it was painted.<br/><br/> Never linked how the original one turned out? This is your chance to change history.';
 //Infamy
 $l['aviator'] = 'Heat';
 $l['aviator-description'] = 'Everyone loves a good pair of sunglasses.<br/><br/>But only the cockiest, most wanted, cops be damned sons of bitches are crazy enough to rob a god-damn bank wearing\'em.<br/><br/>That\'s you.';
