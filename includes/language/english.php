@@ -197,6 +197,7 @@ $l['Gage_Historical'] = 'GAGE HISTORICAL PACK';
 $l['Humble2Pack'] = 'ALIENWARE ALPHA';
 $l['cloverpack'] = 'CLOVER CHARACTER PACK';
 $l['draganpack'] = 'DRAGAN CHARACTER PACK';
+$l['thebombpack'] = 'THE BOMB HEISTS';
 ////Weapons
 ////Primary
 //Assault Rifles
@@ -258,6 +259,7 @@ $l['ppk'] = 'Gruber Kurz';
 $l['p226'] = 'Signature .40';
 $l['g26'] = 'Chimano Compact';
 $l['c96'] = 'Broomstick';
+$l['hs2000'] = 'LEO';
 //Submachine Guns
 $l['mac10'] = 'Mark 10';
 $l['new_mp5'] = 'Compact-5';

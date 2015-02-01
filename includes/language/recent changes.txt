@@ -1,4 +1,7 @@
 01.02.2015
+added at end of pistols
+$l['hs2000'] = 'LEO';
+
 added at end of melee
 $l['shillelagh'] = 'Clover\'s Shillelagh';
 $l['shillelagh-description'] = '';
@@ -9,6 +12,7 @@ $l['boxing_gloves-description'] = '';
 
 added at end of dlc
 $l['cloverpack'] = 'CLOVER CHARACTER PACK';
+$l['thebombpack'] = 'THE BOMB HEISTS';
 $l['draganpack'] = 'DRAGAN CHARACTER PACK';
 
 added at end of Assault Rifles

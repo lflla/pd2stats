@@ -116,6 +116,8 @@ array( 'Name' => $l['g26'], 'Wiki' => 'Chimano_Compact', 'Image' => 'g26', 'Qual
 'Magazine' => 10, 'Ammo' => 150, 'Firerate' => 670, 'Damage' => 18, 'Accuracy' => 12, 'Stability' => 20, 'Concealment' => 30, 'Threat' => 4)),
 array( 'Name' => $l['c96'], 'Wiki' => 'Broomstick', 'Image' => 'c96', 'Quality' => 'dlc', 'Extra' => $l['Gage_Historical'], 'Used' => $weapon_used_c96 , 'Kills' => $weapon_kills_c96, 'Stats' => array(
 'Magazine' => 10, 'Ammo' => 80, 'Firerate' => 670, 'Damage' => 33, 'Accuracy' => 10, 'Stability' => 17, 'Concealment' => 28, 'Threat' => 10)),
+array( 'Name' => $l['hs2000'], 'Wiki' => 'LEO', 'Image' => 'hs2000', 'Quality' => 'dlc', 'Extra' => $l['thebombpack'], 'Used' => $weapon_used_hs2000 , 'Kills' => $weapon_kills_hs2000, 'Stats' => array(
+'Magazine' => 19, 'Ammo' => 133, 'Firerate' => 670, 'Damage' => 18, 'Accuracy' => 12, 'Stability' => 17, 'Concealment' => 29, 'Threat' => 9)),
 ////Submachine Guns
 array( 'Name' => $l['mac10'], 'Wiki' => 'Mark_10', 'Image' => 'mac10', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_mac10 , 'Kills' => $weapon_kills_mac10, 'Stats' => array(
 'Magazine' => 40, 'Ammo' => 80, 'Firerate' => 1000, 'Damage' => 25, 'Accuracy' => 8, 'Stability' => 15, 'Concealment' => 27, 'Threat' => 10)),
