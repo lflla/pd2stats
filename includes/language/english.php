@@ -200,6 +200,9 @@ $l['draganpack'] = 'DRAGAN CHARACTER PACK';
 $l['thebombpack'] = 'THE BOMB HEISTS';
 $l['thespiandlc'] = 'THESPIAN MASK PACK';
 $l['diamondheistdlc'] = 'DIAMOND HEIST';
+$l['weaponbundledlc'] = 'WEAPON BUNDLE';
+$l['heistbundle'] = 'HEIST BUNDLE';
+$l['gotyeddlc'] = 'GOTY EDITION';
 ////Weapons
 ////Primary
 //Assault Rifles
@@ -589,6 +592,13 @@ $l['msk_grizel'] = 'Clover';
 $l['msk_grizel-description'] = 'Clover\'s Mask represents what Clover both fears and hates most of all - wearing a mask as your normal face. The surgically-shrunken nose, the botox\'d lips and the expression of all-consuming vanity and self-obsession - all are symbols of fear and weakness, twisted into a horrifying parody.';
 $l['grizel_clean'] = 'Clover Begins';
 $l['grizel_clean-description'] = 'This is a clean version of Clover\'s iconic mask, before it was painted.<br/><br/> Never linked how the original one turned out? This is your chance to change history.';
+//GOTY
+$l['robo_arnold'] = 'Robo-Arnold';
+$l['robo_arnold-description'] = 'Iconic, time-travelling cyborg star of the \'Exterminator\' movie series. In the first movie, he was sent to kill the mother of the leader of the future rebellion before she can steal the chop left by her son who was also her father... In the past. Noted for his deadpan delivery of the catchphrase "Await my return".';
+$l['nun_town'] = 'Nun';
+$l['nun_town-description'] = 'A Catholic nun may not seem like the obvious choice for a terrifying mask, unless you know an actual Catholic nun. In which case, you\'ll know any notions of gentle, grandmotherly penguins are without merit. These bitter crones are the personification of evil, dishing out thrashing to any young buttocks within reach.';
+$l['arch_nemesis'] = 'Arch Nemesis';
+$l['arch_nemesis-description'] = 'Nemesus, as defined by the dictionary<br/><br/>Noun [ahrch nem-uh-seez]<br/><br/>1. Something that a person cannot conquer, achieve, etc.: "That Chinese buffet at lunch proved to be my arch-nemesis."<br/>2. An opponent whom a person cannot defeat.<br/>3. In classical mythology. The goddess of divine retribution.<br/>4. An agent or act of retribution or punishment.<br/><br/>As defined by Hoxton: "That fuckin\' dozer. He\'s my arch-fucking-nemesis. \'Orrible cunt!"';
 //Infamy
 $l['aviator'] = 'Heat';
 $l['aviator-description'] = 'Everyone loves a good pair of sunglasses.<br/><br/>But only the cockiest, most wanted, cops be damned sons of bitches are crazy enough to rob a god-damn bank wearing\'em.<br/><br/>That\'s you.';

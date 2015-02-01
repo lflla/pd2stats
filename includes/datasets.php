@@ -402,6 +402,10 @@ array( 'Name' => $l['pazuzu'], 'Image' => 'pazuzu', 'Quality' => 'dlc', 'Extra' 
 ////Clover Character Pack
 array( 'Name' => $l['msk_grizel'], 'Image' => 'msk_grizel', 'Quality' => 'dlc', 'Extra' => $l['cloverpack'], 'Description' => $l['msk_grizel-description'], 'Used' => $mask_used_msk_grizel),
 array( 'Name' => $l['grizel_clean'], 'Image' => 'grizel_clean', 'Quality' => 'dlc', 'Extra' => $l['cloverpack'], 'Description' => $l['grizel_clean-description'], 'Used' => $mask_used_grizel_clean),
+////GOTY
+array( 'Name' => $l['robo_arnold'], 'Image' => 'robo_arnold', 'Quality' => 'dlc', 'Extra' => $l['weaponbundledlc'], 'Description' => $l['robo_arnold-description'], 'Used' => $mask_used_robo_arnold),
+array( 'Name' => $l['nun_town'], 'Image' => 'nun_town', 'Quality' => 'dlc', 'Extra' => $l['heistbundle'], 'Description' => $l['nun_town-description'], 'Used' => $mask_used_nun_town),
+array( 'Name' => $l['arch_nemesis'], 'Image' => 'arch_nemesis', 'Quality' => 'dlc', 'Extra' => $l['gotyeddlc'], 'Description' => $l['arch_nemesis-description'], 'Used' => $mask_used_arch_nemesis),
 ////Deathwish
 array( 'Name' => $l['skullhard'], 'Image' => 'skullhard', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['skullhard-description'], 'Used' => $mask_used_skullhard),
 array( 'Name' => $l['skullveryhard'], 'Image' => 'skullveryhard', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['skullveryhard-description'], 'Used' => $mask_used_skullveryhard),
