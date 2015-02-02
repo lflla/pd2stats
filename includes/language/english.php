@@ -203,6 +203,7 @@ $l['diamondheistdlc'] = 'DIAMOND HEIST';
 $l['weaponbundledlc'] = 'WEAPON BUNDLE';
 $l['heistbundle'] = 'HEIST BUNDLE';
 $l['gotyeddlc'] = 'GOTY EDITION';
+$l['lootbagdlc'] = 'LOOT BAG';
 ////Weapons
 ////Primary
 //Assault Rifles
@@ -599,6 +600,14 @@ $l['nun_town'] = 'Nun';
 $l['nun_town-description'] = 'A Catholic nun may not seem like the obvious choice for a terrifying mask, unless you know an actual Catholic nun. In which case, you\'ll know any notions of gentle, grandmotherly penguins are without merit. These bitter crones are the personification of evil, dishing out thrashing to any young buttocks within reach.';
 $l['arch_nemesis'] = 'Arch Nemesis';
 $l['arch_nemesis-description'] = 'Nemesis, as defined by the dictionary<br/><br/>Noun [ahrch nem-uh-seez]<br/><br/>1. Something that a person cannot conquer, achieve, etc.: "That Chinese buffet at lunch proved to be my arch-nemesis."<br/>2. An opponent whom a person cannot defeat.<br/>3. In classical mythology. The goddess of divine retribution.<br/>4. An agent or act of retribution or punishment.<br/><br/>As defined by Hoxton: "That fuckin\' dozer. He\'s my arch-fucking-nemesis. \'Orrible cunt!"';
+//Champ
+$l['champion_dallas'] = 'Champ';
+$l['champion_dallas-description'] = 'This is the Champ mask. Based on a bad day for Dallas. How bad? Well, imagine being on the business end of thirteen rounds with a professional boxer. Swollen brow, broken nose, fat lip, black eye, contusions, concussions, dislocated jaw - you name it, and this mask has it. Yeah, a really bad day for Dallas.';
+//Dragan
+$l['dragan'] = 'Dragan';
+$l['dragan-description'] = 'With a background like the one Dragan has, there\'s no surprise he aspires to greatness in the criminal underworld.<br/><br/>His mask represents a lot of his own characteristics, with the clear resemblance to some of the original crew\'s masks that tells of his ability to infiltrate and blend in while still having some features that tell of his unending ruthlessness.<br/><br/>The Croatian checker on the forehead serves as a reminder for both himself and his enemies to be aware that he is not your common western street thug.';
+$l['dragan_begins']  = 'Dragan Begins';
+$l['dragan_begins-description'] = 'This is a clean version of Dragan\'s iconic mask before it was painted.<br/><br/>Never liked how the original one turned out? This is your chance to change history.';
 //Infamy
 $l['aviator'] = 'Heat';
 $l['aviator-description'] = 'Everyone loves a good pair of sunglasses.<br/><br/>But only the cockiest, most wanted, cops be damned sons of bitches are crazy enough to rob a god-damn bank wearing\'em.<br/><br/>That\'s you.';

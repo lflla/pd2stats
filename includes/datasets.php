@@ -309,7 +309,7 @@ array( 'Name' => $l['alien_helmet'], 'Image' => 'alien_helmet', 'Quality' => 'ev
 array( 'Name' => $l['combusto'], 'Image' => 'combusto', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['combusto-description'], 'Used' => $mask_used_combusto),
 array( 'Name' => $l['spackle'], 'Image' => 'spackle', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['spackle-description'], 'Used' => $mask_used_spackle),
 ////Lootbag
-array( 'Name' => $l['skull'], 'Image' => 'skull', 'Quality' => 'dlc', 'Extra' => 'LOOT BAG', 'Description' => $l['skull-description'], 'Used' => $mask_used_skull),
+array( 'Name' => $l['skull'], 'Image' => 'skull', 'Quality' => 'dlc', 'Extra' => $l['lootbagdlc'], 'Description' => $l['skull-description'], 'Used' => $mask_used_skull),
 ////Merry Soundtrack
 array( 'Name' => $l['santa_mad'], 'Image' => 'santa_mad', 'Quality' => 'dlc', 'Extra' => $l['Xmas_soundtrack'], 'Description' => $l['santa_mad-description'], 'Used' => $mask_used_santa_mad),
 array( 'Name' => $l['santa_surprise'], 'Image' => 'santa_surprise', 'Quality' => 'dlc', 'Extra' => $l['Xmas_soundtrack'], 'Description' => $l['santa_surprise-description'], 'Used' => $mask_used_santa_surprise),
@@ -406,6 +406,11 @@ array( 'Name' => $l['grizel_clean'], 'Image' => 'grizel_clean', 'Quality' => 'dl
 array( 'Name' => $l['robo_arnold'], 'Image' => 'robo_arnold', 'Quality' => 'dlc', 'Extra' => $l['weaponbundledlc'], 'Description' => $l['robo_arnold-description'], 'Used' => $mask_used_robo_arnold),
 array( 'Name' => $l['nun_town'], 'Image' => 'nun_town', 'Quality' => 'dlc', 'Extra' => $l['heistbundle'], 'Description' => $l['nun_town-description'], 'Used' => $mask_used_nun_town),
 array( 'Name' => $l['arch_nemesis'], 'Image' => 'arch_nemesis', 'Quality' => 'dlc', 'Extra' => $l['gotyeddlc'], 'Description' => $l['arch_nemesis-description'], 'Used' => $mask_used_arch_nemesis),
+////Champ
+array( 'Name' => $l['champion_dallas'], 'Image' => 'champion_dallas', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['champion_dallas-description'], 'Used' => $mask_used_champion_dallas),
+////Dragan Char Pack
+array( 'Name' => $l['dragan'], 'Image' => 'dragan', 'Quality' => 'dlc', 'Extra' => $l['draganpack'], 'Description' => $l['dragan-description'], 'Used' => $mask_used_dragan),
+array( 'Name' => $l['dragan_begins'], 'Image' => 'dragan_begins', 'Quality' => 'dlc', 'Extra' => $l['draganpack'], 'Description' => $l['dragan_begins-description'], 'Used' => $mask_used_dragan_begins),
 ////Deathwish
 array( 'Name' => $l['skullhard'], 'Image' => 'skullhard', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['skullhard-description'], 'Used' => $mask_used_skullhard),
 array( 'Name' => $l['skullveryhard'], 'Image' => 'skullveryhard', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['skullveryhard-description'], 'Used' => $mask_used_skullveryhard),

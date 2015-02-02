@@ -1,3 +1,17 @@
+02.02.2015
+added at end of dlcs
+$l['lootbagdlc'] = 'LOOT BAG';
+
+added at end of goty
+//Champ
+$l['champion_dallas'] = 'Champ';
+$l['champion_dallas-description'] = 'This is the Champ mask. Based on a bad day for Dallas. How bad? Well, imagine being on the business end of thirteen rounds with a professional boxer. Swollen brow, broken nose, fat lip, black eye, contusions, concussions, dislocated jaw - you name it, and this mask has it. Yeah, a really bad day for Dallas.';
+//Dragan
+$l['dragan'] = 'Dragan';
+$l['dragan-description'] = 'With a background like the one Dragan has, there\'s no surprise he aspires to greatness in the criminal underworld.<br/><br/>His mask represents a lot of his own characteristics, with the clear resemblance to some of the original crew\'s masks that tells of his ability to infiltrate and blend in while still having some features that tell of his unending ruthlessness.<br/><br/>The Croatian checker on the forehead serves as a reminder for both himself and his enemies to be aware that he is not your common western street thug.';
+$l['dragan_begins']  = 'Dragan Begins';
+$l['dragan_begins-description'] = 'This is a clean version of Dragan\'s iconic mask before it was painted.<br/><br/>Never liked how the original one turned out? This is your chance to change history.';
+
 01.02.2015
 added at the end of white xmas
 //The Diamond
