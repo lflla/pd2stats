@@ -409,8 +409,13 @@ array( 'Name' => $l['arch_nemesis'], 'Image' => 'arch_nemesis', 'Quality' => 'dl
 ////Champ
 array( 'Name' => $l['champion_dallas'], 'Image' => 'champion_dallas', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['champion_dallas-description'], 'Used' => $mask_used_champion_dallas),
 ////Dragan Char Pack
-array( 'Name' => $l['dragan'], 'Image' => 'dragan', 'Quality' => 'dlc', 'Extra' => $l['draganpack'], 'Description' => $l['dragan-description'], 'Used' => $mask_used_dragan),
+array( 'Name' => $l['dragan'], 'Image' => 'dragan1', 'Quality' => 'dlc', 'Extra' => $l['draganpack'], 'Description' => $l['dragan-description'], 'Used' => $mask_used_dragan),
 array( 'Name' => $l['dragan_begins'], 'Image' => 'dragan_begins', 'Quality' => 'dlc', 'Extra' => $l['draganpack'], 'Description' => $l['dragan_begins-description'], 'Used' => $mask_used_dragan_begins),
+////The Bomb
+array( 'Name' => $l['butcher'], 'Image' => 'butcher', 'Quality' => 'dlc', 'Extra' => $l['thebombpack'], 'Description' => $l['butcher-description'], 'Used' => $mask_used_butcher),
+array( 'Name' => $l['doctor'], 'Image' => 'doctor', 'Quality' => 'dlc', 'Extra' => $l['thebombpack'], 'Description' => $l['doctor-description'], 'Used' => $mask_used_doctor),
+array( 'Name' => $l['lady_butcher'], 'Image' => 'lady_butcher', 'Quality' => 'dlc', 'Extra' => $l['thebombpack'], 'Description' => $l['lady_butcher-description'], 'Used' => $mask_used_lady_butcher),
+array( 'Name' => $l['tech_lion'], 'Image' => 'tech_lion', 'Quality' => 'dlc', 'Extra' => $l['thebombpack'], 'Description' => $l['tech_lion-description'], 'Used' => $mask_used_tech_lion),
 ////Deathwish
 array( 'Name' => $l['skullhard'], 'Image' => 'skullhard', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['skullhard-description'], 'Used' => $mask_used_skullhard),
 array( 'Name' => $l['skullveryhard'], 'Image' => 'skullveryhard', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['skullveryhard-description'], 'Used' => $mask_used_skullveryhard),

@@ -188,7 +188,7 @@ $l['Gage_Sniper_Pack'] = 'GAGE SNIPER PACK';
 $l['Gage_Shotgun_Pack'] = 'GAGE SHOTGUN PACK';
 $l['Xmas_soundtrack'] = 'XMAS SOUNDTRACK';
 $l['Poetry_jam'] = 'POETRY JAM';
-$l['Twisted_metal'] = 'TWISTED METAL';
+$l['Twisted_metal'] = 'TWISTED METAL MASK PACK';
 $l['Halloween'] = 'HALLOWEEN';
 $l['Twitch_pack'] = 'HUMBLE MASK PACK';
 $l['hotline_miami_dlc'] = 'HOTLINE MIAMI DLC';
@@ -608,6 +608,15 @@ $l['dragan'] = 'Dragan';
 $l['dragan-description'] = 'With a background like the one Dragan has, there\'s no surprise he aspires to greatness in the criminal underworld.<br/><br/>His mask represents a lot of his own characteristics, with the clear resemblance to some of the original crew\'s masks that tells of his ability to infiltrate and blend in while still having some features that tell of his unending ruthlessness.<br/><br/>The Croatian checker on the forehead serves as a reminder for both himself and his enemies to be aware that he is not your common western street thug.';
 $l['dragan_begins']  = 'Dragan Begins';
 $l['dragan_begins-description'] = 'This is a clean version of Dragan\'s iconic mask before it was painted.<br/><br/>Never liked how the original one turned out? This is your chance to change history.';
+//The Bomb
+$l['butcher'] = 'Butcher from Hell';
+$l['butcher-description'] = 'There are many rumours about the mad butcher from the east, one of them tells of a man who found such pleasure in butchering pigs that he slowly started to look like one.<br/><br/>Working in a butchery as hot as hell itself his skin became disfigured with blisters and cuts, people tell of screams coming from inside... And not just the screams of pigs.';
+$l['doctor'] = 'Doctor';
+$l['doctor-description'] = 'A naso-buccal mask usually associated with hospitals and ambulances. This mask disables the host from spreading airborne viruses by catching the bacteria-laden saliva and mucus that is discharged upon sneezing or coughing. Both doctors and patients wear this, so you should ask yourself: am I the sick or the healthy one? The disease or the cure?<br/><br/>In any case - it\'s fever season, and the only prescription is dead Bulldozers.';
+$l['lady_butcher'] = 'Lady Butcher';
+$l['lady_butcher-description'] = 'If you received a dollar every time the Butcher was called a "witch", a "harlot" or a "banshee" by her peers you could earn enough money to buy the entirety of Croatia. Cynical men around her bemoaned the fact that she was female, and felt endangered and distressed at the sight of her meteoric rise in the criminal underground. Keep in mind that the Balkans are not exactly known for their capacity to tolerate anybody who is in any way different, and one can only image the flat-out chauvinism and misogyny she must have dealt with while working with some of the most ruthless criminals every day of her existence. This mask shows how she is seen by both her rivals and her associates. It makes people feel afraid. As they should be.';
+$l['tech_lion'] = 'Tech Lion';
+$l['tech_lion-description'] = 'This mask is a modern interpretation of the Egyptian war-god Maahes. Known as the "Wield of the Knife", "Lord of Slaughter" and "Avenger of Wrongs", Maahes punished those who transgressed from the rules of Ma`at - the personification of order and balance. Considered the embodiment of the burning heat of the sun, he was also seen as a protective deity that defended the Pharaoh during battle.<br/><br/>He is usually depicted as lion-headed man carrying a knife wearing the Atef crown, the Solar Disk or is pictured as a lion devouring a victim.';
 //Infamy
 $l['aviator'] = 'Heat';
 $l['aviator-description'] = 'Everyone loves a good pair of sunglasses.<br/><br/>But only the cockiest, most wanted, cops be damned sons of bitches are crazy enough to rob a god-damn bank wearing\'em.<br/><br/>That\'s you.';
