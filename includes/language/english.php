@@ -776,6 +776,8 @@ $l['pines'] = 'White Xmas';
 $l['dwsucess'] = 'Completed on Deathwish!';
 $l['crojob1'] = 'The Bomb: Dockyard';
 $l['crojob2'] = 'The Bomb: Forest';
+$l['mus'] = 'The Diamond';
+$l['nightsuffix'] = '(Night)';
 //Escapes
 $l['escapeparknight'] = 'Park (Night)';
 $l['escapeparkday'] = 'Park (Day)';

@@ -2,6 +2,8 @@
 added at end of heists.
 $l['crojob1'] = 'The Bomb: Dockyard';
 $l['crojob2'] = 'The Bomb: Forest';
+$l['mus'] = 'The Diamond';
+$l['nightsuffix'] = '(Night)';
 
 02.02.2015
 changed this line

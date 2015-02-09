@@ -492,10 +492,10 @@ array( 'Name' => $l['thespian'], 'Image' => 'thespian', 'Quality' => 'dlc', 'Ext
 //
 //Heists
 //
-
 $heists = array(
 array( 'Name' => $l['frame'], 'Wiki' => 'Framing_Frame', 'Image' => 'frame', 'Win' => $contract_framing_frame_win, 'Dropin' => $contract_framing_frame_win_dropin, 'Fail' => $contract_framing_frame_fail, 'Quality' => 'normal', 'deathwish' => $death_35),
 array( 'Name' => $l['dogs'], 'Wiki' => 'Watchdogs', 'Image' => 'dogs', 'Win' => $contract_watchdogs_win, 'Dropin' => $contract_watchdogs_win_dropin, 'Fail' => $contract_watchdogs_fail, 'Quality' => 'normal', 'deathwish' => $death_34),
+array( 'Name' => $l['dogs'].' '.['nightsuffix'], 'Wiki' => 'Watchdogs', 'Image' => 'dogs', 'Win' => $contract_watchdogs_night_win, 'Dropin' => $contract_watchdogs_night_win_dropin, 'Fail' => $contract_watchdogs_night_fail, 'Quality' => 'normal', 'deathwish' => $death_34),
 array( 'Name' => $l['fire'], 'Wiki' => 'Firestarter', 'Image' => 'fire', 'Win' => $contract_firestarter_win, 'Dropin' => $contract_firestarter_win_dropin, 'Fail' => $contract_firestarter_fail, 'Quality' => 'normal', 'deathwish' => $death_32),
 array( 'Name' => $l['rats'], 'Wiki' => 'Rats', 'Image' => 'rats', 'Win' => $contract_alex_win, 'Dropin' => $contract_alex_win_dropin, 'Fail' => $contract_alex_fail, 'Quality' => 'normal', 'deathwish' => $death_33),
 array( 'Name' => $l['election'], 'Wiki' => 'Election_Day', 'Image' => 'election', 'Win' => $contract_election_day_win, 'Dropin' => $contract_election_day_win_dropin, 'Fail' => $contract_election_day_fail, 'Quality' => 'normal', 'deathwish' => $bob_9),
@@ -517,9 +517,11 @@ array( 'Name' => $l['transport-crossroads'], 'Image' => 'transport-crossroads', 
 array( 'Name' => $l['nightmare'], 'Wiki' => 'Safe_House_Nightmare', 'Image' => 'nightmare', 'Win' => $contract_haunted_win, 'Dropin' => $contract_haunted_win_dropin, 'Fail' => $contract_haunted_fail, 'Quality' => 'event', 'deathwish' => $halloween_nightmare_5),
 array( 'Name' => $l['election'].' '.$l['pro'], 'Wiki' => 'Election_Day', 'Image' => 'election', 'Win' => $contract_election_day_prof_win, 'Dropin' => $contract_election_day_prof_win_dropin, 'Fail' => $contract_election_day_prof_fail, 'Quality' => 'normal', 'deathwish' => $bob_2),
 array( 'Name' => $l['dogs'].' '.$l['pro'], 'Wiki' => 'Watchdogs', 'Image' => 'dogs', 'Win' => $contract_watchdogs_prof_win, 'Dropin' => $contract_watchdogs_prof_win_dropin, 'Fail' => $contract_watchdogs_prof_fail, 'Quality' => 'normal', 'deathwish' => $death_6),
+array( 'Name' => $l['dogs'].' '.['nightsuffix'].' '.$l['pro'], 'Wiki' => 'Watchdogs', 'Image' => 'dogs', 'Win' => $contract_watchdogs_night_prof_win, 'Dropin' => $contract_watchdogs_night_prof_win_dropin, 'Fail' => $contract_watchdogs_night_prof_fail, 'Quality' => 'normal', 'deathwish' => $death_6),
 array( 'Name' => $l['fire'].' '.$l['pro'], 'Wiki' => 'Firestarter', 'Image' => 'fire', 'Win' => $contract_firestarter_prof_win, 'Dropin' => $contract_firestarter_prof_win_dropin, 'Fail' => $contract_firestarter_prof_fail, 'Quality' => 'normal', 'deathwish' => $death_8),
 array( 'Name' => $l['rats'].' '.$l['pro'], 'Wiki' => 'Rats', 'Image' => 'rats', 'Win' => $contract_alex_prof_win, 'Dropin' => $contract_alex_prof_win_dropin, 'Fail' => $contract_alex_prof_fail, 'Quality' => 'normal', 'deathwish' => $death_7),
 array( 'Name' => $l['big-oil'].' '.$l['pro'], 'Wiki' => 'Big_Oil', 'Image' => 'big-oil', 'Win' => $contract_welcome_to_the_jungle_prof_win, 'Dropin' => $contract_welcome_to_the_jungle_prof_win_dropin, 'Fail' => $contract_welcome_to_the_jungle_prof_fail, 'Quality' => 'normal', 'deathwish' => $death_11),
+array( 'Name' => $l['big-oil'].' '.['nightsuffix'].' '.$l['pro'], 'Wiki' => 'Big_Oil', 'Image' => 'big-oil', 'Win' => $contract_welcome_to_the_jungle_night_prof_win, 'Dropin' => $contract_welcome_to_the_jungle_night_prof_win_dropin, 'Fail' => $contract_welcome_to_the_jungle_night_prof_fail, 'Quality' => 'normal', 'deathwish' => $death_11),
 array( 'Name' => $l['frame'].' '.$l['pro'], 'Wiki' => 'Framing_Frame', 'Image' => 'frame', 'Win' => $contract_framing_frame_prof_win, 'Dropin' => $contract_framing_frame_prof_win_dropin, 'Fail' => $contract_framing_frame_prof_fail, 'Quality' => 'normal', 'deathwish' => $death_10),
 array( 'Name' => $l['ukrainian'].' '.$l['pro'], 'Wiki' => 'Ukrainian_Job', 'Image' => 'ukrainian', 'Win' => $contract_ukrainian_job_prof_win, 'Dropin' => $contract_ukrainian_job_prof_win_dropin, 'Fail' => $contract_ukrainian_job_prof_fail, 'Quality' => 'normal', 'deathwish' => $death_1),
 array( 'Name' => $l['bank'].' '.$l['pro'], 'Wiki' => 'Bank_Heist', 'Image' => 'bank', 'Win' => $contract_branchbank_prof_win, 'Dropin' => $contract_branchbank_prof_win_dropin, 'Fail' => $contract_branchbank_prof_fail, 'Quality' => 'normal', 'deathwish' => $death_16),
@@ -531,7 +533,8 @@ array( 'Name' => $l['hoxtonbreakout'], 'Wiki' => 'Hoxton_Breakout', 'Image' => '
 array( 'Name' => $l['hoxtonbreakout'].' '.$l['pro'], 'Wiki' => 'Hoxton_Breakout', 'Image' => 'hoxtonbreakout', 'Win' => $contract_hox_prof_win, 'Dropin' => $contract_hox_prof_win_dropin, 'Fail' => $contract_hox_prof_fail, 'Quality' => 'community', 'deathwish' => $bulldog_3),
 array( 'Name' => $l['pines'], 'Wiki' => 'White_Xmas', 'Image' => 'pines', 'Win' => $contract_pines_win, 'Dropin' => $contract_pines_win_dropin, 'Fail' => $contract_pines_fail, 'Quality' => 'normal', 'deathwish' => $deer_5),
 array( 'Name' => $l['crojob1'], 'Wiki' => 'The_Bomb:_Dockyard', 'Image' => 'crojob1', 'Win' => $contract_crojob1_win, 'Dropin' => $contract_crojob1_win_dropin, 'Fail' => $contract_crojob1_fail, 'Quality' => 'dlc', 'deathwish' => $cow_7),
-array( 'Name' => $l['crojob2'], 'Wiki' => 'The_Bomb:_Forest', 'Image' => 'crojob2', 'Win' => $contract_crojob2_win, 'Dropin' => $contract_crojob2_win_dropin, 'Fail' => $contract_crojob2_fail, 'Quality' => 'dlc', 'deathwish' => $cow_2)
+array( 'Name' => $l['crojob2'], 'Wiki' => 'The_Bomb:_Forest', 'Image' => 'crojob2', 'Win' => $contract_crojob2_win, 'Dropin' => $contract_crojob2_win_dropin, 'Fail' => $contract_crojob2_fail, 'Quality' => 'dlc', 'deathwish' => $cow_2),
+array( 'Name' => $l['mus'], 'Wiki' => 'The_Diamond', 'Image' => 'mus', 'Win' => $contract_mus_win, 'Dropin' => $contract_mus_win_dropin, 'Fail' => $contract_mus_fail, 'Quality' => 'dlc', 'deathwish' => $bat_1)
 );
 
 //Calculate Totals
