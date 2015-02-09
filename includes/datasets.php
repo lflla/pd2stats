@@ -529,7 +529,9 @@ array( 'Name' => $l['hotline'].' '.$l['pro'], 'Wiki' => 'Hotline_Miami', 'Image'
 array( 'Name' => $l['artgallery'], 'Wiki' => 'Art_Gallery', 'Image' => 'artgallery', 'Win' => $contract_gallery_win, 'Dropin' => $contract_gallery_win_dropin, 'Fail' => $contract_gallery_fail, 'Quality' => 'community', 'deathwish' => $squek),
 array( 'Name' => $l['hoxtonbreakout'], 'Wiki' => 'Hoxton_Breakout', 'Image' => 'hoxtonbreakout', 'Win' => $contract_hox_win, 'Dropin' => $contract_hox_win_dropin, 'Fail' => $contract_hox_fail, 'Quality' => 'community', 'deathwish' => $bulldog_2),
 array( 'Name' => $l['hoxtonbreakout'].' '.$l['pro'], 'Wiki' => 'Hoxton_Breakout', 'Image' => 'hoxtonbreakout', 'Win' => $contract_hox_prof_win, 'Dropin' => $contract_hox_prof_win_dropin, 'Fail' => $contract_hox_prof_fail, 'Quality' => 'community', 'deathwish' => $bulldog_3),
-array( 'Name' => $l['pines'], 'Wiki' => 'White_Xmas', 'Image' => 'pines', 'Win' => $contract_pines_win, 'Dropin' => $contract_pines_win_dropin, 'Fail' => $contract_pines_fail, 'Quality' => 'normal', 'deathwish' => $deer_5)
+array( 'Name' => $l['pines'], 'Wiki' => 'White_Xmas', 'Image' => 'pines', 'Win' => $contract_pines_win, 'Dropin' => $contract_pines_win_dropin, 'Fail' => $contract_pines_fail, 'Quality' => 'normal', 'deathwish' => $deer_5),
+array( 'Name' => $l['crojob1'], 'Wiki' => 'The_Bomb:_Dockyard', 'Image' => 'crojob1', 'Win' => $contract_crojob1_win, 'Dropin' => $contract_crojob1_win_dropin, 'Fail' => $contract_crojob1_fail, 'Quality' => 'dlc', 'deathwish' => $cow_7),
+array( 'Name' => $l['crojob2'], 'Wiki' => 'The_Bomb:_Forest', 'Image' => 'crojob2', 'Win' => $contract_crojob2_win, 'Dropin' => $contract_crojob2_win_dropin, 'Fail' => $contract_crojob2_fail, 'Quality' => 'dlc', 'deathwish' => $cow_2)
 );
 
 //Calculate Totals

@@ -774,6 +774,8 @@ $l['artgallery'] = 'Art Gallery';
 $l['hoxtonbreakout'] = 'Hoxton Breakout';
 $l['pines'] = 'White Xmas';
 $l['dwsucess'] = 'Completed on Deathwish!';
+$l['crojob1'] = 'The Bomb: Dockyard';
+$l['crojob2'] = 'The Bomb: Forest';
 //Escapes
 $l['escapeparknight'] = 'Park (Night)';
 $l['escapeparkday'] = 'Park (Day)';

@@ -1,3 +1,8 @@
+09.02.2015
+added at end of heists.
+$l['crojob1'] = 'The Bomb: Dockyard';
+$l['crojob2'] = 'The Bomb: Forest';
+
 02.02.2015
 changed this line
 $l['Twisted_metal'] = 'TWISTED METAL MASK PACK';
