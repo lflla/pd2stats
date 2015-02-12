@@ -69,7 +69,7 @@ $l['statisticsstatus'] = 'Player Statistics Status';
 $l['offline'] = 'OFFLINE (Click eye for more information)';
 $l['online'] = 'ONLINE';
 //Tags and Warnings
-$l['cflag'] = '[Cheater]';
+$l['cflag'] = '[Warning]';
 $l['cflag-warning'] = 'flags are not always correct due to some level and skill bugs that are in the game.';
 $l['pflag'] = '[Family Sharing]';
 $l['pflag-warning'] = 'tag means that the game is not owned by the player.';
@@ -1089,7 +1089,7 @@ $l['perk-crew-chief-desc'] = 'The Crew Chief, also known as the Caporegime, is t
 $l['perk-crew-chief-1'] = 'Brute Strength';
 $l['perk-crew-chief-1-desc'] = 'You gain <div class="bluein">10%</div> more health.';
 $l['perk-crew-chief-2'] = 'Marathon Man';
-$l['perk-crew-chief-2-desc'] = 'You and your crew\s stamina is increased by <div class="bluein">50%</div>.<br/><br/>Increases your shout distance by <div class="bluein">25%</div>.<br/><br/>Note: Crew perks do not stack.';
+$l['perk-crew-chief-2-desc'] = 'You and your crew\'s stamina is increased by <div class="bluein">50%</div>.<br/><br/>Increases your shout distance by <div class="bluein">25%</div>.<br/><br/>Note: Crew perks do not stack.';
 $l['perk-crew-chief-3'] = 'Wolf Pack';
 $l['perk-crew-chief-3-desc'] = 'You and your crew gains <div class="bluein">15%</div> more health.<br/><br/>Note: Crew perk do not stack.';
 $l['perk-crew-chief-4'] = 'Testudo';
