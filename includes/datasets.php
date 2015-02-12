@@ -564,9 +564,107 @@ array( 'Name' => $l['escapegarage'], 'Wiki' => 'Garage', 'Image' => 'escapegarag
 );
 
 //
+//Perk Deck
+//
+$deck_crew_chief = array(
+array( 'Name' => $l['perk-crew-chief-1'], 'Image' => 'perk_health3', 'Description' => $l['perk-crew-chief-1-desc']),
+array( 'Name' => $l['perk-common-1'], 'Image' => 'perk_headshot', 'Description' => $l['perk-common-1-desc']),
+array( 'Name' => $l['perk-crew-chief-2'], 'Image' => 'perk_runningman', 'Description' => $l['perk-crew-chief-2-desc']),
+array( 'Name' => $l['perk-common-2'], 'Image' => 'perk_blender', 'Description' => $l['perk-common-2-desc']),
+array( 'Name' => $l['perk-crew-chief-3'], 'Image' => 'perk_health5', 'Description' => $l['perk-crew-chief-3-desc']),
+array( 'Name' => $l['perk-common-3'], 'Image' => 'perk_closet', 'Description' => $l['perk-common-3-desc']),
+array( 'Name' => $l['perk-crew-chief-4'], 'Image' => 'perk_armor1', 'Description' => $l['perk-crew-chief-4-desc']),
+array( 'Name' => $l['perk-common-4'], 'Image' => 'perk_fast', 'Description' => $l['perk-common-4-desc']),
+array( 'Name' => $l['perk-crew-chief-5'], 'Image' => 'perk_hostagelove', 'Description' => $l['perk-crew-chief-5-desc'])
+);
+
+$deck_muscle = array(
+array( 'Name' => $l['perk-muscle-1'], 'Image' => 'perk_health3', 'Description' => $l['perk-muscle-1-desc']),
+array( 'Name' => $l['perk-common-1'], 'Image' => 'perk_headshot', 'Description' => $l['perk-common-1-desc']),
+array( 'Name' => $l['perk-muscle-2'], 'Image' => 'perk_meat', 'Description' => $l['perk-muscle-2-desc']),
+array( 'Name' => $l['perk-common-2'], 'Image' => 'perk_blender', 'Description' => $l['perk-common-2-desc']),
+array( 'Name' => $l['perk-muscle-3'], 'Image' => 'perk_health8', 'Description' => $l['perk-muscle-3-desc']),
+array( 'Name' => $l['perk-common-3'], 'Image' => 'perk_closet', 'Description' => $l['perk-common-3-desc']),
+array( 'Name' => $l['perk-muscle-4'], 'Image' => 'perk_distrubing', 'Description' => $l['perk-muscle-4-desc']),
+array( 'Name' => $l['perk-common-4'], 'Image' => 'perk_fast', 'Description' => $l['perk-common-4-desc']),
+array( 'Name' => $l['perk-muscle-5'], 'Image' => 'perk_health12', 'Description' => $l['perk-muscle-5-desc'])
+);
+
+$deck_armorer = array(
+array( 'Name' => $l['perk-armorer-1'], 'Image' => 'perk_armor1', 'Description' => $l['perk-armorer-1-desc']),
+array( 'Name' => $l['perk-common-1'], 'Image' => 'perk_headshot', 'Description' => $l['perk-common-1-desc']),
+array( 'Name' => $l['perk-armorer-2'], 'Image' => 'perk_armor2', 'Description' => $l['perk-armorer-2-desc']),
+array( 'Name' => $l['perk-common-2'], 'Image' => 'perk_blender', 'Description' => $l['perk-common-2-desc']),
+array( 'Name' => $l['perk-armorer-3'], 'Image' => 'perk_armor3', 'Description' => $l['perk-armorer-3-desc']),
+array( 'Name' => $l['perk-common-3'], 'Image' => 'perk_closet', 'Description' => $l['perk-common-3-desc']),
+array( 'Name' => $l['perk-armorer-4'], 'Image' => 'perk_recovery1', 'Description' => $l['perk-armorer-4-desc']),
+array( 'Name' => $l['perk-common-4'], 'Image' => 'perk_fast', 'Description' => $l['perk-common-4-desc']),
+array( 'Name' => $l['perk-armorer-5'], 'Image' => 'perk_armor4', 'Description' => $l['perk-armorer-5-desc'])
+);
+
+$deck_rouge = array(
+array( 'Name' => $l['perk-rouge-1'], 'Image' => 'perk_dodge2', 'Description' => $l['perk-rouge-1-desc']),
+array( 'Name' => $l['perk-common-1'], 'Image' => 'perk_headshot', 'Description' => $l['perk-common-1-desc']),
+array( 'Name' => $l['perk-rouge-2'], 'Image' => 'perk_elusive', 'Description' => $l['perk-rouge-2-desc']),
+array( 'Name' => $l['perk-common-2'], 'Image' => 'perk_blender', 'Description' => $l['perk-common-2-desc']),
+array( 'Name' => $l['perk-rouge-3'], 'Image' => 'perk_dodge4', 'Description' => $l['perk-rouge-3-desc']),
+array( 'Name' => $l['perk-common-3'], 'Image' => 'perk_closet', 'Description' => $l['perk-common-3-desc']),
+array( 'Name' => $l['perk-rouge-4'], 'Image' => 'perk_dodge8', 'Description' => $l['perk-rouge-4-desc']),
+array( 'Name' => $l['perk-common-4'], 'Image' => 'perk_fast', 'Description' => $l['perk-common-4-desc']),
+array( 'Name' => $l['perk-rouge-5'], 'Image' => 'perk_instinct4', 'Description' => $l['perk-rouge-5-desc'])
+);
+
+$deck_hitman = array(
+array( 'Name' => $l['perk-hitman-1'], 'Image' => 'perk_recovery2', 'Description' => $l['perk-hitman-1-desc']),
+array( 'Name' => $l['perk-common-1'], 'Image' => 'perk_headshot', 'Description' => $l['perk-common-1-desc']),
+array( 'Name' => $l['perk-hitman-2'], 'Image' => 'perk_akimbo', 'Description' => $l['perk-hitman-2-desc']),
+array( 'Name' => $l['perk-common-2'], 'Image' => 'perk_blender', 'Description' => $l['perk-common-2-desc']),
+array( 'Name' => $l['perk-hitman-3'], 'Image' => 'perk_recovery8', 'Description' => $l['perk-hitman-3-desc']),
+array( 'Name' => $l['perk-common-3'], 'Image' => 'perk_closet', 'Description' => $l['perk-common-3-desc']),
+array( 'Name' => $l['perk-hitman-4'], 'Image' => 'perk_recovery10', 'Description' => $l['perk-hitman-4-desc']),
+array( 'Name' => $l['perk-common-4'], 'Image' => 'perk_fast', 'Description' => $l['perk-common-4-desc']),
+array( 'Name' => $l['perk-hitman-5'], 'Image' => 'perk_claw', 'Description' => $l['perk-hitman-5-desc'])
+);
+
+$deck_crook = array(
+array( 'Name' => $l['perk-crook-1'], 'Image' => 'perk_dodge2', 'Description' => $l['perk-crook-1-desc']),
+array( 'Name' => $l['perk-common-1'], 'Image' => 'perk_headshot', 'Description' => $l['perk-common-1-desc']),
+array( 'Name' => $l['perk-crook-2'], 'Image' => 'perk_runner2', 'Description' => $l['perk-crook-2-desc']),
+array( 'Name' => $l['perk-common-2'], 'Image' => 'perk_blender', 'Description' => $l['perk-common-2-desc']),
+array( 'Name' => $l['perk-crook-3'], 'Image' => 'perk_runner4', 'Description' => $l['perk-crook-3-desc']),
+array( 'Name' => $l['perk-common-3'], 'Image' => 'perk_closet', 'Description' => $l['perk-common-3-desc']),
+array( 'Name' => $l['perk-crook-4'], 'Image' => 'perk_runner8', 'Description' => $l['perk-crook-4-desc']),
+array( 'Name' => $l['perk-common-4'], 'Image' => 'perk_fast', 'Description' => $l['perk-common-4-desc']),
+array( 'Name' => $l['perk-crook-5'], 'Image' => 'perk_recovery2', 'Description' => $l['perk-crook-5-desc'])
+);
+
+$deck_burglar = array(
+array( 'Name' => $l['perk-burglar-1'], 'Image' => 'perk_dodge2', 'Description' => $l['perk-burglar-1-desc']),
+array( 'Name' => $l['perk-common-1'], 'Image' => 'perk_headshot', 'Description' => $l['perk-common-1-desc']),
+array( 'Name' => $l['perk-burglar-2'], 'Image' => 'perk_bags', 'Description' => $l['perk-burglar-2-desc']),
+array( 'Name' => $l['perk-common-2'], 'Image' => 'perk_blender', 'Description' => $l['perk-common-2-desc']),
+array( 'Name' => $l['perk-burglar-3'], 'Image' => 'perk_lucky', 'Description' => $l['perk-burglar-3-desc']),
+array( 'Name' => $l['perk-common-3'], 'Image' => 'perk_closet', 'Description' => $l['perk-common-3-desc']),
+array( 'Name' => $l['perk-burglar-4'], 'Image' => 'perk_courage', 'Description' => $l['perk-burglar-4-desc']),
+array( 'Name' => $l['perk-common-4'], 'Image' => 'perk_fast', 'Description' => $l['perk-common-4-desc']),
+array( 'Name' => $l['perk-burglar-5'], 'Image' => 'perk_shield3', 'Description' => $l['perk-burglar-5-desc'])
+);
+
+$deck_infiltrator = array(
+array( 'Name' => $l['perk-infiltrator-1'], 'Image' => 'perk_closecombat1', 'Description' => $l['perk-infiltrator-1-desc']),
+array( 'Name' => $l['perk-common-1'], 'Image' => 'perk_headshot', 'Description' => $l['perk-common-1-desc']),
+array( 'Name' => $l['perk-infiltrator-2'], 'Image' => 'perk_closecombat2', 'Description' => $l['perk-infiltrator-2-desc']),
+array( 'Name' => $l['perk-common-2'], 'Image' => 'perk_blender', 'Description' => $l['perk-common-2-desc']),
+array( 'Name' => $l['perk-infiltrator-3'], 'Image' => 'perk_closecombat3', 'Description' => $l['perk-infiltrator-3-desc']),
+array( 'Name' => $l['perk-common-3'], 'Image' => 'perk_closet', 'Description' => $l['perk-common-3-desc']),
+array( 'Name' => $l['perk-infiltrator-4'], 'Image' => 'perk_hitguys4', 'Description' => $l['perk-infiltrator-4-desc']),
+array( 'Name' => $l['perk-common-4'], 'Image' => 'perk_fast', 'Description' => $l['perk-common-4-desc']),
+array( 'Name' => $l['perk-infiltrator-5'], 'Image' => 'perk_healthhit2', 'Description' => $l['perk-infiltrator-5-desc'])
+);
+
+//
 //Skilltrees
 //
-
 if ($skill_mastermind_cable_guy == 1 || $skill_mastermind_combat_medic == 1 || $skill_mastermind_triathlete == 1){$skill_mastermind_unlocked = 1;};
 
 $mastermind = array(
