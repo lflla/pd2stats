@@ -1123,7 +1123,7 @@ $l['perk-armorer-5'] = 'Liquid Armor';
 $l['perk-armorer-5-desc'] = 'You gain an additional <div class="bluein">5%</div> more armor.<br/><br/>Reduces the armor recovery time for you and your crew by <div class="bluein">10%</div>.<br/><br/>Note: Crew perks do no stack.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
 //Deck Rouge
 $l['perk-rouge'] = 'Rouge';
-$l['perk-rouge-desc'] 'The Rouge is a stealthy criminal, capable of sneaky tricks and deadly force, Versatile and deceptive, the Rouge is hired to do anything from pickpocketing, to burglaries and con jobs.<br/><br/>The trademark of Rouge is his versatility - what he lacks in strength he make up for in skill.';
+$l['perk-rouge-desc'] = 'The Rouge is a stealthy criminal, capable of sneaky tricks and deadly force, Versatile and deceptive, the Rouge is hired to do anything from pickpocketing, to burglaries and con jobs.<br/><br/>The trademark of Rouge is his versatility - what he lacks in strength he make up for in skill.';
 $l['perk-rouge-1'] = 'Suble';
 $l['perk-rouge-1-desc'] = 'Your change to dodge is increased by <div class="bluein">10%</div>.';
 $l['perk-rouge-2'] = 'Elusive';
