@@ -10,7 +10,7 @@ $l['author'] = 'Tatsuto';
 $l['charset'] = 'UTF-8';
 
 ////
-// Formating Instructions
+// Formatting Instructions
 ////
 // <div class="bluein">NR</div> is used to color numbers and % in Skills.
 // Examples: <div class="bluein">50%</div> and <div class="bluein">5</div>
@@ -45,10 +45,10 @@ $l['switch'] = 'switch';
 $l['languagetex'] = 'Language';
 $l['detection'] = 'Warning';
 //Itemindex
-$l['maskindex'] = 'maskindex';
-$l['weaponindex'] = 'weaponindex';
-$l['gearindex'] = 'gearindex';
-$l['levelindex'] = 'levelindex';
+$l['maskindex'] = 'mask-index';
+$l['weaponindex'] = 'weapon-index';
+$l['gearindex'] = 'gear-index';
+$l['levelindex'] = 'level-index';
 $l['itemindexmenu'] = 'Item Index Menu';
 $l['gear'] = 'Gear';
 $l['levelmenu'] = 'Levels';
@@ -137,7 +137,7 @@ $l['heist'] = 'Heists';
 $l['heist-help'] = 'This is the heist data. It tracks its data since Update #32.1. Green is won heists, Yellow is counting won heists that were joined in progress and red is lost heists. The first percentage is calculated using only this heist and the second is using all heist percent.';
 $l['sort'] = 'Sort by';
 $l['win'] = 'Win';
-$l['dropin'] = 'Dropin';
+$l['dropin'] = 'Drop-in';
 $l['fail'] = 'Fail';
 $l['escape'] = 'Escapes';
 $l['escape-help'] = 'This is the escape data. It tracks its data since approximately the GO Bank Update. This means it currently counts failed and successful days.';
@@ -398,7 +398,7 @@ $l['unicorn-description'] = 'Peter is a true legend and has been so for like, ev
 $l['smiley'] = 'Smiley';
 $l['smiley-description'] = 'There was once a clown who couldn\'t smile. He watched as the other clowns brought joy and happiness to both young and old. He grew envious and angry, so to the that he stapled his lips to his cheeks, giving him a wide grin. But instead of making everyone happy, they were all afraid, why, he did not understand.<br/><br/>He came to the conclusion perhaps this was his calling, to make people afraid... Very afraid.';
 $l['gumbo'] = 'Gumbo';
-$l['gumbo-description'] = 'Little is known about the man known as the devouring clown, but for a long time people believed that his read eyes were part of his outfit. Needless to say, they were wrong. Now people fear the red eyed clown with a laugh so evil it makes even the most seasoned badasses quiver in fear.<br/><br/>Word on the street is that he haunts alleyways in a demonic shape looking for something... Or someone. All that is known is that people end up dead, more dead than you thought possible...';
+$l['gumbo-description'] = 'Little is known about the man known as the devouring clown, but for a long time people believed that his read eyes were part of his outfit. Needless to say, they were wrong. Now people fear the red eyed clown with a laugh so evil it makes even the most seasoned bad-asses quiver in fear.<br/><br/>Word on the street is that he haunts alleyways in a demonic shape looking for something... Or someone. All that is known is that people end up dead, more dead than you thought possible...';
 $l['jw_shades'] = 'Collateral';
 $l['jw_shades-description'] = 'These shades belonged to a colleague of John\'s that he was hired to kill.<br/><br/>It started like any other night. Only this night, he got a contract to kill another contract killer who was making rounds that day. John knew he had five stops to make and was using the same taxi cab between all of them.<br/><br/>In the end, he didn\'t even need to do the deed himself - he was already dead when he found him.';
 $l['stoneface'] = 'Terminator';
@@ -409,7 +409,7 @@ $l['crazy_lion'] = 'Mad Lion';
 $l['crazy_lion-description'] = 'A horrifying mask shaped like the head of a lion.<br/><br/>Little is known about this mask. It is said it was made by a crazy Balkan scientist who had a sick fascination for lions. Only he could see the beauty in this mask.<br/><br/>The mask was given to you by someone who wishes you well.';
 //Crimefest
 $l['combusto'] = 'Firestarter';
-$l['combusto-description'] = 'This clown used to be a master of pyrotechnics, having a fire breathing number that no one could top. His competitors in the not-so-known-firebreathing-clown-scene were unhappy with his success... And spiked his cocktail. With third degree burns on his face and an evil look in his eyes he fought fire with fire and set the other clown ablaze. But he didn\'t stop there, the fiery hatred in him burned too bright. Now he seeks to set the world on fire.';
+$l['combusto-description'] = 'This clown used to be a master of pyrotechnics, having a fire breathing number that no one could top. His competitors in the not-so-known-fire-breathing-clown-scene were unhappy with his success... And spiked his cocktail. With third degree burns on his face and an evil look in his eyes he fought fire with fire and set the other clown ablaze. But he didn\'t stop there, the fiery hatred in him burned too bright. Now he seeks to set the world on fire.';
 $l['spackle'] = 'Spackle';
 $l['spackle-description'] = 'Once a well renowned circus clown Spackle was the best make-up artist in the scene. Known for her skill and ability to make people look so unlike themselves, she became obsessed with art. With her own face as canvas she tirelessly applied layer after layer, each becoming more twisted. She was sent to an asylum after killing five people during their make-up process.';
 //Lootbag
@@ -446,7 +446,7 @@ $l['gage_deltaforce-description'] = '4th Domestic Operation Group-force Enforcer
 $l['cloth_commander'] = 'Commander Crime';
 $l['cloth_commander-description'] = 'Commander Crime is an American fictional character, a super-villain and the supreme leader of the criminal network C.R.I.M.E. who appears in comic books by OVERKILL Comics.<br/><br/>The character was created by now world renowned writer-editor-artist and professional badminton player Max Elmberg Sjöholm.<br/><br/>Commander Crime made his first appearance in The Amazing Career Criminals: The PAYDAY gang gets a C.R.I.M.E. offer they can\'t refuse!';
 $l['gage_blade'] = 'Gage Blade';
-$l['gage_blade-description'] = 'The Gage Blade is one of Gage\'s own personal favorite ballistic face masks. It will protect your face from one or two 9mm bullets before your head explodes.<br/><br/>Without this mask, Gage wouldn\'t be the wonderful human being he is today.';
+$l['gage_blade-description'] = 'The Gage Blade is one of Gage\'s own personal favourite ballistic face masks. It will protect your face from one or two 9mm bullets before your head explodes.<br/><br/>Without this mask, Gage wouldn\'t be the wonderful human being he is today.';
 $l['gage_rambo'] = 'Troubled War Veteran';
 $l['gage_rambo-description'] = 'The Troubled War Veteran is a mask that Gage has worked on for some time. Back in the Vietnam war Gage met this big-muscled guy who went nuts and started to use a bow instead of modern weapons.<br/><br/>He died pretty early in the war, but for some strange reason Gage couldn\'t forget his face.';
 //Gage Sniper
@@ -457,10 +457,10 @@ $l['mantis-description'] = 'The common name for these lovely little fellows is "
 $l['spider'] = 'Tarantula';
 $l['spider-description'] = 'Eight legs strong, tarantula sizes range from as small as a fingernail to as large as a handgun when the legs are fully extended. The name originally comes from the name Lycosa tarantula, a species of wolf spider. Tarantulas generally hunt in trees, on or near the ground. They\'re also popular as pets.';
 $l['wasp'] = 'Vespula';
-$l['wasp-description'] = 'Two pairs of wings, an ovipositor or stinger, no thickened hairs and a pair of talons. That\'s the wasp for you. Almost every pest insect species has at least one wasp species that preys upon it or parasitizes it. This makes the wasps very important in natural control of their numbers.';
+$l['wasp-description'] = 'Two pairs of wings, an ovipositor or stinger, no thickened hairs and a pair of talons. That\'s the wasp for you. Almost every pest insect species has at least one wasp species that preys upon it or parasites it. This makes the wasps very important in natural control of their numbers.';
 //Gage Shotgun
 $l['orangutang'] = 'Rutger';
-$l['orangutang-description'] = 'Rutger the motherfucking Orangutan. If you\'re strolling down the jungle and suddenly face an orang-utan, you\'re in trouble. Statistics show that one orang-utan is more dangerous than ten hobos with shotguns<br/><br/>You remember that movie about dinosaurs with the big dinosaur in the end saving the kids? Know who killed the dinosaur after the credits? The kids did, but you know who killed the kids? Rutger the motherfucking orangutan did.';
+$l['orangutang-description'] = 'Rutger the motherfucking Orang-utan. If you\'re strolling down the jungle and suddenly face an orang-utan, you\'re in trouble. Statistics show that one orang-utan is more dangerous than ten hobos with shotguns<br/><br/>You remember that movie about dinosaurs with the big dinosaur in the end saving the kids? Know who killed the dinosaur after the credits? The kids did, but you know who killed the kids? Rutger the motherfucking orangutan did.';
 $l['silverback'] = 'Steven';
 $l['silverback-description'] = 'Steven the Silverback Gorilla. Not only is he fucking huge, he\'s strong as hell too. He can break your back by just looking at you. You\'ll be hospitalized for weeks. Not only that, but there\'ll be months of therapy as well. Do you know how hard it is learning to walk again?<br/><br/>Want to know what else is hard? Steven\'s muscles. 22 years ago he worked as a chef on a military ship. Killed everyone in 103 minutes.';
 $l['mandril'] = 'John';
@@ -471,7 +471,7 @@ $l['skullmonkey-description'] = 'Clint the Black-Capped Squirrel Monkey. Not rea
 $l['crowgoblin'] = 'Crow Goblin';
 $l['crowgoblin-description'] = 'For the longest time ever no one knew who the real identity behind the Crow Goblin was. Twenty years later people found out, but it was unsatisfactory so they said that that person was an imposter or something. The real Crow Goblin was someone else.<br/><br/>I don\'t want to bore you with the rest of it but the mask looks pretty nice, yeah? It\'s got a purple hat, or maybe it\'s a hoodie, I don\'t know. It sports a pretty cool grin and some thread sewn across its face. I wonder who hides behind the mask though.';
 $l['evil'] = 'Black Death';
-$l['evil-description'] = 'Bob Robertson worked at a purple stuff factory. The purple stuff factory was old and in need of reperations. Bob mentioned this to his supervisors but they ignored him. Bob kept on hardly working, playing pre-installed games on his operative system. One day when he was checking out early, cracks started to form in a container filled with purple stuff. Just when he went past, the container burst and Bob was drenched in purple stuff.<br/><br/>When he got out of hospital, he had become a super villain. His face has been purple ever since.';
+$l['evil-description'] = 'Bob Robertson worked at a purple stuff factory. The purple stuff factory was old and in need of reparations. Bob mentioned this to his supervisors but they ignored him. Bob kept on hardly working, playing pre-installed games on his operative system. One day when he was checking out early, cracks started to form in a container filled with purple stuff. Just when he went past, the container burst and Bob was drenched in purple stuff.<br/><br/>When he got out of hospital, he had become a super villain. His face has been purple ever since.';
 $l['galax'] = 'Professor Wrath';
 $l['galax-description'] = 'Milhouse Anderson worked at a chemical plant handling dangerous chemical waste. As a prank, his friends thought it would be a good idea to lock him up in the room where they kept the dangerous chemical waste. What they didn\'t know was that the dangerous chemical waste was dangerous, and while being locked in for several hours, Milhouse was exposed to high levels of radiation and other bad stuff.<br/><br/>When they finally let him out, he had become a super villain. He\'s been super angry ever since.';
 $l['volt'] = 'Volt';
@@ -482,7 +482,7 @@ $l['churchill-description'] = 'Politician, prize winner, owner of many medals an
 $l['de_gaulle'] = 'The Constable';
 $l['de_gaulle-description'] = 'For much between 1940-1969, the Constable was the dominant military and political leader of France. Refusing to accept his government\'s armistice with the German invaders in 1940, he set up his base in London, proclaimed himself the incarnation of France, and created the Free French movement. During the war he rallied the overseas colonies, especially those in Africa, organized the Resistance from abroad, and struggled to gain full recognition from the British and Americans.';
 $l['patton'] = 'Old Blood and Guts';
-$l['patton-description'] = 'One of the bravest men I saw in the African campaign was on a telegraph pole in the midst of furious fire while we were moving toward Tunis. I stopped and asked him what the hell he was doing up there. He answered, \'Fixing the wire, sir.\' \'Isn\'t it a little unhealthy up there right now?\' I asked. \'Yes sir, but this goddamn wire has got to be fixed.\' I asked, \'Don\'t those planes strafing the road bother you?\' And he answered, \'No sir, but you sure as hell do.\'<br/><br/>Now, there was a real soldier. A real man. A man who devoted all he had to his duty, no matter how great the odds, no matter how seemingly insignificant his duty appeared at the time.';
+$l['patton-description'] = 'One of the bravest men I saw in the African campaign was on a telegraph pole in the midst of furious fire while we were moving toward Tunis. I stopped and asked him what the hell he was doing up there. He answered, \'Fixing the wire, sir.\' \'Isn\'t it a little unhealthy up there right now?\' I asked. \'Yes sir, but this god-damn wire has got to be fixed.\' I asked, \'Don\'t those planes strafing the road bother you?\' And he answered, \'No sir, but you sure as hell do.\'<br/><br/>Now, there was a real soldier. A real man. A man who devoted all he had to his duty, no matter how great the odds, no matter how seemingly insignificant his duty appeared at the time.';
 $l['red_hurricane'] = 'The Read Bear';
 $l['red_hurricane-description'] = '"In Soviet Russia, Red Bear kills you." No one knows exactly who the Red Bear was; some say he was just a myth, a symbol of the motherland and everything that was strong, combined into one being. Only the stories are known and told again and again. Like that one time, when he killed a bunch of bears and came back home all in red, drenched in blood.';
 //Official Soundtrack
@@ -502,9 +502,9 @@ $l['grant-description'] = 'Soldier, Commander-In-Chief, father. Served this grea
 $l['washington'] = '1st';
 $l['washington-description'] = 'General of the Armies, Commander-In-Chief,  Founding Father. Served this great nation for 8 years.<br/><br/>The first ever president, and a great one at that.<br/><br/>The 1st was one of the most popular presidents in history and the face of the $1 bill. Among criminals, he remains extremely popular.';
 $l['franklin'] = 'First American';
-$l['franklin-description'] = 'Worlds-renowned polymath, author, printer, political theorist, postmaster, scientist, inventor, civic activist, statesman, diplomat, Founding Father.<br/><br/> Titulated as "The First American" and the face of the $100 bill.<br/><br/>Among criminals, he remains extremely popular.';
+$l['franklin-description'] = 'Worlds-renowned polymath, author, printer, political theorist, postmaster, scientist, inventor, civic activist, statesman, diplomat, Founding Father.<br/><br/> Titled as "The First American" and the face of the $100 bill.<br/><br/>Among criminals, he remains extremely popular.';
 //Twisted Metal
-$l['sweettooth'] = 'Sweettooth';
+$l['sweettooth'] = 'Sweet ooth';
 $l['sweettooth-description'] = 'Sweet Tooth, real name Marcus "Needles" Kane is a character from the Twisted Metal video game series. Sweet Tooth is best known for being a killer clown that drives a combat ice cream truck.<br/><br/>It\'s said that he once had escaped from a mental institution. He now leads a life of crime.';
 //Halloween 2013
 $l['frank'] = 'Frank';
@@ -572,7 +572,7 @@ $l['alien_helmet-description'] = 'Grey Aliens are alleged extraterrestrial being
 $l['krampus'] = 'Krampus';
 $l['krampus-description'] = 'Been a bad boy or girl this year? Then you can expect a visit from Krampus. Or a phone-call from Bain.';
 $l['mrs_claus'] = 'Mrs. Claus';
-$l['mrs_claus-description'] = 'When Santa is flying through December skies, someone has to stay home and keep the elves in line. No-one does that better than the whip-cracking, cigar-smoking kommandant of the Claus household.';
+$l['mrs_claus-description'] = 'When Santa is flying through December skies, someone has to stay home and keep the elves in line. No-one does that better than the whip-cracking, cigar-smoking commandant of the Claus household.';
 $l['strinch'] = 'Strinch';
 $l['strinch-description'] = 'A seasoned heister over the festival period, the Strinch has been stealing Christmases since 1957. Also linked with the Halloween Heist of 1972.';
 $l['robo_santa'] = 'Mechanical Santa';
@@ -587,7 +587,7 @@ $l['medusa-description'] = 'A hideous visage, snakes for hair, a petrifying gaze
 $l['anubis'] = 'Anubis';
 $l['anubis-description'] = 'The Egyptian jackal-headed god of the afterlife, Anubis sought to protect graves rather than fill them.';
 $l['pazuzu'] = 'Pazuzu';
-$l['pazuzu-description'] = 'Pazuzu was the king of the wind demons according to ancient Babylonian mythology. Legends also tell of him as a beastial behemoth fighting groups of adventurers in far away lands, and some even say he walked the earth as an immortal warrior in human form.';
+$l['pazuzu-description'] = 'Pazuzu was the king of the wind demons according to ancient Babylonian mythology. Legends also tell of him as a bestial behemoth fighting groups of adventurers in far away lands, and some even say he walked the earth as an immortal warrior in human form.';
 //Clover Character Pack
 $l['msk_grizel'] = 'Clover';
 $l['msk_grizel-description'] = 'Clover\'s Mask represents what Clover both fears and hates most of all - wearing a mask as your normal face. The surgically-shrunken nose, the botox\'d lips and the expression of all-consuming vanity and self-obsession - all are symbols of fear and weakness, twisted into a horrifying parody.';
@@ -677,9 +677,9 @@ $l['clowncry-description'] = 'Is there anything sadder than a crying clown?<br/>
 $l['dripper'] = 'Dripper';
 $l['dripper-description'] = 'The Dripper was made by atomization of a larger mass of liquid, somehow made into a hard material while retaining a smooth surface.<br/><br/>Everyone who looks at it sees different things.<br/><br/>What do you see?';
 $l['irondoom'] = 'Doctor Crime';
-$l['irondoom-description'] = 'Doctor Mayhem is an American fictional character, a supervillain who appears in comic books by OVERKILL Comics.<br/><br/>The character was created by writer-editor David Goldfarb and designed by artist Max Elmberg Sjöholm.<br/><br/>He made his first appearance in "The Amazing Career Criminals: The PAYDAY gang meets Doctor Mayhem!"';
+$l['irondoom-description'] = 'Doctor Mayhem is an American fictional character, a super-villain who appears in comic books by OVERKILL Comics.<br/><br/>The character was created by writer-editor David Goldfarb and designed by artist Max Elmberg Sjöholm.<br/><br/>He made his first appearance in "The Amazing Career Criminals: The PAYDAY gang meets Doctor Mayhem!"';
 $l['gagball'] = 'Gagball';
-$l['gagball-description'] = 'Take a walk on the submissive side with a gagball stuck to your face.<br/><br/>People wear these for a variety of reasons, one being roleplays involving bondage. This isn\'t necessarily the case though, as gagballs apparently can be used in bank robberies too.';
+$l['gagball-description'] = 'Take a walk on the submissive side with a gagball stuck to your face.<br/><br/>People wear these for a variety of reasons, one being role-plays involving bondage. This isn\'t necessarily the case though, as gagballs apparently can be used in bank robberies too.';
 $l['greek_tragedy'] = 'Greek Tragedy';
 $l['greek_tragedy-description'] = 'A mask that symbolizes all the parts in a greek tragedy.<br/><br/>In old Greece, masks were used to worship the gods in ceremonial rites and celebrations.<br/><br/>This particular mask summarizes every heist in existence; the anger of someone triggering the alarm, the joy of opening the vault and the tragedy of being caught.';
 $l['hockey'] = 'Hockey Mask';
@@ -792,7 +792,7 @@ $l['controlfreak'] = 'Hostage Taker';
 $l['controlfreak-normal'] = 'Having at least one hostage makes you regenerate <div class="bluein">0.6%</div> health every <div class="bluein">5</div> seconds.';
 $l['controlfreak-ace'] = 'Having at least one hostage makes you regenerate <div class="bluein">2%</div> health every <div class="bluein">5</div> seconds.';
 $l['pistolmessiah'] = 'Pistol Messiah';
-$l['pistolmessiah-normal'] = 'When in bleedout, you are instantly revived if you kill an enemy with a pistol. You only have <div class="bluein">1</div> charge. You will replenish your charge when you get out of custody.';
+$l['pistolmessiah-normal'] = 'When in bleed-out, you are instantly revived if you kill an enemy with a pistol. You only have <div class="bluein">1</div> charge. You will replenish your charge when you get out of custody.';
 $l['pistolmessiah-ace'] = 'You gain an additional <div class="bluein">2</div> charges. You will replenish your charges when you get out of custody.';
 $l['inspire'] = 'Inspire';
 $l['inspire-normal'] = 'You revive crew members <div class="bluein">50%</div> faster. Shouting at your team-mates will increase their movement speed by <div class="bluein">20%</div> for <div class="bluein">10</div> seconds.';
@@ -880,9 +880,9 @@ $l['stunresistance-normal'] = 'Reduces the visual effect duration of flashbangs 
 $l['stunresistance-ace'] = 'Further reduces the visual effect duration by <div class="bluein">50%</div>.';
 $l['toughguy'] = 'Tough Guy';
 $l['toughguy-normal'] = 'Reduces your camera shake by <div class="bluein">50%</div> when you are damaged by enemy fire.';
-$l['toughguy-ace'] = 'Your bleedout health is increased by <div class="bluein">25%</div>.';
+$l['toughguy-ace'] = 'Your bleed-out health is increased by <div class="bluein">25%</div>.';
 $l['diehard'] = 'Die Hard';
-$l['diehard-normal'] = 'You can use your primary weapon in bleedout.';
+$l['diehard-normal'] = 'You can use your primary weapon in bleed-out.';
 $l['diehard-ace'] = 'Your armor recovers <div class="bluein">15%</div> faster.';
 $l['underdog'] = 'Underdog';
 $l['underdog-normal'] = 'When you are surrounded by three enemies or more, you receive a <div class="bluein">15%</div> damage bonus for <div class="bluein">7</div> seconds.';
@@ -946,7 +946,7 @@ $l['combatengineer-normal'] = 'Allows you to turn trip mines on or off.';
 $l['combatengineer-ace'] = 'Upgrades your trip mines with a sensor mode. Enemies that go past your trip mines while in sensor mode are highlighted for you and your crew.<br/><br/>If stealth is not an option, the trip mines will highlight special enemies for you and your crew.';
 $l['hardwareexpert'] = 'Hardware Expert';
 $l['hardwareexpert-normal'] = 'You fix the drill <div class="bluein">25%</div> faster and you also deploy trip mines <div class="bluein">20%</div> faster.';
-$l['hardwareexpert-ace'] = 'Gives drill a <div class="bluein">30%</div> chance to autorestart when it breaks down. You also deploy the sentry gun <div class="bluein">50%</div> faster.';
+$l['hardwareexpert-ace'] = 'Gives drill a <div class="bluein">30%</div> chance to auto-restart when it breaks down. You also deploy the sentry gun <div class="bluein">50%</div> faster.';
 $l['rifleman'] = 'Rifleman';
 $l['rifleman-normal'] = 'Your snap to zoom <div class="bluein">100%</div> faster with assault rifles and sniper rifles.';
 $l['rifleman-ace'] = 'Your weapon zoom level is increased by <div class="bluein">25%</div> with assault rifles and sniper rifles.';
@@ -968,9 +968,9 @@ $l['ecmfeedback-ace'] = 'You will now instantly interact with a ECM jammer and t
 $l['movingtarget'] = 'Moving Target';
 $l['movingtarget-normal'] = 'You can now sprint while strafing.';
 $l['movingtarget-ace'] = 'You can now sprint in any direction.';
-$l['lockpicking'] = 'Lockpicking Expert';
+$l['lockpicking'] = 'Lock-picking Expert';
 $l['lockpicking-normal'] = 'Increases your lock-picking interaction speed by <div class="bluein">25%</div>.';
-$l['lockpicking-ace'] = 'You can now silently crack safes by hand.<br/><br/>Further increases your lockpicking interaction speed by <div class="bluein">25%</div>.';
+$l['lockpicking-ace'] = 'You can now silently crack safes by hand.<br/><br/>Further increases your lock-picking interaction speed by <div class="bluein">25%</div>.';
 $l['ecmoverdrive'] = 'ECM Overdrive';
 $l['ecmoverdrive-normal'] = 'Your ECM jammer duration is increased by <div class="bluein">25%</div>.';
 $l['ecmoverdrive-ace'] = 'Your ECM jammer can now also be used to open certain doors.';
@@ -1032,8 +1032,8 @@ $l['lowblow'] = 'Low Blow';
 $l['lowblow-normal'] = 'You gain a <div class="bluein">3%</div> critical hit chance for every <div class="bluein">3</div> points of concealment under <div class="bluein">35</div> up to <div class="bluein">30%</div>.';
 $l['lowblow-ace'] = 'You gain a <div class="bluein">3%</div> critical hit chance for every <div class="bluein">1</div> point of concealment under <div class="bluein">35</div> up to <div class="bluein">30%</div>.<br/><br/>Note: Does not apply to grenade launchers.';
 $l['counterstrike'] = 'Counter-Strike';
-$l['counterstrike-normal'] = 'When charging your melee weapon you will counterattack enemies that try to strike you, knocking them down. The knock-down does not deal any damage.';
-$l['counterstrike-ace'] = 'You can now counterattack Cloakers.';
+$l['counterstrike-normal'] = 'When charging your melee weapon you will counter-attack enemies that try to strike you, knocking them down. The knock-down does not deal any damage.';
+$l['counterstrike-ace'] = 'You can now counter-attack Cloakers.';
 $l['swansong'] = 'Swan Song';
 $l['swansong-normal'] = 'When your health reaches <div class="bluein">0</div>, instead of instantly going down, you can fight for <div class="bluein">3</div> seconds with a <div class="bluein">60%</div> movement speed penalty.';
 $l['swansong-ace'] = 'You no longer need to reload and can fight for an additional <div class="bluein">6</div> seconds.';
@@ -1066,7 +1066,7 @@ $l['daredevil-normal'] = 'Increase your climbing speed by <div class="bluein">20
 $l['daredevil-ace'] = 'You gain a <div class="bluein">15%</div> dodge chance while zip-lining.';
 $l['hiddenblade'] = 'Hidden Blade';
 $l['hiddenblade-normal'] = 'Increases your melee weapon concealment by <div class="bluein">2</div>. ';
-$l['hiddenblade-ace'] = 'Enemies make <div class="bluein">95%</div> less noise when shot or meleed to death.';
+$l['hiddenblade-ace'] = 'Enemies make <div class="bluein">95%</div> less noise when shot or melee\'d to death.';
 $l['thickskin'] = 'Thick Skin';
 $l['thickskin-normal'] = 'Your steadiness is increased by <div class="bluein">10</div>.';
 $l['thickskin-ace'] = 'Increases the armor of all ballistic vests by <div class="bluein">20</div>.';
@@ -1106,7 +1106,7 @@ $l['perk-muscle-2-desc'] = 'You are <div class="bluein">15%</div> more likely to
 $l['perk-muscle-3'] = 'Giant Strength';
 $l['perk-muscle-3-desc'] = 'You gain an additional <div class="bluein">30%</div> more health.';
 $l['perk-muscle-4'] = 'Disturbing the Peace';
-$l['perk-muscle-4-desc'] = 'You can use ligh machine guns, submachine guns and sniper rifles to spread panic among your enemies.<br/><br/>Panic will make enemies go into short bursts of uncontrollable fear.';
+$l['perk-muscle-4-desc'] = 'You can use light machine guns, submachine guns and sniper rifles to spread panic among your enemies.<br/><br/>Panic will make enemies go into short bursts of uncontrollable fear.';
 $l['perk-muscle-5'] = '800-pound Gorilla';
 $l['perk-muscle-5-desc'] = 'You gain an additional <div class="bluein">40%</div> more health.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
 //Deck Armorer
@@ -1147,7 +1147,7 @@ $l['perk-hitman-3-desc'] = 'Your armor recovery rate is increased by an addition
 $l['perk-hitman-4'] = 'Expert Recovery';
 $l['perk-hitman-4-desc'] = 'Your armor recovery rate is increased by an additional <div class="bluein">10%</div>, but you lose <div class="bluein">5%</div> armor.';
 $l['perk-hitman-5'] = 'Tooth and Claw';
-$l['perk-hitman-5-desc'] = 'Your armor recovery rate is increased by an addiontal <div class="bluein">10%</div>, but you lose <div class="bluein">5%</div> armor.<br/><br/>Your stability penalty with Akimbo weapons is set to <div class="bluein">50%</div> and increases the ammo capacity of your Akimbo weapons to <div class="bluein">125%</div>.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
+$l['perk-hitman-5-desc'] = 'Your armor recovery rate is increased by an additional <div class="bluein">10%</div>, but you lose <div class="bluein">5%</div> armor.<br/><br/>Your stability penalty with Akimbo weapons is set to <div class="bluein">50%</div> and increases the ammo capacity of your Akimbo weapons to <div class="bluein">125%</div>.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
 //Deck Crook
 $l['perk-crook'] = 'Crook';
 $l['perk-crook-desc'] = 'The Crook is a versatile criminal. The term i as old as crime itself.<br/><br/>Truly, the crook is a jack of all trades and a master of none. He steals, lies, cheats and does any and every dishonest or illegal work necessary to get by.';
@@ -1176,17 +1176,17 @@ $l['perk-burglar-5'] = 'Breath of Fresh Air';
 $l['perk-burglar-5-desc'] = 'Standing still and crouch increases your armor recovery rate by <div class="bluein">20%</div>.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
 //Deck Infiltrator
 $l['perk-infiltrator'] = 'Infiltrator';
-$l['perk-infiltrator-desc'] = 'The Infiltrator is an agent hired by a goverment or large criminal organisation to obtain industrial secrets from its competitors.<br/><br/>The Infiltrator is a close combat specialist who knows how to use the environment in order to get the upper hand.';
+$l['perk-infiltrator-desc'] = 'The Infiltrator is an agent hired by a government or large criminal organisation to obtain industrial secrets from its competitors.<br/><br/>The Infiltrator is a close combat specialist who knows how to use the environment in order to get the upper hand.';
 $l['perk-infiltrator-1'] = 'Basic Close Combat';
-$l['perk-infiltrator-1-desc'] = 'When you are close to an enemy, you recieve <div class="bluein">4%</div> less damage from enemies.';
+$l['perk-infiltrator-1-desc'] = 'When you are close to an enemy, you receive <div class="bluein">4%</div> less damage from enemies.';
 $l['perk-infiltrator-2'] = 'Advanced Close Combat';
-$l['perk-infiltrator-2-desc'] = 'When you are close to an enemy, you recieve an additional <div class="bluein">4%</div> less damage from enemies.';
+$l['perk-infiltrator-2-desc'] = 'When you are close to an enemy, you receive an additional <div class="bluein">4%</div> less damage from enemies.';
 $l['perk-infiltrator-3'] = 'Expert Close Combat';
-$l['perk-infiltrator-3-desc'] = 'When you are close to an enemy, you recieve <div class="bluein">4%</div> less damage from enemies.<br/><br/>Each successful melee hit grants an additional <div class="bluein">10%</div> melee damage boost for <div class="bluein">6</div> seconds and can stack up to <div class="bluein">4</div> times.';
+$l['perk-infiltrator-3-desc'] = 'When you are close to an enemy, you receive <div class="bluein">4%</div> less damage from enemies.<br/><br/>Each successful melee hit grants an additional <div class="bluein">10%</div> melee damage boost for <div class="bluein">6</div> seconds and can stack up to <div class="bluein">4</div> times.';
 $l['perk-infiltrator-4'] = 'Overdog';
 $l['perk-infiltrator-4-desc'] = 'When you are surrounded by three enemies or more, you receive an additional <div class="bluein">8%</div> less damage from enemies.<br/><br/>Each successful melee hit grants an additional <div class="bluein">10%</div> melee damage boost for <div class="bluein">6</div> seconds and can stack up to <div class="bluein">4</div> times.';
 $l['perk-infiltrator-5'] = 'Life Drain';
-$l['perk-infiltrator-5-desc'] = 'Striking an enemiy with your melee weapon regenerates <div class="bluein">10%</div> of your health. This cannot occur more than once every <div class="bluein">15</div> seconds.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
+$l['perk-infiltrator-5-desc'] = 'Striking an enemy with your melee weapon regenerates <div class="bluein">10%</div> of your health. This cannot occur more than once every <div class="bluein">15</div> seconds.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
 //Characters
 $l['chars'] = 'Characters';
 $l['houston'] = 'Houston';
@@ -1201,7 +1201,7 @@ $l['characters-help'] = 'Shows character usage since the Crimefest Update';
 $l['dragan'] = 'Dragan';
 $l['dragan-char'] = 'Nationality: Croatian<br/>Age: 45<br/><br/>Dragan may be a former cop, but he\'s a former Croatian cop, which means his methods make the MPDC look like timid babysitters. He was brought to America and accepted into the PAYDAY gang as a favour to The Butcher. While there were some early suspicions regarding his true loyalties, his ability and commitment are indisputable.';
 $l['clover'] = 'Clover';
-$l['clover-char'] = 'Nationality: Irish<br/>Age: 27<br/><br/>Clover grew up in a rough house in a rough part of town. Her ancestors were fighters in every generation, and she is fiercly dedicated to her Irish heritage. She wears the clovers for luck, as well as a way to say "I\'m Irish, and I\'m proud".';
+$l['clover-char'] = 'Nationality: Irish<br/>Age: 27<br/><br/>Clover grew up in a rough house in a rough part of town. Her ancestors were fighters in every generation, and she is fiercely dedicated to her Irish heritage. She wears the clovers for luck, as well as a way to say "I\'m Irish, and I\'m proud".';
 //Enemies
 $l['e-cop'] = 'Metropolitan Police';
 $l['e-cop_heavy'] = 'Heavy Police Officer';
