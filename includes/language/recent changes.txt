@@ -1,4 +1,7 @@
 ﻿12.02.2015
+added at start of perk decks shared
+$l['perk-decks'] = 'Perk Decks';
+
 added after fugitive section
 //Perk-Decks Shared
 $l['perk-common-1'] = 'Helmet Popping';

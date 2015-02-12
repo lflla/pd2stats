@@ -1073,6 +1073,7 @@ $l['thickskin-ace'] = 'Increases the armor of all ballistic vests by <div class=
 $l['unlockfugitive'] = 'Unlocking the Fugitive';
 $l['unlockfugitive-normal'] = 'The Fugitive is a survivor, always on the run and an expert at hiding from the law.<br/><br/>Spending the first point in the Fugitive skill tree unlocks the ability to place the first aid kit deployable. The first aid kit is quick to deploy, quick to use and restores health on pick-up.<br/><br/><div class="bluein">4</div> first aid kits are added to your inventory.';
 //Perk-Decks Shared
+$l['perk-decks'] = 'Perk Decks';
 $l['perk-common-1'] = 'Helmet Popping';
 $l['perk-common-1-desc'] = 'Increases your headshot damage by <div class="bluein">25%</div>.';
 $l['perk-common-2'] = 'Blending In';
