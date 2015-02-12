@@ -1161,7 +1161,7 @@ $l['perk-crook-4-desc'] = 'Your chance to dodge is increased by <div class="blue
 $l['perk-crook-5'] = 'Master Recovery';
 $l['perk-crook-5-desc'] = 'Your armor recovery rate is increased by <div class="bluein">10%</div>.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
 //Deck Burglar
-$l['perk-burglar'] = 'Burglar'
+$l['perk-burglar'] = 'Burglar';
 $l['perk-burglar-desc'] = 'The natural dexterity of the Burglar has benefits beyond merely breaking and entering. Being nimble allows the Burglar to pick locks, bag bodies and answer pagers faster. They are also harder to hit in combat. They stay alive by staying out of the way.<br/><br/>This physical conditioning also gives the Burglar a high tolerance to pain and the ability to shrug off wounds quickly.';
 $l['perk-burglar-1'] = 'Suble';
 $l['perk-burglar-1-desc'] = 'Your change to dodge is increased by <div class="bluein">10%</div>.';
