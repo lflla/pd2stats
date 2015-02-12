@@ -1072,6 +1072,120 @@ $l['thickskin-normal'] = 'Your steadiness is increased by <div class="bluein">10
 $l['thickskin-ace'] = 'Increases the armor of all ballistic vests by <div class="bluein">20</div>.';
 $l['unlockfugitive'] = 'Unlocking the Fugitive';
 $l['unlockfugitive-normal'] = 'The Fugitive is a survivor, always on the run and an expert at hiding from the law.<br/><br/>Spending the first point in the Fugitive skill tree unlocks the ability to place the first aid kit deployable. The first aid kit is quick to deploy, quick to use and restores health on pick-up.<br/><br/><div class="bluein">4</div> first aid kits are added to your inventory.';
+//Perk-Decks Shared
+$l['perk-common-1'] = 'Helmet Popping';
+$l['perk-common-1-desc'] = 'Increases your headshot damage by <div class="bluein">25%</div>.';
+$l['perk-common-2'] = 'Blending In';
+$l['perk-common-2-desc'] = 'You gain <div class="bluein">+1</div> increased concealment.<br/><br/>When wearing armor, your movement speed is <div class="bluein">15%</div> less affected.<br/><br/>You gain <div class="bluein">45%</div> more experience when you complete days and jobs.';
+$l['perk-common-3'] = 'Walk-in Closet';
+$l['perk-common-3-desc'] = 'Unlocks an armor bag equipment for you to use. The Armor bag can be used to change your armor during a heist.<br/><br/>Increases your ammo pickup to <div class="bluein">135%</div> of the normal rate.';
+$l['perk-common-4'] = 'Fast and Furious';
+$l['perk-common-4-desc'] = 'You do <div class="bluein">5%</div> more damage.<br/><br/>Increases your doctor bag interaction speed by <div class="bluein">20%</div>.';
+$l['progress'] = 'Progress';
+//Deck Crew Chief
+$l['perk-crew-chief'] = 'Crew Chief';
+$l['perk-crew-chief-desc'] = 'The Crew Chief, also known as the Caporegime, is the head of a branch of an organized crime syndicate. The Crew Chief commands an crew of soldier and reports directly to a boss or an underboss.<br/><br/>When the crime syndicate needs to have someone dealt with, the Crew Chief and his soldiers make sure it\'s done.';
+$l['perk-crew-chief-1'] = 'Brute Strength';
+$l['perk-crew-chief-1-desc'] = 'You gain <div class="bluein">10%</div> more health.';
+$l['perk-crew-chief-2'] = 'Marathon Man';
+$l['perk-crew-chief-2-desc'] = 'You and your crew\s stamina is increased by <div class="bluein">50%</div>.<br/><br/>Increases your shout distance by <div class="bluein">25%</div>.<br/><br/>Note: Crew perks do not stack.';
+$l['perk-crew-chief-3'] = 'Wolf Pack';
+$l['perk-crew-chief-3-desc'] = 'You and your crew gains <div class="bluein">15%</div> more health.<br/><br/>Note: Crew perk do not stack.';
+$l['perk-crew-chief-4'] = 'Testudo';
+$l['perk-crew-chief-4-desc'] = 'You gain <div class="bluein">10%</div> more armor and your crew gains an additional <div class="bluein">5%</div> more armor.<br/><br/>Note: Crew perks do not stack.';
+$l['perk-crew-chief-5'] = 'Hostage Situation';
+$l['perk-crew-chief-5-desc'] = 'You and your crew gains <div class="bluein">2%</div> max health and <div class="bluein">4%</div> stamina for each hostage up to <div class="bluein">10</div> times.<br/><br/>Note: Crew perks do no stack.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
+//Deck Muscle
+$l['perk-muscle'] = 'Muscle';
+$l['perk-muscle-desc'] = 'The Muscle is a thouigh guy who uses violence to send messages from his Mafia superiors. They are the backbone of any criminal organisation.<br/><br/>The Muscle is called in whenever you need to rough someone up, break some legs, crush a skull or remind people who\s boss.';  
+$l['perk-muscle-1'] = 'Brute Strength';
+$l['perk-muscle-1-desc'] = 'You gain <div class="bluein">10%</div> more health.';
+$l['perk-muscle-2'] = 'Meat Shield';
+$l['perk-muscle-2-desc'] = 'You are <div class="bluein">15%</div> more likely to be targeted when you are close to your crew members.<br/><br/>You gain <div class="bluein">10%</div> more health.';
+$l['perk-muscle-3'] = 'Giant Strength';
+$l['perk-muscle-3-desc'] = 'You gain an additional <div class="bluein">30%</div> more health.';
+$l['perk-muscle-4'] = 'Disturbing the Peace';
+$l['perk-muscle-4-desc'] = 'You can use ligh machine guns, submachine guns and sniper rifles to spread panic among your enemies.<br/><br/>Panic will make enemies go into short bursts of uncontrollable fear.';
+$l['perk-muscle-5'] = '800-pound Gorilla';
+$l['perk-muscle-5-desc'] = 'You gain an additional <div class="bluein">40%</div> more health.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
+//Deck Armorer
+$l['perk-armorer'] = 'Armorer';
+$l['perk-armorer-desc'] = 'The Armorer was formerly a profession within the military. The armorer\'s job is to maintain, repair and improve armors.<br/><br/>Any self-respecting crime syndicate needs someone who can make sure the soldiers have the necessary protection to do their jobs.';
+$l['perk-armorer-1'] = 'Type I Armor';
+$l['perk-armorer-1-desc'] = 'You gain <div class="bluein">5%</div> more armor.';
+$l['perk-armorer-2'] = 'Type II Armor';
+$l['perk-armorer-2-desc'] = 'You gain an additional <div class="bluein">5%</div> more armor.';
+$l['perk-armorer-3'] = 'Type III Armor';
+$l['perk-armorer-3-desc'] = 'You gain an additional <div class="bluein">5%</div> more armor.';
+$l['perk-armorer-4'] = 'Reinforced Armor';
+$l['perk-armorer-4-desc'] = 'You armor recovery rate is increased by <div class="bluein">10%</div>.';
+$l['perk-armorer-5'] = 'Liquid Armor';
+$l['perk-armorer-5-desc'] = 'You gain an additional <div class="bluein">5%</div> more armor.<br/><br/>Reduces the armor recovery time for you and your crew by <div class="bluein">10%</div>.<br/><br/>Note: Crew perks do no stack.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
+//Deck Rouge
+$l['perk-rouge'] = 'Rouge';
+$l['perk-rouge-desc'] 'The Rouge is a stealthy criminal, capable of sneaky tricks and deadly force, Versatile and deceptive, the Rouge is hired to do anything from pickpocketing, to burglaries and con jobs.<br/><br/>The trademark of Rouge is his versatility - what he lacks in strength he make up for in skill.';
+$l['perk-rouge-1'] = 'Suble';
+$l['perk-rouge-1-desc'] = 'Your change to dodge is increased by <div class="bluein">10%</div>.';
+$l['perk-rouge-2'] = 'Elusive';
+$l['perk-rouge-2-desc'] = 'You are <div class="bluein">15%</div> less likely to be targeted when you are close to your crew members.';
+$l['perk-rouge-3'] = 'Evasive';
+$l['perk-rouge-3-desc'] = 'Your chance to dodge is increased by an additional <div class="bluein">10%</div>.';
+$l['perk-rouge-4'] = 'Shadow Warrior';
+$l['perk-rouge-4-desc'] = 'Your chance to dodge is increased by an additional <div class="bluein">10%</div>.';
+$l['perk-rouge-5'] = 'Killer Instinct';
+$l['perk-rouge-5-desc'] = 'All your weapons have a <div class="bluein">25%</div> chance to pierce enemy armor.<br/><br/>The time between swapping weapons is reduced for you by <div class="bluein">80%</div>.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
+//Deck Hitman
+$l['perk-hitman'] = 'Hitman';
+$l['perk-hitman-desc'] = 'The Hitman is a professional killer from the criminal underworld who excels at close and ranged combat.<br/><br/>Criminal syndicated will hire a hitman as a last resort to enforce criminal authority, deliver retribution or eliminate competition.';
+$l['perk-hitman-1'] = 'Basic Recovery';
+$l['perk-hitman-1-desc'] = 'Your armor recovery rate is increased by <div class="bluein">5%</div>.';
+$l['perk-hitman-2'] = 'Ambidexterity';
+$l['perk-hitman-2-desc'] = 'You can dual wield two weapons. These can be found under the Akimbo tab in the inventory menu.<br/><br/>Dual wielded weapons have a <div class="bluein">75%</div> stability penalty.<br/><br/>Your armor recovery rate is increased by an additional <div class="bluein">10%</div>, but you lose <div class="bluein">5%</div> armor.';
+$l['perk-hitman-3'] = 'Advanced Recovery';
+$l['perk-hitman-3-desc'] = 'Your armor recovery rate is increased by an additional <div class="bluein">10%</div>, but you lose <div class="bluein">5%</div> armor.';
+$l['perk-hitman-4'] = 'Expert Recovery';
+$l['perk-hitman-4-desc'] = 'Your armor recovery rate is increased by an additional <div class="bluein">10%</div>, but you lose <div class="bluein">5%</div> armor.';
+$l['perk-hitman-5'] = 'Tooth and Claw';
+$l['perk-hitman-5-desc'] = 'Your armor recovery rate is increased by an addiontal <div class="bluein">10%</div>, but you lose <div class="bluein">5%</div> armor.<br/><br/>Your stability penalty with Akimbo weapons is set to <div class="bluein">50%</div> and increases the ammo capacity of your Akimbo weapons to <div class="bluein">125%</div>.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
+//Deck Crook
+$l['perk-crook'] = 'Crook';
+$l['perk-crook-desc'] = 'The Crook is a versatile criminal. The term i as old as crime itself.<br/><br/>Truly, the crook is a jack of all trades and a master of none. He steals, lies, cheats and does any and every dishonest or illegal work necessary to get by.';
+$l['perk-crook-1'] = 'Suble';
+$l['perk-crook-1-desc'] = 'Your change to dodge is increased by <div class="bluein">10%</div>.';
+$l['perk-crook-2'] = 'Basic Composure';
+$l['perk-crook-2-desc'] = 'Your chance to dodge is increased by <div class="bluein">10%</div> for ballistic vests.';
+$l['perk-crook-3'] = 'Advanced Composure';
+$l['perk-crook-3-desc'] = 'Your chance to dodge is increased by <div class="bluein">10%</div> for ballistic vests.';
+$l['perk-crook-4'] = 'Expert Composure';
+$l['perk-crook-4-desc'] = 'Your chance to dodge is increased by <div class="bluein">15%</div> for ballistic vests.';
+$l['perk-crook-5'] = 'Master Recovery';
+$l['perk-crook-5-desc'] = 'Your armor recovery rate is increased by <div class="bluein">10%</div>.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
+//Deck Burglar
+$l['perk-burglar'] = 'Burglar'
+$l['perk-burglar-desc'] = 'The natural dexterity of the Burglar has benefits beyond merely breaking and entering. Being nimble allows the Burglar to pick locks, bag bodies and answer pagers faster. They are also harder to hit in combat. They stay alive by staying out of the way.<br/><br/>This physical conditioning also gives the Burglar a high tolerance to pain and the ability to shrug off wounds quickly.';
+$l['perk-burglar-1'] = 'Suble';
+$l['perk-burglar-1-desc'] = 'Your change to dodge is increased by <div class="bluein">10%</div>.';
+$l['perk-burglar-2'] = 'Bag of Tricks';
+$l['perk-burglar-2-desc'] = 'Standing still and crouching decreases your chances to be targeted by <div class="bluein">10%</div>.<br/><br/>You bag corpses <div class="bluein">20%</div> faster.';
+$l['perk-burglar-3'] = 'Luck of the Irish';
+$l['perk-burglar-3-desc'] = 'Your chance to dodge is increased by an additional <div class="bluein">5%</div>.<br/><br/>Your chance to be targeted while standing still and crouching is decreased by an additional <div class="bluein">5%</div>.<br/><br/>You pick locks <div class="bluein">20%</div> faster.';
+$l['perk-burglar-4'] = 'Dutch Courage';
+$l['perk-burglar-4-desc'] = 'Your chance to dodge is increased by an additional <div class="bluein">5%</div>.<br/><br/>Your chance to be targeted while standing still and crouching is decreased by an additional <div class="bluein">5%</div>.<br/><br/>You answer pagers <div class="bluein">10%</div> faster.';
+$l['perk-burglar-5'] = 'Breath of Fresh Air';
+$l['perk-burglar-5-desc'] = 'Standing still and crouch increases your armor recovery rate by <div class="bluein">20%</div>.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
+//Deck Infiltrator
+$l['perk-infiltrator'] = 'Infiltrator';
+$l['perk-infiltrator-desc'] = 'The Infiltrator is an agent hired by a goverment or large criminal organisation to obtain industrial secrets from its competitors.<br/><br/>The Infiltrator is a close combat specialist who knows how to use the environment in order to get the upper hand.';
+$l['perk-infiltrator-1'] = 'Basic Close Combat';
+$l['perk-infiltrator-1-desc'] = 'When you are close to an enemy, you recieve <div class="bluein">4%</div> less damage from enemies.';
+$l['perk-infiltrator-2'] = 'Advanced Close Combat';
+$l['perk-infiltrator-2-desc'] = 'When you are close to an enemy, you recieve an additional <div class="bluein">4%</div> less damage from enemies.';
+$l['perk-infiltrator-3'] = 'Expert Close Combat';
+$l['perk-infiltrator-3-desc'] = 'When you are close to an enemy, you recieve <div class="bluein">4%</div> less damage from enemies.<br/><br/>Each successful melee hit grants an additional <div class="bluein">10%</div> melee damage boost for <div class="bluein">6</div> seconds and can stack up to <div class="bluein">4</div> times.';
+$l['perk-infiltrator-4'] = 'Overdog';
+$l['perk-infiltrator-4-desc'] = 'When you are surrounded by three enemies or more, you receive an additional <div class="bluein">8%</div> less damage from enemies.<br/><br/>Each successful melee hit grants an additional <div class="bluein">10%</div> melee damage boost for <div class="bluein">6</div> seconds and can stack up to <div class="bluein">4</div> times.';
+$l['perk-infiltrator-5'] = 'Life Drain';
+$l['perk-infiltrator-5-desc'] = 'Striking an enemiy with your melee weapon regenerates <div class="bluein">10%</div> of your health. This cannot occur more than once every <div class="bluein">15</div> seconds.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
 //Characters
 $l['chars'] = 'Characters';
 $l['houston'] = 'Houston';
