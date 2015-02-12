@@ -659,7 +659,7 @@ array( 'Name' => $l['perk-infiltrator-3'], 'Image' => 'perk_closecombat3', 'Desc
 array( 'Name' => $l['perk-common-3'], 'Image' => 'perk_closet', 'Description' => $l['perk-common-3-desc']),
 array( 'Name' => $l['perk-infiltrator-4'], 'Image' => 'perk_hitguys4', 'Description' => $l['perk-infiltrator-4-desc']),
 array( 'Name' => $l['perk-common-4'], 'Image' => 'perk_fast', 'Description' => $l['perk-common-4-desc']),
-array( 'Name' => $l['perk-infiltrator-5'], 'Image' => 'perk_healthhit2', 'Description' => $l['perk-infiltrator-5-desc'])
+array( 'Name' => $l['perk-infiltrator-5'], 'Image' => 'perk_heathhit2', 'Description' => $l['perk-infiltrator-5-desc'])
 );
 
 //
