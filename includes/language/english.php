@@ -780,9 +780,9 @@ $l['mus'] = 'The Diamond';
 $l['nightsuffix'] = '(Night)';
 //Escapes
 $l['escapeparknight'] = 'Park (Night)';
-$l['escapeparkday'] = 'Park (Day)';
+$l['escapeparkday'] = 'Park';
 $l['escapecafenight'] = 'Cafe (Night)';
-$l['escapecafeday'] = 'Cafe (Day)';
+$l['escapecafeday'] = 'Cafe';
 $l['escapestreet'] = 'Street';
 $l['escapeoverpass'] = 'Overpass';
 $l['escapegarage'] = 'Garage';
