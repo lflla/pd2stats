@@ -1098,7 +1098,7 @@ $l['perk-crew-chief-5'] = 'Hostage Situation';
 $l['perk-crew-chief-5-desc'] = 'You and your crew gains <div class="bluein">2%</div> max health and <div class="bluein">4%</div> stamina for each hostage up to <div class="bluein">10</div> times.<br/><br/>Note: Crew perks do no stack.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
 //Deck Muscle
 $l['perk-muscle'] = 'Muscle';
-$l['perk-muscle-desc'] = 'The Muscle is a thouigh guy who uses violence to send messages from his Mafia superiors. They are the backbone of any criminal organisation.<br/><br/>The Muscle is called in whenever you need to rough someone up, break some legs, crush a skull or remind people who\s boss.';  
+$l['perk-muscle-desc'] = 'The Muscle is a though guy who uses violence to send messages from his Mafia superiors. They are the backbone of any criminal organisation.<br/><br/>The Muscle is called in whenever you need to rough someone up, break some legs, crush a skull or remind people who\'s boss.';  
 $l['perk-muscle-1'] = 'Brute Strength';
 $l['perk-muscle-1-desc'] = 'You gain <div class="bluein">10%</div> more health.';
 $l['perk-muscle-2'] = 'Meat Shield';
