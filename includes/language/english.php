@@ -1150,7 +1150,7 @@ $l['perk-hitman-5'] = 'Tooth and Claw';
 $l['perk-hitman-5-desc'] = 'Your armor recovery rate is increased by an additional <div class="bluein">10%</div>, but you lose <div class="bluein">5%</div> armor.<br/><br/>Your stability penalty with Akimbo weapons is set to <div class="bluein">50%</div> and increases the ammo capacity of your Akimbo weapons to <div class="bluein">125%</div>.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
 //Deck Crook
 $l['perk-crook'] = 'Crook';
-$l['perk-crook-desc'] = 'The Crook is a versatile criminal. The term i as old as crime itself.<br/><br/>Truly, the crook is a jack of all trades and a master of none. He steals, lies, cheats and does any and every dishonest or illegal work necessary to get by.';
+$l['perk-crook-desc'] = 'The Crook is a versatile criminal. The term is as old as crime itself.<br/><br/>Truly, the crook is a jack of all trades and a master of none. He steals, lies, cheats and does any and every dishonest or illegal work necessary to get by.';
 $l['perk-crook-1'] = 'Suble';
 $l['perk-crook-1-desc'] = 'Your change to dodge is increased by <div class="bluein">10%</div>.';
 $l['perk-crook-2'] = 'Basic Composure';
