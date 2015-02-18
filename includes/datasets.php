@@ -785,6 +785,13 @@ array( 'Name' => $l['thickskin'], 'Wiki' => 'Thick_Skin', 'Image' => 'Thick_Skin
 array( 'Name' => $l['unlockfugitive'], 'Wiki' => 'Skills#Fugitive', 'Image' => 'Unlocking_the_Fugitive', 'Description-Normal' => $l['unlockfugitive-normal'], 'Description-Ace' => '', 'Normal' => $skill_hoxton_unlocked, 'Ace' => '' )
 );
 
+//Multibuild Vars
+$mastermind2, $mastermind3, $mastermind4, $mastermind5 = $mastermind;
+$technician2, $technician3, $technician4, $technician5 = $technician;
+$enforcer2, $enforcer3, $enforcer4, $enforcer5 = $enforcer;
+$ghost2, $ghost3, $ghost4, $ghost5 = $ghost;
+$hoxton2, $hoxton3, $hoxton4, $hoxton5 = $hoxton;
+
 $characters = array(
 array( 'Name' => $l['dallas'], 'Wiki' => 'Dallas', 'Image' => 'dallas', 'Description' => $l['dallas-char'], 'Used' => $character_used_russian ),
 array( 'Name' => $l['chains'], 'Wiki' => 'Chains', 'Image' => 'chains', 'Description' => $l['chains-char'], 'Used' => $character_used_spanish ),
