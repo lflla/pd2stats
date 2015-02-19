@@ -850,6 +850,9 @@ $weapons_melee_kills = $weapons_melee;
 $weapons_primary_name = $weapons_primary;
 $weapons_secondary_name = $weapons_secondary;
 $weapons_melee_name = $weapons_melee;
+$weapons_primary_quality = $weapons_primary;
+$weapons_secondary_quality = $weapons_secondary;
+$weapons_melee_quality = $weapons_melee;
 $masks_name = $masks;
 $masks_quality = $masks;
 $enemies_name = $enemies;
@@ -884,4 +887,8 @@ array_sort_by_column($masks_name, 'Name', SORT_ASC);
 array_sort_by_column($enemies_name, 'Name', SORT_ASC);
 array_sort_by_column($masks_quality, 'Quality', SORT_ASC);
 array_sort_by_column($heists_quality, 'Quality', SORT_ASC);
+array_sort_by_column($weapons_primary_quality, 'Quality', SORT_ASC);
+array_sort_by_column($weapons_secondary_quality, 'Quality', SORT_ASC);
+array_sort_by_column($weapons_melee_quality, 'Quality', SORT_ASC);
+array_sort_by_column($weapons_grenades, 'Quality', SORT_ASC);
 ?>
