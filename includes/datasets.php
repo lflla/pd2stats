@@ -793,14 +793,14 @@ $ghost2 = $ghost;
 $hoxton2 = $hoxton;
 
 $characters = array(
-array( 'Name' => $l['dallas'], 'Wiki' => 'Dallas', 'Image' => 'dallas', 'Description' => $l['dallas-char'], 'Used' => $character_used_russian ),
-array( 'Name' => $l['chains'], 'Wiki' => 'Chains', 'Image' => 'chains', 'Description' => $l['chains-char'], 'Used' => $character_used_spanish ),
-array( 'Name' => $l['houston'], 'Wiki' => 'Houston', 'Image' => 'hoxton', 'Description' => $l['houston-char'], 'Used' => $character_used_american ),
-array( 'Name' => $l['wolf'], 'Wiki' => 'Wolf', 'Image' => 'wolf', 'Description' => $l['wolf-char'], 'Used' => $character_used_german ),
-array( 'Name' => $l['wick'], 'Wiki' => 'John_Wick', 'Image' => 'jowi', 'Description' => $l['wick-char'], 'Used' => $character_used_jowi ),
-array( 'Name' => $l['hoxton'], 'Wiki' => 'Hoxton', 'Image' => 'old_hoxton', 'Description' => $l['hoxton-char'], 'Used' => $character_used_old_hoxton ),
-array( 'Name' => $l['clover'], 'Wiki' => 'Clover', 'Image' => 'female_1', 'Description' => $l['clover-char'], 'Used' => $character_used_female_1 ),
-array( 'Name' => $l['dragan'], 'Wiki' => 'Dragan', 'Image' => 'dragan1', 'Description' => $l['dragan-char'], 'Used' => $character_used_dragan )
+array( 'Name' => $l['dallas'], 'Wiki' => 'Dallas', 'Image' => 'dallas', 'Description' => $l['dallas-char'], 'Quality' => 'normal', 'Used' => $character_used_russian ),
+array( 'Name' => $l['chains'], 'Wiki' => 'Chains', 'Image' => 'chains', 'Description' => $l['chains-char'], 'Quality' => 'normal', 'Used' => $character_used_spanish ),
+array( 'Name' => $l['houston'], 'Wiki' => 'Houston', 'Image' => 'hoxton', 'Description' => $l['houston-char'], 'Quality' => 'normal', 'Used' => $character_used_american ),
+array( 'Name' => $l['wolf'], 'Wiki' => 'Wolf', 'Image' => 'wolf', 'Description' => $l['wolf-char'], 'Quality' => 'normal', 'Used' => $character_used_german ),
+array( 'Name' => $l['wick'], 'Wiki' => 'John_Wick', 'Image' => 'jowi', 'Description' => $l['wick-char'], 'Quality' => 'normal', 'Used' => $character_used_jowi ),
+array( 'Name' => $l['hoxton'], 'Wiki' => 'Hoxton', 'Image' => 'old_hoxton', 'Description' => $l['hoxton-char'], 'Quality' => 'normal', 'Used' => $character_used_old_hoxton ),
+array( 'Name' => $l['clover'], 'Wiki' => 'Clover', 'Image' => 'female_1', 'Description' => $l['clover-char'], 'Quality' => 'dlc', 'Used' => $character_used_female_1 ),
+array( 'Name' => $l['dragan'], 'Wiki' => 'Dragan', 'Image' => 'dragan1', 'Description' => $l['dragan-char'], 'Quality' => 'dlc', 'Used' => $character_used_dragan )
 );
 
 $enemies = array(
