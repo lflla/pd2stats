@@ -66,8 +66,8 @@ $l['vanitystatus'] = 'Player Vanity Status';
 $l['summarystatus'] = 'Player Summary Status';
 $l['ownershipstatus'] = 'Player Ownership Status';
 $l['statisticsstatus'] = 'Player Statistics Status';
-$l['offline'] = 'OFFLINE (Click eye for more information)';
-$l['online'] = 'ONLINE';
+$l['online'] = 'SUCCESS';
+$l['offline'] = 'FAILED';
 //Tags and Warnings
 $l['cflag'] = '[Warning]';
 $l['cflag-warning'] = 'flags are not always correct due to some level and skill bugs that are in the game.';
@@ -178,6 +178,7 @@ $l['infinite'] = '∞';
 $l['tops'] = 'Most Viewed Profiles';
 $l['totalview'] = 'Total Views';
 $l['playername'] = 'Playername';
+$l['characters-help'] = 'This box shows the total enemies killed. Please note that the data tracks since approximately the Shadow-Raid update. Also note that some enemies are not being tracked yet.';
 //DLC Names
 $l['Armored_Transport'] = 'ARMORED TRANSPORT';
 $l['Big_Bank_Heist'] = 'BIG BANK HEIST';
