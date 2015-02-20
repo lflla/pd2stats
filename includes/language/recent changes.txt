@@ -4,7 +4,7 @@ $l['online'] = 'SUCCESS';
 $l['offline'] = 'FAILED';
 
 added at end of stats page section
-$l['characters-help'] = 'This box shows the total enemies killed. Please note that the data tracks since approximately the Shadow-Raid update. Also note that some enemies are not being tracked yet.';
+$l['caus-help'] = 'This box shows the total enemies killed. Please note that the data tracks since approximately the Shadow-Raid update. Also note that some enemies are not being tracked yet.';
 
 12.02.2015
 added at start of perk decks shared
