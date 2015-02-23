@@ -1,4 +1,10 @@
-﻿19.02.2015
+﻿23.02.2015
+Added at end of stats page
+$l['locked'] = 'locked';
+$l['unlocked'] = 'unlocked';
+$l['achievements'] = 'Achievements';
+
+19.02.2015
 changed the following
 $l['online'] = 'SUCCESS';
 $l['offline'] = 'FAILED';

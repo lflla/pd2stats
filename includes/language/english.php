@@ -179,6 +179,9 @@ $l['tops'] = 'Most Viewed Profiles';
 $l['totalview'] = 'Total Views';
 $l['playername'] = 'Playername';
 $l['caus-help'] = 'This box shows the total enemies killed. Please note that the data tracks since approximately the Shadow-Raid update. Also note that some enemies are not being tracked yet.';
+$l['locked'] = 'locked';
+$l['unlocked'] = 'unlocked';
+$l['achievements'] = 'Achievements';
 //DLC Names
 $l['Armored_Transport'] = 'ARMORED TRANSPORT';
 $l['Big_Bank_Heist'] = 'BIG BANK HEIST';
