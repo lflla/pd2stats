@@ -27,7 +27,8 @@ $romnum = array(
 	22 => 'XXII',
 	23 => 'XXIII',
 	24 => 'XXIV',
-	25 => 'XXV'
+	25 => 'XXV',
+	26 => 'XXVI'
 );
 
 //
