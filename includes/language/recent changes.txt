@@ -1,4 +1,20 @@
-﻿23.02.2015
+﻿13.03.2015
+added after deck infiltrator
+//Deck Sociopath
+$l['perk-sociopath'] = 'Sociopath';
+$l['perk-sociopath-desc'] = 'The Sociopath is known to be one of the most effective type of criminals. Where he is effective, he is also difficult to deal with, which is why larger organizations avoid him.<br/><br/>Bold, uninhibited and mean, the Sociopath excels in the most violent of jobs. Unable to feel guilt for the crimes he commits, he is a dangerous enemy.';
+$l['perk-sociopath-1'] = 'No Talk';
+$l['perk-sociopath-1-desc'] = 'When you are close to an enemy, you receive <div class="bluein">4%</div> less damage from enemies.';
+$l['perk-sociopath-2'] = 'Tension';
+$l['perk-sociopath-2-desc'] = 'Killing an enemy regenerates <div class="bluein">10</div> armor.<br/><br/>This cannot occur more than once every <div class="bluein">3</div> seconds.';
+$l['perk-sociopath-3'] = 'Clean Hit';
+$l['perk-sociopath-3-desc'] = 'Killing an enemy with a melee weapon regenerates <div class="bluein">5%</div> health.<br/><br/>This cannot occur more than once every <div class="bluein">3</div> seconds.';
+$l['perk-sociopath-4'] = 'Overdose';
+$l['perk-sociopath-4-desc'] = 'Killing an enemy at close range regenerates <div class="bluein">10</div> armor.<br/><br/>This cannot occur more than once every <div class="bluein">3</div> seconds.';
+$l['perk-sociopath-5'] = 'Showdown';
+$l['perk-sociopath-5-desc'] = 'Killing an enemy at close range has a <div class="bluein">20%</div> chance to spread panic among your enemies.<br/><br/>Panic will make enemies go into short bursts of uncontrollable fear.<br/><br/>This cannot occur more than once every <div class="bluein">3</div> seconds.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
+
+23.02.2015
 Added at end of stats page
 $l['locked'] = 'locked';
 $l['unlocked'] = 'unlocked';

@@ -1191,6 +1191,19 @@ $l['perk-infiltrator-4'] = 'Overdog';
 $l['perk-infiltrator-4-desc'] = 'When you are surrounded by three enemies or more, you receive an additional <div class="bluein">8%</div> less damage from enemies.<br/><br/>Each successful melee hit grants an additional <div class="bluein">10%</div> melee damage boost for <div class="bluein">6</div> seconds and can stack up to <div class="bluein">4</div> times.';
 $l['perk-infiltrator-5'] = 'Life Drain';
 $l['perk-infiltrator-5-desc'] = 'Striking an enemy with your melee weapon regenerates <div class="bluein">10%</div> of your health. This cannot occur more than once every <div class="bluein">15</div> seconds.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
+//Deck Sociopath
+$l['perk-sociopath'] = 'Sociopath';
+$l['perk-sociopath-desc'] = 'The Sociopath is known to be one of the most effective type of criminals. Where he is effective, he is also difficult to deal with, which is why larger organizations avoid him.<br/><br/>Bold, uninhibited and mean, the Sociopath excels in the most violent of jobs. Unable to feel guilt for the crimes he commits, he is a dangerous enemy.';
+$l['perk-sociopath-1'] = 'No Talk';
+$l['perk-sociopath-1-desc'] = 'When you are close to an enemy, you receive <div class="bluein">4%</div> less damage from enemies.';
+$l['perk-sociopath-2'] = 'Tension';
+$l['perk-sociopath-2-desc'] = 'Killing an enemy regenerates <div class="bluein">10</div> armor.<br/><br/>This cannot occur more than once every <div class="bluein">3</div> seconds.';
+$l['perk-sociopath-3'] = 'Clean Hit';
+$l['perk-sociopath-3-desc'] = 'Killing an enemy with a melee weapon regenerates <div class="bluein">5%</div> health.<br/><br/>This cannot occur more than once every <div class="bluein">3</div> seconds.';
+$l['perk-sociopath-4'] = 'Overdose';
+$l['perk-sociopath-4-desc'] = 'Killing an enemy at close range regenerates <div class="bluein">10</div> armor.<br/><br/>This cannot occur more than once every <div class="bluein">3</div> seconds.';
+$l['perk-sociopath-5'] = 'Showdown';
+$l['perk-sociopath-5-desc'] = 'Killing an enemy at close range has a <div class="bluein">20%</div> chance to spread panic among your enemies.<br/><br/>Panic will make enemies go into short bursts of uncontrollable fear.<br/><br/>This cannot occur more than once every <div class="bluein">3</div> seconds.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
 //Characters
 $l['chars'] = 'Characters';
 $l['houston'] = 'Houston';

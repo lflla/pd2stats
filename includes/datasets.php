@@ -694,6 +694,18 @@ array( 'Name' => $l['perk-common-4'], 'Image' => 'perk_fast', 'Description' => $
 array( 'Name' => $l['perk-infiltrator-5'], 'Image' => 'perk_heathhit2', 'Description' => $l['perk-infiltrator-5-desc'])
 );
 
+$deck_sociopath = array(
+array( 'Name' => $l['perk-sociopath-1'], 'Image' => 'perk_closecombat1', 'Description' => $l['perk-sociopath-1-desc']),
+array( 'Name' => $l['perk-common-1'], 'Image' => 'perk_headshot', 'Description' => $l['perk-common-1-desc']),
+array( 'Name' => $l['perk-sociopath-2'], 'Image' => 'perk_skullshield', 'Description' => $l['perk-sociopath-2-desc']),
+array( 'Name' => $l['perk-common-2'], 'Image' => 'perk_blender', 'Description' => $l['perk-common-2-desc']),
+array( 'Name' => $l['perk-sociopath-3'], 'Image' => 'perk_skullheart', 'Description' => $l['perk-sociopath-3-desc']),
+array( 'Name' => $l['perk-common-3'], 'Image' => 'perk_closet', 'Description' => $l['perk-common-3-desc']),
+array( 'Name' => $l['perk-sociopath-4'], 'Image' => 'perk_pointgun', 'Description' => $l['perk-sociopath-4-desc']),
+array( 'Name' => $l['perk-common-4'], 'Image' => 'perk_fast', 'Description' => $l['perk-common-4-desc']),
+array( 'Name' => $l['perk-sociopath-5'], 'Image' => 'perk_exclam', 'Description' => $l['perk-sociopath-5-desc'])
+);
+
 //
 //Skilltrees
 //
