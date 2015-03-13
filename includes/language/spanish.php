@@ -43,6 +43,7 @@ $l['notice'] = '¡Menú'; //Incluye al final un !
 $l['ads'] = 'Publicidad';
 $l['switch'] = 'Cambiar';
 $l['languagetex'] = 'Idioma';
+$l['detection'] = 'Advertencia';
 //Itemindex
 $l['maskindex'] = 'Índice de Máscaras';
 $l['weaponindex'] = 'Índice de Armas';
@@ -187,13 +188,22 @@ $l['Gage_Sniper_Pack'] = 'GAGE PACK FRANCOTIRADOR';
 $l['Gage_Shotgun_Pack'] = 'GAGE PACK ESCOPETA';
 $l['Xmas_soundtrack'] = 'BANDA SONORA NAVIDAD';
 $l['Poetry_jam'] = 'CONCURSO POESIA';
-$l['Twisted_metal'] = 'TWISTED METAL';
+$l['Twisted_metal'] = 'PACK MÁSCARAS TWISTED METAL';
 $l['Halloween'] = 'HALLOWEEN';
 $l['Twitch_pack'] = 'HUMBLE PACK MÁSCARAS';
 $l['hotline_miami_dlc'] = 'HOTLINE MIAMI';
 $l['humblehalloween_pack'] = 'HUMBLE PACK MÁSCARAS 2';
 $l['Gage_Historical'] = 'GAGE PACK HISTÓRICO';
 $l['Humble2Pack'] = 'ALIENWARE ALPHA';
+$l['cloverpack'] = 'PACK PERSONAJE CLOVER';
+$l['thebombpack'] = 'LOS ATRACOS BOMBA';
+$l['draganpack'] = 'PACK PERSONAJE DRAGAN';
+$l['thespiandlc'] = 'PACK MÁSCARAS THESPIAN';
+$l['diamondheistdlc'] = 'ATRACO DIAMANTE';
+$l['weaponbundledlc'] = 'PAQUETE DE ARMAS';
+$l['heistbundle'] = 'PAQUETE DE ATRACOS';
+$l['gotyeddlc'] = 'EDICIÓN GOTY';
+$l['lootbagdlc'] = 'BOLSA DE SAQUEO';
 ////Weapons
 ////Primary
 //Akimbo
@@ -212,12 +222,14 @@ $l['g36'] = 'JP36';
 $l['new_m14'] = 'M308';
 $l['ak5'] = 'AK5';
 $l['m16'] = 'AMR-16';
-$l['s552'] = 'Commando 553';
-$l['scar'] = 'Eagle Heavy';
+$l['s552'] = 'Comando 553';
+$l['scar'] = 'Águila Pesado';
 $l['fal'] = 'Falcon';
 $l['famas'] = 'Clarion';
 $l['galil'] = 'Gecko 7.62';
 $l['g3'] = 'Gewehr 3';
+$l['l85a2'] = 'La Ira de la Reina';
+$l['vhs'] = 'El rugido del León';
 //Sniper Rifles
 $l['msr'] = 'Rattlesnake';
 $l['r93'] = 'R93';
@@ -253,6 +265,7 @@ $l['ppk'] = 'Gruber Kurz';
 $l['p226'] = 'Signature .40';
 $l['g26'] = 'Chimano Compact';
 $l['c96'] = 'Broomstick';
+$l['hs2000'] = 'LEO';
 //Submachine Guns
 $l['mac10'] = 'Mark 10';
 $l['new_mp5'] = 'Compact-5';
@@ -332,6 +345,12 @@ $l['swagger'] = 'Palo de la Soberbia';
 $l['swagger-description'] = '';
 $l['alien_maul'] = 'Martillo Alpha';
 $l['alien_maul-description'] = '';
+$l['shillelagh'] = 'Shillelagh de Clover';
+$l['shillelagh-description'] = '';
+$l['meat_cleaver'] = 'Cuchillo de Dragan';
+$l['meat_cleaver-description'] = '';
+$l['boxing_gloves'] = 'Guantes de Boxeo Overkill';
+$l['boxing_gloves-description'] = '';
 ////Grenades
 $l['frag-grenade'] = 'Granada de fragmentación';
 ////Gadgets
@@ -549,6 +568,55 @@ $l['area51'] = 'La Anomalía';
 $l['area51-description'] = 'Forgada en los altos hornos de Penrose, este casco fue construido a partir del lugar de un accidente de alto secreto. El gobierno continúa denegando la existencia de dicho hecho.';
 $l['alien_helmet'] = 'Gris Alpha';
 $l['alien_helmet-description'] = 'Los Alienígenas Grises son una raza de extraterrestres creado por comunidades de lo paranormal, ufológico, paranormal y otras comunidades ¿Llamadas por el color de la piel del extraterrestre?';
+//White Xmas
+$l['krampus'] = 'Krampus';
+$l['krampus-description'] = '¿Has sido malo éste año? Entonces puede que recibas la visita de Krampus. O una llamada de Bain.';
+$l['mrs_claus'] = 'Srta. Claus';
+$l['mrs_claus-description'] = 'Mientras Santa está volando los cielos en Diciembre, alguien debe de quedarse en casa al cuidado de los elfos. Nadie lo hace tan bien como la ruidosa, fumadora, comandante de la fortaleza Claus.';
+$l['strinch'] = 'Strinch';
+$l['strinch-description'] = 'Un criminal de temporada festiva, Strinch ha estado robando la Navidad desde 1957. También relacionado con el atraco de Halloween de 1972.';
+$l['robo_santa'] = 'Santa mecánico';
+$l['robo_santa-description'] = 'Éste jovial, autómata festivo tiene el corazón de Santa. Lo guarda en una caja, bajo una pila de cadáveres elficos, y rodeado de muchas cabezas de ciervos.';
+$l['almirs_beard'] = 'Barba de Almir';
+$l['almirs_beard-description'] = 'Algunos dicen que los hombres de verdad no se afeitan, pero la verdad es que los hombres de verdad no pueden afeitarse. Las cuchillas ordinarias no pueden con tanta densidad y tab magnífico follaje como es la Barba de Almir.';
+//The Diamond
+$l['cursed_crown'] = 'El maldecido';
+$l['cursed_crown-description'] = 'Su nombre se perdió. Pudo haber sido un rey, o un hechicero poderoso. Pero hasta los mejores caen merced del Diamante.';
+$l['medusa'] = 'Medusa';
+$l['medusa-description'] = 'Una horrorosa expresión, serpientes por pelo, una mierda petrificante y un sufrimiento para los hombres. Sus ojos penetrantes todavía emanan terror... Pero ésto es sólo una máscara, ¿Cierto?';
+$l['anubis'] = 'Anubis';
+$l['anubis-description'] = 'El dios Egipcio de la muerte con cabeza de chacal, Anubis está para proteger tumbas en vez de llenarlas.';
+$l['pazuzu'] = 'Pazuzu';
+$l['pazuzu-description'] = 'Según la mitología Babilonica, Pazuzu fue el rey de los demoios del viento. Algunas legendas se refieren a él como un Behemoth bestial que acaba con grupos de aventureros en tierras lejanas, y otras sin embargo cuentan que él caminaba sobre la tierra como un humano inmortal.';
+//Clover Character Pack
+$l['msk_grizel'] = 'Clover';
+$l['msk_grizel-description'] = 'La máscara de Clover representa lo que Clover más teme y odia, llevar una máscara de su cara. Reducción de nariz, botox en los labios y la expresión en general de una persona consumida por la vanidad y la obsesión, todos ellos, símbolos del miedo y la debilidad, ahora transformado en una horrorosa parodia.';
+$l['grizel_clean'] = 'Clover El Comienzo';
+$l['grizel_clean'] = 'Ésta es una versión sin pintar de la máscara de Clover.<br/><br/>¿Nunca te gustó en lo que se convirtió? Éste es el momento de cambiar la historia.';
+//GOTY
+$l['robo_arnold'] = 'Robo-Arnold';
+$l['robo_arnold-description'] = 'Icónico, estrella cibernética viajera del tiempo en las películas \'Exterminador\'. En la primera película, fue enviado para matar a la madre del líder de la revolución...';
+$l['nun_town'] = 'Nun';
+$l['nun_town-description'] = 'Una monja católica puede no ser la elección más factible para hacer una máscara terrorífica, a no ser que conozcas una monja Católica. En ese caso, conocerás nociones de gentileza y amabilidad, de pingüinos abuelescos sin mérito. Éstas implacables abuelillas son la personificación del mal.';
+$l['arch_nemesis'] = 'Archienemigo';
+$l['arch_nemesis-description'] = 'Archienemigo, según el diccionario<br/><br/>Sustantivo [ahrch nem-uh-seez]<br/><br/>1. Algo que una persona no puede conquistar, conseguir, etc.: "El buffet chino de la comida se ha convertido en mi nuevo archienemigo."<br/>2. Un oponente al que no se puede vencer.<br/>3. En mitología clásica. La diosa divina de la retribución.<br/>4. Un agente o acto de retribución o castigo.<br/><br/>Como Hoxton lo define: "Ese puto Bulldozer. Él es mi jodido archienemigo, ¡maldito gilipollas!"';
+//Champ
+$l['champion_dallas'] = 'Campeón';
+$l['champion_dallas-description'] = 'Ésta es la máscara del Campeón. Basada en un mal dia de Dallas. ¿Cómo de mal? Bueno, imagina estar en la última ronda de 13 con un boxeador profesional. Párpados hinchados, nariz rota, labios morados, ojo negro, contusiones, mandíbula dislocada, ésta máscara lo tiene todo. Y si, un muy mal dia para Dallas.';
+//Dragan
+$l['dragan'] = 'Dragan';
+$l['dragan-description'] = 'Con el pasado que Dragan tiene, a nadie le sorprende la curiosidad que tiene por el mundo criminal.<br/><br/>Su máscara representa mucho de su ser, con un toque parecido a las máscaras originales de la banda, lo cual habla de la capacidad de Dragan para infiltrarse, además de tener otras señas de su identidad.<br/><br/>Los cuadrados Croatas de frente sirve de recordatorio para él y sus enemigos de que no es un matón callejero.';
+$l['dragan_begins']  = 'Dragan El Comienzo';
+$l['dragan_begins-description'] = 'Ésta es una versión sin pintar de la máscara de Dragan.<br/><br/>¿Nunca te gustó en lo que se convirtió? Éste es el momento de cambiar la historia.';
+//The Bomb
+$l['butcher'] = 'Carnicero del Infierno';
+$l['butcher-description'] = 'Existen muchos rumores del este sobre el carnicero loco, uno cuenta cómo al hombre le resultaba tan placentero matar cerdos que acabó pareciendose a uno.<br/><br/>Trabajando en una carnicería muy caliente, su piel comenzó a desfigurarse con tanto corte y ampollas, la gente cuenta acerca de los gritos que ahí adentro se producían...y no parecían gritos de cerdos.';
+$l['doctor'] = 'Doctor';
+$l['doctor-description'] = 'Una máscara naso busal utilizada comúnmente en hospitales y ambulancias. Ésta máscara inutiliza al usuario de propagar virus por el aire, o que van en la saliva o mocos al estornudar. Pacientes y médicos lo usan, y tu te preguntas: ¿Soy yo el que está enfermo o el que está sano?¿La enfermedad o la cura?<br/><br/>En cualquier caso, es temporada de resfriados y la única prescripción posible es Bulldozers muertos.';
+$l['lady_butcher'] = 'Señorita Carnicera';
+$l['lady_butcher-description'] = 'Si te hubieran dado un dólar por cada vez que a la Carnicera le llamaban bruja, ramera o banshee sus colegas, tendrías ahora Croacia entera. Los hombres cínicos dudaban del hecho de que ella fuera mujer, se sintieron en peligro viendo la ascensión meteórica en el mundillo criminal. Recuerda que los Balcanes no son conocidos precisamente por su tolerancia que sea un poco diferente, imagínate el chauvinismo y la misogínia con la que ella ha tenido que lidiar con los criminales más rudos cada día de su existencia. Ésta máscara muestra cómo ella es vista por sus aliados y enemigos. Hace que la gente le tenga miedo. Como debería ser.';
+$l['tech_lion'] = 'León Tecnológico';
+$l['tech_lion-description'] = 'Ésta máscara es una moderna representación del Dios Egipcio de la Guerra Maahes. Conocido como el "Portador del Cuchillo", "Señor de la Matanza" y "Vengador de los Desviados", Maahes castigó a todo aquel que quebrantara la ley de Ma`at, la personificación del Orden y el Equilibrio. Considerado la reencarnación del calor ardiente del sol, también ha actuado como una deidad defensora durante las batallas faraónicas.<br/><br/>Normalmente se le ha asociado como un hombre con cabeza de león, llevando un cuchillo, la corona Atef y el Disco Solar, o dibujado como un león devorando a su víctima.';
 //Infamy
 $l['aviator'] = 'Heat';
 $l['aviator-description'] = 'A todo el mundo le gusta un buen par de gafas de sol.<br/><br/>Pero sólo los más atrevidos, más buscados y más peligrosos hijos de perra están lo suficientemente loco para robar algo con ellas puestas.<br/><br/>Y ese eres tú.';
@@ -670,6 +738,9 @@ $l['pref-description'] = 'Equipándote ésta máscara hará que lleves la másca
 //Twister
 $l['twister'] = 'Hombre Misterioso';
 $l['twister-description'] = 'Es un misterio la persona que se esconde detrás de esta máscara.<br/><br/>Podría ser alguien desconocido o alguien que conoces de toda la vida.';
+//Thespian
+$l['thespian'] = 'Thespian';
+$l['thespian-description'] = 'Thespian es un super soldado de fortuna. En el futuro, los marines del espacio como Thespian protegen el mundo de la raza humana y sus colonias espaciales de las fuerzas del mal.<br/><br/>Su casco es un regalo popular en el mundo criminal y se le da a ladrones, matones y criminales que muestran lealtad y paciencia a su sindicato.<br/><br/>¡Nosotros en OVERKILL te saludamos por tu lealtadad y paciencia!';
 //Leave the div there. It colors the word red.
 $l['pro'] = '<div style="display:inline; color:#ff3336;">Pro</div>';
 ////Heists
@@ -703,6 +774,10 @@ $l['artgallery'] = 'Galería de Arte';
 $l['hoxtonbreakout'] = 'Fuga de Hoxton';
 $l['pines'] = 'Blanca Navidad';
 $l['dwsucess'] = '¡Completada en Deseo de Muerte!';
+$l['crojob1'] = 'La Bomba: Puerto';
+$l['crojob2'] = 'La Bomba: Bosque';
+$l['mus'] = 'El Diamante';
+$l['nightsuffix'] = '(Noche)';
 //Escapes
 $l['escapeparknight'] = 'Parque (Noche)';
 $l['escapeparkday'] = 'Parque (Día)';
@@ -1008,6 +1083,10 @@ $l['wolf-char'] = 'Nacionalidad: Sueca<br/>Age: 34<br/><br/>Wolf siempre fue un 
 $l['wick-char'] = 'Nacionalidad: Americano<br/>Age: 40s<br/><br/>John Wick es un asesino a sueldo muy calmado y silencioso. A juzgar por su físico, parece que el tiempo no pasa para él, probablemente de su etapa como boxeador. John y Chains se conocieron durante el periodo militar que ambos compartieron.<br/><br/>Antes de que la cosa se pusiera mal para Chains, John consiguió ayudarlo en una situación muy peliaguda. A cambio, John le dijo a Chains que necesitaba una banda. ¿Cómo Chains podía decir que no a tal viejo amigo?';
 $l['hoxton-char'] = 'Nacionalidad: Inglés<br/>Age: 32<br/><br/>A Hoxton le llaman así porque fue donde le pillaron con su antigua banda en East End en Londres. Después de que pasara un tiempo en el famoso reformatorio Institución de Su Majestad para Jóvenes Delincuentes, trabajó para varios sindicatos del crímen en su adolescencia hasta que se unió a la banda Payday. Después de una colección de exitosos trabajos hasta 2011, Hoxton fue capturado por el FBI y fue enviado a prisión.<br/><br/>En 2014, la banda Payday le ayudó a escapar. Desde entonces, está decidido a averiguar quién fue el que le envió a prisión.';
 $l['characters-help'] = 'Se muestra el tiempo que has usado cada personaje desde la actualización de Crimefest';
+$l['dragan'] = 'Dragan';
+$l['dragan-char'] = 'Nacionalidad: Croata<br/>Edad: 45<br/><br/>Dragan puede ser policía, pero es un policía Croata, lo que significa que sus métodos hacen parecer al MPDC como niñeras timidas. Se lo llevaron a America y lo aceptaron en la banda Payday como un favor a la Carnicera. A pesar de las tempranas sospechas sobre su verdadera lealtad, sus habilidades y compromiso lo hacen indisputable.';
+$l['clover'] = 'Clover';
+$l['clover-char'] = 'Nacionalidad: Irlandesa<br/>Edad: 27<br/><br/>Clover creció en una ambiente duro en una parte de la ciudad hostil. Sus ancestros llevan luchando cada generación y ella sigue fielmente su pasado Irlandés. Lleva tréboles para la suerte además de para decir: "Soy Irlandesa, y orgullosa".';
 //Enemies
 $l['e-cop'] = 'Policía Metropolitano';
 $l['e-cop_heavy'] = 'Policía Pesado';
