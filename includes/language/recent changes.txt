@@ -4,6 +4,8 @@ $l['collaboration-item'] = 'COLLABORATION ITEM!';
 
 AT DLC NAMES
 $l['hotline_miami'] = 'HOTLINE MIAMI';
+$l['hotline_miami_2'] = 'HOTLINE MIAMI 2';
+$l['hotline_miami_2_deluxe'] = 'HOTLINE MIAMI 2 DELUXE';
 
 13.03.2015
 added after deck infiltrator
