@@ -416,10 +416,10 @@ array( 'Name' => $l['white_wolf'], 'Image' => 'white_wolf', 'Quality' => 'dlc', 
 array( 'Name' => $l['rabbit'], 'Image' => 'rabbit', 'Quality' => 'dlc', 'Extra' => $l['hotline_miami_dlc'], 'Description' => $l['rabbit-description'], 'Used' => $mask_used_rabbit),
 array( 'Name' => $l['owl'], 'Image' => 'owl', 'Quality' => 'dlc', 'Extra' => $l['hotline_miami_dlc'], 'Description' => $l['owl-description'], 'Used' => $mask_used_owl),
 ////Hotline Miami Game
-array( 'Name' => $l['panther'], 'Image' => 'panther', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['panther-description'], 'Used' => $mask_used_panther),
-array( 'Name' => $l['horse'], 'Image' => 'horse', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['horse-description'], 'Used' => $mask_used_horse),
-array( 'Name' => $l['rooster'], 'Image' => 'rooster', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['rooster-description'], 'Used' => $mask_used_rooster),
-array( 'Name' => $l['tiger'], 'Image' => 'tiger', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['tiger-description'], 'Used' => $mask_used_tiger),
+array( 'Name' => $l['panther'], 'Image' => 'panther', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami'], 'Description' => $l['panther-description'], 'Used' => $mask_used_panther),
+array( 'Name' => $l['horse'], 'Image' => 'horse', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami'], 'Description' => $l['horse-description'], 'Used' => $mask_used_horse),
+array( 'Name' => $l['rooster'], 'Image' => 'rooster', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami'], 'Description' => $l['rooster-description'], 'Used' => $mask_used_rooster),
+array( 'Name' => $l['tiger'], 'Image' => 'tiger', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami'], 'Description' => $l['tiger-description'], 'Used' => $mask_used_tiger),
 ////White Xmas
 array( 'Name' => $l['krampus'], 'Image' => 'krampus', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['krampus-description'], 'Used' => $mask_used_krampus),
 array( 'Name' => $l['mrs_claus'], 'Image' => 'mrs_claus', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['mrs_claus-description'], 'Used' => $mask_used_mrs_claus),
@@ -844,7 +844,9 @@ array( 'Name' => $l['wolf'], 'Wiki' => 'Wolf', 'Image' => 'wolf', 'Description' 
 array( 'Name' => $l['wick'], 'Wiki' => 'John_Wick', 'Image' => 'jowi', 'Description' => $l['wick-char'], 'Quality' => 'community', 'Used' => $character_used_jowi ),
 array( 'Name' => $l['hoxton'], 'Wiki' => 'Hoxton', 'Image' => 'old_hoxton', 'Description' => $l['hoxton-char'], 'Quality' => 'community', 'Used' => $character_used_old_hoxton ),
 array( 'Name' => $l['clover'], 'Wiki' => 'Clover', 'Image' => 'female_1', 'Description' => $l['clover-char'], 'Quality' => 'dlc', 'Used' => $character_used_female_1 ),
-array( 'Name' => $l['dragan'], 'Wiki' => 'Dragan', 'Image' => 'dragan1', 'Description' => $l['dragan-char'], 'Quality' => 'dlc', 'Used' => $character_used_dragan )
+array( 'Name' => $l['dragan'], 'Wiki' => 'Dragan', 'Image' => 'dragan1', 'Description' => $l['dragan-char'], 'Quality' => 'dlc', 'Used' => $character_used_dragan ),
+array( 'Name' => $l['jacket'], 'Wiki' => 'Jacket', 'Image' => 'dragan1', 'Description' => $l['jacket-char'], 'Quality' => 'collaboration', 'Used' => $character_used_jacket ),
+array( 'Name' => $l['bonnie'], 'Wiki' => 'Bonnie', 'Image' => 'dragan1', 'Description' => $l['bonnie-char'], 'Quality' => 'community', 'Used' => $character_used_bonnie )
 );
 
 $enemies = array(

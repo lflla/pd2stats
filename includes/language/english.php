@@ -81,6 +81,7 @@ $l['community-item'] = 'THIS IS A COMMUNITY ITEM!';
 $l['dlc-item-start'] = 'THIS IS A';
 $l['dlc-item-end'] = 'ITEM!';
 $l['infamous-item'] = 'THIS IS AN INFAMOUS ITEM!';
+$l['collaboration-item'] = 'COLLABORATION ITEM!';
 $l['custom-item'] = 'THIS IS A CUSTOM ITEM MADE BY';
 //Errors
 $l['error-text1'] = 'ID not in use!';
@@ -196,6 +197,7 @@ $l['Twisted_metal'] = 'TWISTED METAL MASK PACK';
 $l['Halloween'] = 'HALLOWEEN';
 $l['Twitch_pack'] = 'HUMBLE MASK PACK';
 $l['hotline_miami_dlc'] = 'HOTLINE MIAMI DLC';
+$l['hotline_miami'] = 'HOTLINE MIAMI';
 $l['humblehalloween_pack'] = 'HUMBLE MASK PACK 2';
 $l['Gage_Historical'] = 'GAGE HISTORICAL PACK';
 $l['Humble2Pack'] = 'ALIENWARE ALPHA';

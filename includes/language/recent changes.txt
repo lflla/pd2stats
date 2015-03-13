@@ -1,4 +1,11 @@
 ﻿13.03.2015
+added at itme quality texts
+$l['collaboration-item'] = 'COLLABORATION ITEM!';
+
+AT DLC NAMES
+$l['hotline_miami'] = 'HOTLINE MIAMI';
+
+13.03.2015
 added after deck infiltrator
 //Deck Sociopath
 $l['perk-sociopath'] = 'Sociopath';
