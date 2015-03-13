@@ -4,8 +4,11 @@ $l['collaboration-item'] = 'COLLABORATION ITEM!';
 
 AT DLC NAMES
 $l['hotline_miami'] = 'HOTLINE MIAMI';
-$l['hotline_miami_2'] = 'HOTLINE MIAMI 2';
-$l['hotline_miami_2_deluxe'] = 'HOTLINE MIAMI 2 DELUXE';
+
+at end of characters
+$l['bonnie'] = 'Bonnie';
+$l['jacket'] = 'Jacket';
+$l['jacket-char'] = 'Nationality: American<br/>Age: 20s<br/><br/>Allegedly, he once wiped out the entire Russian Mafia in Miami on his own. His background in the military and his unflinching attitude towards over-the-top violence has made him an excellent hitman - or "messenger" as some like to call it. For unknown reasons he is completely mute and chooses to communicate only with the help of a tape recorder - playing back bits and pieces of language learning tapes, PAs and documentary narrations instead of speaking.';
 
 13.03.2015
 added after deck infiltrator

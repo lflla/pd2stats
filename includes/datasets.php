@@ -845,7 +845,7 @@ array( 'Name' => $l['wick'], 'Wiki' => 'John_Wick', 'Image' => 'jowi', 'Descript
 array( 'Name' => $l['hoxton'], 'Wiki' => 'Hoxton', 'Image' => 'old_hoxton', 'Description' => $l['hoxton-char'], 'Quality' => 'community', 'Extra' => 'Community', 'Used' => $character_used_old_hoxton ),
 array( 'Name' => $l['clover'], 'Wiki' => 'Clover', 'Image' => 'female_1', 'Description' => $l['clover-char'], 'Quality' => 'dlc', 'Used' => $character_used_female_1 ),
 array( 'Name' => $l['dragan'], 'Wiki' => 'Dragan', 'Image' => 'dragan1', 'Description' => $l['dragan-char'], 'Quality' => 'dlc', 'Used' => $character_used_dragan ),
-array( 'Name' => $l['jacket'], 'Wiki' => 'Jacket', 'Image' => 'twister', 'Description' => $l['jacket-char'], 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami_2_deluxe'], 'Used' => $character_used_jacket ),
+array( 'Name' => $l['jacket'], 'Wiki' => 'Jacket', 'Image' => 'jacket', 'Description' => $l['jacket-char'], 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami_2_deluxe'], 'Used' => $character_used_jacket ),
 array( 'Name' => $l['bonnie'], 'Wiki' => 'Bonnie', 'Image' => 'twister', 'Description' => $l['bonnie-char'], 'Quality' => 'community', 'Extra' => 'Community', 'Used' => $character_used_bonnie )
 );
 
