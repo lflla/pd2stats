@@ -184,6 +184,8 @@ $l['locked'] = 'locked';
 $l['unlocked'] = 'unlocked';
 $l['achievements'] = 'Achievements';
 //DLC Names
+$l['overkillpack'] = 'OVERKILL PACK';
+$l['compoverkillpack'] = 'COMPLETELY OVERKILL PACK';
 $l['Armored_Transport'] = 'ARMORED TRANSPORT';
 $l['Big_Bank_Heist'] = 'BIG BANK HEIST';
 $l['Gage_Weapon_Pack_01'] = 'GAGE WEAPON PACK #01';
@@ -572,6 +574,17 @@ $l['tiger-description'] = 'Tony uses his fists of fury to beat the crap of anyon
 //Shadow Raid
 $l['samurai'] = 'Somen Mempo';
 $l['samurai-description'] = 'In ancient Japan, samurai warriors wore somen masks to protect themselves in war and to incite fear in their enemies. Somen masks were tied to the large kabuto helmets, making the samurai look like demons from jigoku.<br/><br/>No one knows what fierce and ruthless warrior wore this intimidating mask in the past. Now however, it is ready for battle once more.<br/><br/>"Boku no ikari wo osoreru"';
+//Overkill Pack
+$l['the_overkill_mask'] = 'General Overkill';
+$l['the_overkill_mask-description'] = 'Ten-shun! Right, listen up, you heisting bastards. You\'re gonna feel the sting of battle. And in war you need a leader. Meet General Overkill. He\'ll be there to make sure you go through those cop bastards like crap through a goose. Dismissed!';
+$l['dallas_glow'] = 'Mega Dallas';
+$l['dallas_glow-description'] = 'The Mega Dallas mask is an evolved version of the original mask. It symbolises transcendence and catharsis.<br/><br/>Thank you for your support.<br/><br/>OVERKILL salutes you!';
+$l['chains_glow'] = 'Mega Chains';
+$l['chains_glow-description'] = 'The Mega Chains mask is an evolved version of the original mask. It symbolises transcendence and catharsis.<br/><br/>Thank you for your support.<br/><br/>OVERKILL salutes you!';
+$l['hoxton_glow'] = 'Mega Hoxton';
+$l['hoxton_glow-description'] = 'The Mega Hoxton mask is an evolved version of the original mask. It symbolises transcendence and catharsis.<br/><br/>Thank you for your support.<br/><br/>OVERKILL salutes you!';
+$l['wolf_glow'] = 'Mega Wolf';
+$l['wolf_glow-description'] = 'The Mega Wolf mask is an evolved version of the original mask. It symbolises transcendence and catharsis.<br/><br/>Thank you for your support.<br/><br/>OVERKILL salutes you!';
 //Deathwish
 $l['skullhard'] = 'Hard Skull';
 $l['skullhard-description'] = 'A strange thing, the human skull. Humans can often recognize a human skull, even if it\'s only partially shown. The human brain even has a specific region for it.<br/><br/>You finished all heists on the Hard difficulty? What are you, some kind of pro? Maybe this mask will suit you after all.';

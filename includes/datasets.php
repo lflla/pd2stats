@@ -443,6 +443,12 @@ array( 'Name' => $l['butcher'], 'Image' => 'butcher', 'Quality' => 'dlc', 'Extra
 array( 'Name' => $l['doctor'], 'Image' => 'doctor', 'Quality' => 'dlc', 'Extra' => $l['thebombpack'], 'Description' => $l['doctor-description'], 'Used' => $mask_used_doctor),
 array( 'Name' => $l['lady_butcher'], 'Image' => 'lady_butcher', 'Quality' => 'dlc', 'Extra' => $l['thebombpack'], 'Description' => $l['lady_butcher-description'], 'Used' => $mask_used_lady_butcher),
 array( 'Name' => $l['tech_lion'], 'Image' => 'tech_lion', 'Quality' => 'dlc', 'Extra' => $l['thebombpack'], 'Description' => $l['tech_lion-description'], 'Used' => $mask_used_tech_lion),
+////Overkill Pack
+array( 'Name' => $l['the_overkill_mask'], 'Image' => 'the_overkill_mask', 'Quality' => 'dlc', 'Extra' => $l['overkillpack'], 'Description' => $l['the_overkill_mask-description'], 'Used' => $mask_used_the_overkill_mask),
+array( 'Name' => $l['dallas_glow'], 'Image' => 'dallas_glow', 'Quality' => 'dlc', 'Extra' => $l['compoverkillpack'], 'Description' => $l['dallas_glow-description'], 'Used' => $mask_used_dallas_glow),
+array( 'Name' => $l['chains_glow'], 'Image' => 'chains_glow', 'Quality' => 'dlc', 'Extra' => $l['compoverkillpack'], 'Description' => $l['chains_glow-description'], 'Used' => $mask_used_chains_glow),
+array( 'Name' => $l['hoxton_glow'], 'Image' => 'hoxton_glow', 'Quality' => 'dlc', 'Extra' => $l['compoverkillpack'], 'Description' => $l['hoxton_glow-description'], 'Used' => $mask_used_hoxton_glow),
+array( 'Name' => $l['wolf_glow'], 'Image' => 'wolf_glow', 'Quality' => 'dlc', 'Extra' => $l['compoverkillpack'], 'Description' => $l['wolf_glow-description'], 'Used' => $mask_used_wolf_glow),
 ////Deathwish
 array( 'Name' => $l['skullhard'], 'Image' => 'skullhard', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['skullhard-description'], 'Used' => $mask_used_skullhard),
 array( 'Name' => $l['skullveryhard'], 'Image' => 'skullveryhard', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['skullveryhard-description'], 'Used' => $mask_used_skullveryhard),

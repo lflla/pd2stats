@@ -1,6 +1,9 @@
-﻿15.03.2015
+﻿15.03.201
+
 added to dlcs
 $l['akcarmodpack'] = 'AK/CAR MOD PACK';
+$l['overkillpack'] = 'OVERKILL PACK';
+$l['compoverkillpack'] = 'COMPLETELY OVERKILL PACK';
 
 added this mask section
 //AK/CAR Pack
@@ -12,6 +15,17 @@ $l['triceratops'] = 'Timothy';
 $l['triceratops-description'] = 'Timothy the Triceratops is one of the most popular dinosaurs at the Jurassic High. He had a huge grudge with Teddy the Tyrannosaurus though. Even though they were massive and lived together during the last epoch of the age of dinosaurs, they couldn\'t find it  in them to be friends. Especially not since that one time when they went to that cabin during Spring Break and Teddy and his pals pranked Timothy with that horror movie and the phone call about seven days left before the meteorite would hit. Timothy did not think that was funny at all.';
 $l['velociraptor'] = 'Alfred';
 $l['velociraptor-description'] = 'Alfred the Carnotaurus was a very fast dinosaur when he was alive and kicking. His distinctive horn and his muscular neck made him stand out next to all the dinosaurs. His large head along with his horn working as shock absorbers made him particularly skilled at head butting other dinosaurs in order to show who had the largest prehistoric d-peen.';
+//Overkill Pack
+$l['the_overkill_mask'] = 'General Overkill';
+$l['the_overkill_mask-description'] = 'Ten-shun! Right, listen up, you heisting bastards. You\'re gonna feel the sting of battle. And in war you need a leader. Meet General Overkill. He\'ll be there to make sure you go through those cop bastards like crap through a goose. Dismissed!';
+$l['dallas_glow'] = 'Mega Dallas';
+$l['dallas_glow-description'] = 'The Mega Dallas mask is an evolved version of the original mask. It symbolises transcendence and catharsis.<br/><br/>Thank you for your support.<br/><br/>OVERKILL salutes you!';
+$l['chains_glow'] = 'Mega Chains';
+$l['chains_glow-description'] = 'The Mega Chains mask is an evolved version of the original mask. It symbolises transcendence and catharsis.<br/><br/>Thank you for your support.<br/><br/>OVERKILL salutes you!';
+$l['hoxton_glow'] = 'Mega Hoxton';
+$l['hoxton_glow-description'] = 'The Mega Hoxton mask is an evolved version of the original mask. It symbolises transcendence and catharsis.<br/><br/>Thank you for your support.<br/><br/>OVERKILL salutes you!';
+$l['wolf_glow'] = 'Mega Wolf';
+$l['wolf_glow-description'] = 'The Mega Wolf mask is an evolved version of the original mask. It symbolises transcendence and catharsis.<br/><br/>Thank you for your support.<br/><br/>OVERKILL salutes you!';
 
 15.03.2015
 added after thespian
