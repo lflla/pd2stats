@@ -1270,6 +1270,7 @@ $l['dragan-char'] = 'Nationality: Croatian<br/>Age: 45<br/><br/>Dragan may be a 
 $l['clover'] = 'Clover';
 $l['clover-char'] = 'Nationality: Irish<br/>Age: 27<br/><br/>Clover grew up in a rough house in a rough part of town. Her ancestors were fighters in every generation, and she is fiercely dedicated to her Irish heritage. She wears the clovers for luck, as well as a way to say "I\'m Irish, and I\'m proud".';
 $l['bonnie'] = 'Bonnie';
+$l['bonnie-char'] = 'Nationality: Scottish<br/>Age: 43<br/><br/>Bonnie is from Glasgow. That should be enough to strike fear into a man\'s heart, but Bonnie is also from 1980\'s Glasgow. These years, the Thatcher era, made already tough towns even harder, and bred a generation of determined, unforgiving Scots. Bonnie is cut from this cloth.';
 $l['jacket'] = 'Jacket';
 $l['jacket-char'] = 'Nationality: American<br/>Age: 20s<br/><br/>Allegedly, he once wiped out the entire Russian Mafia in Miami on his own. His background in the military and his unflinching attitude towards over-the-top violence has made him an excellent hitman - or "messenger" as some like to call it. For unknown reasons he is completely mute and chooses to communicate only with the help of a tape recorder - playing back bits and pieces of language learning tapes, PAs and documentary narrations instead of speaking.';
 //Enemies
