@@ -195,6 +195,7 @@ $l['Xmas_soundtrack'] = 'XMAS SOUNDTRACK';
 $l['Poetry_jam'] = 'POETRY JAM';
 $l['Twisted_metal'] = 'TWISTED METAL MASK PACK';
 $l['Halloween'] = 'HALLOWEEN';
+$l['akcarmodpack'] = 'AK/CAR MOD PACK';
 $l['Twitch_pack'] = 'HUMBLE MASK PACK';
 $l['hotline_miami_dlc'] = 'HOTLINE MIAMI DLC';
 $l['hotline_miami'] = 'HOTLINE MIAMI';
@@ -536,6 +537,15 @@ $l['ancient'] = 'Crossbreed';
 $l['ancient-description'] = 'A powerful alien race, described by some as the most advanced beings in the universe. Different races that have come in contact with them have different names for the Crossbreed.<br/><br/>Strong, lean and intelligent, the Crossbreed takes the best from the DNA of each alien race that it meets, always making sure it evolves in the right direction.';
 $l['twitch_orc'] = 'Orc';
 $l['twitch_orc-description'] = 'Brutish, aggressive and generally repulsive, the orcs have always been a hated race. Orcs are larger stronger than their goblin cousins but smaller and less powerful than their ogre brethren.<br/><br/>This particular purple-skinned orc came from the Stonetremble clan who were known for their fierce warriors and overpowered, hybrid shamans.';
+//AK/CAR Pack
+$l['carnotaurus'] = 'Vincent';
+$l['carnotaurus-description'] = 'Vincent the Velociraptor and his best friend Andreas Häll Penninger the Protoceratops were out and about one day in the jungle when they got in a fight. It wasn\'t a big thing really but Vincent just wouldn\'t let it go. Andreas, being the stubborn Protoceratops he was, continued to mouth off to Vincent. Violent fighting ensured and to this day, no one is sure who actually won.';
+$l['pachy'] = 'Pachy';
+$l['pachy-description'] = 'Packy the Pachycephalosaurus, meaning thick headed lizard, wasn\'t ever that thick headed really. He never took that name for himself. the other dinosaurs gave it to him because they were jealous of his high rolls in intelligence, spirit and wisdom. Having earned a robe and a wizard hat as a second prize at the local prehistoric spelling bee didn\'t make it any better.';
+$l['triceratops'] = 'Timothy';
+$l['triceratops-description'] = 'Timothy the Triceratops is one of the most popular dinosaurs at the Jurassic High. He had a huge grudge with Teddy the Tyrannosaurus though. Even though they were massive and lived together during the last epoch of the age of dinosaurs, they couldn\'t find it  in them to be friends. Especially not since that one time when they went to that cabin during Spring Break and Teddy and his pals pranked Timothy with that horror movie and the phone call about seven days left before the meteorite would hit. Timothy did not think that was funny at all.';
+$l['velociraptor'] = 'Alfred';
+$l['velociraptor-description'] = 'Alfred the Carnotaurus was a very fast dinosaur when he was alive and kicking. His distinctive horn and his muscular neck made him stand out next to all the dinosaurs. His large head along with his horn working as shock absorbers made him particularly skilled at head butting other dinosaurs in order to show who had the largest prehistoric d-peen.';
 //Humble Halloween
 $l['the_one_below'] = 'The One Below';
 $l['the_one_below-description'] = 'The head is what remains of this aquatic horror from the old days, when dark lords ruled the lands and good men grew up only to die; when the summer was short and the winter felt like an eternity; when the One Below stepped out of the ocean and walked the earth.';

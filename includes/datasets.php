@@ -468,6 +468,11 @@ array( 'Name' => $l['cthulhu'], 'Image' => 'cthulhu', 'Quality' => 'infamous', '
 array( 'Name' => $l['dillinger_death_mask'], 'Image' => 'dillinger_death_mask', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['dillinger_death_mask-description'], 'Used' => $mask_used_dillinger_death_mask),
 array( 'Name' => $l['grin'], 'Image' => 'grin', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['grin-description'], 'Used' => $mask_used_grin),
 array( 'Name' => $l['old_hoxton'], 'Image' => 'old_hoxton', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['old_hoxton-description'], 'Used' => $mask_used_old_hoxton),
+////AK/CAR Pack
+array( 'Name' => $l['carnotaurus'], 'Image' => 'carnotaurus', 'Quality' => 'dlc', 'Extra' => $l['akcarmodpack'], 'Description' => $l['carnotaurus-description'], 'Used' => $mask_used_carnotaurus),
+array( 'Name' => $l['pachy'], 'Image' => 'pachy', 'Quality' => 'dlc', 'Extra' => $l['akcarmodpack'], 'Description' => $l['pachy-description'], 'Used' => $mask_used_pachy),
+array( 'Name' => $l['triceratops'], 'Image' => 'triceratops', 'Quality' => 'dlc', 'Extra' => $l['akcarmodpack'], 'Description' => $l['triceratops-description'], 'Used' => $mask_used_triceratops),
+array( 'Name' => $l['velociraptor'], 'Image' => 'velociraptor', 'Quality' => 'dlc', 'Extra' => $l['akcarmodpack'], 'Description' => $l['velociraptor-description'], 'Used' => $mask_used_velociraptor),
 //////Collaboration
 ////Hotline Miami Game
 array( 'Name' => $l['panther'], 'Image' => 'panther', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami'], 'Description' => $l['panther-description'], 'Used' => $mask_used_panther),
