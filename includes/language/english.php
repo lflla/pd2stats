@@ -248,6 +248,7 @@ $l['huntsman'] = 'Mosconi 12G';
 $l['benelli'] = 'M1014';
 $l['ksg'] = 'Raven';
 $l['spas12'] = 'Predator 12G';
+$l['b682'] = 'Joceline O/U 12G';
 //Light Machine Guns
 $l['rpk'] = 'RPK';
 $l['m249'] = 'KSP';
@@ -368,6 +369,8 @@ $l['boxing_gloves'] = 'OVERKILL Boxing Gloves';
 $l['boxing_gloves-description'] = '';
 $l['hammer'] = 'Carpenter\'s Delight';
 $l['hammer-description'] = '';
+$l['whiskey'] = 'Rivertown Glen Bottle';
+$l['whiskey-description'] = '';
 ////Grenades
 $l['frag-grenade'] = 'Frag Grenade';
 ////Gadgets
@@ -630,6 +633,10 @@ $l['msk_grizel'] = 'Clover';
 $l['msk_grizel-description'] = 'Clover\'s Mask represents what Clover both fears and hates most of all - wearing a mask as your normal face. The surgically-shrunken nose, the botox\'d lips and the expression of all-consuming vanity and self-obsession - all are symbols of fear and weakness, twisted into a horrifying parody.';
 $l['grizel_clean'] = 'Clover Begins';
 $l['grizel_clean-description'] = 'This is a clean version of Clover\'s iconic mask, before it was painted.<br/><br/> Never linked how the original one turned out? This is your chance to change history.';
+//Bonnie Character Pack
+$l['bonnie-description'] = 'Few nations have contributed to humanity as Scotland has. In every field of endeavour - science, arts, cuisine - it is the people of this blessed land that give freely and generously. With this mask, Bonnie is determined to reverse this trend.';
+$l['bonnie_begins'] = 'Bonnie Begins';
+$l['bonnie_begins-description'] = 'This is a clean version of the iconic Bonnie mask, before it was painted.<br/><br/>Never liked how the original one turned out? This is your chance to change history.';
 //GOTY
 $l['robo_arnold'] = 'Robo-Arnold';
 $l['robo_arnold-description'] = 'Iconic, time-travelling cyborg star of the \'Exterminator\' movie series. In the first movie, he was sent to kill the mother of the leader of the future rebellion before she can steal the chop left by her son who was also her father... In the past. Noted for his deadpan delivery of the catchphrase "Await my return".';

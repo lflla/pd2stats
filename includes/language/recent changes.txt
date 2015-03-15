@@ -1,4 +1,17 @@
 ﻿15.03.2015
+added at end of primary shotguns
+$l['b682'] = 'Joceline O/U 12G';
+
+added at end of melee
+$l['whiskey'] = 'Rivertown Glen Bottle';
+$l['whiskey-description'] = '';
+
+added after clover char pack
+//Bonnie Character Pack
+$l['bonnie-description'] = 'Few nations have contributed to humanity as Scotland has. In every field of endeavour - science, arts, cuisine - it is the people of this blessed land that give freely and generously. With this mask, Bonnie is determined to reverse this trend.';
+$l['bonnie_begins'] = 'Bonnie Begins';
+$l['bonnie_begins-description'] = 'This is a clean version of the iconic Bonnie mask, before it was painted.<br/><br/>Never liked how the original one turned out? This is your chance to change history.';
+
 added at end of heists
 $l['cookoff'] = 'Cook Off';
 $l['transp-train'] = 'Armored Transport: Train Heist';

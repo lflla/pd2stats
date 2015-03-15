@@ -94,6 +94,8 @@ array( 'Name' => $l['ksg'], 'Wiki' => 'Raven', 'Image' => 'ksg', 'Quality' => 'd
 'Magazine' => 14, 'Ammo' => 42, 'Firerate' => 100, 'Damage' => 60, 'Accuracy' => 10, 'Stability' => 12, 'Concealment' => 22, 'Threat' => 28)),
 array( 'Name' => $l['spas12'], 'Wiki' => 'Predator_12', 'Image' => 'spas12', 'Quality' => 'community', 'Extra' => 'Community', 'Used' => $weapon_used_spas12 , 'Kills' => $weapon_kills_spas12, 'Stats' => array(
 'Magazine' => 6, 'Ammo' => 36, 'Firerate' => 300, 'Damage' => 48, 'Accuracy' => 10, 'Stability' => 8, 'Concealment' => 14, 'Threat' => 28)),
+array( 'Name' => $l['b682'], 'Wiki' => 'Joceline_O/U_12G', 'Image' => 'b682', 'Quality' => 'community', 'Extra' => 'Community', 'Used' => $weapon_used_b682 , 'Kills' => $weapon_kills_b682, 'Stats' => array(
+'Magazine' => 2, 'Ammo' => 26, 'Firerate' => 500, 'Damage' => 138, 'Accuracy' => 14, 'Stability' => 20, 'Concealment' => 5, 'Threat' => 37)),
 ////Akimbo
 array( 'Name' => $l['jowi'], 'Wiki' => 'Akimbo_Chimano_Compact', 'Image' => 'jowi', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_jowi , 'Kills' => $weapon_kills_jowi, 'Stats' => array(
 'Magazine' => 20, 'Ammo' => 120, 'Firerate' => 670, 'Damage' => 18, 'Accuracy' => 12, 'Stability' => 20, 'Concealment' => 30, 'Threat' => 9)),
@@ -268,7 +270,9 @@ array( 'Name' => $l['meat_cleaver'], 'Wiki' => 'Dragan\'s_Cleaver_Knife', 'Image
 array( 'Name' => $l['boxing_gloves'], 'Wiki' => 'Alpha_Mauler', 'Image' => 'boxing_gloves', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['boxing_gloves-description'], 'Used' => $melee_used_boxing_gloves , 'Kills' => $melee_kills_boxing_gloves , 'Stats' => array(
 'Damage' => 15, 'DamageMAX' => 35, 'Knockdown' => 60, 'KnockdownMAX' => 105, 'Charge' => 1.0, 'Range' => 150, 'Concealment' => 30 )),
 array( 'Name' => $l['hammer'], 'Wiki' => 'Carpenter\'s_Delight', 'Image' => 'hammer', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami_2_deluxe'], 'Description' => $l['hammer-description'], 'Used' => $melee_used_hammer , 'Kills' => $melee_kills_hammer , 'Stats' => array(
-'Damage' => 30, 'DamageMAX' => 61, 'Knockdown' => 96, 'KnockdownMAX' => 92, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 27 ))
+'Damage' => 30, 'DamageMAX' => 61, 'Knockdown' => 96, 'KnockdownMAX' => 92, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 27 )),
+array( 'Name' => $l['whiskey'], 'Wiki' => 'Rivertown_Glen_Bottle', 'Image' => 'whiskey', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['whiskey-description'], 'Used' => $melee_used_whiskey , 'Kills' => $melee_kills_whiskey , 'Stats' => array(
+'Damage' => 30, 'DamageMAX' => 55, 'Knockdown' => 90, 'KnockdownMAX' => 110, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 27 ))
 );
 //
 //Grenades
@@ -438,6 +442,9 @@ array( 'Name' => $l['pazuzu'], 'Image' => 'pazuzu', 'Quality' => 'dlc', 'Extra' 
 ////Clover Character Pack
 array( 'Name' => $l['msk_grizel'], 'Image' => 'msk_grizel', 'Quality' => 'dlc', 'Extra' => $l['cloverpack'], 'Description' => $l['msk_grizel-description'], 'Used' => $mask_used_msk_grizel),
 array( 'Name' => $l['grizel_clean'], 'Image' => 'grizel_clean', 'Quality' => 'dlc', 'Extra' => $l['cloverpack'], 'Description' => $l['grizel_clean-description'], 'Used' => $mask_used_grizel_clean),
+////Bonnie Character Pack
+array( 'Name' => $l['bonnie'], 'Image' => 'bonnie', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['bonnie-description'], 'Used' => $mask_used_bonnie),
+array( 'Name' => $l['bonnie_begins'], 'Image' => 'bonnie_begins', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['bonnie_begins-description'], 'Used' => $mask_used_bonnie_begins),
 ////GOTY
 array( 'Name' => $l['robo_arnold'], 'Image' => 'robo_arnold', 'Quality' => 'dlc', 'Extra' => $l['weaponbundledlc'], 'Description' => $l['robo_arnold-description'], 'Used' => $mask_used_robo_arnold),
 array( 'Name' => $l['nun_town'], 'Image' => 'nun_town', 'Quality' => 'dlc', 'Extra' => $l['heistbundle'], 'Description' => $l['nun_town-description'], 'Used' => $mask_used_nun_town),
