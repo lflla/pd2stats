@@ -1,4 +1,7 @@
 ﻿15.03.201
+added at end of smgs
+$l['cobray'] = 'Jacket\'s Piece';
+
 added after saw
 $l['m134'] = 'Vulcan Minigun';
 

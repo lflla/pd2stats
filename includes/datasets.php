@@ -179,6 +179,8 @@ array( 'Name' => $l['sterling'], 'Wiki' => 'Patchett_L2A1', 'Image' => 'sterling
 'Magazine' => 20, 'Ammo' => 80, 'Firerate' => 550, 'Damage' => 35, 'Accuracy' => 12, 'Stability' => 17, 'Concealment' => 20, 'Threat' => 12)),
 array( 'Name' => $l['m1928'], 'Wiki' => 'Chicago_Typewriter', 'Image' => 'm1928', 'Quality' => 'community', 'Extra' => 'Community', 'Used' => $weapon_used_m1928 , 'Kills' => $weapon_kills_m1928, 'Stats' => array(
 'Magazine' => 50, 'Ammo' => 150, 'Firerate' => 720, 'Damage' => 23, 'Accuracy' => 12, 'Stability' => 20, 'Concealment' => 18, 'Threat' => 12)),
+array( 'Name' => $l['cobray'], 'Wiki' => 'Jacket\'s_Piece', 'Image' => 'cobray', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami_2_deluxe'], 'Used' => $weapon_used_cobray , 'Kills' => $weapon_kills_cobray, 'Stats' => array(
+'Magazine' => 32, 'Ammo' => 128, 'Firerate' => 1200, 'Damage' => 25, 'Accuracy' => 6, 'Stability' => 19, 'Concealment' => 25, 'Threat' => 10)),
 ////Special
 array( 'Name' => $l['rpg7'], 'Wiki' => 'HRL-7', 'Image' => 'rpg7', 'Quality' => 'dlc', 'Extra' => $l['overkillpack'], 'Used' => $weapon_used_rpg7 , 'Kills' => $weapon_kills_rpg7, 'Stats' => array(
 'Magazine' => 1, 'Ammo' => 4, 'Firerate' => 30, 'Damage' => 10000, 'Accuracy' => 18, 'Stability' => 9, 'Concealment' => 5, 'Threat' => 37)),
