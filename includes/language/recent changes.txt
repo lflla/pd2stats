@@ -1,4 +1,10 @@
 ﻿15.03.201
+added after saw
+$l['m134'] = 'Vulcan Minigun';
+
+added at end of melee
+$l['hammer'] = 'Carpenter\'s Delight';
+$l['hammer-description'] = '';
 
 added to dlcs
 $l['akcarmodpack'] = 'AK/CAR MOD PACK';

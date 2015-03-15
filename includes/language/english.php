@@ -253,8 +253,9 @@ $l['rpk'] = 'RPK';
 $l['m249'] = 'KSP';
 $l['hk21'] = 'Brenner-21';
 $l['mg42'] = 'Buzzsaw 42';
-//Saws
+//Special
 $l['saw'] = 'OVE9000 Saw';
+$l['m134'] = 'Vulcan Minigun';
 //Grenade Launcher
 $l['gre_m79'] = 'GL40';
 //Akimbo
@@ -295,6 +296,8 @@ $l['m1928'] = 'Chicago Typewriter';
 $l['judge'] = 'The Judge';
 $l['serbu'] = 'Locomotive 12G';
 $l['striker'] = 'Street Sweeper';
+//Special
+$l['rpg7'] = 'HRL-7';
 ////Melee
 $l['butt'] = 'Weapon Butt';
 $l['butt-description'] = 'In armed robberies, beating the victims with firearms is usually more common than to shoot or stab them. You usually either butt-stroke someone with a rifle or Pistol-whip them with a handgun.<br/><br/>This is the quickest melee attack.';
@@ -362,6 +365,8 @@ $l['meat_cleaver'] = 'Dragan\'s Cleaver';
 $l['meat_cleaver-description'] = '';
 $l['boxing_gloves'] = 'OVERKILL Boxing Gloves';
 $l['boxing_gloves-description'] = '';
+$l['hammer'] = 'Carpenter\'s Delight';
+$l['hammer-description'] = '';
 ////Grenades
 $l['frag-grenade'] = 'Frag Grenade';
 ////Gadgets

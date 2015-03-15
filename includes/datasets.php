@@ -112,9 +112,11 @@ array( 'Name' => $l['hk21'], 'Wiki' => 'Brenner_21_(Payday_2)', 'Image' => 'hk21
 'Magazine' => 150, 'Ammo' => 300, 'Firerate' => 720, 'Damage' => 33, 'Accuracy' => 10, 'Stability' => 12, 'Concealment' => 2, 'Threat' => 37)),
 array( 'Name' => $l['mg42'], 'Wiki' => 'Buzzsaw_42', 'Image' => 'mg42', 'Quality' => 'dlc', 'Extra' => $l['Gage_Historical'], 'Used' => $weapon_used_mg42 , 'Kills' => $weapon_kills_mg42, 'Stats' => array(
 'Magazine' => 150, 'Ammo' => 450, 'Firerate' => 1200, 'Damage' => 30, 'Accuracy' => 6, 'Stability' => 15, 'Concealment' => 2, 'Threat' => 31)),
-////Saws
+////Special
 array( 'Name' => $l['saw'], 'Wiki' => 'OVE9000', 'Image' => 'saw', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_saw , 'Kills' => $weapon_kills_saw, 'Stats' => array(
 'Magazine' => 150, 'Ammo' => 300, 'Firerate' => 400, 'Damage' => 23, 'Accuracy' => 4, 'Stability' => 17, 'Concealment' => 16, 'Threat' => 24)),
+array( 'Name' => $l['m134'], 'Wiki' => 'Vulcan_Minigun', 'Image' => 'm134', 'Quality' => 'dlc', 'Extra' => $l['overkillpack'], 'Used' => $weapon_used_m134 , 'Kills' => $weapon_kills_m134, 'Stats' => array(
+'Magazine' => 750, 'Ammo' => 750, 'Firerate' => 3000, 'Damage' => 38, 'Accuracy' => 8, 'Stability' => 3, 'Concealment' => 5, 'Threat' => 31)),
 ////Grenade Launcher
 array( 'Name' => $l['gre_m79'], 'Wiki' => 'GL40_(Payday_2)', 'Image' => 'gre_m79', 'Quality' => 'dlc', 'Extra' => $l['Gage_Assault_Pack'], 'Used' => $weapon_used_gre_m79 , 'Kills' => $weapon_kills_gre_m79, 'Stats' => array(
 'Magazine' => 1, 'Ammo' => 6, 'Firerate' => 30, 'Damage' => 340, 'Accuracy' => 12, 'Stability' => 6, 'Concealment' => 18, 'Threat' => 37))
@@ -177,6 +179,9 @@ array( 'Name' => $l['sterling'], 'Wiki' => 'Patchett_L2A1', 'Image' => 'sterling
 'Magazine' => 20, 'Ammo' => 80, 'Firerate' => 550, 'Damage' => 35, 'Accuracy' => 12, 'Stability' => 17, 'Concealment' => 20, 'Threat' => 12)),
 array( 'Name' => $l['m1928'], 'Wiki' => 'Chicago_Typewriter', 'Image' => 'm1928', 'Quality' => 'community', 'Extra' => 'Community', 'Used' => $weapon_used_m1928 , 'Kills' => $weapon_kills_m1928, 'Stats' => array(
 'Magazine' => 50, 'Ammo' => 150, 'Firerate' => 720, 'Damage' => 23, 'Accuracy' => 12, 'Stability' => 20, 'Concealment' => 18, 'Threat' => 12)),
+////Special
+array( 'Name' => $l['rpg7'], 'Wiki' => 'HRL-7', 'Image' => 'rpg7', 'Quality' => 'dlc', 'Extra' => $l['overkillpack'], 'Used' => $weapon_used_rpg7 , 'Kills' => $weapon_kills_rpg7, 'Stats' => array(
+'Magazine' => 1, 'Ammo' => 4, 'Firerate' => 30, 'Damage' => 10000, 'Accuracy' => 18, 'Stability' => 9, 'Concealment' => 5, 'Threat' => 37)),
 ////Shotguns
 array( 'Name' => $l['judge'], 'Wiki' => 'The_Judge', 'Image' => 'judge', 'Quality' => 'community', 'Extra' => 'Community', 'Used' => $weapon_used_judge , 'Kills' => $weapon_kills_judge, 'Stats' => array(
 'Magazine' => 5, 'Ammo' => 20, 'Firerate' => 500, 'Damage' => 95, 'Accuracy' => 6, 'Stability' => 3, 'Concealment' => 29, 'Threat' => 28)),
@@ -259,7 +264,9 @@ array( 'Name' => $l['shillelagh'], 'Wiki' => 'Clover\'s_Shillelagh', 'Image' => 
 array( 'Name' => $l['meat_cleaver'], 'Wiki' => 'Dragan\'s_Cleaver_Knife', 'Image' => 'meat_cleaver', 'Quality' => 'dlc', 'Extra' => $l['draganpack'], 'Description' => $l['meat_cleaver-description'], 'Used' => $melee_used_meat_cleaver , 'Kills' => $melee_kills_meat_cleaver , 'Stats' => array(
 'Damage' => 30, 'DamageMAX' => 75, 'Knockdown' => 15, 'KnockdownMAX' => 45, 'Charge' => 2.0, 'Range' => 195, 'Concealment' => 26 )),
 array( 'Name' => $l['boxing_gloves'], 'Wiki' => 'Alpha_Mauler', 'Image' => 'boxing_gloves', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['boxing_gloves-description'], 'Used' => $melee_used_boxing_gloves , 'Kills' => $melee_kills_boxing_gloves , 'Stats' => array(
-'Damage' => 15, 'DamageMAX' => 35, 'Knockdown' => 60, 'KnockdownMAX' => 105, 'Charge' => 1.0, 'Range' => 150, 'Concealment' => 30 ))
+'Damage' => 15, 'DamageMAX' => 35, 'Knockdown' => 60, 'KnockdownMAX' => 105, 'Charge' => 1.0, 'Range' => 150, 'Concealment' => 30 )),
+array( 'Name' => $l['hammer'], 'Wiki' => 'Carpenter\'s_Delight', 'Image' => 'hammer', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami_2_deluxe'], 'Description' => $l['hammer-description'], 'Used' => $melee_used_hammer , 'Kills' => $melee_kills_hammer , 'Stats' => array(
+'Damage' => 30, 'DamageMAX' => 61, 'Knockdown' => 96, 'KnockdownMAX' => 92, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 27 ))
 );
 //
 //Grenades
