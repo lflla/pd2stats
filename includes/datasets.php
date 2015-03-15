@@ -415,11 +415,6 @@ array( 'Name' => $l['pig'], 'Image' => 'pig', 'Quality' => 'dlc', 'Extra' => $l[
 array( 'Name' => $l['white_wolf'], 'Image' => 'white_wolf', 'Quality' => 'dlc', 'Extra' => $l['hotline_miami_dlc'], 'Description' => $l['white_wolf-description'], 'Used' => $mask_used_white_wolf),
 array( 'Name' => $l['rabbit'], 'Image' => 'rabbit', 'Quality' => 'dlc', 'Extra' => $l['hotline_miami_dlc'], 'Description' => $l['rabbit-description'], 'Used' => $mask_used_rabbit),
 array( 'Name' => $l['owl'], 'Image' => 'owl', 'Quality' => 'dlc', 'Extra' => $l['hotline_miami_dlc'], 'Description' => $l['owl-description'], 'Used' => $mask_used_owl),
-////Hotline Miami Game
-array( 'Name' => $l['panther'], 'Image' => 'panther', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami'], 'Description' => $l['panther-description'], 'Used' => $mask_used_panther),
-array( 'Name' => $l['horse'], 'Image' => 'horse', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami'], 'Description' => $l['horse-description'], 'Used' => $mask_used_horse),
-array( 'Name' => $l['rooster'], 'Image' => 'rooster', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami'], 'Description' => $l['rooster-description'], 'Used' => $mask_used_rooster),
-array( 'Name' => $l['tiger'], 'Image' => 'tiger', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami'], 'Description' => $l['tiger-description'], 'Used' => $mask_used_tiger),
 ////White Xmas
 array( 'Name' => $l['krampus'], 'Image' => 'krampus', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['krampus-description'], 'Used' => $mask_used_krampus),
 array( 'Name' => $l['mrs_claus'], 'Image' => 'mrs_claus', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['mrs_claus-description'], 'Used' => $mask_used_mrs_claus),
@@ -473,6 +468,23 @@ array( 'Name' => $l['cthulhu'], 'Image' => 'cthulhu', 'Quality' => 'infamous', '
 array( 'Name' => $l['dillinger_death_mask'], 'Image' => 'dillinger_death_mask', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['dillinger_death_mask-description'], 'Used' => $mask_used_dillinger_death_mask),
 array( 'Name' => $l['grin'], 'Image' => 'grin', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['grin-description'], 'Used' => $mask_used_grin),
 array( 'Name' => $l['old_hoxton'], 'Image' => 'old_hoxton', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['old_hoxton-description'], 'Used' => $mask_used_old_hoxton),
+//////Collaboration
+////Hotline Miami Game
+array( 'Name' => $l['panther'], 'Image' => 'panther', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami'], 'Description' => $l['panther-description'], 'Used' => $mask_used_panther),
+array( 'Name' => $l['horse'], 'Image' => 'horse', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami'], 'Description' => $l['horse-description'], 'Used' => $mask_used_horse),
+array( 'Name' => $l['rooster'], 'Image' => 'rooster', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami'], 'Description' => $l['rooster-description'], 'Used' => $mask_used_rooster),
+array( 'Name' => $l['tiger'], 'Image' => 'tiger', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami'], 'Description' => $l['tiger-description'], 'Used' => $mask_used_tiger),
+////Hotline Miami 2 Game
+array( 'Name' => $l['alex'], 'Image' => 'alex', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami_2'], 'Description' => $l['alex-description'], 'Used' => $mask_used_alex),
+array( 'Name' => $l['biker'], 'Image' => 'biker', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami_2'], 'Description' => $l['biker-description'], 'Used' => $mask_used_biker),
+array( 'Name' => $l['corey'], 'Image' => 'corey', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami_2'], 'Description' => $l['corey-description'], 'Used' => $mask_used_corey),
+array( 'Name' => $l['jake'], 'Image' => 'jake', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami_2'], 'Description' => $l['jake-description'], 'Used' => $mask_used_jake),
+array( 'Name' => $l['richter'], 'Image' => 'richter', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami_2'], 'Description' => $l['richter-description'], 'Used' => $mask_used_richter),
+array( 'Name' => $l['tonys_revenge'], 'Image' => 'tonys_revenge', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami_2'], 'Description' => $l['tonys_revenge-description'], 'Used' => $mask_used_tonys_revenge),
+////Hotline Miami 2 Deluxe Game
+array( 'Name' => $l['richard_begins'], 'Image' => 'richard_begins', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami_2_deluxe'], 'Description' => $l['richard_begins-description'], 'Used' => $mask_used_richard_begins),
+array( 'Name' => $l['richard_returns'], 'Image' => 'richard_returns', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami_2_deluxe'], 'Description' => $l['richard_returns-description'], 'Used' => $mask_used_richard_returns),
+//////Collaboration End
 ////Normal
 array( 'Name' => $l['alienware'], 'Image' => 'alienware', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['alienware-description'], 'Used' => $mask_used_alienware),
 array( 'Name' => $l['babyrhino'], 'Image' => 'babyrhino', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['babyrhino-description'], 'Used' => $mask_used_babyrhino),

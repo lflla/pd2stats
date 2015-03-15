@@ -749,6 +749,21 @@ $l['twister-description'] = 'Who is behind this mask is a mystery.<br/><br/>It c
 //Thespian
 $l['thespian'] = 'Thespian';
 $l['thespian-description'] = 'Thespian is a superhuman soldier of fortune. In the future, space marines like Thespian protect the world of mankind and its space colonies from the forces of evil.<br/><br/>His helmet is popular gift in the criminal underworld and is given to thieves, thugs and career criminals who show loyalty and patience to their syndicate.<br/><br/>We at OVERKILL salute you for your loyalty and patience!';
+//Collaboration
+$l['alex'] = 'Alex';
+$l['alex-description'] = 'On half of a brother and sister duo, Alex. Like swans, they are fierce. Unlike swans, they wield chainsaws and SMGs. Like swans, they are closely bonded. Unlike swans, they have a penchant for slaughter.';
+$l['corey'] = 'Corey';
+$l['corey-description'] = 'When you\'re the most delicious lunch on the savannah, you have to be fast, agile and cunning if you\'re going to survive. Corey is all of these things. Zebras are also peaceful, gentle and herbivorous. Corey is non of these things.';
+$l['jake'] = 'Jake';
+$l['jake-description'] = 'There\'s no such thing as a good snake, but even among the deadly serpents the cobra is bad news. The broad hood, when seen, is a display of threat - so run. Its long fangs can pierce elephant skin - so run. And just a drop of its venom can fell a dozer - so... look, basically, when you see this, just run. Because they also spit.';
+$l['richter'] = 'Richter';
+$l['richter-description'] = 'Like the rat, Richter is a silent killer. It can make its way into just about anywhere - into the most secure banks and apartments. It can avoid detection when it wants, and , once there, spread death like a plague. It kills without remorse. Nothing personal.';
+$l['tonys_revenge'] = 'Tony\'s Revenge';
+$l['tonys_revenge-description'] = 'The near-perfect predator. Tigers are immensely strong, yet fast. They are brutal, yet patient. They can stalk silently, before exploding into violence. The perfect killing machine. Despite this, the tiger is in decline. Poachers prize the tiger penis in traditional medicine. So don\'t get taken alive.';
+$l['richard_begins'] = 'Richard Returns Begins';
+$l['richard_begins-description'] = 'This is a clean version of the iconic Richard Returns mask, before it was painted.<br/><br/>Never liked how the original one turned out? This is your chance to change history.';
+$l['richard_returns'] = 'Richard Returns';
+$l['richard_returns-description'] = 'Is this mask a reflection of a deep-seated psychological problem? Possibly a dissociative identity disorder? Schizophrenia? Trauma of a disturbed psyche? Or is it not a reflection at all, but instead something to cause them?';
 //Leave the div there. It colors the word red.
 $l['pro'] = '<div style="display:inline; color:#ff3336;">Pro</div>';
 ////Heists
