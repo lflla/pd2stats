@@ -764,6 +764,8 @@ $l['richard_begins'] = 'Richard Returns Begins';
 $l['richard_begins-description'] = 'This is a clean version of the iconic Richard Returns mask, before it was painted.<br/><br/>Never liked how the original one turned out? This is your chance to change history.';
 $l['richard_returns'] = 'Richard Returns';
 $l['richard_returns-description'] = 'Is this mask a reflection of a deep-seated psychological problem? Possibly a dissociative identity disorder? Schizophrenia? Trauma of a disturbed psyche? Or is it not a reflection at all, but instead something to cause them?';
+$l['biker'] = 'Biker';
+$l['biker-description'] = 'When you\'re a thrill-seeker, and a risk-taker, and a live-for-the-moment kind of heister, it is important to have at least some measure of protection. That also goes if you are a meat-cleaver waving maniac.';
 //Leave the div there. It colors the word red.
 $l['pro'] = '<div style="display:inline; color:#ff3336;">Pro</div>';
 ////Heists
