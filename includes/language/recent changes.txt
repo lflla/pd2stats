@@ -1,4 +1,19 @@
 ﻿15.03.2015
+added after sociopath deck
+//Deck Gambler
+$l['perk-gambler'] = 'Gambler';
+$l['perk-gambler-desc'] = 'Heading into the furnace of battle requires skill, hardness and more than a little luck. Some people just have it.<br/><br/>Luck is an elusive quality. The ancient Greeks believed it was the design of the Gods. It isn\'t. It certainly exists, but it\'s something you can earn. It requires preparation and forethought to get your pieces in place, and maximize your chances of a return. It\'s counting cards, rather than the blessing of Fortuna';
+$l['perk-gambler-1'] = 'Medical Supplies';
+$l['perk-gambler-1-desc'] = 'Ammo packs you pick up also yield medical supplies and heals you for <div class="bluein">4</div> to <div class="bluein">8</div> health.<br/><br/>Cannot occur more than once every <div class="bluein">15</div> seconds.';
+$l['perk-gambler-2'] = 'Ammo Give Out';
+$l['perk-gambler-2-desc'] = 'When you pick up ammo, you trigger an ammo pickup for <div class="bluein">50%</div> of normal pickup to other players in your team.<br/><br/>Cannot occur more than once every <div class="bluein">5</div> seconds.';
+$l['perk-gambler-3'] = 'Sharing Is Caring';
+$l['perk-gambler-3-desc'] = 'When you get healed from picking up ammo packs, your team-mates also get healed for <div class="bluein">50%</div> of the amount.';
+$l['perk-gambler-4'] = 'More Healing 1';
+$l['perk-gambler-4-desc'] = 'Increase health gained from ammo packs by additional <div class="bluein">2</div>.';
+$l['perk-gambler-5'] = 'More Healing 2';
+$l['perk-gambler-5-desc'] = 'Increase health gained from ammo packs by additional <div class="bluein">2</div>.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
+
 added at end of primary shotguns
 $l['b682'] = 'Joceline O/U 12G';
 

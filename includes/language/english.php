@@ -1263,6 +1263,19 @@ $l['perk-sociopath-4'] = 'Overdose';
 $l['perk-sociopath-4-desc'] = 'Killing an enemy at close range regenerates <div class="bluein">10</div> armor.<br/><br/>This cannot occur more than once every <div class="bluein">3</div> seconds.';
 $l['perk-sociopath-5'] = 'Showdown';
 $l['perk-sociopath-5-desc'] = 'Killing an enemy at close range has a <div class="bluein">20%</div> chance to spread panic among your enemies.<br/><br/>Panic will make enemies go into short bursts of uncontrollable fear.<br/><br/>This cannot occur more than once every <div class="bluein">3</div> seconds.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
+//Deck Gambler
+$l['perk-gambler'] = 'Gambler';
+$l['perk-gambler-desc'] = 'Heading into the furnace of battle requires skill, hardness and more than a little luck. Some people just have it.<br/><br/>Luck is an elusive quality. The ancient Greeks believed it was the design of the Gods. It isn\'t. It certainly exists, but it\'s something you can earn. It requires preparation and forethought to get your pieces in place, and maximize your chances of a return. It\'s counting cards, rather than the blessing of Fortuna';
+$l['perk-gambler-1'] = 'Medical Supplies';
+$l['perk-gambler-1-desc'] = 'Ammo packs you pick up also yield medical supplies and heals you for <div class="bluein">4</div> to <div class="bluein">8</div> health.<br/><br/>Cannot occur more than once every <div class="bluein">15</div> seconds.';
+$l['perk-gambler-2'] = 'Ammo Give Out';
+$l['perk-gambler-2-desc'] = 'When you pick up ammo, you trigger an ammo pickup for <div class="bluein">50%</div> of normal pickup to other players in your team.<br/><br/>Cannot occur more than once every <div class="bluein">5</div> seconds.';
+$l['perk-gambler-3'] = 'Sharing Is Caring';
+$l['perk-gambler-3-desc'] = 'When you get healed from picking up ammo packs, your team-mates also get healed for <div class="bluein">50%</div> of the amount.';
+$l['perk-gambler-4'] = 'More Healing 1';
+$l['perk-gambler-4-desc'] = 'Increase health gained from ammo packs by additional <div class="bluein">2</div>.';
+$l['perk-gambler-5'] = 'More Healing 2';
+$l['perk-gambler-5-desc'] = 'Increase health gained from ammo packs by additional <div class="bluein">2</div>.<br/><br/>Deck Completion Bonus: Your chance of getting a higher quality item during a PAYDAY is increased by <div class="bluein">10%</div>.';
 //Characters
 $l['chars'] = 'Characters';
 $l['houston'] = 'Houston';
