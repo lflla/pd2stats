@@ -1,4 +1,8 @@
 ﻿15.03.2015
+added at end of heists
+$l['cookoff'] = 'Cook Off';
+$l['transp-train'] = 'Armored Transport: Train Heist';
+
 added after bonnie
 $l['bonnie-char'] = 'Nationality: Scottish<br/>Age: 43<br/><br/>Bonnie is from Glasgow. That should be enough to strike fear into a man\'s heart, but Bonnie is also from 1980\'s Glasgow. These years, the Thatcher era, made already tough towns even harder, and bred a generation of determined, unforgiving Scots. Bonnie is cut from this cloth.';
 

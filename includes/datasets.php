@@ -598,7 +598,9 @@ array( 'Name' => $l['hoxtonbreakout'].' '.$l['pro'], 'Wiki' => 'Hoxton_Breakout'
 array( 'Name' => $l['pines'], 'Wiki' => 'White_Xmas', 'Image' => 'pines', 'Win' => $contract_pines_win, 'Dropin' => $contract_pines_win_dropin, 'Fail' => $contract_pines_fail, 'Quality' => 'normal', 'deathwish' => $deer_5),
 array( 'Name' => $l['crojob1'], 'Wiki' => 'The_Bomb:_Dockyard', 'Image' => 'crojob1', 'Win' => $contract_crojob1_win, 'Dropin' => $contract_crojob1_win_dropin, 'Fail' => $contract_crojob1_fail, 'Quality' => 'dlc', 'deathwish' => $cow_7),
 array( 'Name' => $l['crojob2'], 'Wiki' => 'The_Bomb:_Forest', 'Image' => 'crojob2', 'Win' => $contract_crojob2_win, 'Dropin' => $contract_crojob2_win_dropin, 'Fail' => $contract_crojob2_fail, 'Quality' => 'dlc', 'deathwish' => $cow_2),
-array( 'Name' => $l['mus'], 'Wiki' => 'The_Diamond', 'Image' => 'mus', 'Win' => $contract_mus_win, 'Dropin' => $contract_mus_win_dropin, 'Fail' => $contract_mus_fail, 'Quality' => 'dlc', 'deathwish' => $bat_1)
+array( 'Name' => $l['mus'], 'Wiki' => 'The_Diamond', 'Image' => 'mus', 'Win' => $contract_mus_win, 'Dropin' => $contract_mus_win_dropin, 'Fail' => $contract_mus_fail, 'Quality' => 'dlc', 'deathwish' => $bat_1),
+array( 'Name' => $l['cookoff'], 'Wiki' => 'Cook_Off', 'Image' => 'rat', 'Win' => $contract_rat_win, 'Dropin' => $contract_rat_win_dropin, 'Fail' => $contract_rat_fail, 'Quality' => 'dlc', 'deathwish' => $djur_1),
+array( 'Name' => $l['transp-train'], 'Wiki' => 'Train', 'Image' => 'train', 'Win' => $contract_arm_for_win, 'Dropin' => $contract_arm_for_win_dropin, 'Fail' => $contract_arm_for_fail, 'Quality' => 'dlc', 'deathwish' => $I_AM_ERROR)
 );
 
 //Calculate Totals

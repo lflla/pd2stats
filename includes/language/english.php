@@ -832,6 +832,8 @@ $l['crojob1'] = 'The Bomb: Dockyard';
 $l['crojob2'] = 'The Bomb: Forest';
 $l['mus'] = 'The Diamond';
 $l['nightsuffix'] = '(Night)';
+$l['cookoff'] = 'Cook Off';
+$l['transp-train'] = 'Armored Transport: Train Heist';
 //Escapes
 $l['escapeparknight'] = 'Park (Night)';
 $l['escapeparkday'] = 'Park';
