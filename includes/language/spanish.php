@@ -19,7 +19,7 @@ $l['charset'] = 'UTF-8';
 // Example: Paragraph 1 <br/><br/> Parapraph 2
 ////
 //Only translate things that are at $l['stuff'] = 'HERE';
-//The ' ' must be present!
+//The ' ' must be present!d
 ////
 //If you need to use a ' in text write \'
 ////
@@ -43,6 +43,7 @@ $l['notice'] = '¡Menú'; //Incluye al final un !
 $l['ads'] = 'Publicidad';
 $l['switch'] = 'Cambiar';
 $l['languagetex'] = 'Idioma';
+$l['detection'] = 'Advertencia';
 //Itemindex
 $l['maskindex'] = 'Índice de Máscaras';
 $l['weaponindex'] = 'Índice de Armas';
@@ -65,8 +66,8 @@ $l['vanitystatus'] = 'Estado del Jugador (Principal)';
 $l['summarystatus'] = 'Estado del Jugador (Secundario)';
 $l['ownershipstatus'] = 'Estado de las Propiedades del Jugador';
 $l['statisticsstatus'] = 'Estado de las Estadísticas del Jugador';
-$l['offline'] = 'OFFLINE (Haz click en el ojo para más información)';
-$l['online'] = 'ONLINE';
+$l['online'] = 'ÉXITO';
+$l['offline'] = 'FALLO';
 //Tags and Warnings
 $l['cflag'] = '[Tramposo]';
 $l['cflag-warning'] = 'Esta etiqueta no siempre será fiable debido a diferentes errores, en habilidades y niveles, que están en el propio juego.';
@@ -81,6 +82,7 @@ $l['dlc-item-start'] = '¡ÉSTO ES UN';
 $l['dlc-item-end'] = 'OBJETO!';
 $l['infamous-item'] = '¡ÉSTO ES UN OBJETO DE INFAMIA!';
 $l['custom-item'] = 'ÉSTO ES UN OBJETO MODIFICADO CREADO POR';
+$l['collaboration-item'] = 'OBJETO DE COLABORACIÓN!';
 //Errors
 $l['error-text1'] = '¡No existe el ID!';
 $l['error-text2'] = 'SOY UN ERROR';
@@ -177,6 +179,10 @@ $l['infinite'] = '∞';
 $l['tops'] = 'Perfiles Más Visitados';
 $l['totalview'] = 'Total Visitas';
 $l['playername'] = 'Nombre del Jugador';
+$l['locked'] = 'bloqueado';
+$l['unlocked'] = 'desbloqueado';
+$l['achievements'] = 'Logros';
+$l['caus-help'] = 'Ésta caja muestra el número total de enemigos abatidos. Por favor tenga en cuenta que los datos han sido obtenidos a partir del update de Shadow Raid. También tenga en cuenta que hay algunos enemigos que no son contados'.;
 //DLC Names
 $l['Armored_Transport'] = 'TRANSPORTE ARMADO';
 $l['Big_Bank_Heist'] = 'ATRACO GRAN BANCO';
@@ -187,13 +193,25 @@ $l['Gage_Sniper_Pack'] = 'GAGE PACK FRANCOTIRADOR';
 $l['Gage_Shotgun_Pack'] = 'GAGE PACK ESCOPETA';
 $l['Xmas_soundtrack'] = 'BANDA SONORA NAVIDAD';
 $l['Poetry_jam'] = 'CONCURSO POESIA';
-$l['Twisted_metal'] = 'TWISTED METAL';
+$l['Twisted_metal'] = 'PACK MÁSCARAS TWISTED METAL';
 $l['Halloween'] = 'HALLOWEEN';
 $l['Twitch_pack'] = 'HUMBLE PACK MÁSCARAS';
-$l['hotline_miami_dlc'] = 'HOTLINE MIAMI';
+$l['hotline_miami'] = 'HOTLINE MIAMI';
 $l['humblehalloween_pack'] = 'HUMBLE PACK MÁSCARAS 2';
 $l['Gage_Historical'] = 'GAGE PACK HISTÓRICO';
 $l['Humble2Pack'] = 'ALIENWARE ALPHA';
+$l['cloverpack'] = 'PACK PERSONAJE CLOVER';
+$l['thebombpack'] = 'LOS ATRACOS BOMBA';
+$l['draganpack'] = 'PACK PERSONAJE DRAGAN';
+$l['thespiandlc'] = 'PACK MÁSCARAS THESPIAN';
+$l['diamondheistdlc'] = 'ATRACO DIAMANTE';
+$l['weaponbundledlc'] = 'PAQUETE DE ARMAS';
+$l['heistbundle'] = 'PAQUETE DE ATRACOS';
+$l['gotyeddlc'] = 'EDICIÓN GOTY';
+$l['lootbagdlc'] = 'BOLSA DE SAQUEO';
+$l['akcarmodpack'] = 'PACK MODIFICACIONES AK/CAR';
+$l['overkillpack'] = 'PACK OVERKILL';
+$l['compoverkillpack'] = 'PACK COMPLETAMENTE OVERKILL';
 ////Weapons
 ////Primary
 //Akimbo
@@ -218,6 +236,8 @@ $l['fal'] = 'Falcon';
 $l['famas'] = 'Clarion';
 $l['galil'] = 'Gecko 7.62';
 $l['g3'] = 'Gewehr 3';
+$l['l85a2'] = 'La Ira de la Reina';
+$l['vhs'] = 'El Rugido del León';
 //Sniper Rifles
 $l['msr'] = 'Rattlesnake';
 $l['r93'] = 'R93';
@@ -230,6 +250,7 @@ $l['huntsman'] = 'Mosconi 12G';
 $l['benelli'] = 'M1014';
 $l['ksg'] = 'Raven';
 $l['spas12'] = 'Predator 12G';
+$l['b682'] = 'Joceline O/U 12G';
 //Light Machine Guns
 $l['rpk'] = 'RPK';
 $l['m249'] = 'KSP';
@@ -237,6 +258,7 @@ $l['hk21'] = 'Brenner-21';
 $l['mg42'] = 'Buzzsaw 42';
 //Saws
 $l['saw'] = 'Sierra OVE9000';
+$l['m134'] = 'Ametralladora Pesada Gatling Vulcan';
 //Grenade Launcher
 $l['gre_m79'] = 'GL40';
 ////Secondary
@@ -253,6 +275,7 @@ $l['ppk'] = 'Gruber Kurz';
 $l['p226'] = 'Signature .40';
 $l['g26'] = 'Chimano Compact';
 $l['c96'] = 'Broomstick';
+$l['hs2000'] = 'LEO';
 //Submachine Guns
 $l['mac10'] = 'Mark 10';
 $l['new_mp5'] = 'Compact-5';
@@ -267,6 +290,7 @@ $l['blastersmg'] = 'Blaster 9mm';
 $l['uzi'] = 'Uzi';
 $l['sterling'] = 'Patchett L2A1';
 $l['m1928'] = 'Chicago Typewriter';
+$l['cobray'] = 'La Pieza de Jacket';
 //Shotguns
 $l['judge'] = 'El Juez';
 $l['serbu'] = 'Locomotive 12G';
@@ -332,6 +356,16 @@ $l['swagger'] = 'Palo de la Soberbia';
 $l['swagger-description'] = '';
 $l['alien_maul'] = 'Martillo Alpha';
 $l['alien_maul-description'] = '';
+$l['shillelagh'] = 'Shillelagh de Clover';
+$l['shillelagh-description'] = '';
+$l['meat_cleaver'] = 'Cuchillo de Dragan';
+$l['meat_cleaver-description'] = '';
+$l['boxing_gloves'] = 'Guantes de Boxeo Overkill';
+$l['boxing_gloves-description'] = '';
+$l['whiskey'] = 'Botella Glen de Rivertown';
+$l['whiskey-description'] = '';
+$l['hammer'] = 'Delicia del Carpintero';
+$l['hammer-description'] = '';
 ////Grenades
 $l['frag-grenade'] = 'Granada de fragmentación';
 ////Gadgets
@@ -549,6 +583,79 @@ $l['area51'] = 'La Anomalía';
 $l['area51-description'] = 'Forgada en los altos hornos de Penrose, este casco fue construido a partir del lugar de un accidente de alto secreto. El gobierno continúa denegando la existencia de dicho hecho.';
 $l['alien_helmet'] = 'Gris Alpha';
 $l['alien_helmet-description'] = 'Los Alienígenas Grises son una raza de extraterrestres creado por comunidades de lo paranormal, ufológico, paranormal y otras comunidades ¿Llamadas por el color de la piel del extraterrestre?';
+//White Xmas
+$l['krampus'] = 'Krampus';
+$l['krampus-description'] = '¿Has sido malo éste año? Entonces puede que recibas la visita de Krampus. O una llamada de Bain.';
+$l['mrs_claus'] = 'Srta. Claus';
+$l['mrs_claus-description'] = 'Mientras Santa está volando los cielos en Diciembre, alguien debe de quedarse en casa al cuidado de los elfos. Nadie lo hace tan bien como la ruidosa, fumadora, comandante de la fortaleza Claus.';
+$l['strinch'] = 'Strinch';
+$l['strinch-description'] = 'Un criminal de temporada festiva, Strinch ha estado robando la Navidad desde 1957. También relacionado con el atraco de Halloween de 1972.';
+$l['robo_santa'] = 'Santa mecánico';
+$l['robo_santa-description'] = 'Éste jovial, autómata festivo tiene el corazón de Santa. Lo guarda en una caja, bajo una pila de cadáveres elficos, y rodeado de muchas cabezas de ciervos.';
+$l['almirs_beard'] = 'Barba de Almir';
+$l['almirs_beard-description'] = 'Algunos dicen que los hombres de verdad no se afeitan, pero la verdad es que los hombres de verdad no pueden afeitarse. Las cuchillas ordinarias no pueden con tanta densidad y tab magnífico follaje como es la Barba de Almir.';
+//The Diamond
+$l['cursed_crown'] = 'El Maldecido';
+$l['cursed_crown-description'] = 'Su nombre se perdió. Pudo haber sido un rey, o un hechicero poderoso. Pero hasta los mejores caen merced del Diamante.';
+$l['medusa'] = 'Medusa';
+$l['medusa-description'] = 'Una horrorosa expresión, serpientes por pelo, una mierda petrificante y un sufrimiento para los hombres. Sus ojos penetrantes todavía emanan terror... Pero ésto es sólo una máscara, ¿Cierto?';
+$l['anubis'] = 'Anubis';
+$l['anubis-description'] = 'El dios Egipcio de la muerte con cabeza de chacal, Anubis está para proteger tumbas en vez de llenarlas.';
+$l['pazuzu'] = 'Pazuzu';
+$l['pazuzu-description'] = 'Según la mitología Babilonica, Pazuzu fue el rey de los demoios del viento. Algunas legendas se refieren a él como un Behemoth bestial que acaba con grupos de aventureros en tierras lejanas, y otras sin embargo cuentan que él caminaba sobre la tierra como un humano inmortal.';
+//AK/CAR Pack
+$l['carnotaurus'] = 'Vincent';
+$l['carnotaurus-description'] = 'Vincent el Velociraptor y su mejor amigo Andreas Hall Penninger el Protoceratops un dia sin más empezaron a pelearse. No fue una gran cosa pero Vincent no dejaba de pegar. Andreas, siendo el Protoceratops tozudo, continuaba insultando a Vincent. Actualmente, nadie sabe quién ganó.';
+$l['pachy'] = 'Pachy';
+$l['pachy-description'] = 'Pachy el Pachycephalosaurus, qe quiere decir cabeza de lagarto fina, aunque no era tan fina. Nunca escogió ese nombre para si mismo. Los otros dinosaurios fueron se lo pusieron debido a que estaban celosos de su inteligencia, espíritu y sabiduría. Consiguió una capa y un sombrero de mago en un concurso de deletreo prehistórico.';
+$l['triceratops'] = 'Timothy';
+$l['triceratops-description'] = 'Timothy el Triceratops es uno de los dinosaurios más populares del Jurásico Superior. Estaba resentido con Tedy el Tyrannosaurus. Nunca llegaron a ser amigos incluso siendo tantos como eran y que compartieron la misma era. Especialmente desde aquella vez que iban en taxi durante las festividades de Primavera y Teddy y sus amigos le gastaron una broma a Timothy acerca de una película que anunciaba un meteorito una vez vista la película y pasados 7 dias. Timothy pensó que no era divertido.';
+$l['velociraptor'] = 'Alfred';
+$l['velociraptor-description'] = 'Alfred el Carnotaurus fue un dinosaurio muy rápido y peligroso. Su cuerno característico y su cuello musculoso hicieron de él, el dinosaurio más peligroso. Su gran cabeza junto con su cuerno absorbían el daño haciendo de su golpe de cabeza uno de los más temidos, midiendose con los mejores dinosaurios de la época.';
+//Overkill Pack
+$l['the_overkill_mask'] = 'General Overkill';
+$l['the_overkill_mask-description'] = '¡Diez-Cuatro! Correcto, escuchad, bastardos criminales. Vas a notar el sabor de la batalla. Y en la guerra necesitarás de un líder. Conoce al General Overkill. Estará ahí para comprobar que vas directo hacia la policía como la mierda para ensartarlos. ¡Despedido!';
+$l['dallas_glow'] = 'Mega Dallas';
+$l['dallas_glow-description'] = 'La Máscara Mega Dallas es una versión evolucionada de la versión original. Simboliza transcendencia y catarsis.<br/><br/>Gracias por tu apoyo.<br/><br/>¡OVERKILL te saluda!';
+$l['chains_glow'] = 'Mega Chains';
+$l['chains_glow-description'] = 'La Máscara Mega Chains es una versión evolucionada de la versión original. Simboliza transcendencia y catarsis.<br/><br/>Gracias por tu apoyo.<br/><br/>¡OVERKILL te saluda!';
+$l['hoxton_glow'] = 'Mega Hoxton';
+$l['hoxton_glow-description'] = 'La Máscara Mega Hoxton es una versión evolucionada de la versión original. Simboliza transcendencia y catarsis.<br/><br/>Gracias por tu apoyo.<br/><br/>¡OVERKILL te saluda!';
+$l['wolf_glow'] = 'Mega Wolf';
+$l['wolf_glow-description'] = 'La Máscara Mega Dallas es una versión evolucionada de la versión original. Simboliza transcendencia y catarsis.<br/><br/>Gracias por tu apoyo.<br/><br/>¡OVERKILL te saluda!';
+//Clover Character Pack
+$l['msk_grizel'] = 'Clover';
+$l['msk_grizel-description'] = 'La máscara de Clover representa lo que Clover más teme y odia, llevar una máscara de su cara. Reducción de nariz, botox en los labios y la expresión en general de una persona consumida por la vanidad y la obsesión, todos ellos, símbolos del miedo y la debilidad, ahora transformado en una horrorosa parodia.';
+$l['grizel_clean'] = 'Clover El Comienzo';
+$l['grizel_clean'] = 'Ésta es una versión sin pintar de la máscara de Clover.<br/><br/>¿Nunca te gustó en lo que se convirtió? Éste es el momento de cambiar la historia.';
+//Bonnie Character Pack
+$l['bonnie-description'] = 'Pocas naciones han contribuido tanto a la humanidad como Escocia. En cada campo y con tanto esfuerzo, ciencias, arte, cocina... Es la gente de ésta tierra sagrada que lo da todo tan generosamente. Con ésta máscara, Bonnie va a darle la vuelta a ésta moda.';
+$l['bonnie_begins'] = 'Bonnie El Comienzo';
+$l['bonnie_begins-description'] = 'Ésta es la versión limpia de la máscara de Bonnie.<br/><br/>¿Nunca te gustó la original? Éste es tu momento de cambiar la historia.';
+//GOTY
+$l['robo_arnold'] = 'Robo-Arnold';
+$l['robo_arnold-description'] = 'Icónico, estrella cibernética viajera del tiempo en las películas \'Exterminador\'. En la primera película, fue enviado para matar a la madre del líder de la revolución...';
+$l['nun_town'] = 'Nun';
+$l['nun_town-description'] = 'Una monja católica puede no ser la elección más factible para hacer una máscara terrorífica, a no ser que conozcas una monja Católica. En ese caso, conocerás nociones de gentileza y amabilidad, de pingüinos abuelescos sin mérito. Éstas implacables abuelillas son la personificación del mal.';
+$l['arch_nemesis'] = 'Archienemigo';
+$l['arch_nemesis-description'] = 'Archienemigo, según el diccionario<br/><br/>Sustantivo [ahrch nem-uh-seez]<br/><br/>1. Algo que una persona no puede conquistar, conseguir, etc.: "El buffet chino de la comida se ha convertido en mi nuevo archienemigo."<br/>2. Un oponente al que no se puede vencer.<br/>3. En mitología clásica. La diosa divina de la retribución.<br/>4. Un agente o acto de retribución o castigo.<br/><br/>Como Hoxton lo define: "Ese puto Bulldozer. Él es mi jodido archienemigo, ¡maldito gilipollas!"';
+//Champ
+$l['champion_dallas'] = 'Campeón';
+$l['champion_dallas-description'] = 'Ésta es la máscara del Campeón. Basada en un mal dia de Dallas. ¿Cómo de mal? Bueno, imagina estar en la última ronda de 13 con un boxeador profesional. Párpados hinchados, nariz rota, labios morados, ojo negro, contusiones, mandíbula dislocada, ésta máscara lo tiene todo. Y si, un muy mal dia para Dallas.';
+//Dragan
+$l['dragan'] = 'Dragan';
+$l['dragan-description'] = 'Con el pasado que Dragan tiene, a nadie le sorprende la curiosidad que tiene por el mundo criminal.<br/><br/>Su máscara representa mucho de su ser, con un toque parecido a las máscaras originales de la banda, lo cual habla de la capacidad de Dragan para infiltrarse, además de tener otras señas de su identidad.<br/><br/>Los cuadrados Croatas de frente sirve de recordatorio para él y sus enemigos de que no es un matón callejero.';
+$l['dragan_begins']  = 'Dragan El Comienzo';
+$l['dragan_begins-description'] = 'Ésta es una versión sin pintar de la máscara de Dragan.<br/><br/>¿Nunca te gustó en lo que se convirtió? Éste es el momento de cambiar la historia.';
+//The Bomb
+$l['butcher'] = 'Carnicero del Infierno';
+$l['butcher-description'] = 'Existen muchos rumores del este sobre el carnicero loco, uno cuenta cómo al hombre le resultaba tan placentero matar cerdos que acabó pareciendose a uno.<br/><br/>Trabajando en una carnicería muy caliente, su piel comenzó a desfigurarse con tanto corte y ampollas, la gente cuenta acerca de los gritos que ahí adentro se producían...y no parecían gritos de cerdos.';
+$l['doctor'] = 'Doctor';
+$l['doctor-description'] = 'Una máscara naso busal utilizada comúnmente en hospitales y ambulancias. Ésta máscara inutiliza al usuario de propagar virus por el aire, o que van en la saliva o mocos al estornudar. Pacientes y médicos lo usan, y tu te preguntas: ¿Soy yo el que está enfermo o el que está sano?¿La enfermedad o la cura?<br/><br/>En cualquier caso, es temporada de resfriados y la única prescripción posible es Bulldozers muertos.';
+$l['lady_butcher'] = 'Señorita Carnicera';
+$l['lady_butcher-description'] = 'Si te hubieran dado un dólar por cada vez que a la Carnicera le llamaban bruja, ramera o banshee sus colegas, tendrías ahora Croacia entera. Los hombres cínicos dudaban del hecho de que ella fuera mujer, se sintieron en peligro viendo la ascensión meteórica en el mundillo criminal. Recuerda que los Balcanes no son conocidos precisamente por su tolerancia que sea un poco diferente, imagínate el chauvinismo y la misogínia con la que ella ha tenido que lidiar con los criminales más rudos cada día de su existencia. Ésta máscara muestra cómo ella es vista por sus aliados y enemigos. Hace que la gente le tenga miedo. Como debería ser.';
+$l['tech_lion'] = 'León Tecnológico';
+$l['tech_lion-description'] = 'Ésta máscara es una moderna representación del Dios Egipcio de la Guerra Maahes. Conocido como el "Portador del Cuchillo", "Señor de la Matanza" y "Vengador de los Desviados", Maahes castigó a todo aquel que quebrantara la ley de Ma`at, la personificación del Orden y el Equilibrio. Considerado la reencarnación del calor ardiente del sol, también ha actuado como una deidad defensora durante las batallas faraónicas.<br/><br/>Normalmente se le ha asociado como un hombre con cabeza de león, llevando un cuchillo, la corona Atef y el Disco Solar, o dibujado como un león devorando a su víctima.';
 //Infamy
 $l['aviator'] = 'Heat';
 $l['aviator-description'] = 'A todo el mundo le gusta un buen par de gafas de sol.<br/><br/>Pero sólo los más atrevidos, más buscados y más peligrosos hijos de perra están lo suficientemente loco para robar algo con ellas puestas.<br/><br/>Y ese eres tú.';
@@ -670,6 +777,26 @@ $l['pref-description'] = 'Equipándote ésta máscara hará que lleves la másca
 //Twister
 $l['twister'] = 'Hombre Misterioso';
 $l['twister-description'] = 'Es un misterio la persona que se esconde detrás de esta máscara.<br/><br/>Podría ser alguien desconocido o alguien que conoces de toda la vida.';
+//Thespian
+$l['thespian'] = 'Thespian';
+$l['thespian-description'] = 'Thespian es un super soldado de fortuna. En el futuro, los marines del espacio como Thespian protegen el mundo de la raza humana y sus colonias espaciales de las fuerzas del mal.<br/><br/>Su casco es un regalo popular en el mundo criminal y se le da a ladrones, matones y criminales que muestran lealtad y paciencia a su sindicato.<br/><br/>¡Nosotros en OVERKILL te saludamos por tu lealtadad y paciencia!';
+//Collaboration
+$l['alex'] = 'Alex';
+$l['alex-description'] = 'En medio de una hermana y hermano, Alex. Como los cisnes, violento. Como no son los cisnes, portan ametralladoras y motosierras. Como los cisnes, están muy vinculados. Como no son los cisnes, tienen una manía por el asesinato.';
+$l['corey'] = 'Corey';
+$l['corey-description'] = 'Cuando tu eres la comida más deliciosa de la Savana, tienes que ser rápido, ágil y listo si quieres sobrevivir. Corey es todo ésto. Las cebras son pacíficas, gentiles y herbívoras. Corey no es nada de ello.';
+$l['jake'] = 'Jake';
+$l['jake-description'] = 'No hay nada mejor que una serpiente, pero incluso las serpientes más letales como la cobra son buenas noticias. La amplia campana, es un signo de amenaza, así que corre. Sus largos colmillos pueden penetrar la piel de un elefante, así que corre. Y una sóla gota de su veneno puede matar a un bulldozer, así que... mira, cuando veas ésto, sólo corre, porque encima escupen.';
+$l['richter'] = 'Richter';
+$l['richter-description'] = 'Como la rata, Richter es un asesino silencioso. Puede colarse por cualquier hueco, llegando a entrar en bancos si hace falta. Puede evitar que le pillen y una vez quiera, propagar la muerte como una plaga. Mata sin remordimientos. Nada personal.';
+$l['tonys_revenge'] = 'La Venganza de Tony';
+$l['tonys_revenge-description'] = 'El depredador casi directo. Los tigres son muy fuertes y rápidos. Son brutales y pacientes. Pueden perseguir en silencio, antes de convertirse en todo violencia. La máquina perfecta de matar. A pesar de ésto, el tigre está en decadencia. Los cazadores ponen precio al pene del tigre para medicina tradicional. Así que intenta que no te cojan vivo.';
+$l['richard_begins'] = 'La Vuelta de Richard El Comienzo';
+$l['richard_begins-description'] = 'Ésta es la versión sin pintar de la máscara de La Vuelta de Richard.<br/><br/>¿Nunca te gustó cómo quedó la original? Ésta es tu oportunidad para cambiar la historia.';
+$l['richard_returns'] = 'La Vuelta de Richard';
+$l['richard_returns-description'] = '¿Es ésta la máscara del reflejo de un problema psicológico?¿De un desorden de personalidad?¿Esquizofrenia?¿Trauma de una mente rota?¿O no es un reflejo sino la causa?';
+$l['biker'] = 'Motero';
+$l['biker-description'] = 'Cuando eres un buscador de emociones, y tomas muchos riesgos es importante tomar alguna medida de protección. Ésto ocurre también si eres maníaco del cuchillo.';
 //Leave the div there. It colors the word red.
 $l['pro'] = '<div style="display:inline; color:#ff3336;">Pro</div>';
 ////Heists
@@ -703,6 +830,12 @@ $l['artgallery'] = 'Galería de Arte';
 $l['hoxtonbreakout'] = 'Fuga de Hoxton';
 $l['pines'] = 'Blanca Navidad';
 $l['dwsucess'] = '¡Completada en Deseo de Muerte!';
+$l['crojob1'] = 'La Bomba: Puerto';
+$l['crojob2'] = 'La Bomba: Bosque';
+$l['mus'] = 'El Diamante';
+$l['nightsuffix'] = '(Noche)';
+$l['cookoff'] = 'Cocinar';
+$l['transp-train'] = 'Transporte Armado: Atraco al Tren';
 //Escapes
 $l['escapeparknight'] = 'Parque (Noche)';
 $l['escapeparkday'] = 'Parque (Día)';
@@ -997,6 +1130,146 @@ $l['thickskin-normal'] = 'Tu estabilidad se incrementa <div class="bluein">10</d
 $l['thickskin-ace'] = 'Incrementa la armadura de todos los chalecos antibalas <div class="bluein">20</div> puntos adicionales.';
 $l['unlockfugitive'] = 'Desbloquear el Fugitivo';
 $l['unlockfugitive-normal'] = 'El Fugitivo es un superviviente, siempre manteniendose al margen de la ley.<br/><br/>Gastando el primer punto en la rama de habilidades Fugitivo desbloqueará el kit de primeros auxilios. El kit de primeros auxilios es rápido de desplegar, rápido de usar y te restaura la salud.<br/><br/><div class="bluein">4</div> kits de primeros auxilios se añaden a tu equipo.';
+//Perk-Decks Shared
+$l['perk-common-1'] = 'Estalla-Cascos';
+$l['perk-common-1-desc'] = 'Incrementa el daño cuando disparas a la cabeza un <div class="bluein">25%</div>.';
+$l['perk-common-2'] = 'Armonizado';
+$l['perk-common-2-desc'] = 'Ganas <div class="bluein">+1</div> de ocultación extra.<br/><br/>Cuando lleves armadura, tu velocidad de movimiento se verá un <div class="bluein">15%</div> menos afectada.<br/><br/>Ganas un <div class="bluein">45%</div> más de experiencia al completar días y trabajos.';
+$l['perk-common-3'] = 'Armario Andante';
+$l['perk-common-3-desc'] = 'Desbloqueas una bolsa con armadura. Ésta bolsa puede ser usada durante una misión para cambiar tu armadura.<br/><br/>Incrementa la munición que recoges un <div class="bluein">135%</div> más.';
+$l['perk-common-4'] = 'Rápido y Frenético';
+$l['perk-common-4-desc'] = 'Haces un <div class="bluein">5%</div> más de daño.<br/><br/>Incrementa la velocidad con la que interactúas con la bolsa de medicamentos un <div class="bluein">20%</div>.';
+$l['progress'] = 'Progress';
+//Deck Crew Chief
+$l['perk-crew-chief'] = 'Jefe de Banda';
+$l['perk-crew-chief-desc'] = 'El Jefe de la Banda, también conocido como el capó, es el jefe de un sindicato del crimen. Manda órdenes a sus soldados.<br/><br/>Cuando un sindicato del crimen necesita tratar con alguien, el Jefe de Banda y sus soldados lo solucionarán.';
+$l['perk-crew-chief-1'] = 'Fuerza Bruta';
+$l['perk-crew-chief-1-desc'] = 'Incrementas tu salud un <div class="bluein">10%</div>.';
+$l['perk-crew-chief-2'] = 'Hombre Maratón';
+$l['perk-crew-chief-2-desc'] = 'Tus compañeros y tu incrementan su resistencia un <div class="bluein">50%</div>.<br/><br/>Incrementa tu distancia de grito un <div class="bluein">25%</div>.<br/><br/>Nota: Habilidades de equipo no se apilan.';
+$l['perk-crew-chief-3'] = 'Pack Wolf';
+$l['perk-crew-chief-3-desc'] = 'Tus compañeros y tu incrementan la salud un <div class="bluein">15%</div>.<br/><br/>Nota: Habilidades de equipo no se apilan.';
+$l['perk-crew-chief-4'] = 'Testudo';
+$l['perk-crew-chief-4-desc'] = 'Se incrementa tu armadura un <div class="bluein">10%</div> y tu equipo gana adicionalmente de armadura un <div class="bluein">5%</div>.<br/><br/>Nota: Habilidades de equipo no se apilan.';
+$l['perk-crew-chief-5'] = 'Situación de Rehén';
+$l['perk-crew-chief-5-desc'] = 'Se incrementa la salud máxima de tus compañeros y tu un <div class="bluein">2%</div> y la resistencia un <div class="bluein">4%</div> por cada rehén hasta un máximo de <div class="bluein">10</div> veces.<br/><br/>Nota: Habilidades de equipo no se apilan.<br/><br/>Bonus Mazo Completado: La probabilidad de obtener un objeto de calidad superior se incrementa un <div class="bluein">10%</div>.';
+//Deck Muscle
+$l['perk-muscle'] = 'Músculo';
+$l['perk-muscle-desc'] = 'El músculo es un tipo duro que usa la violencia para mandar mensajes. Ellos son la espina dorsal de toda organización criminal.<br/><br/>El músculo es llamado cada vez que se necesita fastidiar a alguien, romper algunas piernas, partir cráneos o simplemente recordarle a la gente quién es el jefe.';  
+$l['perk-muscle-1'] = 'Fuerza Bruta';
+$l['perk-muscle-1-desc'] = 'Se incrementa tu salud un <div class="bluein">10%</div>.';
+$l['perk-muscle-2'] = 'Escudo de Carne';
+$l['perk-muscle-2-desc'] = 'Serás objetivo de disparo un <div class="bluein">15%</div> adicional cuando estés cerca de tus compañeros.<br/><br/>Obtienes un <div class="bluein">10%</div> de salud extra.';
+$l['perk-muscle-3'] = 'Fuerza de Gigante';
+$l['perk-muscle-3-desc'] = 'Obtienes un <div class="bluein">30%</div> de salud extra.';
+$l['perk-muscle-4'] = 'Rompiendo la Paz';
+$l['perk-muscle-4-desc'] = 'Puedes usar ametralladoras pesadas, subfusiles y rifles de francotirador para generar el pánico en tus enemigos.<br/><br/>El pánico hará que los enemigos sufran pequeñas ráfagas de miedo.';
+$l['perk-muscle-5'] = 'Pez Gordo';
+$l['perk-muscle-5-desc'] = 'Incrementa tu salud un <div class="bluein">40%</div>.<br/><br/>Bonus Mazo Completado: La probabilidad de obtener un objeto de calidad superior se incrementa un <div class="bluein">10%</div>.';
+//Deck Armorer
+$l['perk-armorer'] = 'Armador';
+$l['perk-armorer-desc'] = 'El Armador era una profesión militar. El Armador se encarga de mantener, reparar y mejorar las armas.<br/><br/>Cualquier organización criminal que se respete necesita de varios de éstos soldados.';
+$l['perk-armorer-1'] = 'Armadura Clase I';
+$l['perk-armorer-1-desc'] = 'Se incrementa tu armadura un <div class="bluein">5%</div>.';
+$l['perk-armorer-2'] = 'Armadura Clase II';
+$l['perk-armorer-2-desc'] = 'Se incrementa tu armadura un <div class="bluein">5%</div>.';
+$l['perk-armorer-3'] = 'Armadura Clase III';
+$l['perk-armorer-3-desc'] = 'Se incrementa tu armadura un <div class="bluein">5%</div>.';
+$l['perk-armorer-4'] = 'Armadura Reforzada';
+$l['perk-armorer-4-desc'] = 'La velocidad de recarga de tu armadura se incrementa un <div class="bluein">10%</div>.';
+$l['perk-armorer-5'] = 'Armadura Líquida';
+$l['perk-armorer-5-desc'] = 'Se incrementa tu armadura un <div class="bluein">5%</div>.<br/><br/>Se reduce el tiempo de recarga de tu escudo para tus compañeros y tu un <div class="bluein">10%</div>.<br/><br/>Nota: Habilidades de equipo no se apilan.<br/><br/>Bonus Mazo Completado: La probabilidad de obtener un objeto de calidad superior se incrementa un <div class="bluein">10%</div>.';
+//Deck Rouge
+$l['perk-rouge'] = 'Pintalabios';
+$l['perk-rouge-desc'] 'El Pintalabios es un criminal sigiloso, capaz de usar trucos sucios y ataques letales, versátil y falaz, al Pintalabios se le contrata para hacer cualquier cosa, desde robos menoresto burglaries hasta asesinatos.<br/><br/>La característica principal del Pintalabios es su versatilidad, lo que no tiene de fuerza lo tiene de maña.';
+$l['perk-rouge-1'] = 'Tramposo';
+$l['perk-rouge-1-desc'] = 'Tu probabilidad para esquivar se incrementa un <div class="bluein">10%</div>.';
+$l['perk-rouge-2'] = 'Elusivo';
+$l['perk-rouge-2-desc'] = 'Cuando estés cerca de tus compañeros, serás objetivo de fuego enemigo un <div class="bluein">15%</div> menos.';
+$l['perk-rouge-3'] = 'Evasivo';
+$l['perk-rouge-3-desc'] = 'Tu probabilidad para esquivar se incrementa un <div class="bluein">10%</div>.';
+$l['perk-rouge-4'] = 'Guerrero de la Sombra';
+$l['perk-rouge-4-desc'] = 'Tu probabilidad para esquivar se incrementa un <div class="bluein">10%</div>.';
+$l['perk-rouge-5'] = 'Instinto Asesino';
+$l['perk-rouge-5-desc'] = 'Todas tus armas tienen una probabilidad para penetrar armadura enemiga un <div class="bluein">25%</div>.<br/><br/>El tiempo que tardas en cambiar de arma se reduce un <div class="bluein">80%</div>.<br/><br/>Bonus Mazo Completado: La probabilidad de obtener un objeto de calidad superior se incrementa un <div class="bluein">10%</div>.';
+//Deck Hitman
+$l['perk-hitman'] = 'Asesino a sueldo';
+$l['perk-hitman-desc'] = 'El Asesino a sueldo es un asesino profesional del mundillo criminal que es muy bueno en el combate.<br/><br/>Un sindicato criminal usa a dicho personaje como última opción para eliminar a su competencia o mandar un mensaje.';
+$l['perk-hitman-1'] = 'Recuperación Básica';
+$l['perk-hitman-1-desc'] = 'Tu velocidad de recarga de la armadura se incrementa un <div class="bluein">5%</div>.';
+$l['perk-hitman-2'] = 'Ambidextrismo';
+$l['perk-hitman-2-desc'] = 'Puedes llevar dos armas. Se pueden encontrar en la pestaña Akimbo del inventario.<br/><br/>Cuando se llevan dos armas, se reduce la estabilidad un <div class="bluein">75%</div>.<br/><br/>La velocidad de recarga de tu armadura se incrementa un <div class="bluein">10%</div>, pero pierdes de armadura un <div class="bluein">5%</div>.';
+$l['perk-hitman-3'] = 'Recuperación Avanzada';
+$l['perk-hitman-3-desc'] = 'Tu velocidad de recarga de la armadura se incrementa un <div class="bluein">10%</div>, pero pierdes de armadura un <div class="bluein">5%</div>.';
+$l['perk-hitman-4'] = 'Recuperación Experta';
+$l['perk-hitman-4-desc'] = 'Tu velocidad de recarga de la armadura se incrementa un <div class="bluein">10%</div>, pero pierdes de armadura un <div class="bluein">5%</div>.';
+$l['perk-hitman-5'] = 'Garra y Colmillo';
+$l['perk-hitman-5-desc'] = 'Tu velocidad de recarga de la armadura se incrementa un <div class="bluein">10%</div>, pero pierdes de armadura un <div class="bluein">5%</div> armor.<br/><br/>La penalización de estabilidad con armas Akimbo se queda en un <div class="bluein">50%</div> y se incrementa la munición de tus armas Akimbo un <div class="bluein">125%</div>.<br/><br/>Bonus Mazo Completado: La probabilidad de obtener un objeto de calidad superior se incrementa un <div class="bluein">10%</div>.';
+//Deck Crook
+$l['perk-crook'] = 'Bandido';
+$l['perk-crook-desc'] = 'El Bandido es un criminal versátil. El término es tan viejo como el propio crimen.<br/><br/>El Bandido suele ser alguien que sabe de todo pero no es maestro en nada. Roba, miente, estafa... Hace cualquier cosa que sea necesaria.';
+$l['perk-crook-1'] = 'Tramposo';
+$l['perk-crook-1-desc'] = 'Tu probabilidad para esquivar se incrementa un <div class="bluein">10%</div>.';
+$l['perk-crook-2'] = 'Serenidad Básica';
+$l['perk-crook-2-desc'] = 'Tu probabilidad para esquivar se incrementa un <div class="bluein">10%</div> con armaduras balísticas.';
+$l['perk-crook-3'] = 'Serenidad Avanzada';
+$l['perk-crook-3-desc'] = 'Tu probabilidad para esquivar se incrementa un <div class="bluein">10%</div> con armaduras balísticas.';
+$l['perk-crook-4'] = 'Serenidad Experta';
+$l['perk-crook-4-desc'] = 'Tu probabilidad para esquivar se incrementa un <div class="bluein">15%</div> con armaduras balísticas.';
+$l['perk-crook-5'] = 'Maestro de la Recuperación';
+$l['perk-crook-5-desc'] = 'La velocidad de recarga de tu armadura se incrementa un <div class="bluein">10%</div>.<br/><br/>Bonus Mazo Completado: La probabilidad de obtener un objeto de calidad superior se incrementa un <div class="bluein">10%</div>.';
+//Deck Burglar
+$l['perk-burglar'] = 'Ladrón'
+$l['perk-burglar-desc'] = 'La destreza natural del Ladrón va más allá de los beneficios de entrar y salir. Ser ágil ayuda al Ladrón a forzar cerraduras, llevar bolsas de cadáveres o responder buscas más rapido. Son también más dificiles de impactar en combate. Ellos se mantienen con vida estando fuera del camino.<br/><br/>Ésta condición física también le da al Ladrón alta tolerancia al dolor y la habilidad para cubrir heridas severas.';
+$l['perk-burglar-1'] = 'Tramposo';
+$l['perk-burglar-1-desc'] = 'Tu probabilidad para esquivar se incrementa un <div class="bluein">10%</div>.';
+$l['perk-burglar-2'] = 'Bolsa de Trucos';
+$l['perk-burglar-2-desc'] = 'Qudarse quieto y agacharse decrementa la probabilidad de ser objetivo de fuego enemigo un <div class="bluein">10%</div>.<br/><br/>Metes cadáveres en bolsas un <div class="bluein">20%</div> más rápido.';
+$l['perk-burglar-3'] = 'Suerte del Irlandés';
+$l['perk-burglar-3-desc'] = 'Tu probabilidad de esquivar se incrementa un <div class="bluein">5%</div>.<br/><br/>Tu probabilidad de ser objetivo de fuego enemigo mientras estás quieto y agachado se decrementa un <div class="bluein">5%</div>.<br/><br/>Fuerzas cerraduras un <div class="bluein">20%</div> más rápido.';
+$l['perk-burglar-4'] = 'Coraje Holandés';
+$l['perk-burglar-4-desc'] = 'Tu probabilidad para esquivar se incrementa un <div class="bluein">5%</div>.<br/><br/>Tu probabilidad de ser objetivo de fuego enemigo mientras estás quieto y agachado se decrementa un <div class="bluein">5%</div>.<br/><br/>Respondes a los buscas un <div class="bluein">10%</div> más rápido.';
+$l['perk-burglar-5'] = 'Bocanada de Aire Puro';
+$l['perk-burglar-5-desc'] = 'Tu velocidad de recarga de armadura mientras estás quieto y agachado se incrementa un <div class="bluein">20%</div>.<br/><br/>Bonus Mazo Completado: La probabilidad de obtener un objeto de calidad superior se incrementa un <div class="bluein">10%</div>.';
+//Deck Infiltrator
+$l['perk-infiltrator'] = 'Infiltrador';
+$l['perk-infiltrator-desc'] = 'El Infiltrador es un agente contratado por el gobierno o ua organización criminal para obtener información de los rivales.<br/><br/>El Infiltrador es un especialista del combate cuerpo a cuerpo que sabe como aprovechar sus recursos para alzarse con la victoria.';
+$l['perk-infiltrator-1'] = 'Combate Cerrado Básico';
+$l['perk-infiltrator-1-desc'] = 'Cuando estés cerca de un enemigo, recibes una bonificación de daño reducido de un <div class="bluein">4%</div>.';
+$l['perk-infiltrator-2'] = 'Combate Cerrado Avanzado';
+$l['perk-infiltrator-2-desc'] = 'Cuando estés cerca de un enemigo, recibes una bonificación de daño reducido de un <div class="bluein">4%</div>.';
+$l['perk-infiltrator-3'] = 'Combate Cerrado Experto';
+$l['perk-infiltrator-3-desc'] = 'Cuando estés cerca de un enemigo, recibes una bonificación de daño reducido de un <div class="bluein">4%</div>.<br/><br/>Cada ataque de combate cuerpo a cuerpo que hagas genera un <div class="bluein">10%</div> de daño adicional durante <div class="bluein">6</div> segundos y puede apilarse hasta <div class="bluein">4</div> veces.';
+$l['perk-infiltrator-4'] = 'Dominante';
+$l['perk-infiltrator-4-desc'] = 'Cuando estés rodeado por 3 o más enemigos, se reduce el daño recibido un <div class="bluein">8%</div>.<br/><br/>Cada ataque de combate cuerpo a cuerpo que hagas genera un <div class="bluein">10%</div> de daño adicional durante <div class="bluein">6</div> segundos y puede apilarse hasta <div class="bluein">4</div> veces.';
+$l['perk-infiltrator-5'] = 'ChupaSangre';
+$l['perk-infiltrator-5-desc'] = 'Atacar a un enemigo con tu arma de combate cuerpo a cuerpo regenera tu salud un <div class="bluein">10%</div> de tu salud máxima. No puede ocurrir más de una vez cada <div class="bluein">15</div> segundos.<br/><br/>Bonus Mazo Completado: La probabilidad de obtener un objeto de calidad superior se incrementa un <div class="bluein">10%</div>.';
+//Deck Sociopath
+$l['perk-sociopath'] = 'Sociópata';
+$l['perk-sociopath-desc'] = 'El Sociópata es conocido por ser uno de los criminales más efectivos. Auque sea muy efectivo, es dificil trabajar con el, lo cuál hace que las organizaciones traten de evitarlo.<br/><br/>Atrevido, desinhibido y mezquino, el Sociópata hace el más violento de los trabajos. Es un enemigo peligroso teniendo en cuenta que no siente culpabilidad de los crímenes que comete.';
+$l['perk-sociopath-1'] = 'Ni Hablar';
+$l['perk-sociopath-1-desc'] = 'Cuand estás cerca de enemigos, sufres daño reducido de tus enemigos un <div class="bluein">4%</div> menos.';
+$l['perk-sociopath-2'] = 'Tension';
+$l['perk-sociopath-2-desc'] = 'Matar a un enemigo regenera <div class="bluein">10</div> de armadura.<br/><br/>Éste efecto no puede ocurrir más de una vez cada <div class="bluein">3</div> segundos.';
+$l['perk-sociopath-3'] = 'Pegada Limpia';
+$l['perk-sociopath-3-desc'] = 'Matar a un enemigo con un arma de combate cuerpo a cuerpo regenera tu salud un <div class="bluein">5%</div>.<br/><br/>Ésto no puede ocurrir más de una vez cada <div class="bluein">3</div> segundos.';
+$l['perk-sociopath-4'] = 'Sobredosis';
+$l['perk-sociopath-4-desc'] = 'Matar a un enemigo a corta distancia genera <div class="bluein">10</div> de armadura.<br/><br/>Ésto no puede ocurrir más de una vez cada <div class="bluein">3</div> segundos.';
+$l['perk-sociopath-5'] = 'Hora de la Verdad';
+$l['perk-sociopath-5-desc'] = 'Matar a un enemigo a corta distancia genera un <div class="bluein">20%</div> de probabilidad de generar pánico en tus enemigos.<br/><br/>EL pánico hará que tus enemigos sufran cortas ráfagas de terror descontrolado.<br/><br/>Ésto no puede ocurrir más de una vez cada <div class="bluein">3</div> segundos.<br/><br/>Bonus Mazo Completado: La probabilidad de obtener un objeto de calidad superior se incrementa un <div class="bluein">10%</div>.';
+//Deck Gambler
+$l['perk-gambler'] = 'Apostador';
+$l['perk-gambler-desc'] = 'Actuar en el caos de la batalla requiere habilidad, dureza y un poco de suerte. Algunas personas simplemente la tienen.<br/><br/>La suerte es una cualidad imprecisa. Los griegos ancianos creían que era Dios quien te la proporcionaba. No lo es. Ciertamente existe, pero es algo que puedes adquirir. Requiere preparación y planificación previa para tener lo que quieras en su sitio, para así maximizar tus posibilidades. Es mas como contar cartas y no tanto como rezar para tener fortuna.';
+$l['perk-gambler-1'] = 'Suministros Médicos';
+$l['perk-gambler-1-desc'] = 'La munición que recojas contiene suministros médicos que recuperan tu salud de <div class="bluein">4</div> a <div class="bluein">8</div> puntos.<br/><br/>Éste efecto no puede ocurrir más de una vez cada <div class="bluein">15</div> segundos.';
+$l['perk-gambler-2'] = 'Despliege de Munición';
+$l['perk-gambler-2-desc'] = 'Cuando recoges munición, haces que tu equipo también recoga más munición, un <div class="bluein">50%</div> adicional.<br/><br/>Éste efecto no puede ocurrir más de una vez cada <div class="bluein">5</div> segundos.';
+$l['perk-gambler-3'] = 'Compartir es Cuidar';
+$l['perk-gambler-3-desc'] = 'Cuando has recibido una curación al recoger munición, tus compañeros también se curan un <div class="bluein">50%</div> de lo que te curastes.';
+$l['perk-gambler-4'] = 'Más Curación 1';
+$l['perk-gambler-4-desc'] = 'Incrementa la curación de la munición recogida en <div class="bluein">2</div>.';
+$l['perk-gambler-5'] = 'Más Curación 2';
+$l['perk-gambler-5-desc'] = 'Incrmenta la curación de la munición recogida en <div class="bluein">2</div>.<br/><br/>Bonus Mazo Completado: La probabilidad de obtener un objeto de calidad superior se incrementa un <div class="bluein">10%</div>.';
 //Characters
 $l['chars'] = 'Personajes';
 $l['houston'] = 'Houston';
@@ -1008,6 +1281,14 @@ $l['wolf-char'] = 'Nacionalidad: Sueca<br/>Age: 34<br/><br/>Wolf siempre fue un 
 $l['wick-char'] = 'Nacionalidad: Americano<br/>Age: 40s<br/><br/>John Wick es un asesino a sueldo muy calmado y silencioso. A juzgar por su físico, parece que el tiempo no pasa para él, probablemente de su etapa como boxeador. John y Chains se conocieron durante el periodo militar que ambos compartieron.<br/><br/>Antes de que la cosa se pusiera mal para Chains, John consiguió ayudarlo en una situación muy peliaguda. A cambio, John le dijo a Chains que necesitaba una banda. ¿Cómo Chains podía decir que no a tal viejo amigo?';
 $l['hoxton-char'] = 'Nacionalidad: Inglés<br/>Age: 32<br/><br/>A Hoxton le llaman así porque fue donde le pillaron con su antigua banda en East End en Londres. Después de que pasara un tiempo en el famoso reformatorio Institución de Su Majestad para Jóvenes Delincuentes, trabajó para varios sindicatos del crímen en su adolescencia hasta que se unió a la banda Payday. Después de una colección de exitosos trabajos hasta 2011, Hoxton fue capturado por el FBI y fue enviado a prisión.<br/><br/>En 2014, la banda Payday le ayudó a escapar. Desde entonces, está decidido a averiguar quién fue el que le envió a prisión.';
 $l['characters-help'] = 'Se muestra el tiempo que has usado cada personaje desde la actualización de Crimefest';
+$l['dragan'] = 'Dragan';
+$l['dragan-char'] = 'Nacionalidad: Croata<br/>Edad: 45<br/><br/>Dragan puede ser policía, pero es un policía Croata, lo que significa que sus métodos hacen parecer al MPDC como niñeras timidas. Se lo llevaron a America y lo aceptaron en la banda Payday como un favor a la Carnicera. A pesar de las tempranas sospechas sobre su verdadera lealtad, sus habilidades y compromiso lo hacen indisputable.';
+$l['clover'] = 'Clover';
+$l['clover-char'] = 'Nacionalidad: Irlandesa<br/>Edad: 27<br/><br/>Clover creció en una ambiente duro en una parte de la ciudad hostil. Sus ancestros llevan luchando cada generación y ella sigue fielmente su pasado Irlandés. Lleva tréboles para la suerte además de para decir: "Soy Irlandesa, y orgullosa".';
+$l['bonnie'] = 'Bonnie';
+$l['bonnie-char'] = 'Nacionalidad: Escocesa<br/>Edad: 43<br/><br/>Bonnie es de Glasgow. Suficiente para meter miedo en el corazón de un hombre, pero Bonnie es de la Glasgow de los 80s. En esos años, la Era Tatcher, creó precarieda en las ciudades, he hizo crecer una generación de determinados e imperdonables Escoceses. Bonnie está hecha de ésta madera.';
+$l['jacket'] = 'Jacket';
+$l['jacket-char'] = 'Nacionalidad: Americana<br/>Edad: 20s<br/><br/>Presuntamente, se cargó a una mafia entera rusa en Miami él sólo. Su transfondo militar y su actitud hacia la violencia más gore han hecho de el uno de los más brillantes sicarios, o "mensajero" como algunos prefieren llamarlo. Por alguna razón desconocida, nunca habla y para comunicarse usa una grabadora de cinta, sonando partes sueltas de cintas de aprendizaje de idiomas.';
 //Enemies
 $l['e-cop'] = 'Policía Metropolitano';
 $l['e-cop_heavy'] = 'Policía Pesado';
