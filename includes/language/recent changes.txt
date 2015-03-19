@@ -1,4 +1,9 @@
-﻿18.03.2015
+﻿19.03.2015
+added at end of enemies
+$l['e-turret_gensec'] = 'GenSec Turret';
+changed mobster boss name.
+
+18.03.2015
 added at end of infamy masks
 $l['daft'] = 'Android';
 $l['daft-description'] = 'For the truly detached and impassive, we provide the Android mask. Lightweight alloys, chromium finish and really cool LED lights means this mask is ready for the bank job or the dance-floor. Alas, it does nor make you fluent in six million languages.';
