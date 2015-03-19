@@ -944,7 +944,8 @@ array( 'Name' => $l['e-tank_hw'], 'Wiki' => '', 'Description' => '', 'Value' => 
 array( 'Name' => $l['e-taser'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_taser ),
 array( 'Name' => $l['e-taser_gensec'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_taser_gensec ),
 array( 'Name' => $l['e-civilian'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_civilian ),
-array( 'Name' => $l['e-civilian_female'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_civilian_female )
+array( 'Name' => $l['e-civilian_female'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_civilian_female ),
+array( 'Name' => $l['e-turret_gensec'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_turret_gensec )
 );
 
 //Temporary

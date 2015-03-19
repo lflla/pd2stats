@@ -1348,3 +1348,4 @@ $l['e-civilian'] = 'Male Civilian';
 $l['e-civilian_female'] = ' Female Civilian';
 $l['casualties'] = 'Casualties';
 $l['unit'] = 'Unit';
+$l['e-turret_gensec'] = 'GenSec Turret';
