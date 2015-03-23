@@ -1,4 +1,10 @@
-﻿19.03.2015
+﻿23.03.2015
+added at end of akimbo
+$l['x_g17'] = 'Akimbo Chimano 88';
+$l['x_g22c'] = 'Akimbo Chimano Custom';
+$l['x_usp'] = ' Akimbo Interceptor 45';
+
+19.03.2015
 added at end of enemies
 $l['e-turret_gensec'] = 'GenSec Turret';
 changed mobster boss name.

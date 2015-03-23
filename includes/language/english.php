@@ -264,6 +264,9 @@ $l['jowi'] = 'Akimbo Chimano Compact';
 $l['x_deagle'] = 'Akimbo Deagle';
 $l['x_1911'] = 'Akimbo Crosskill';
 $l['x_b92fs'] = 'Akimbo Bernetti 9';
+$l['x_g17'] = 'Akimbo Chimano 88';
+$l['x_g22c'] = 'Akimbo Chimano Custom';
+$l['x_usp'] = ' Akimbo Interceptor 45';
 ////Secondary
 //Pistols
 $l['usp'] = 'Interceptor 45';
