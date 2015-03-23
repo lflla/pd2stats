@@ -33,7 +33,7 @@ $l['unic'] = 'Unic';
 $l['unic-description'] = 'Clop Clop - who\'s there? It\'s Unic! In the dark streets of New Rush City, what could shine brighter than an honest smile? Galloping in meadows, and sharing time with his friends, Unic is dedicated to showing the world\'s positive side. A pink leotard and purple boots make this speedy runner truly unique!';
 
 added at end of dlcs
-$l['speedrunner'] = 'SPEEDRUNNERS';
+$l['speedrunnersdlc'] = 'SPEEDRUNNERS';
 
 added at end of akimbo
 $l['x_g17'] = 'Akimbo Chimano 88';
