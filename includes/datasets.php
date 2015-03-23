@@ -529,10 +529,10 @@ array( 'Name' => $l['tonys_revenge'], 'Image' => 'tonys_revenge', 'Quality' => '
 array( 'Name' => $l['richard_begins'], 'Image' => 'richard_begins', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami_2_deluxe'], 'Description' => $l['richard_begins-description'], 'Used' => $mask_used_richard_begins),
 array( 'Name' => $l['richard_returns'], 'Image' => 'richard_returns', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami_2_deluxe'], 'Description' => $l['richard_returns-description'], 'Used' => $mask_used_richard_returns),
 ////Speedrunner
-array( 'Name' => $l['falcon'], 'Image' => 'falcon', 'Quality' => 'collaboration', 'Extra' => $l['speedrunner'], 'Description' => $l['falcon-description'], 'Used' => $mask_used_falcon),
-array( 'Name' => $l['hothead'], 'Image' => 'hothead', 'Quality' => 'collaboration', 'Extra' => $l['speedrunner'], 'Description' => $l['hothead-description'], 'Used' => $mask_used_hothead),
-array( 'Name' => $l['speedrunner'], 'Image' => 'speedrunner', 'Quality' => 'collaboration', 'Extra' => $l['speedrunner'], 'Description' => $l['speedrunner-description'], 'Used' => $mask_used_speedrunner),
-array( 'Name' => $l['unic'], 'Image' => 'unic', 'Quality' => 'collaboration', 'Extra' => $l['speedrunner'], 'Description' => $l['unic-description'], 'Used' => $mask_used_unic),
+array( 'Name' => $l['falcon'], 'Image' => 'falcon', 'Quality' => 'collaboration', 'Extra' => $l['speedrunnersdlc'], 'Description' => $l['falcon-description'], 'Used' => $mask_used_falcon),
+array( 'Name' => $l['hothead'], 'Image' => 'hothead', 'Quality' => 'collaboration', 'Extra' => $l['speedrunnersdlc'], 'Description' => $l['hothead-description'], 'Used' => $mask_used_hothead),
+array( 'Name' => $l['speedrunner'], 'Image' => 'speedrunner', 'Quality' => 'collaboration', 'Extra' => $l['speedrunnersdlc'], 'Description' => $l['speedrunner-description'], 'Used' => $mask_used_speedrunner),
+array( 'Name' => $l['unic'], 'Image' => 'unic', 'Quality' => 'collaboration', 'Extra' => $l['speedrunnersdlc'], 'Description' => $l['unic-description'], 'Used' => $mask_used_unic),
 //////Collaboration End
 ////Normal
 array( 'Name' => $l['alienware'], 'Image' => 'alienware', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['alienware-description'], 'Used' => $mask_used_alienware),

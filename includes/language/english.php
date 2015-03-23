@@ -215,7 +215,7 @@ $l['weaponbundledlc'] = 'WEAPON BUNDLE';
 $l['heistbundle'] = 'HEIST BUNDLE';
 $l['gotyeddlc'] = 'GOTY EDITION';
 $l['lootbagdlc'] = 'LOOT BAG';
-$l['speedrunner'] = 'SPEEDRUNNERS';
+$l['speedrunnersdlc'] = 'SPEEDRUNNERS';
 ////Weapons
 ////Primary
 //Assault Rifles
