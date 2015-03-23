@@ -215,6 +215,7 @@ $l['weaponbundledlc'] = 'WEAPON BUNDLE';
 $l['heistbundle'] = 'HEIST BUNDLE';
 $l['gotyeddlc'] = 'GOTY EDITION';
 $l['lootbagdlc'] = 'LOOT BAG';
+$l['speedrunner'] = 'SPEEDRUNNERS';
 ////Weapons
 ////Primary
 //Assault Rifles
@@ -583,6 +584,15 @@ $l['rooster'] = 'Richard';
 $l['rooster-description'] = 'Richard enjoys spending time with different personas and asking questions.<br/><br/>Do you like hurting other people?<br/><br/>Who is leaving messages on your answering machine?<br/><br/>Where are you right now?<br/><br/>Why are we having this conversation?';
 $l['tiger'] = 'Tony';
 $l['tiger-description'] = 'Tony uses his fists of fury to beat the crap of anyone who messes with him.<br/><br/>Tony was born in the 1970s and was of Italian-American nationality. Many people easily recognize Tony. Probably in part because of his Tiger mask, and in part because of his physical brutality when dealing with people he don\'t like.';
+//Speedrunners
+$l['hothead'] = 'Hothead';
+$l['hothead-description'] = 'With the rage of a fearsome volcano, the hostile Hothead lights up the night with blazing speed! What ignites his frenzied flame? From what does the raging bull run? Very few have caught up close enough to ask, and even fewer have gotten a coherent response!';
+$l['falcon'] = 'Falcon';
+$l['falcon-description'] = 'Life\'s not all about speed and running! With his livelihood destroyed from a speedy accident, he became the hero that New Rush City truly deserves. Falcon vows to take down SpeedRunner and get the city back. Is Falcon the only one sane in a world gone mad - or is he a man in a chicken suit?';
+$l['speedrunner'] = 'SpeedRunner';
+$l['speedrunner-description'] = 'It\'s time for a speedy run! SpeedRunner is the people\'s champ in New Rush City. Running, sliding, swinging his way toward crime and those in need, he accepts no less than first place. SpeedRunner\'s got the need... for running!';
+$l['unic'] = 'Unic';
+$l['unic-description'] = 'Clop Clop - who\'s there? It\'s Unic! In the dark streets of New Rush City, what could shine brighter than an honest smile? Galloping in meadows, and sharing time with his friends, Unic is dedicated to showing the world\'s positive side. A pink leotard and purple boots make this speedy runner truly unique!';
 //Shadow Raid
 $l['samurai'] = 'Somen Mempo';
 $l['samurai-description'] = 'In ancient Japan, samurai warriors wore somen masks to protect themselves in war and to incite fear in their enemies. Somen masks were tied to the large kabuto helmets, making the samurai look like demons from jigoku.<br/><br/>No one knows what fierce and ruthless warrior wore this intimidating mask in the past. Now however, it is ready for battle once more.<br/><br/>"Boku no ikari wo osoreru"';
@@ -718,6 +728,11 @@ $l['grin'] = 'Grin';
 $l['grin-description'] = 'There once was a man and his brother.<br/><br/>Together, they owned a successful company.<br/><br/>One day, the man and his brother temporarily only had one client. The client got cold feet and wanted out. Rather than simply pulling out and having to pay a fine for breach of contract, the client starved the man and his brother\'s company to death.<br/><br/>The Man and his brother lost everything, and it is said that this mask was the very image of the man\'s facial expression the day that he went mad.';
 $l['old_hoxton'] = 'Hoxton Reborn';
 $l['old_hoxton-description'] = 'The Hoxton Reborn mask is a mask that Hoxton made while in prison. For him, it\'s  a symbol of everything he experienced in the past years while the PAYDAY gang kept on going without him. No one knows how his experiences in prison have changed him, and he won\'t talk about it when asked.<br/><br/>All we can assume is that he has been changed forever, and that he is reborn into... Something different.';
+//Hoxton Revenge
+$l['hectors_helmet'] = 'Hard Hat';
+$l['hectors_helmet-description'] = 'When you rat out the Payday gang, you need to expect some form of retribution. And the gang isn\'t big on wagging finders and a stern telling off. You can expect bullets, and plenty of them. This hard hat is old school riot cop tech - heavy iron, fronted with reinforced glass. Good luck getting through it.';
+$l['old_hoxton_begins'] = 'Hoxton Reborn Begins';
+$l['old_hoxton_begins-description'] = 'This is a clean version of the iconic Hoxton Reborn mask, before it was painted.<br/><br/>Never liked how the original one turned out? This is your chance to change history.';
 //Normal
 $l['alienware'] = 'Alienware';
 $l['alienware-description'] = 'Based on the visions of a madman who thought he saw an extraterrestrial being.<br/><br/>It is strange though, as the powerful materials is not from anywhere on Earth.';
@@ -795,6 +810,9 @@ $l['zipper'] = 'Zipper';
 $l['zipper-description'] = 'The zipper mask consists of two parallel tracks of teeth that can be interlocked or separated by the pulling of a slide between them.<br/><br/>Separate the zipper when you need to communicate.';
 $l['zombie'] = 'Zombie';
 $l['zombie-description'] = 'A zombie is an animated corpse that somehow has been brought to life again.<br/><br/>Brains?';
+//Car Shop
+$l['simpson'] = 'Tids';
+$l['simpson-description'] = 'Some say his racing leathers are made from bleached dolphin skin, and that his oily secretions are prized Chinese medicine. All we know is...  he\'s called the Tids.';
 //Default
 $l['pref'] = 'Preferred Characters';
 $l['pref-description'] = 'Equipping this mask slot will make you wear your preferred character\'s mask.';
@@ -860,6 +878,8 @@ $l['mus'] = 'The Diamond';
 $l['nightsuffix'] = '(Night)';
 $l['cookoff'] = 'Cook Off';
 $l['transp-train'] = 'Armored Transport: Train Heist';
+$l['carshop'] = 'Car Shop';
+$l['hoxtonrevenge'] = 'Hoxton Revenge';
 //Escapes
 $l['escapeparknight'] = 'Park (Night)';
 $l['escapeparkday'] = 'Park';
@@ -1320,7 +1340,7 @@ $l['e-cop_heavy'] = 'Heavy Police Officer';
 $l['e-cop_swat'] = 'SWAT Police Officer';
 $l['e-city_swat'] = 'Special Ops';
 $l['e-fbi'] = 'FBI Hostage Rescue';
-$l['e-fbi_office'] = 'FBI Agent';
+$l['e-fbi_office'] = 'FBI Desk-Agent';
 $l['e-fbi_swat'] = 'FBI Response';
 $l['e-fbi_heavy_swat'] = 'FBI Heavy Response';
 $l['e-swat'] = 'SWAT';
@@ -1352,3 +1372,6 @@ $l['e-civilian_female'] = ' Female Civilian';
 $l['casualties'] = 'Casualties';
 $l['unit'] = 'Unit';
 $l['e-turret_gensec'] = 'GenSec Turret';
+$l['e-fbi-fieldagent'] = 'FBI Field-Agent';
+$l['e-hector'] = 'Traitor (Armored)';
+$l['e-hector-no-armor'] = 'Traitor';

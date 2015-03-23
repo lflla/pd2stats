@@ -1,4 +1,40 @@
 ﻿23.03.2015
+added at end of heists
+$l['carshop'] = 'Car Shop';
+$l['hoxtonrevenge'] = 'Hoxton Revenge';
+
+changed fbi agent to fbi desk-agents
+and added at end
+$l['e-fbi-fieldagent'] = 'FBI Field-Agent';
+$l['e-hector'] = 'Traitor (Armored)';
+$l['e-hector-no-armor'] = 'Traitor';
+
+added at end of infamous
+//Hoxton Revenge
+$l['hectors_helmet'] = 'Hard Hat';
+$l['hectors_helmet-description'] = 'When you rat out the Payday gang, you need to expect some form of retribution. And the gang isn\'t big on wagging finders and a stern telling off. You can expect bullets, and plenty of them. This hard hat is old school riot cop tech - heavy iron, fronted with reinforced glass. Good luck getting through it.';
+$l['old_hoxton_begins'] = 'Hoxton Reborn Begins';
+$l['old_hoxton_begins-description'] = 'This is a clean version of the iconic Hoxton Reborn mask, before it was painted.<br/><br/>Never liked how the original one turned out? This is your chance to change history.';
+
+added at end of normal masks
+//Car Shop
+$l['simpson'] = 'Tids';
+$l['simpson-description'] = 'Some say his racing leathers are made from bleached dolphin skin, and that his oily secretions are prized Chinese medicine. All we know is...  he\'s called the Tids.';
+
+added after hotline miami game
+//Speedrunners
+$l['hothead'] = 'Hothead';
+$l['hothead-description'] = 'With the rage of a fearsome volcano, the hostile Hothead lights up the night with blazing speed! What ignites his frenzied flame? From what does the raging bull run? Very few have caught up close enough to ask, and even fewer have gotten a coherent response!';
+$l['falcon'] = 'Falcon';
+$l['falcon-description'] = 'Life\'s not all about speed and running! With his livelihood destroyed from a speedy accident, he became the hero that New Rush City truly deserves. Falcon vows to take down SpeedRunner and get the city back. Is Falcon the only one sane in a world gone mad - or is he a man in a chicken suit?';
+$l['speedrunner'] = 'SpeedRunner';
+$l['speedrunner-description'] = 'It\'s time for a speedy run! SpeedRunner is the people\'s champ in New Rush City. Running, sliding, swinging his way toward crime and those in need, he accepts no less than first place. SpeedRunner\'s got the need... for running!';
+$l['unic'] = 'Unic';
+$l['unic-description'] = 'Clop Clop - who\'s there? It\'s Unic! In the dark streets of New Rush City, what could shine brighter than an honest smile? Galloping in meadows, and sharing time with his friends, Unic is dedicated to showing the world\'s positive side. A pink leotard and purple boots make this speedy runner truly unique!';
+
+added at end of dlcs
+$l['speedrunner'] = 'SPEEDRUNNERS';
+
 added at end of akimbo
 $l['x_g17'] = 'Akimbo Chimano 88';
 $l['x_g22c'] = 'Akimbo Chimano Custom';

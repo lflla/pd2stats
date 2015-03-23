@@ -476,6 +476,9 @@ array( 'Name' => $l['skullhard'], 'Image' => 'skullhard', 'Quality' => 'infamous
 array( 'Name' => $l['skullveryhard'], 'Image' => 'skullveryhard', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['skullveryhard-description'], 'Used' => $mask_used_skullveryhard),
 array( 'Name' => $l['skulloverkill'], 'Image' => 'skulloverkill', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['skulloverkill-description'], 'Used' => $mask_used_skulloverkill),
 array( 'Name' => $l['skulloverkillplus'], 'Image' => 'skulloverkillplus', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['skulloverkillplus-description'], 'Used' => $mask_used_skulloverkillplus),
+////Hoxton Revenge
+array( 'Name' => $l['hectors_helmet'], 'Image' => 'hectors_helmet', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['hectors_helmet-description'], 'Used' => $mask_used_hectors_helmet),
+array( 'Name' => $l['old_hoxton_begins'], 'Image' => 'old_hoxton_begins', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['old_hoxton_begins-description'], 'Used' => $mask_used_old_hoxton_begins),
 ////Infamy
 array( 'Name' => $l['aviator'], 'Image' => 'aviator', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['aviator-description'], 'Used' => $mask_used_aviator),
 array( 'Name' => $l['plague'], 'Image' => 'plague', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['plague-description'], 'Used' => $mask_used_plague),
@@ -525,6 +528,11 @@ array( 'Name' => $l['tonys_revenge'], 'Image' => 'tonys_revenge', 'Quality' => '
 ////Hotline Miami 2 Deluxe Game
 array( 'Name' => $l['richard_begins'], 'Image' => 'richard_begins', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami_2_deluxe'], 'Description' => $l['richard_begins-description'], 'Used' => $mask_used_richard_begins),
 array( 'Name' => $l['richard_returns'], 'Image' => 'richard_returns', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami_2_deluxe'], 'Description' => $l['richard_returns-description'], 'Used' => $mask_used_richard_returns),
+////Speedrunner
+array( 'Name' => $l['falcon'], 'Image' => 'falcon', 'Quality' => 'collaboration', 'Extra' => $l['speedrunner'], 'Description' => $l['falcon-description'], 'Used' => $mask_used_falcon),
+array( 'Name' => $l['hothead'], 'Image' => 'hothead', 'Quality' => 'collaboration', 'Extra' => $l['speedrunner'], 'Description' => $l['hothead-description'], 'Used' => $mask_used_hothead),
+array( 'Name' => $l['speedrunner'], 'Image' => 'speedrunner', 'Quality' => 'collaboration', 'Extra' => $l['speedrunner'], 'Description' => $l['speedrunner-description'], 'Used' => $mask_used_speedrunner),
+array( 'Name' => $l['unic'], 'Image' => 'unic', 'Quality' => 'collaboration', 'Extra' => $l['speedrunner'], 'Description' => $l['unic-description'], 'Used' => $mask_used_unic),
 //////Collaboration End
 ////Normal
 array( 'Name' => $l['alienware'], 'Image' => 'alienware', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['alienware-description'], 'Used' => $mask_used_alienware),
@@ -566,6 +574,8 @@ array( 'Name' => $l['vampire'], 'Image' => 'vampire', 'Quality' => 'normal', 'Ex
 array( 'Name' => $l['zipper'], 'Image' => 'zipper', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['zipper-description'], 'Used' => $mask_used_zipper),
 array( 'Name' => $l['zombie'], 'Image' => 'zombie', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['zombie-description'], 'Used' => $mask_used_zombie),
 array( 'Name' => $l['jw_shades'], 'Image' => 'jw_shades', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['jw_shades-description'], 'Used' => $mask_used_jw_shades),
+////Car Shop Heist
+array( 'Name' => $l['simpson'], 'Image' => 'simpson', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['simpson-description'], 'Used' => $mask_used_simpson),
 ////Default Masks
 array( 'Name' => $l['pref'], 'Image' => 'pref', 'Quality' => 'normal', 'Extra' => 'Normal', 'Description' => $l['pref-description'], 'Used' => $mask_used_character_locked),
 ////Future Content
@@ -620,8 +630,10 @@ array( 'Name' => $l['pines'], 'Wiki' => 'White_Xmas', 'Image' => 'pines', 'Win' 
 array( 'Name' => $l['crojob1'], 'Wiki' => 'The_Bomb:_Dockyard', 'Image' => 'crojob1', 'Win' => $contract_crojob1_win, 'Dropin' => $contract_crojob1_win_dropin, 'Fail' => $contract_crojob1_fail, 'Quality' => 'dlc', 'deathwish' => $cow_7),
 array( 'Name' => $l['crojob2'], 'Wiki' => 'The_Bomb:_Forest', 'Image' => 'crojob2', 'Win' => $contract_crojob2_win, 'Dropin' => $contract_crojob2_win_dropin, 'Fail' => $contract_crojob2_fail, 'Quality' => 'dlc', 'deathwish' => $cow_2),
 array( 'Name' => $l['mus'], 'Wiki' => 'The_Diamond', 'Image' => 'mus', 'Win' => $contract_mus_win, 'Dropin' => $contract_mus_win_dropin, 'Fail' => $contract_mus_fail, 'Quality' => 'dlc', 'deathwish' => $bat_1),
-array( 'Name' => $l['cookoff'], 'Wiki' => 'Cook_Off', 'Image' => 'rat', 'Win' => $contract_rat_win, 'Dropin' => $contract_rat_win_dropin, 'Fail' => $contract_rat_fail, 'Quality' => 'dlc', 'deathwish' => $djur_1),
-array( 'Name' => $l['transp-train'], 'Wiki' => 'Train', 'Image' => 'train', 'Win' => $contract_arm_for_win, 'Dropin' => $contract_arm_for_win_dropin, 'Fail' => $contract_arm_for_fail, 'Quality' => 'dlc', 'deathwish' => $I_AM_ERROR)
+array( 'Name' => $l['cookoff'], 'Wiki' => 'Cook_Off', 'Image' => 'rat', 'Win' => $contract_rat_win, 'Dropin' => $contract_rat_win_dropin, 'Fail' => $contract_rat_fail, 'Quality' => 'community', 'deathwish' => $djur_1),
+array( 'Name' => $l['transp-train'], 'Wiki' => 'Train', 'Image' => 'train', 'Win' => $contract_arm_for_win, 'Dropin' => $contract_arm_for_win_dropin, 'Fail' => $contract_arm_for_fail, 'Quality' => 'dlc', 'deathwish' => $I_AM_ERROR),
+array( 'Name' => $l['carshop'], 'Wiki' => 'Car_Shop', 'Image' => 'carshop', 'Win' => $contract_cage_win, 'Dropin' => $contract_cage_win_dropin, 'Fail' => $contract_cage_fail, 'Quality' => 'community', 'deathwish' => $I_AM_ERROR),
+array( 'Name' => $l['hoxtonrevenge'], 'Wiki' => 'Hoxton_Revenge', 'Image' => 'revenge', 'Win' => $contract_hox_3_win, 'Dropin' => $contract_hox_3_win_dropin, 'Fail' => $contract_hox_3_fail, 'Quality' => 'community', 'deathwish' => $payback_1)
 );
 
 //Calculate Totals
@@ -951,7 +963,10 @@ array( 'Name' => $l['e-taser'], 'Wiki' => '', 'Description' => '', 'Value' => $e
 array( 'Name' => $l['e-taser_gensec'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_taser_gensec ),
 array( 'Name' => $l['e-civilian'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_civilian ),
 array( 'Name' => $l['e-civilian_female'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_civilian_female ),
-array( 'Name' => $l['e-turret_gensec'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_turret_gensec )
+array( 'Name' => $l['e-turret_gensec'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_turret_gensec ),
+array( 'Name' => $l['e-fbi-fieldagent'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_hector_fbi ),
+array( 'Name' => $l['e-hector'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_hector_boss ),
+array( 'Name' => $l['e-hector-no-armor'], 'Wiki' => '', 'Description' => '', 'Value' => $enemy_kills_hector_boss_no_armor )
 );
 
 //Temporary
