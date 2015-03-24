@@ -19,7 +19,7 @@ $l['charset'] = 'UTF-8';
 // Example: Paragraph 1 <br/><br/> Parapraph 2
 ////
 //Only translate things that are at $l['stuff'] = 'HERE';
-//The ' ' must be present!d
+//The ' ' must be present!
 ////
 //If you need to use a ' in text write \'
 ////
@@ -212,6 +212,7 @@ $l['lootbagdlc'] = 'BOLSA DE SAQUEO';
 $l['akcarmodpack'] = 'PACK MODIFICACIONES AK/CAR';
 $l['overkillpack'] = 'PACK OVERKILL';
 $l['compoverkillpack'] = 'PACK COMPLETAMENTE OVERKILL';
+$l['speedrunnersdlc'] = 'SPEEDRUNNERS';
 ////Weapons
 ////Primary
 //Akimbo
@@ -219,6 +220,9 @@ $l['jowi'] = 'Akimbo Chimano Compact';
 $l['x_deagle'] = 'Akimbo Deagle';
 $l['x_1911'] = 'Akimbo Crosskill';
 $l['x_b92fs'] = 'Akimbo Bernetti 9';
+$l['x_g17'] = 'Akimbo Chimano 88';
+$l['x_g22c'] = 'Akimbo Chimano Custom';
+$l['x_usp'] = ' Akimbo Interceptor 45';
 //Assault Rifles
 $l['akm_gold'] = 'AK Dorada';
 $l['amcar'] = 'AMCAR';
@@ -566,6 +570,15 @@ $l['rooster'] = 'Richard';
 $l['rooster-description'] = 'A Richard le encanta estar con gente y preguntarles cosas.<br/><br/>¿Te gusta hacer daño a la gente?<br/><br/>¿Quién es el que deja mensajes en tu contestador?<br/><br/>¿Dónde estás?<br/><br/>¿Por qué estamos teniendo ésta conversación?';
 $l['tiger'] = 'Tony';
 $l['tiger-description'] = 'Tony usa sus puños de la furia para golpear a cualquiera que intente molestarlo.<br/><br/>Tony nació en los \70 de nacionalidad Italo-americana. Mucha gente sabe quién es Tony. Probablemente por su máscara de tigre, y por otra parte, por su brutalidad cuando trata con gente que le cae mal.';
+//Speedrunners
+$l['hothead'] = 'Hothead';
+$l['hothead-description'] = 'Con la furia de un volcán en erupción, el hostil Hothead ilumina la noche a una velocidad brutal. ¿Qué enciende su frenética llama? ¿De qué corre el toro de lidia? Pocos han coseguido preguntarselo ¡Incluso menos gente han conseguido una respuesta coherente!';
+$l['falcon'] = 'Falcon';
+$l['falcon-description'] = '¡La vida no trata sólo de velocidad y correr! Después de sufrir un accidente de velocidad en su infancia, se convirtió en el heroe que la ciudad de New Rush necesitaba. Falcon prometió acabar con SpeedRunner y salvar a la ciudad. ¿Es Falcon el único mentalmente sano en éste mundo loco, o es un hombre en un traje de pollo?';
+$l['speedrunner'] = 'SpeedRunner';
+$l['speedrunner-description'] = '¡Es tiempo para una carrera rapidita! SpeedRunner es el campeón de la gente de la ciudad de New Rush. Corriendo, deslizandose, haciendo su camino hacia el crimen y aquellos necesitados, no acepta nada salvo la victoria. ¡SpeedRunners tienen la necesidad... de correr!';
+$l['unic'] = 'Unic';
+$l['unic-description'] = 'Toc Toc, ¿Quién es? ¡Es Unic! En las oscuras calles de New Rush, ¿Qué puede brillar mas que un sonrisa honesta? Galopando en las praderas, y compartiendo el tiempo con sus amigos, Unic se dedica a enseñarle al mundo el lado positivo de las cosas. !Unos leotardos rosas y unas botas moradas hacen de éste Speedrunner alguien único!';
 //Shadow Raid
 $l['samurai'] = 'Somen Mempo';
 $l['samurai-description'] = 'En el Japón Feudal, los guerreros samurai llevaban máscaras Somen para protegerse en la guerra y para inspirar terror a sus enemigos. Las máscaras Somen eran atadas a los cascos Kabuto, haciendo que los samuráis parecieran Demonios de Jigoku.<br/><br/>Nadie sabe quién fue el guerrero que uso ésta táctica intimidatoria en el pasado. Hoy en día, está lista para la batalla una vez más.<br/><br/>"Boku no ikari wo osoreru"';
@@ -667,6 +680,22 @@ $l['smoker'] = 'Especialista';
 $l['smoker-description'] = 'Sólo un verdadero Técnico podría tener una máscara como ésta.<br/><br/>Con su propio sistema de filtración del aire, ésta máscara puede usarse también como máscara de químico en ese tipo de casos en los que "hay que cocinar metanfetamina".';
 $l['spectre'] = 'Espectro';
 $l['spectre-description'] = 'Ésta máscara de Fantasma parece que viene del futuro e incluso podría serlo.<br/><br/>Protección en toda la cabeza, hecha en fibra de carbono. La gente podría confundirte con un piloto profesional de Moto GP.<br/><br/>Para ellos será su último error.';
+$l['daft'] = 'Android';
+$l['daft-description'] = 'Para lo mas independientes, os presentamos la Máscara Android. Hecho de aleaciones ligeras, chapado en cromo y con LEDs, ésta máscara está expresamente diseñada para el robo de bancos o para bailar sobre la pista.';
+$l['destroyer'] = 'Demonshank';
+$l['destroyer-description'] = 'Un espiritu guerrero no aparece de forma natural. Tampoco es algo con lo que se nazca. Como el acero, está forjada en fuego. Ha sido golpeada en los albores de la batalla. Ésta máscara rememora el nacimiento del espiritu guerrero, las alas de acero.';
+$l['balaclava'] = 'Balaclava';
+$l['balaclava-description'] = 'Las armas pueden cambiar, las ideologías desplazarse y el acento evolucionar, pero el Balaclava ha acompañado a los ladrones durante décadas. Cubriendo todo salvo tus acerados ojos y tu enrevesada boca, además te mantiene calentito.';
+$l['infamy_hood'] = 'Kamul';
+$l['infamy_hood-description'] = 'Hay cosas mas antiguas y repugnantes que los atracadores en éste cruel y oscuro mundo. Y una de ellas es Kamul. No sabemos si es el espíritu persistente de un viejo hombre muerto, o algo que ha llegado desde el mundo de las tinieblas. Lo único que sabemos es que poco miran ésta máscara y viven para contarlo.';
+$l['infamy_lurker'] = 'Acechador';
+$l['infamy_lurker-description'] = 'Los dientes dan miedo. Los dientes grandes dan aún mas miedo. Y colmillos gigantes desgarradores en la noche mas oscura acojonan vivo. Con todo ésto en mente, ¿Se te ocurre otra máscara para mantener a los civiles quietos?';
+$l['pain'] = 'Vengador';
+$l['pain-description'] = 'Basado en el obsesivo líder de la Liga de la Oscuridad. No se sabe si era un aparato respiratorio o un vocalizador. Se especula que era un sistema, diseñado para darle a Némesis la fuerza sobrehumana y la furia psicótica que le caracteriza.';
+$l['punk'] = 'Existencia';
+$l['punk-description'] = 'Ésta máscara está basada en los experimentos del peculiar Dr Rudolf Mastaba. Un Prometheus moderno, ha sido buscado para devolver la vida a los muertos con la aplicación de la tecnología de la Revolución Industrial. Las malas lenguas cuentan que no cosiguió el éxito esperado, la rosa no-muerta, pero tenía un insaciable apetito por el trigo, la cebada y el maiz.';
+$l['ranger'] = 'Soldado Atracador';
+$l['ranger-description'] = 'Ésta máscara fue diseñada originalmente para ser parte de la indumentaria perfecta del atracador. Sin embargo, mediante pruebas se descubrió que el spandex no ofrecía protección real frente a balas, navajazos o granadas. Ésta máscara, por lo menos, es ligera, dura y tiene mucho estilo. ¡Es hora de atracar!';
 //Infamous
 $l['dallas'] = 'Dallas';
 $l['dallas-description'] = 'La máscara que todo el mundo teme.';
@@ -694,6 +723,11 @@ $l['grin'] = 'Grin';
 $l['grin-description'] = 'Hubo una vez un hombre y su hermano.<br/><br/>Juntos, tenían una compañía de éxito.<br/><br/>Un día, un empleado se resfrió y quiso irse del trabajo. En vez de romper el contrato e irse, pagando una penalización por ello. Comenzó a llevar a la compañía a la ruina.<br/><br/>El hombre y su hermano lo perdieron todo, se dice que ésta máscara es la representación de la cara del hombre el día que se volvió loco.';
 $l['old_hoxton'] = 'Renacimiento de Hoxton';
 $l['old_hoxton-description'] = 'La máscara del renacimiento de Hoxton es una máscara que se hizo el propio Hoxton mientras estaba en prisión. Para él, es un símbolo de todo lo que ha experimentado en los últimos años mientras la banda PAYDAY continuaba en activo sin él. Nadie sabe cuánto ha podido cambiar a Hoxton su paso por la cárcel, y tampoco dice nada cuando le preguntan.<br/><br/>Lo único que podemos asumir es que ha cambiado para siempre, así que ha renacido en...algo diferente.';
+//Hoxton Revenge
+$l['hectors_helmet'] = 'Casco Duro';
+$l['hectors_helmet-description'] = 'Cuando delatas a alguein de la banda Payday, esperas algo de retribución en compensación. Y la banda no es muy dada al perdón. Espera balas, muchas balas. Éste casco duro es un casco de antidisturbios de la vieja escuela, hierro pesado, con cristal reforzado. Si quieres romperlo te deseo buena suerte.';
+$l['old_hoxton_begins'] = 'Renacimiento de Hoxton El Comienzo';
+$l['old_hoxton_begins-description'] = 'Ésta es una versión sin pintar de la máscara de Hoxton.<br/><br/>¿Nunca te gustó en lo que se convirtió? Éste es el momento de cambiar la historia.';
 //Normal
 $l['alienware'] = 'Alienware';
 $l['alienware-description'] = 'Basada en las visiones de un hombre loco que creyó haber visto un extraterrestre.<br/><br/>Es raro, ya que los materiales usados no se encuentran en el planeta tierra.';
@@ -771,6 +805,9 @@ $l['zipper'] = 'Cremallera';
 $l['zipper-description'] = 'La máscara Cremallera está compuesta por dos hileras de dientes paralelos que pueden juntarse o separarse tirando de una cremallera que tiene.<br/><br/>Separa la cremallera cuando necesites comunicarte.';
 $l['zombie'] = 'Zombie';
 $l['zombie-description'] = 'Un Zombie es un cadáver animado, que de alguna manera, ha vuelto a la vida.<br/><br/>¿Cerebros?';
+//Car Shop
+$l['simpson'] = 'Tids';
+$l['simpson-description'] = 'Algunos dicen que su casco está hecho de cuero de piel de delfín, y que sus aceitosas secreciones son preciadas medicinas chinas. Todo lo que sabemos es que le llaman El Tids.';
 //Default
 $l['pref'] = 'Personaje Preferido';
 $l['pref-description'] = 'Equipándote ésta máscara hará que lleves la máscara de tu personaje preferido.';
@@ -836,6 +873,8 @@ $l['mus'] = 'El Diamante';
 $l['nightsuffix'] = '(Noche)';
 $l['cookoff'] = 'Cocinar';
 $l['transp-train'] = 'Transporte Armado: Atraco al Tren';
+$l['carshop'] = 'Tienda de Coches';
+$l['hoxtonrevenge'] = 'La Venganza de Hoxton';
 //Escapes
 $l['escapeparknight'] = 'Parque (Noche)';
 $l['escapeparkday'] = 'Parque (Día)';
@@ -1308,7 +1347,7 @@ $l['e-gensec_heavy_swat'] = 'SWAT Pesado GenSec';
 $l['e-gangster'] = 'Pandillero';
 $l['e-biker'] = 'Motero';
 $l['e-mobster'] = 'Mafioso';
-$l['e-mobster_boss'] = 'VIP';
+$l['e-mobster_boss'] = 'Jefe Mafioso';
 $l['e-prison_guard'] = 'Guardia de Prisión';
 $l['e-sniper'] = 'Francotirador';
 $l['e-sniper_gensec'] = 'Francotirador GenSec';
@@ -1326,3 +1365,7 @@ $l['e-civilian'] = 'Civil Varón';
 $l['e-civilian_female'] = 'Civil Hembra';
 $l['casualties'] = 'Accidentes';
 $l['unit'] = 'Unidad';
+$l['e-turret_gensec'] = 'Torreta GenSec';
+$l['e-fbi-fieldagent'] = 'Agente de Campo FBI';
+$l['e-hector'] = 'Traidor (Blindado)';
+$l['e-hector-no-armor'] = 'Traidor';
