@@ -216,6 +216,7 @@ $l['heistbundle'] = 'HEIST BUNDLE';
 $l['gotyeddlc'] = 'GOTY EDITION';
 $l['lootbagdlc'] = 'LOOT BAG';
 $l['speedrunnersdlc'] = 'SPEEDRUNNERS';
+$l['bbq'] = 'BBQ WEAPON PACK';
 ////Weapons
 ////Primary
 //Assault Rifles
@@ -250,14 +251,17 @@ $l['benelli'] = 'M1014';
 $l['ksg'] = 'Raven';
 $l['spas12'] = 'Predator 12G';
 $l['b682'] = 'Joceline O/U 12G';
+$l['aa12'] = 'Steakout 12G';
 //Light Machine Guns
 $l['rpk'] = 'RPK';
 $l['m249'] = 'KSP';
 $l['hk21'] = 'Brenner-21';
 $l['mg42'] = 'Buzzsaw 42';
 //Special
-$l['saw'] = 'OVE9000 Saw';
-$l['m134'] = 'Vulcan Minigun';
+$l['saw'] = 'OVE9000';
+$l['m134'] = 'Vulcan';
+$l['flamethrower_mk2'] = 'Flamethrower';
+$l['m32'] = 'Piglet';
 //Grenade Launcher
 $l['gre_m79'] = 'GL40';
 //Akimbo
@@ -375,8 +379,19 @@ $l['hammer'] = 'Carpenter\'s Delight';
 $l['hammer-description'] = '';
 $l['whiskey'] = 'Rivertown Glen Bottle';
 $l['whiskey-description'] = '';
+$l['fork'] = 'Motherforker';
+$l['fork-description'] = '';
+$l['poker'] = 'Poker';
+$l['poker-description'] = '';
+$l['spatula'] = 'Spatula';
+$l['spatula-description'] = '';
+$l['tenderizer'] = 'Tenderizer';
+$l['tenderizer-description'] = '';
 ////Grenades
-$l['frag-grenade'] = 'Frag Grenade';
+$l['frag_grenade'] = 'Frag Grenade';
+$l['frag_grenade-description'] = 'The frag grenade is a concept that has changed little from its inception. It is a thrown casing that explodes, sending shards and splinters away with such force they can slice through flesh, bone and light armor. Cheap and effective.';
+$l['molotov'] = 'Molotov';
+$l['molotov-description'] = 'The Molotov cocktail is perhaps the simplest weapon that can call itself a grenade. Nothing more than a breakable bottle of flammable liquid with a \'fuse\' replace by burning rag. It is cheap, simple and highly effective.';
 ////Gadgets
 $l['ammo_bag'] = 'Ammo Bag';
 $l['ammo_bag-description'] = 'The ammo bag is a portable bag, originally intended to allow soldiers to carry extra ammunition.<br/><br/>To use the ammo bag, you need to place it by holding [G]. Once placed it cannot be moved, but it can be used by you and your crew by holding [F] to gain more ammunition.<br/><br/>The ammo bag has limited uses and when it is consumed, it disappears. You can see how many uses are left by looking at the ammo bag.';

@@ -96,6 +96,8 @@ array( 'Name' => $l['spas12'], 'Wiki' => 'Predator_12', 'Image' => 'spas12', 'Qu
 'Magazine' => 6, 'Ammo' => 36, 'Firerate' => 300, 'Damage' => 48, 'Accuracy' => 10, 'Stability' => 8, 'Concealment' => 14, 'Threat' => 28)),
 array( 'Name' => $l['b682'], 'Wiki' => 'Joceline_O/U_12G', 'Image' => 'b682', 'Quality' => 'community', 'Extra' => 'Community', 'Used' => $weapon_used_b682 , 'Kills' => $weapon_kills_b682, 'Stats' => array(
 'Magazine' => 2, 'Ammo' => 26, 'Firerate' => 500, 'Damage' => 138, 'Accuracy' => 14, 'Stability' => 20, 'Concealment' => 5, 'Threat' => 37)),
+array( 'Name' => $l['aa12'], 'Wiki' => 'Steakout_12G', 'Image' => 'aa12', 'Quality' => 'dlc', 'Extra' => $l['bbq'], 'Used' => $weapon_used_aa12 , 'Kills' => $weapon_kills_aa12, 'Stats' => array(
+'Magazine' => 8, 'Ammo' => 64, 'Firerate' => 300, 'Damage' => 38, 'Accuracy' => 12, 'Stability' => 17, 'Concealment' => 9, 'Threat' => 28)),
 ////Akimbo
 array( 'Name' => $l['jowi'], 'Wiki' => 'Akimbo_Chimano_Compact', 'Image' => 'jowi', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_jowi , 'Kills' => $weapon_kills_jowi, 'Stats' => array(
 'Magazine' => 20, 'Ammo' => 120, 'Firerate' => 670, 'Damage' => 18, 'Accuracy' => 12, 'Stability' => 20, 'Concealment' => 30, 'Threat' => 9)),
@@ -125,7 +127,10 @@ array( 'Name' => $l['saw'], 'Wiki' => 'OVE9000', 'Image' => 'saw', 'Quality' => 
 'Magazine' => 150, 'Ammo' => 300, 'Firerate' => 400, 'Damage' => 23, 'Accuracy' => 4, 'Stability' => 17, 'Concealment' => 16, 'Threat' => 24)),
 array( 'Name' => $l['m134'], 'Wiki' => 'Vulcan_Minigun', 'Image' => 'm134', 'Quality' => 'dlc', 'Extra' => $l['overkillpack'], 'Used' => $weapon_used_m134 , 'Kills' => $weapon_kills_m134, 'Stats' => array(
 'Magazine' => 750, 'Ammo' => 750, 'Firerate' => 3000, 'Damage' => 38, 'Accuracy' => 8, 'Stability' => 3, 'Concealment' => 5, 'Threat' => 31)),
-////Grenade Launcher
+array( 'Name' => $l['flamethrower_mk2'], 'Wiki' => 'Flamethrower', 'Image' => 'flamethrower_mk2', 'Quality' => 'dlc', 'Extra' => $l['bbq'], 'Used' => $weapon_used_flamethrower_mk2 , 'Kills' => $weapon_kills_flamethrower_mk2, 'Stats' => array(
+'Magazine' => 150, 'Ammo' => 600, 'Firerate' => 2000, 'Damage' => 14, 'Accuracy' => 0, 'Stability' => 0, 'Concealment' => 7, 'Threat' => 37)),
+array( 'Name' => $l['m32'], 'Wiki' => 'Piglet', 'Image' => 'm32', 'Quality' => 'dlc', 'Extra' => $l['bbq'], 'Used' => $weapon_used_m32 , 'Kills' => $weapon_kills_m32, 'Stats' => array(
+'Magazine' => 6, 'Ammo' => 12, 'Firerate' => 60, 'Damage' => 340, 'Accuracy' => 4, 'Stability' => 20, 'Concealment' => 10, 'Threat' => 37)),
 array( 'Name' => $l['gre_m79'], 'Wiki' => 'GL40_(Payday_2)', 'Image' => 'gre_m79', 'Quality' => 'dlc', 'Extra' => $l['Gage_Assault_Pack'], 'Used' => $weapon_used_gre_m79 , 'Kills' => $weapon_kills_gre_m79, 'Stats' => array(
 'Magazine' => 1, 'Ammo' => 6, 'Firerate' => 30, 'Damage' => 340, 'Accuracy' => 12, 'Stability' => 6, 'Concealment' => 18, 'Threat' => 37))
 );
@@ -278,13 +283,22 @@ array( 'Name' => $l['boxing_gloves'], 'Wiki' => 'Alpha_Mauler', 'Image' => 'boxi
 array( 'Name' => $l['hammer'], 'Wiki' => 'Carpenter\'s_Delight', 'Image' => 'hammer', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami_2_deluxe'], 'Description' => $l['hammer-description'], 'Used' => $melee_used_hammer , 'Kills' => $melee_kills_hammer , 'Stats' => array(
 'Damage' => 30, 'DamageMAX' => 61, 'Knockdown' => 96, 'KnockdownMAX' => 92, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 27 )),
 array( 'Name' => $l['whiskey'], 'Wiki' => 'Rivertown_Glen_Bottle', 'Image' => 'whiskey', 'Quality' => 'community', 'Extra' => 'Community', 'Description' => $l['whiskey-description'], 'Used' => $melee_used_whiskey , 'Kills' => $melee_kills_whiskey , 'Stats' => array(
-'Damage' => 30, 'DamageMAX' => 55, 'Knockdown' => 90, 'KnockdownMAX' => 110, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 27 ))
+'Damage' => 30, 'DamageMAX' => 55, 'Knockdown' => 90, 'KnockdownMAX' => 110, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 27 )),
+array( 'Name' => $l['fork'], 'Wiki' => 'The_Motherforker', 'Image' => 'fork', 'Quality' => 'dlc', 'Extra' => $l['bbq'], 'Description' => $l['fork-description'], 'Used' => $melee_used_fork , 'Kills' => $melee_kills_fork , 'Stats' => array(
+'Damage' => 40, 'DamageMAX' => 90, 'Knockdown' => 10, 'KnockdownMAX' => 45, 'Charge' => 2.0, 'Range' => 185, 'Concealment' => 27 )),
+array( 'Name' => $l['poker'], 'Wiki' => 'Poker', 'Image' => 'poker', 'Quality' => 'dlc', 'Extra' => $l['bbq'], 'Description' => $l['poker-description'], 'Used' => $melee_used_poker , 'Kills' => $melee_kills_poker , 'Stats' => array(
+'Damage' => 60, 'DamageMAX' => 120, 'Knockdown' => 102, 'KnockdownMAX' => 240, 'Charge' => 3.0, 'Range' => 185, 'Concealment' => 27 )),
+array( 'Name' => $l['spatula'], 'Wiki' => 'Spatula', 'Image' => 'spatula', 'Quality' => 'dlc', 'Extra' => $l['bbq'], 'Description' => $l['spatula-description'], 'Used' => $melee_used_spatula , 'Kills' => $melee_kills_spatula , 'Stats' => array(
+'Damage' => 20, 'DamageMAX' => 30, 'Knockdown' => 30, 'KnockdownMAX' => 60, 'Charge' => 1.0, 'Range' => 185, 'Concealment' => 27 )),
+array( 'Name' => $l['tenderizer'], 'Wiki' => 'Tenderizer', 'Image' => 'tenderizer', 'Quality' => 'dlc', 'Extra' => $l['bbq'], 'Description' => $l['tenderizer-description'], 'Used' => $melee_used_tenderizer , 'Kills' => $melee_kills_tenderizer , 'Stats' => array(
+'Damage' => 30, 'DamageMAX' => 90, 'Knockdown' => 60, 'KnockdownMAX' => 144, 'Charge' => 3.0, 'Range' => 185, 'Concealment' => 27 ))
 );
 //
 //Grenades
 //
 $weapons_grenades = array(
-array( 'Name' => $l['frag-grenade'], 'Wiki' => 'Frag_Grenade', 'Image' => 'butt', 'Quality' => 'dlc', 'Extra' => $l['Gage_Weapon_Pack_01'], 'Used' => $weapon_used_grenade , 'Kills' => $weapon_kills_grenade) //DOES NOT EXIST YET!
+array( 'Name' => $l['frag_grenade'], 'Wiki' => 'Frag_Grenade', 'Image' => 'frag', 'Quality' => 'dlc', 'Extra' => $l['Gage_Weapon_Pack_01'], 'Description' => $l['frag_grenade-description'], 'Used' => $weapon_used_grenade , 'Kills' => $weapon_kills_grenade),
+array( 'Name' => $l['molotov'], 'Wiki' => 'Molotov_Cocktail', 'Image' => 'molotov', 'Quality' => 'dlc', 'Extra' => $l['bbq'], 'Description' => $l['molotov-description'], 'Used' => $weapon_used_molotov , 'Kills' => $weapon_kills_molotov)
 );
 //
 //Gadgets
