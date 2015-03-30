@@ -1,4 +1,18 @@
 ﻿30.03.2015
+added after goty
+//BBQ
+$l['chef_hat'] = 'Chef';
+$l['chef_hat-description'] = 'Whether you\'re a line cook flipping patties at a road side diner, or an itamae dissecting toadfish at a $1000-a-table joint, this hat means one thing: you\'re the chef.';
+$l['firedemon'] = 'Graug';
+$l['firedemon-description'] = 'The head of the legendary Graug. A towering being of fire and smoking darkness, bound in blackened iron mail. Shaped like a man, but horned and visaged like a cruel demon. Body consumed by a furnace heat, hotter than Hell itself. Knows all the best tunes.';
+$l['firemask'] = 'Firefighter\'s Helmet';
+$l['firemask-description'] = 'The crew may show scant respect to the police authorities, but they have huge respect for the men and women that clean up the burning messes left in their wake. This mask is a tribute to their efforts.';
+$l['gasmask'] = 'Gas Mask';
+$l['gasmask-description'] = 'The gas mask may seem like it belongs to the wars of an older era, but it is a crucial piece of equipment on the urban battlefield, where gas can still be deployed. Also, gives you a cool, wheezy breathing sound.';
+
+added at start of grenades
+$l['grenades'] = 'Grenades';
+
 added at end of melee
 $l['fork'] = 'Motherforker';
 $l['fork-description'] = '';

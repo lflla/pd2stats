@@ -388,6 +388,7 @@ $l['spatula-description'] = '';
 $l['tenderizer'] = 'Tenderizer';
 $l['tenderizer-description'] = '';
 ////Grenades
+$l['grenades'] = 'Grenades';
 $l['frag_grenade'] = 'Frag Grenade';
 $l['frag_grenade-description'] = 'The frag grenade is a concept that has changed little from its inception. It is a thrown casing that explodes, sending shards and splinters away with such force they can slice through flesh, bone and light armor. Cheap and effective.';
 $l['molotov'] = 'Molotov';
@@ -672,6 +673,15 @@ $l['nun_town'] = 'Nun';
 $l['nun_town-description'] = 'A Catholic nun may not seem like the obvious choice for a terrifying mask, unless you know an actual Catholic nun. In which case, you\'ll know any notions of gentle, grandmotherly penguins are without merit. These bitter crones are the personification of evil, dishing out thrashing to any young buttocks within reach.';
 $l['arch_nemesis'] = 'Arch Nemesis';
 $l['arch_nemesis-description'] = 'Nemesis, as defined by the dictionary<br/><br/>Noun [ahrch nem-uh-seez]<br/><br/>1. Something that a person cannot conquer, achieve, etc.: "That Chinese buffet at lunch proved to be my arch-nemesis."<br/>2. An opponent whom a person cannot defeat.<br/>3. In classical mythology. The goddess of divine retribution.<br/>4. An agent or act of retribution or punishment.<br/><br/>As defined by Hoxton: "That fuckin\' dozer. He\'s my arch-fucking-nemesis. \'Orrible cunt!"';
+//BBQ
+$l['chef_hat'] = 'Chef';
+$l['chef_hat-description'] = 'Whether you\'re a line cook flipping patties at a road side diner, or an itamae dissecting toadfish at a $1000-a-table joint, this hat means one thing: you\'re the chef.';
+$l['firedemon'] = 'Graug';
+$l['firedemon-description'] = 'The head of the legendary Graug. A towering being of fire and smoking darkness, bound in blackened iron mail. Shaped like a man, but horned and visaged like a cruel demon. Body consumed by a furnace heat, hotter than Hell itself. Knows all the best tunes.';
+$l['firemask'] = 'Firefighter\'s Helmet';
+$l['firemask-description'] = 'The crew may show scant respect to the police authorities, but they have huge respect for the men and women that clean up the burning messes left in their wake. This mask is a tribute to their efforts.';
+$l['gasmask'] = 'Gas Mask';
+$l['gasmask-description'] = 'The gas mask may seem like it belongs to the wars of an older era, but it is a crucial piece of equipment on the urban battlefield, where gas can still be deployed. Also, gives you a cool, wheezy breathing sound.';
 //Champ
 $l['champion_dallas'] = 'Champ';
 $l['champion_dallas-description'] = 'This is the Champ mask. Based on a bad day for Dallas. How bad? Well, imagine being on the business end of thirteen rounds with a professional boxer. Swollen brow, broken nose, fat lip, black eye, contusions, concussions, dislocated jaw - you name it, and this mask has it. Yeah, a really bad day for Dallas.';

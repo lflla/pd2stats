@@ -526,6 +526,11 @@ array( 'Name' => $l['carnotaurus'], 'Image' => 'carnotaurus', 'Quality' => 'dlc'
 array( 'Name' => $l['pachy'], 'Image' => 'pachy', 'Quality' => 'dlc', 'Extra' => $l['akcarmodpack'], 'Description' => $l['pachy-description'], 'Used' => $mask_used_pachy),
 array( 'Name' => $l['triceratops'], 'Image' => 'triceratops', 'Quality' => 'dlc', 'Extra' => $l['akcarmodpack'], 'Description' => $l['triceratops-description'], 'Used' => $mask_used_triceratops),
 array( 'Name' => $l['velociraptor'], 'Image' => 'velociraptor', 'Quality' => 'dlc', 'Extra' => $l['akcarmodpack'], 'Description' => $l['velociraptor-description'], 'Used' => $mask_used_velociraptor),
+////BBQ Pack
+array( 'Name' => $l['chef_hat'], 'Image' => 'chef_hat', 'Quality' => 'dlc', 'Extra' => $l['bbq'], 'Description' => $l['chef_hat-description'], 'Used' => $mask_used_chef_hat),
+array( 'Name' => $l['firedemon'], 'Image' => 'firedemon', 'Quality' => 'dlc', 'Extra' => $l['bbq'], 'Description' => $l['firedemon-description'], 'Used' => $mask_used_firedemon),
+array( 'Name' => $l['firemask'], 'Image' => 'firemask', 'Quality' => 'dlc', 'Extra' => $l['bbq'], 'Description' => $l['firemask-description'], 'Used' => $mask_used_firemask),
+array( 'Name' => $l['gasmask'], 'Image' => 'gasmask', 'Quality' => 'dlc', 'Extra' => $l['bbq'], 'Description' => $l['gasmask-description'], 'Used' => $mask_used_gasmask),
 //////Collaboration
 ////Hotline Miami Game
 array( 'Name' => $l['panther'], 'Image' => 'panther', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami'], 'Description' => $l['panther-description'], 'Used' => $mask_used_panther),
@@ -990,12 +995,15 @@ $heists_quality = $heists;
 $weapons_primary_kills = $weapons_primary;
 $weapons_secondary_kills = $weapons_secondary;
 $weapons_melee_kills = $weapons_melee;
+$weapons_grenades_kills = $weapons_grenades;
 $weapons_primary_name = $weapons_primary;
 $weapons_secondary_name = $weapons_secondary;
 $weapons_melee_name = $weapons_melee;
+$weapons_grenades_name = $weapons_grenades;
 $weapons_primary_quality = $weapons_primary;
 $weapons_secondary_quality = $weapons_secondary;
 $weapons_melee_quality = $weapons_melee;
+$weapons_grenades_quality = $weapons_grenades;
 $masks_name = $masks;
 $masks_quality = $masks;
 $enemies_name = $enemies;
@@ -1021,17 +1029,22 @@ array_sort_by_column($masks, 'Used');
 array_sort_by_column($characters, 'Used');
 array_sort_by_column($enemies, 'Value');
 //Temporary
+array_sort_by_column($heists_dropin, 'Dropin');
+array_sort_by_column($heists_fail, 'Fail');
+array_sort_by_column($heists_quality, 'Quality', SORT_ASC);
 array_sort_by_column($weapons_primary_kills, 'Kills');
 array_sort_by_column($weapons_secondary_kills, 'Kills');
 array_sort_by_column($weapons_melee_kills, 'Kills');
-array_sort_by_column($heists_dropin, 'Dropin');
-array_sort_by_column($heists_fail, 'Fail');
-array_sort_by_column($masks_name, 'Name', SORT_ASC);
-array_sort_by_column($enemies_name, 'Name', SORT_ASC);
-array_sort_by_column($masks_quality, 'Quality', SORT_ASC);
-array_sort_by_column($heists_quality, 'Quality', SORT_ASC);
+array_sort_by_column($weapons_grenades_kills, 'Kills');
+array_sort_by_column($weapons_primary_name, 'Name', SORT_ASC);
+array_sort_by_column($weapons_secondary_name, 'Name', SORT_ASC);
+array_sort_by_column($weapons_melee_name, 'Name', SORT_ASC);
+array_sort_by_column($weapons_grenades_name, 'Name', SORT_ASC);
 array_sort_by_column($weapons_primary_quality, 'Quality', SORT_ASC);
 array_sort_by_column($weapons_secondary_quality, 'Quality', SORT_ASC);
 array_sort_by_column($weapons_melee_quality, 'Quality', SORT_ASC);
-array_sort_by_column($weapons_grenades, 'Quality', SORT_ASC);
+array_sort_by_column($weapons_grenades_quality, 'Quality', SORT_ASC);
+array_sort_by_column($masks_name, 'Name', SORT_ASC);
+array_sort_by_column($masks_quality, 'Quality', SORT_ASC);
+array_sort_by_column($enemies_name, 'Name', SORT_ASC);
 ?>
