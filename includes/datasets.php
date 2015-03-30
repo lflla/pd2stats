@@ -632,7 +632,7 @@ array( 'Name' => $l['crojob2'], 'Wiki' => 'The_Bomb:_Forest', 'Image' => 'crojob
 array( 'Name' => $l['mus'], 'Wiki' => 'The_Diamond', 'Image' => 'mus', 'Win' => $contract_mus_win, 'Dropin' => $contract_mus_win_dropin, 'Fail' => $contract_mus_fail, 'Quality' => 'dlc', 'deathwish' => $bat_1),
 array( 'Name' => $l['cookoff'], 'Wiki' => 'Cook_Off', 'Image' => 'rat', 'Win' => $contract_rat_win, 'Dropin' => $contract_rat_win_dropin, 'Fail' => $contract_rat_fail, 'Quality' => 'community', 'deathwish' => $djur_1),
 array( 'Name' => $l['transp-train'], 'Wiki' => 'Train', 'Image' => 'train', 'Win' => $contract_arm_for_win, 'Dropin' => $contract_arm_for_win_dropin, 'Fail' => $contract_arm_for_fail, 'Quality' => 'dlc', 'deathwish' => $I_AM_ERROR),
-array( 'Name' => $l['carshop'], 'Wiki' => 'Car_Shop', 'Image' => 'carshop', 'Win' => $contract_cage_win, 'Dropin' => $contract_cage_win_dropin, 'Fail' => $contract_cage_fail, 'Quality' => 'community', 'deathwish' => $I_AM_ERROR),
+array( 'Name' => $l['carshop'], 'Wiki' => 'Car_Shop', 'Image' => 'carshop', 'Win' => $contract_cage_win, 'Dropin' => $contract_cage_win_dropin, 'Fail' => $contract_cage_fail, 'Quality' => 'community', 'deathwish' => $fort_1),
 array( 'Name' => $l['hoxtonrevenge'], 'Wiki' => 'Hoxton_Revenge', 'Image' => 'revenge', 'Win' => $contract_hox_3_win, 'Dropin' => $contract_hox_3_win_dropin, 'Fail' => $contract_hox_3_fail, 'Quality' => 'community', 'deathwish' => $payback_1)
 );
 
