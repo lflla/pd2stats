@@ -24,7 +24,6 @@ $l['charset'] = 'UTF-8';
 //If you need to use a ' in text write \'
 ////
 
-////PERMANENT
 //Title
 $l['title'] = 'Payday 2 Estadísticas';
 $l['title-full'] = 'Payday 2 Estadísticas';
@@ -182,7 +181,7 @@ $l['playername'] = 'Nombre del Jugador';
 $l['locked'] = 'bloqueado';
 $l['unlocked'] = 'desbloqueado';
 $l['achievements'] = 'Logros';
-$l['caus-help'] = 'Ésta caja muestra el número total de enemigos abatidos. Por favor tenga en cuenta que los datos han sido obtenidos a partir del update de Shadow Raid. También tenga en cuenta que hay algunos enemigos que no son contados'.;
+$l['caus-help'] = 'Ésta caja muestra el número total de enemigos abatidos. Por favor tenga en cuenta que los datos han sido obtenidos a partir del update de Shadow Raid. También tenga en cuenta que hay algunos enemigos que no son contados';
 //DLC Names
 $l['Armored_Transport'] = 'TRANSPORTE ARMADO';
 $l['Big_Bank_Heist'] = 'ATRACO GRAN BANCO';
@@ -1220,7 +1219,7 @@ $l['perk-armorer-5'] = 'Armadura Líquida';
 $l['perk-armorer-5-desc'] = 'Se incrementa tu armadura un <div class="bluein">5%</div>.<br/><br/>Se reduce el tiempo de recarga de tu escudo para tus compañeros y tu un <div class="bluein">10%</div>.<br/><br/>Nota: Habilidades de equipo no se apilan.<br/><br/>Bonus Mazo Completado: La probabilidad de obtener un objeto de calidad superior se incrementa un <div class="bluein">10%</div>.';
 //Deck Rouge
 $l['perk-rouge'] = 'Pintalabios';
-$l['perk-rouge-desc'] 'El Pintalabios es un criminal sigiloso, capaz de usar trucos sucios y ataques letales, versátil y falaz, al Pintalabios se le contrata para hacer cualquier cosa, desde robos menoresto burglaries hasta asesinatos.<br/><br/>La característica principal del Pintalabios es su versatilidad, lo que no tiene de fuerza lo tiene de maña.';
+$l['perk-rouge-desc'] = 'El Pintalabios es un criminal sigiloso, capaz de usar trucos sucios y ataques letales, versátil y falaz, al Pintalabios se le contrata para hacer cualquier cosa, desde robos menoresto burglaries hasta asesinatos.<br/><br/>La característica principal del Pintalabios es su versatilidad, lo que no tiene de fuerza lo tiene de maña.';
 $l['perk-rouge-1'] = 'Tramposo';
 $l['perk-rouge-1-desc'] = 'Tu probabilidad para esquivar se incrementa un <div class="bluein">10%</div>.';
 $l['perk-rouge-2'] = 'Elusivo';
@@ -1258,7 +1257,7 @@ $l['perk-crook-4-desc'] = 'Tu probabilidad para esquivar se incrementa un <div c
 $l['perk-crook-5'] = 'Maestro de la Recuperación';
 $l['perk-crook-5-desc'] = 'La velocidad de recarga de tu armadura se incrementa un <div class="bluein">10%</div>.<br/><br/>Bonus Mazo Completado: La probabilidad de obtener un objeto de calidad superior se incrementa un <div class="bluein">10%</div>.';
 //Deck Burglar
-$l['perk-burglar'] = 'Ladrón'
+$l['perk-burglar'] = 'Ladrón';
 $l['perk-burglar-desc'] = 'La destreza natural del Ladrón va más allá de los beneficios de entrar y salir. Ser ágil ayuda al Ladrón a forzar cerraduras, llevar bolsas de cadáveres o responder buscas más rapido. Son también más dificiles de impactar en combate. Ellos se mantienen con vida estando fuera del camino.<br/><br/>Ésta condición física también le da al Ladrón alta tolerancia al dolor y la habilidad para cubrir heridas severas.';
 $l['perk-burglar-1'] = 'Tramposo';
 $l['perk-burglar-1-desc'] = 'Tu probabilidad para esquivar se incrementa un <div class="bluein">10%</div>.';
