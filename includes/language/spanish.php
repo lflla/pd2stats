@@ -40,7 +40,7 @@ $l['steamgroup'] = 'Grupo Steam';
 $l['feedback'] = 'Feedback';
 $l['notice'] = '¡Menú'; //Incluye al final un !
 $l['ads'] = 'Publicidad';
-$l['switch'] = 'Cambiar';
+$l['switch'] = 'Cambiar';gr
 $l['languagetex'] = 'Idioma';
 $l['detection'] = 'Advertencia';
 //Itemindex
@@ -212,6 +212,7 @@ $l['akcarmodpack'] = 'PACK MODIFICACIONES AK/CAR';
 $l['overkillpack'] = 'PACK OVERKILL';
 $l['compoverkillpack'] = 'PACK COMPLETAMENTE OVERKILL';
 $l['speedrunnersdlc'] = 'SPEEDRUNNERS';
+$l['bbq'] = 'PACK ARMAS BBQ';
 ////Weapons
 ////Primary
 //Akimbo
@@ -254,6 +255,7 @@ $l['benelli'] = 'M1014';
 $l['ksg'] = 'Raven';
 $l['spas12'] = 'Predator 12G';
 $l['b682'] = 'Joceline O/U 12G';
+$l['aa12'] = 'Steakout 12G';
 //Light Machine Guns
 $l['rpk'] = 'RPK';
 $l['m249'] = 'KSP';
@@ -264,6 +266,8 @@ $l['saw'] = 'Sierra OVE9000';
 $l['m134'] = 'Ametralladora Pesada Gatling Vulcan';
 //Grenade Launcher
 $l['gre_m79'] = 'GL40';
+$l['flamethrower_mk2'] = 'Lanzallamas';
+$l['m32'] = 'Piglet';
 ////Secondary
 //Pistols
 $l['usp'] = 'Interceptor 45';
@@ -369,8 +373,20 @@ $l['whiskey'] = 'Botella Glen de Rivertown';
 $l['whiskey-description'] = '';
 $l['hammer'] = 'Delicia del Carpintero';
 $l['hammer-description'] = '';
+$l['fork'] = 'Tenedor';
+$l['fork-description'] = '';
+$l['poker'] = 'Atizador';
+$l['poker-description'] = '';
+$l['spatula'] = 'Espátula';
+$l['spatula-description'] = '';
+$l['tenderizer'] = 'Ablandador de Carne';
+$l['tenderizer-description'] = '';
 ////Grenades
-$l['frag-grenade'] = 'Granada de fragmentación';
+$l['grenades'] = 'Granada';
+$l['frag_grenade'] = 'Granada de Fragmentación';
+$l['frag_grenade-description'] = 'La granada de fragmentación es un invento que ha cambiado muy poco desde su invención. Es un objeto que se lanza y explota, mandando fragmentos y trozos con tanta fuerza que puede atravesar la carne, huesos y armadura ligeras. Barato y efectivo.';
+$l['molotov'] = 'Molotov';
+$l['molotov-description'] = 'El Cóctel Molotov puede ser el arma arrojadiza mas simple. Nada más que una botella con líquido inflamable con una mecha. Es barato, sencillo y altamente efectivo.';
 ////Gadgets
 $l['ammo_bag'] = 'Bolsa de munición';
 $l['ammo_bag-description'] = 'La bolsa de munición es una bolsa portátil cuyo objetivo es permitir que los soldados lleven munición extra. Para desplegar la bolsa de munición debes pulsar y mantener la tecla [G]. Una vez desplegada, no se puede cambiar de lugar. Puede ser usada por ti o tus compañeros pulsando y manteniendo la tecla [F]. Tiene un uso limitado y cuando se termina desaparece. Puedes saber cuánto le queda a la bolsa mirando su contenido.';
@@ -651,6 +667,15 @@ $l['nun_town'] = 'Nun';
 $l['nun_town-description'] = 'Una monja católica puede no ser la elección más factible para hacer una máscara terrorífica, a no ser que conozcas una monja Católica. En ese caso, conocerás nociones de gentileza y amabilidad, de pingüinos abuelescos sin mérito. Éstas implacables abuelillas son la personificación del mal.';
 $l['arch_nemesis'] = 'Archienemigo';
 $l['arch_nemesis-description'] = 'Archienemigo, según el diccionario<br/><br/>Sustantivo [ahrch nem-uh-seez]<br/><br/>1. Algo que una persona no puede conquistar, conseguir, etc.: "El buffet chino de la comida se ha convertido en mi nuevo archienemigo."<br/>2. Un oponente al que no se puede vencer.<br/>3. En mitología clásica. La diosa divina de la retribución.<br/>4. Un agente o acto de retribución o castigo.<br/><br/>Como Hoxton lo define: "Ese puto Bulldozer. Él es mi jodido archienemigo, ¡maldito gilipollas!"';
+//BBQ
+$l['chef_hat'] = 'Chef';
+$l['chef_hat-description'] = 'Seas un cocinero de pro dandole la vuelta a las hamburguesas en la típica comida de amigos, o un habilidoso diseccionador de carpas de doradas de platos de 1000$, éste gorro sólo puede significar una cosa: Que eres el Chef.';
+$l['firedemon'] = 'Graug';
+$l['firedemon-description'] = 'La cabeza del legendario Graug. Una criatura monstruosa de fuego y humo oscuro, fundido en hierro negro. De forma humana, pero con cuernos y rostro de demonio. El torso consumido por el calor de la fundición, más caliente que el mismisimo infierno. Se sabe las mejores canciones.';
+$l['firemask'] = 'Casco de Bombero';
+$l['firemask-description'] = 'Puede que la banda no muestre mucho respeto por la autoridad policial, pero tiene mucho respeto por aquellos hombres y mujeres que ponen en riesgo sus vidas para salvar a aquellos de las llamas. Ésta máscara es un tributo a ellos.';
+$l['gasmask'] = 'Máscara de Gas';
+$l['gasmask-description'] = 'La máscara de Gas puede parecer que está desfasada, pero es un objeto crcial para el combate urbano, donde el gas es utilizado. Además, te da un sonido respiratorio muy guay.';
 //Champ
 $l['champion_dallas'] = 'Campeón';
 $l['champion_dallas-description'] = 'Ésta es la máscara del Campeón. Basada en un mal dia de Dallas. ¿Cómo de mal? Bueno, imagina estar en la última ronda de 13 con un boxeador profesional. Párpados hinchados, nariz rota, labios morados, ojo negro, contusiones, mandíbula dislocada, ésta máscara lo tiene todo. Y si, un muy mal dia para Dallas.';
