@@ -297,8 +297,9 @@ array( 'Name' => $l['tenderizer'], 'Wiki' => 'Tenderizer', 'Image' => 'tenderize
 //Grenades
 //
 $weapons_grenades = array(
-array( 'Name' => $l['frag_grenade'], 'Wiki' => 'Frag_Grenade', 'Image' => 'frag', 'Quality' => 'dlc', 'Extra' => $l['Gage_Weapon_Pack_01'], 'Description' => $l['frag_grenade-description'], 'Used' => $weapon_used_grenade , 'Kills' => $weapon_kills_grenade),
-array( 'Name' => $l['molotov'], 'Wiki' => 'Molotov_Cocktail', 'Image' => 'molotov', 'Quality' => 'dlc', 'Extra' => $l['bbq'], 'Description' => $l['molotov-description'], 'Used' => $weapon_used_molotov , 'Kills' => $weapon_kills_molotov)
+array( 'Name' => $l['frag_grenade'], 'Wiki' => 'Frag_Grenade', 'Image' => 'frag', 'Quality' => 'dlc', 'Extra' => $l['Gage_Weapon_Pack_01'], 'Description' => $l['frag_grenade-description'], 'Used' => $grenade_used_frag , 'Kills' => $grenade_kills_frag),
+array( 'Name' => $l['dynamite'], 'Wiki' => 'Dynamite', 'Image' => 'dynamite', 'Quality' => 'dlc', 'Extra' => $l['westpack'], 'Description' => $l['dynamite-description'], 'Used' => $grenade_used_dynamite , 'Kills' => $grenade_kills_dynamite),
+array( 'Name' => $l['molotov'], 'Wiki' => 'Molotov_Cocktail', 'Image' => 'molotov', 'Quality' => 'dlc', 'Extra' => $l['bbq'], 'Description' => $l['molotov-description'], 'Used' => $grenade_used_molotov , 'Kills' => $grenade_kills_molotov)
 );
 //
 //Gadgets

@@ -217,6 +217,7 @@ $l['gotyeddlc'] = 'GOTY EDITION';
 $l['lootbagdlc'] = 'LOOT BAG';
 $l['speedrunnersdlc'] = 'SPEEDRUNNERS';
 $l['bbq'] = 'BBQ WEAPON PACK';
+$l['westpack'] = 'WESTERN WEAPON PACK';
 ////Weapons
 ////Primary
 //Assault Rifles
@@ -393,6 +394,8 @@ $l['frag_grenade'] = 'Frag Grenade';
 $l['frag_grenade-description'] = 'The frag grenade is a concept that has changed little from its inception. It is a thrown casing that explodes, sending shards and splinters away with such force they can slice through flesh, bone and light armor. Cheap and effective.';
 $l['molotov'] = 'Molotov';
 $l['molotov-description'] = 'The Molotov cocktail is perhaps the simplest weapon that can call itself a grenade. Nothing more than a breakable bottle of flammable liquid with a \'fuse\' replace by burning rag. It is cheap, simple and highly effective.';
+$l['dynamite'] = 'Dynamite';
+$l['dynamite-description'] = 'Swedish engineer, Alfred Nobel, discovered dynamite and its effectiveness in blasting rock. Bit it was drunk prospector, Ol\'Kenneth, who discovered its effectiveness in blasting people.';
 ////Gadgets
 $l['ammo_bag'] = 'Ammo Bag';
 $l['ammo_bag-description'] = 'The ammo bag is a portable bag, originally intended to allow soldiers to carry extra ammunition.<br/><br/>To use the ammo bag, you need to place it by holding [G]. Once placed it cannot be moved, but it can be used by you and your crew by holding [F] to gain more ammunition.<br/><br/>The ammo bag has limited uses and when it is consumed, it disappears. You can see how many uses are left by looking at the ammo bag.';

@@ -1,4 +1,11 @@
-﻿30.03.2015
+﻿14.05.2015
+added at end of grenades
+$l['dynamite'] = 'Dynamite';
+$l['dynamite-description'] = 'Swedish engineer, Alfred Nobel, discovered dynamite and its effectiveness in blasting rock. Bit it was drunk prospector, Ol\'Kenneth, who discovered its effectiveness in blasting people.';
+at end of dlcs
+$l['westpack'] = 'WESTERN WEAPON PACK';
+
+30.03.2015
 added after goty
 //BBQ
 $l['chef_hat'] = 'Chef';
