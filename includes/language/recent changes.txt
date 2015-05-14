@@ -2,8 +2,45 @@
 added at end of grenades
 $l['dynamite'] = 'Dynamite';
 $l['dynamite-description'] = 'Swedish engineer, Alfred Nobel, discovered dynamite and its effectiveness in blasting rock. Bit it was drunk prospector, Ol\'Kenneth, who discovered its effectiveness in blasting people.';
+
 at end of dlcs
 $l['westpack'] = 'WESTERN WEAPON PACK';
+
+added at end of melee weapons
+$l['bowie'] = 'Arkansas Toothpick';
+$l['bowie-description'] = '';
+$l['branding_iron'] = 'You\'re Mine';
+$l['branding_iron-description'] = '';
+$l['mining_pick'] = 'Gold Fever';
+$l['mining_pick-description'] = '';
+$l['scalper'] = 'Scalper Tomahawk';
+$l['scalper-description'] = '';
+
+after bbq mask section
+//Western
+$l['bandit'] = 'Wild West Classic';
+$l['bandit-description'] = 'The wide-brimmed hat, the steely gaze and the scarf pulled over the mouth. A combination so ironic, so classic and so effective that it remains the staple for gangsters and heisters everywhere.';
+$l['bullskull'] = 'Desert Skull';
+$l['bullskull-description'] = 'When staggering through desolate barrancas, with only thoughts for company, the last thing you want to see is the parched bones of those who want before you. Suddenly those thoughts are screams.';
+$l['kangee'] = 'Apache Mystic';
+$l['kangee-description'] = 'The West that the white men entered was a land of mystery. A land populated with civilisations of warriors, who marked themselves, their lands and their mythologies with these sacred carvings.';
+$l['lone'] = 'Lone Heister';
+$l['lone-description'] = 'Whether you\'re a murderous desperado or a lone, brooding ranger, sometimes you need to hide your identity. What does that better than a slender black eye-mask, covering a third of your face?';
+//Meltdown
+$l['grendel'] = 'Rad Mutant';
+$l['grendel-description'] = 'Genetic mutation is the key to our evolution. Assuming that our evolution is of the green, scaly, homicidal, irradiated kind.';
+
+added at end of pistols
+$l['peacemaker'] = 'Peacemaker .45';
+
+added at end of sniper rifles
+$l['winchester1874'] = 'Repeater 1874';
+
+added at end of primary specials
+$l['plainsrider'] = 'Plainsrider Bow';
+
+added at end of heists
+$l['shoutout_raid'] = 'Meltdown';
 
 30.03.2015
 added after goty

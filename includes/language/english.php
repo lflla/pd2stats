@@ -244,6 +244,7 @@ $l['msr'] = 'Rattlesnake';
 $l['r93'] = 'R93';
 $l['m95'] = 'Thanatos .50 cal';
 $l['mosin'] = 'Nagant';
+$l['winchester1874'] = 'Repeater 1874';
 //Shotguns
 $l['r870'] = 'Reinfeld 880';
 $l['saiga'] = 'Izhma 12G';
@@ -263,6 +264,7 @@ $l['saw'] = 'OVE9000';
 $l['m134'] = 'Vulcan';
 $l['flamethrower_mk2'] = 'Flamethrower';
 $l['m32'] = 'Piglet';
+$l['plainsrider'] = 'Plainsrider Bow';
 //Grenade Launcher
 $l['gre_m79'] = 'GL40';
 //Akimbo
@@ -288,6 +290,7 @@ $l['p226'] = 'Signature .40';
 $l['g26'] = 'Chimano Compact';
 $l['c96'] = 'Broomstick';
 $l['hs2000'] = 'LEO';
+$l['peacemaker'] = 'Peacemaker .45';
 //Submachine Guns
 $l['mac10'] = 'Mark 10';
 $l['new_mp5'] = 'Compact-5';
@@ -388,6 +391,14 @@ $l['spatula'] = 'Spatula';
 $l['spatula-description'] = '';
 $l['tenderizer'] = 'Tenderizer';
 $l['tenderizer-description'] = '';
+$l['bowie'] = 'Arkansas Toothpick';
+$l['bowie-description'] = '';
+$l['branding_iron'] = 'You\'re Mine';
+$l['branding_iron-description'] = '';
+$l['mining_pick'] = 'Gold Fever';
+$l['mining_pick-description'] = '';
+$l['scalper'] = 'Scalper Tomahawk';
+$l['scalper-description'] = '';
 ////Grenades
 $l['grenades'] = 'Grenades';
 $l['frag_grenade'] = 'Frag Grenade';
@@ -685,6 +696,18 @@ $l['firemask'] = 'Firefighter\'s Helmet';
 $l['firemask-description'] = 'The crew may show scant respect to the police authorities, but they have huge respect for the men and women that clean up the burning messes left in their wake. This mask is a tribute to their efforts.';
 $l['gasmask'] = 'Gas Mask';
 $l['gasmask-description'] = 'The gas mask may seem like it belongs to the wars of an older era, but it is a crucial piece of equipment on the urban battlefield, where gas can still be deployed. Also, gives you a cool, wheezy breathing sound.';
+//Western
+$l['bandit'] = 'Wild West Classic';
+$l['bandit-description'] = 'The wide-brimmed hat, the steely gaze and the scarf pulled over the mouth. A combination so ironic, so classic and so effective that it remains the staple for gangsters and heisters everywhere.';
+$l['bullskull'] = 'Desert Skull';
+$l['bullskull-description'] = 'When staggering through desolate barrancas, with only thoughts for company, the last thing you want to see is the parched bones of those who want before you. Suddenly those thoughts are screams.';
+$l['kangee'] = 'Apache Mystic';
+$l['kangee-description'] = 'The West that the white men entered was a land of mystery. A land populated with civilisations of warriors, who marked themselves, their lands and their mythologies with these sacred carvings.';
+$l['lone'] = 'Lone Heister';
+$l['lone-description'] = 'Whether you\'re a murderous desperado or a lone, brooding ranger, sometimes you need to hide your identity. What does that better than a slender black eye-mask, covering a third of your face?';
+//Meltdown
+$l['grendel'] = 'Rad Mutant';
+$l['grendel-description'] = 'Genetic mutation is the key to our evolution. Assuming that our evolution is of the green, scaly, homicidal, irradiated kind.';
 //Champ
 $l['champion_dallas'] = 'Champ';
 $l['champion_dallas-description'] = 'This is the Champ mask. Based on a bad day for Dallas. How bad? Well, imagine being on the business end of thirteen rounds with a professional boxer. Swollen brow, broken nose, fat lip, black eye, contusions, concussions, dislocated jaw - you name it, and this mask has it. Yeah, a really bad day for Dallas.';
@@ -908,6 +931,7 @@ $l['cookoff'] = 'Cook Off';
 $l['transp-train'] = 'Armored Transport: Train Heist';
 $l['carshop'] = 'Car Shop';
 $l['hoxtonrevenge'] = 'Hoxton Revenge';
+$l['shoutout_raid'] = 'Meltdown';
 //Escapes
 $l['escapeparknight'] = 'Park (Night)';
 $l['escapeparkday'] = 'Park';

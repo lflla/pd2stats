@@ -81,6 +81,8 @@ array( 'Name' => $l['m95'], 'Wiki' => 'Thanatos_.50_cal', 'Image' => 'm95', 'Qua
 'Magazine' => 5, 'Ammo' => 15, 'Firerate' => 40, 'Damage' => 2880, 'Accuracy' => 18, 'Stability' => 0, 'Concealment' => 2, 'Threat' => 185)),
 array( 'Name' => $l['mosin'], 'Wiki' => 'Nagant', 'Image' => 'mosin', 'Quality' => 'dlc', 'Extra' => $l['Gage_Historical'], 'Used' => $weapon_used_mosin , 'Kills' => $weapon_kills_mosin, 'Stats' => array(
 'Magazine' => 5, 'Ammo' => 25, 'Firerate' => 60, 'Damage' => 280, 'Accuracy' => 18, 'Stability' => 6, 'Concealment' => 6, 'Threat' => 84)),
+array( 'Name' => $l['winchester1874'], 'Wiki' => 'Repeater_1874', 'Image' => 'winchester1874', 'Quality' => 'dlc', 'Extra' => $l['westpack'], 'Used' => $weapon_used_winchester1874 , 'Kills' => $weapon_kills_winchester1874, 'Stats' => array(
+'Magazine' => 15, 'Ammo' => 45, 'Firerate' => 90, 'Damage' => 175, 'Accuracy' => 16, 'Stability' => 12, 'Concealment' => 12, 'Threat' => 84)),
 ////Shotguns
 array( 'Name' => $l['r870'], 'Wiki' => 'Reinfeld_880', 'Image' => 'r870', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_r870 , 'Kills' => $weapon_kills_r870, 'Stats' => array(
 'Magazine' => 6, 'Ammo' => 48, 'Firerate' => 100, 'Damage' => 60, 'Accuracy' => 14, 'Stability' => 6, 'Concealment' => 11, 'Threat' => 28)),
@@ -132,7 +134,9 @@ array( 'Name' => $l['flamethrower_mk2'], 'Wiki' => 'Flamethrower', 'Image' => 'f
 array( 'Name' => $l['m32'], 'Wiki' => 'Piglet', 'Image' => 'm32', 'Quality' => 'dlc', 'Extra' => $l['bbq'], 'Used' => $weapon_used_m32 , 'Kills' => $weapon_kills_m32, 'Stats' => array(
 'Magazine' => 6, 'Ammo' => 12, 'Firerate' => 60, 'Damage' => 340, 'Accuracy' => 4, 'Stability' => 20, 'Concealment' => 10, 'Threat' => 37)),
 array( 'Name' => $l['gre_m79'], 'Wiki' => 'GL40_(Payday_2)', 'Image' => 'gre_m79', 'Quality' => 'dlc', 'Extra' => $l['Gage_Assault_Pack'], 'Used' => $weapon_used_gre_m79 , 'Kills' => $weapon_kills_gre_m79, 'Stats' => array(
-'Magazine' => 1, 'Ammo' => 6, 'Firerate' => 30, 'Damage' => 340, 'Accuracy' => 12, 'Stability' => 6, 'Concealment' => 18, 'Threat' => 37))
+'Magazine' => 1, 'Ammo' => 6, 'Firerate' => 30, 'Damage' => 340, 'Accuracy' => 12, 'Stability' => 6, 'Concealment' => 18, 'Threat' => 37)),
+array( 'Name' => $l['plainsrider'], 'Wiki' => 'Plainsrider_Bow', 'Image' => 'plainsrider', 'Quality' => 'dlc', 'Extra' => $l['westpack'], 'Used' => $weapon_used_plainsrider , 'Kills' => $weapon_kills_plainsrider, 'Stats' => array(
+'Magazine' => 1, 'Ammo' => 50, 'Firerate' => 300, 'Damage' => 195, 'Accuracy' => 18, 'Stability' => 24, 'Concealment' => 30, 'Threat' => 37))
 );
 //
 //SECONDARY
@@ -165,6 +169,8 @@ array( 'Name' => $l['c96'], 'Wiki' => 'Broomstick', 'Image' => 'c96', 'Quality' 
 'Magazine' => 10, 'Ammo' => 80, 'Firerate' => 670, 'Damage' => 33, 'Accuracy' => 10, 'Stability' => 17, 'Concealment' => 28, 'Threat' => 10)),
 array( 'Name' => $l['hs2000'], 'Wiki' => 'LEO', 'Image' => 'hs2000', 'Quality' => 'dlc', 'Extra' => $l['thebombpack'], 'Used' => $weapon_used_hs2000 , 'Kills' => $weapon_kills_hs2000, 'Stats' => array(
 'Magazine' => 19, 'Ammo' => 133, 'Firerate' => 670, 'Damage' => 18, 'Accuracy' => 12, 'Stability' => 17, 'Concealment' => 29, 'Threat' => 9)),
+array( 'Name' => $l['peacemaker'], 'Wiki' => 'Peacemaker_.45', 'Image' => 'peacemaker', 'Quality' => 'dlc', 'Extra' => $l['westpack'], 'Used' => $weapon_used_peacemaker , 'Kills' => $weapon_kills_peacemaker, 'Stats' => array(
+'Magazine' => 6, 'Ammo' => 36, 'Firerate' => 240, 'Damage' => 151, 'Accuracy' => 14, 'Stability' => 15, 'Concealment' => 26, 'Threat' => 28)),
 ////Submachine Guns
 array( 'Name' => $l['mac10'], 'Wiki' => 'Mark_10', 'Image' => 'mac10', 'Quality' => 'normal', 'Extra' => 'Normal', 'Used' => $weapon_used_mac10 , 'Kills' => $weapon_kills_mac10, 'Stats' => array(
 'Magazine' => 40, 'Ammo' => 80, 'Firerate' => 1000, 'Damage' => 25, 'Accuracy' => 8, 'Stability' => 15, 'Concealment' => 27, 'Threat' => 10)),
@@ -291,6 +297,14 @@ array( 'Name' => $l['poker'], 'Wiki' => 'Poker', 'Image' => 'poker', 'Quality' =
 array( 'Name' => $l['spatula'], 'Wiki' => 'Spatula', 'Image' => 'spatula', 'Quality' => 'dlc', 'Extra' => $l['bbq'], 'Description' => $l['spatula-description'], 'Used' => $melee_used_spatula , 'Kills' => $melee_kills_spatula , 'Stats' => array(
 'Damage' => 20, 'DamageMAX' => 30, 'Knockdown' => 30, 'KnockdownMAX' => 60, 'Charge' => 1.0, 'Range' => 185, 'Concealment' => 27 )),
 array( 'Name' => $l['tenderizer'], 'Wiki' => 'Tenderizer', 'Image' => 'tenderizer', 'Quality' => 'dlc', 'Extra' => $l['bbq'], 'Description' => $l['tenderizer-description'], 'Used' => $melee_used_tenderizer , 'Kills' => $melee_kills_tenderizer , 'Stats' => array(
+'Damage' => 30, 'DamageMAX' => 90, 'Knockdown' => 60, 'KnockdownMAX' => 144, 'Charge' => 3.0, 'Range' => 185, 'Concealment' => 27 )),
+array( 'Name' => $l['bowie'], 'Wiki' => 'Arkansas_Toothpick', 'Image' => 'bowie', 'Quality' => 'dlc', 'Extra' => $l['westpack'], 'Description' => $l['bowie-description'], 'Used' => $melee_used_bowie , 'Kills' => $melee_kills_bowie , 'Stats' => array(
+'Damage' => 30, 'DamageMAX' => 61, 'Knockdown' => 96, 'KnockdownMAX' => 92, 'Charge' => 2.0, 'Range' => 225, 'Concealment' => 27 )),
+array( 'Name' => $l['branding_iron'], 'Wiki' => 'You\'re_Mine', 'Image' => 'branding_iron', 'Quality' => 'dlc', 'Extra' => $l['westpack'], 'Description' => $l['branding_iron-description'], 'Used' => $melee_used_branding_iron , 'Kills' => $melee_kills_branding_iron , 'Stats' => array(
+'Damage' => 30, 'DamageMAX' => 61, 'Knockdown' => 96, 'KnockdownMAX' => 98, 'Charge' => 2.0, 'Range' => 225, 'Concealment' => 20 )),
+array( 'Name' => $l['mining_pick'], 'Wiki' => 'Gold_Fever', 'Image' => 'mining_pick', 'Quality' => 'dlc', 'Extra' => $l['westpack'], 'Description' => $l['mining_pick-description'], 'Used' => $melee_used_mining_pick , 'Kills' => $melee_kills_mining_pick , 'Stats' => array(
+'Damage' => 35, 'DamageMAX' => 80, 'Knockdown' => 18, 'KnockdownMAX' => 48, 'Charge' => 3.0, 'Range' => 225, 'Concealment' => 20 )),
+array( 'Name' => $l['scalper'], 'Wiki' => 'Scalper_Tomahawk', 'Image' => 'scalper', 'Quality' => 'dlc', 'Extra' => $l['westpack'], 'Description' => $l['scalper-description'], 'Used' => $melee_used_scalper , 'Kills' => $melee_kills_scalper , 'Stats' => array(
 'Damage' => 30, 'DamageMAX' => 90, 'Knockdown' => 60, 'KnockdownMAX' => 144, 'Charge' => 3.0, 'Range' => 185, 'Concealment' => 27 ))
 );
 //
@@ -532,6 +546,13 @@ array( 'Name' => $l['chef_hat'], 'Image' => 'chef_hat', 'Quality' => 'dlc', 'Ext
 array( 'Name' => $l['firedemon'], 'Image' => 'firedemon', 'Quality' => 'dlc', 'Extra' => $l['bbq'], 'Description' => $l['firedemon-description'], 'Used' => $mask_used_firedemon),
 array( 'Name' => $l['firemask'], 'Image' => 'firemask', 'Quality' => 'dlc', 'Extra' => $l['bbq'], 'Description' => $l['firemask-description'], 'Used' => $mask_used_firemask),
 array( 'Name' => $l['gasmask'], 'Image' => 'gasmask', 'Quality' => 'dlc', 'Extra' => $l['bbq'], 'Description' => $l['gasmask-description'], 'Used' => $mask_used_gasmask),
+////Western Pack
+array( 'Name' => $l['bandit'], 'Image' => 'bandit', 'Quality' => 'dlc', 'Extra' => $l['westpack'], 'Description' => $l['bandit-description'], 'Used' => $mask_used_bandit),
+array( 'Name' => $l['bullskull'], 'Image' => 'bullskull', 'Quality' => 'dlc', 'Extra' => $l['westpack'], 'Description' => $l['bullskull-description'], 'Used' => $mask_used_bullskull),
+array( 'Name' => $l['kangee'], 'Image' => 'kangee', 'Quality' => 'dlc', 'Extra' => $l['westpack'], 'Description' => $l['kangee-description'], 'Used' => $mask_used_kangee),
+array( 'Name' => $l['lone'], 'Image' => 'lone', 'Quality' => 'dlc', 'Extra' => $l['westpack'], 'Description' => $l['lone-description'], 'Used' => $mask_used_lone),
+////Meltdown
+array( 'Name' => $l['grendel'], 'Image' => 'grendel', 'Quality' => 'infamous', 'Extra' => 'Infamous', 'Description' => $l['grendel-description'], 'Used' => $mask_used_grendel),
 //////Collaboration
 ////Hotline Miami Game
 array( 'Name' => $l['panther'], 'Image' => 'panther', 'Quality' => 'collaboration', 'Extra' => $l['hotline_miami'], 'Description' => $l['panther-description'], 'Used' => $mask_used_panther),
@@ -654,6 +675,7 @@ array( 'Name' => $l['cookoff'], 'Wiki' => 'Cook_Off', 'Image' => 'rat', 'Win' =>
 array( 'Name' => $l['transp-train'], 'Wiki' => 'Train', 'Image' => 'train', 'Win' => $contract_arm_for_win, 'Dropin' => $contract_arm_for_win_dropin, 'Fail' => $contract_arm_for_fail, 'Quality' => 'dlc', 'deathwish' => $I_AM_ERROR),
 array( 'Name' => $l['carshop'], 'Wiki' => 'Car_Shop', 'Image' => 'carshop', 'Win' => $contract_cage_win, 'Dropin' => $contract_cage_win_dropin, 'Fail' => $contract_cage_fail, 'Quality' => 'community', 'deathwish' => $fort_1),
 array( 'Name' => $l['hoxtonrevenge'], 'Wiki' => 'Hoxton_Revenge', 'Image' => 'revenge', 'Win' => $contract_hox_3_win, 'Dropin' => $contract_hox_3_win_dropin, 'Fail' => $contract_hox_3_fail, 'Quality' => 'community', 'deathwish' => $payback_1)
+array( 'Name' => $l['shoutout_raid'], 'Wiki' => 'Meltdown', 'Image' => 'meltdown', 'Win' => $contract_shoutout_raid_win, 'Dropin' => $contract_shoutout_raid_win_dropin, 'Fail' => $contract_shoutout_raid_fail, 'Quality' => 'normal', 'deathwish' => $melt_1)
 );
 
 //Calculate Totals
